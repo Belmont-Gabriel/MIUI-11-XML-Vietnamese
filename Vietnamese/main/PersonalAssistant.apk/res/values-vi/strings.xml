@@ -1811,4 +1811,5 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="setting_sticky_done">Đã ghim lên đầu</string>
 	<string name="sport_headline">"Hoạt động hôm nay"</string>
 	<string name="timeline_headline">Sắp tới</string>
+	<string name="location_permission_desc">Để xây dựng điều hướng tuyến đường và cung cấp dịch vụ thuê xe</string>
 </resources>

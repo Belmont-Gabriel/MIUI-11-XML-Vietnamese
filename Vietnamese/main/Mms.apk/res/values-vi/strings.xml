@@ -1006,4 +1006,21 @@ Tin nhắn này có thể không được yêu cầu."</string>
 	<string name="rcs_pref_category_rcs_message">Tin nhắn RCS</string>
 	<string name="error_invalid_otp">Mã không hợp lệ</string>
 	<string name="confirm_upload_sms">Tải lên tin nhắn để cải thiện tính năng danh sách chặn</string>
+	<string name="mms_main_purpose">Để truy cập toàn bộ tính năng của Nhắn tin, cho phép ứng dụng kết nối mạng, bật Tin nhắn Mi và Tin nhắn Thông minh.</string>
+	<string name="smart_msg_main_purpose">Tin nhắn Thông minh cung cấp nhận dạng ID người gửi và dịch vụ menu thông minh.</string>
+	<string name="perm_purpose_mms_account">Để truy cập thông tin tài khoản</string>
+	<string name="mx_privacy_policy">Chính sách Riêng tư Tin nhắn Mi</string>
+	<string name="perm_purpose_rcs_phone_state">Để truy cập IMEI nhằm mục đích nhận dạng thiết bị của bạn</string>
+	<string formatted="false" name="system_permission_declare_triple_link">Đọc và đồng ý với %1s, %2s, và %3s của chúng tôi trước khi sử dụng các tính năng đó.</string>
+	<string name="perm_purpose_rcs_storage">Để lưu ảnh, video, tệp tin và các tệp đính kèm RCS khác</string>
+	<string name="perm_purpose_rcs_account">Để hiển thị hướng dẫn bắt đầu cho người dùng mới</string>
+	<string name="smart_msg_privacy_policy">Chính sách Riêng tư Tin nhắn Thông minh</string>
+	<string name="mx_main_purpose">"Tin nhắn Mi cho phép bạn gửi tin nhắn cho người dùng Tin nhắn Mi khác qua mạng mà không mất phí.
+Một tin nhắn đi được yêu cầu để kích hoạt Tin nhắn Mi. Nhà cung cấp mạng của bạn sẽ tính phí cho tin nhắn này."</string>
+	<string name="smart_message_title">Tin nhắn Thông minh</string>
+	<string name="rcs_message_title">Tin nhắn RCS</string>
+	<string name="perm_purpose_mms_storage">Để lưu tệp đính kèm MMS</string>
+	<string name="mi_message_title">Tin nhắn Mi</string>
+	<string name="rcs_main_purpose">Tính năng này cho phép bạn gửi và nhận tin nhắn RCS. Tin nhắn RCS được cung cấp bởi China Mobile.</string>
+	<string name="system_permission_declare_single_link">Đọc và đồng ý với %1s của chúng tôi trước khi sử dụng tính năng này.</string>
 </resources>

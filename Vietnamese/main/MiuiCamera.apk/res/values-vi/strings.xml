@@ -1277,4 +1277,29 @@ trong ảnh nhìn lớn hơn"</string>
 	<string name="vv_duartion_hint">%1$s | %2$d đoạn |%3$s giây</string>
 	<string name="pref_photo_assistance_tips_on">Mở</string>
 	<string name="dirty_tip_toast">Ống kính bị bẩn, vui lòng lau ống kính</string>
+	<string name="hint_subtitle_prompt">Chú thích bằng giọng nói được bật, vui lòng nói trong khi ghi âm</string>
+	<string name="network_access_user_notice_message_voice_caption">"Máy ảnh cần kết nối mạng để cung cấp tính năng xuất giọng nói thành văn bản.
+
+Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng.</string>
+	<string name="confirm_reset_manually_parameter_message">Đặt lại tất cả thông số về giá trị mặc định?</string>
+	<string name="network_access_user_notice_message_sticker">"Máy ảnh cần kết nối mạng để cung cấp nhãn dán cho tính năng này.
+
+Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng.</string>
+	<string name="network_access_user_notice_agree">Đồng ý</string>
+	<string name="accessibility_mimovie_on">Chế độ phim bật</string>
+	<string name="hint_subtitle">Trong khi quay phim, giọng nói sẽ tự động chuyển thành phụ đề</string>
+	<string name="config_name_mimovie">Chế độ phim</string>
+	<string name="accessibility_mimovie_off">Chế độ phim tắt</string>
+	<string name="color_effect_entry_classic">Cổ điển</string>
+	<string name="pref_video_subtitle">Chú thích bằng giọng nói</string>
+	<string name="ultra_tele_use_hint_text_title">Thu phóng 50 lần</string>
+	<string name="network_access_user_notice_message_live_video">"Máy ảnh cần kết nối mạng để cung cấp hiệu ứng, âm nhạc và các tính năng khác cho video ngắn.
+
+Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng.</string>
+	<string name="location_permission_des">Nhớ vị trí cho ảnh và video</string>
+	<string name="reset_manually_parameter_hint">Đặt lại</string>
+	<string name="vv_stability_hint">Trong gương tự động, vui lòng không di chuyển điện thoại</string>
+	<string name="location_permission_not_ask_again">Cho phép Máy ảnh truy cập vị trí của bạn trong Cài đặt.</string>
+	<string name="location_permission_not_ask_again_go_to_settings">Cho phép</string>
+	<string name="hint_mimovie">Chụp trong chế độ phong cảnh để đạt hiệu ứng tốt nhất</string>
 </resources>

@@ -977,4 +977,61 @@ Chạm %s để bắt đầu tải xuống lần sau khi bạn kết nối đế
 	<string name="msg_internalantenna_optimal">Kết nối tai nghe để được hiệu ứng tốt nhất</string>
 	<string name="time_picker_hour">giờ</string>
 	<string name="rank_list">Hàng đầu</string>
+	<string name="storytelling">Câu chuyện</string>
+	<string name="no_broadcast">Không Phát sóng</string>
+	<string name="talkback_freq_picker">Trượt để chuyển giữa các kênh</string>
+	<string name="listen_to_emotion">Nghe đài nói chuyện</string>
+	<string name="cta_runtime_perm_desc_phone">Truy cập thông tin thiết bị để nhận diện thiết bị của bạn</string>
+	<string name="cta_runtime_perm_desc_location">Truy cập vị trí để khiến các trạm phát sóng địa phương khả dụng</string>
+	<string name="listen_to_music">Nghe nhạc</string>
+	<string name="talkback_listen_more">Thêm các kênh trực tuyến</string>
+	<string name="night_mode_switch">Chế độ tối</string>
+	<string name="local_channel">Kênh địa phương</string>
+	<string name="guide_radio_tip">Kết nối tai nghe để nhận tín hiệu</string>
+	<string name="list">Kênh</string>
+	<string name="scanned_list">Kênh khả dụng</string>
+	<string name="talkback_next_broadcast">Kênh trước đó</string>
+	<string name="cta_runtime_perm_desc_storage">Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã tải xuống</string>
+	<string name="listen_to_storytelling">Nghe câu chuyện</string>
+	<string name="listen_to_cross_talk">Nghe hài độc thoại</string>
+	<string name="favor_list">Ưa thích</string>
+	<string name="talkback_switch_headset">Kết nối tai nghe</string>
+	<string name="listen_to_novel">Nghe audiobook</string>
+	<string name="talkback_freq_more_function">Thêm tùy chọn cho kênh %1$s</string>
+	<string name="declaration_main_content">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.
+Để có thể hoạt động bình thường, ứng dụng này cần kết nối với internet và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</string>
+	<string name="talkback_recording">Ghi âm</string>
+	<string name="declaration_main_purpose">Chào mừng tới Đài FM! Bạn có thể sử dụng ứng dụng này để nghe các chương trình cung cấp bởi đài phát địa phương hoặc trực tuyến.</string>
+	<string name="listen_to_news">Nghe tin tức</string>
+	<string name="talkback_create_channel">Thêm kênh</string>
+	<string name="declaration_runtime_perm_desc">"Truy cậ thông tin thiết bị để nhận diện thiết bị của bạn
+Truy cập tài khoản trên thiết bị để đăng nhập bằng Tài khoản Mi
+Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã tải xuống"</string>
+	<string name="recommend_list">Đề xuất</string>
+	<string name="poor_signal_due_to_no_headset">Kết nối tai nghe để cải thiện tín hiệu</string>
+	<string name="please_plug_headset">Kết nối tai nghe</string>
+	<string name="talkback_more_function">Thêm tính năng</string>
+	<string name="declaration_main_content2">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; và &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
+	<string name="cross_talk">Hài độc thoại</string>
+	<string name="talkback_local_radio">"Nghe đài khi bạn ngoại tuyến"</string>
+	<string name="talkback_switch_speaker">Sử dụng loa</string>
+	<string name="talkback_record_stop">Dừng ghi âm</string>
+	<string name="talkback_pre_broadcast">Kênh tiếp</string>
+	<string name="listen_to_hotlist">Nghe các kênh hàng đầu</string>
+	<string name="talkback_scan_channel">Tìm kênh</string>
+	<string name="cta_runtime_perm_desc_storage_single">Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã tải xuống</string>
+	<string name="cta_runtime_perm_desc_account">Truy cập tài khoản trên thiết bị để đăng nhập bằng Tài khoản Mi</string>
+	<string name="broadcast_list">Kênh</string>
+	<string name="impunity_declaration_negative_text_unloadable">Thoát</string>
+	<string name="emotion">Đài nói chuyện</string>
+	<string name="listen_to_broadcast">Nghe đài</string>
+	<string name="guide_radio">"Nghe đài địa phương khi bạn ngoại tuyến"</string>
+	<string name="cancel_delay_stop">Tắt bộ hẹn giờ</string>
+	<string name="listen_without_headset">Bạn có thể nghe các chương trình sau mà không cần tai nghe:</string>
+	<string name="declaration_main_content2_unloadable">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; và &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
+	<string name="hot_list">Hàng đầu</string>
+	<string name="listen_to_history">Nghe lịch sử kênh</string>
+	<string name="news">Tin tức</string>
+	<string name="fm_record_smaple_prefix_miui">Ghi âm FM</string>
+	<string name="music">Nhạc &amp; FM</string>
 </resources>

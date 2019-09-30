@@ -657,4 +657,10 @@
 		<item>Cho tất cả sự kiện</item>
 		<item>Cho sự kiện nhạy cảm với thời gian</item>
 	</string-array>
+	<string-array name="response_labels2">
+		<item>"Không phản hồi"</item>
+		<item>Xác nhận</item>
+		<item>Quyết định sau</item>
+		<item>Từ chối</item>
+	</string-array>
 </resources>

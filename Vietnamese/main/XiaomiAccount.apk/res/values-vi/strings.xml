@@ -693,4 +693,6 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="system_ad_switch">Quảng cáo trong Ứng dụng hệ thống</string>
 	<string name="passport_user_agreement_link">&lt;Data&gt;"Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách riêng tư&lt;/a&gt; của Xiaomi."&lt;/Data&gt;</string>
 	<string name="system_ad">Quảng cáo trong Ứng dụng hệ thống</string>
+	<string name="passport_ticket_login_select_sim_card_cancel">Hủy</string>
+	<string name="passport_ticket_login_select_sim_card">Chọn thẻ SIM</string>
 </resources>

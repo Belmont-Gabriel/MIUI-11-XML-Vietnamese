@@ -1969,4 +1969,10 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="video_download_wait_for_network">Đang chờ mạng</string>
 	<string name="video_download_wait_for_caching">Đang chờ lưu đệm</string>
 	<string name="data_traffic_download_toast_msg">Đang sử dụng lưu lượng dữ liệu để đệm video</string>
+	<string name="system_permission_accounts_purpose">Sử dụng để đăng nhập và quản lý tài khoản hệ thống</string>
+	<string name="system_permission_main_purpose">Duyệt web, tìm kiếm thông tin, đọc tin tức, xem video, vv</string>
+	<string name="system_permission_phone_state_purpose">Sử dụng để lấy số nhận dạng IMEI thiết bị và cung cấp dịch vụ tương úng</string>
+	<string name="no_memory_space">Không còn dung luongj bộ nhớ</string>
+	<string name="wechat_not_installed">Wechat chưa cài đặt</string>
+	<string name="system_permission_storage_purpose">Sử dụng để đọc và ghi tệp ví dụ như ảnh đã lưu và bật tính năng tải lên/tải xuống tệp tin</string>
 </resources>

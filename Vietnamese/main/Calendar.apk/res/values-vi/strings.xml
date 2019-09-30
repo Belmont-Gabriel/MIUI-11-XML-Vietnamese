@@ -1286,4 +1286,12 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="menstruation_card_private_mode_sub_title">Đang trong chế độ riêng tư</string>
 	<string name="menstruation_card_private_mode_title">Chu kỳ kinh nguyệt****</string>
 	<string name="subscription_service">Đăng ký dịch vụ</string>
+	<string name="card_credit_today">Hôm nay</string>
+	<string name="card_credit_repayment">Ngày trả nợ</string>
+	<string name="permission_accounts">Để đăng nhập và quản lý tài khoản hệ thống của bạn, và liên kết các mục với nó</string>
+	<string name="gas_detail_deadline">Thời hạn thanh toán: %1$s</string>
+	<string name="gas_detail_account_name">Số tài khoản</string>
+	<string name="permission_main_purpose">Xem và quản lý sự kiện lịch, kế hoạch chuyến đi, nhận nhắc nhở và đăng ký dịch vụ</string>
+	<string name="gas_detail_header_title">Nhắc tiền điện</string>
+	<string name="limit_detail_title">Giới hạn thành phố</string>
 </resources>

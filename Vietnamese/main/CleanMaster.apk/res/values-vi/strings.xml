@@ -758,4 +758,20 @@
 	<string name="appcleaner_wechat_clean_summary">Xóa tệp tin không cần thiết từ WeChat</string>
 	<string name="appcleaner_qq_scanning_cache">Bộ đệm QQ</string>
 	<string name="appcleaner_g_normal_title_qq">Dọn dẹp tệp tin QQ</string>
+	<string name="appcleaner_wechat_pref_title_garbage_cleanup_check_size">Kích thước bộ đệm</string>
+	<string name="button_deny">Không đồng ý</string>
+	<string name="appcleaner_wechat_notification_garbage_cleanup_summary">Xóa %s bộ đệm WeChat để giải phóng dung lượng bộ nhớ</string>
+	<string name="appcleaner_wechat_pref_title_garbage_cleanup_check_time">Nhắc nhở</string>
+	<string name="appcleaner_g_seven_day">7 ngày qua</string>
+	<string name="appcleaner_wechat_pref_category_title_auto_clean_settings">Nhắc xóa bộ đệm WeChat</string>
+	<string name="appcleaner_wechat_pref_title_clean_alert">Nhắc xóa bộ đệm WeChat</string>
+	<string name="appcleaner_g_thirty_day">30 ngày qua</string>
+	<string name="appcleaner_g_day_earlier">Sớm hơn</string>
+	<string name="appcleaner_wechat_pref_title_garbage_cleanup_size">Kích thước bộ đệm</string>
+	<string name="appcleaner_wechat_pref_time_every_day">Mỗi ngày</string>
+	<string name="appcleaner_wechat_pref_time_seven_day">Mỗi 7 ngày</string>
+	<string name="appcleaner_wechat_notification_garbage_cleanup_title">Đừng quên xóa bộ đệm</string>
+	<string name="appcleaner_wechat_pref_time_three_day">Mỗi 3 ngày</string>
+	<string name="appcleaner_wechat_pref_time_fifteen_day">Mỗi 15 ngày</string>
+	<string name="button_agree">Đồng ý</string>
 </resources>

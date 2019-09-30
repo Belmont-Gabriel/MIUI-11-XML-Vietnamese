@@ -337,4 +337,14 @@
 	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+	<string name="agree_storage_permission">Để truy cập ảnh và tệp tin lưu trữ trên thiết bị của bạn</string>
+	<string name="toinstall">Tải xuống</string>
+	<string name="setting_function_sort">Sắp xếp lại tính năng</string>
+	<string name="agree_app_use">Quét mã QR và nhận diện chúng trên ảnh khác</string>
+	<string name="once">Chỉ một lần</string>
+	<string name="choose_open_code_app">Chọn một ứng dụng</string>
+	<string name="agree_camera_permission">Để chụp ảnh và quay phim</string>
+	<string name="to_install_title">Mã QR này chuyển hướng bạn đến một ứng dụng chưa được cài đặt. Tải xuống ngay?</string>
+	<string name="close_hotspot_when_connecting_to_wifi">Điểm phát đang bật. Bật Wi-Fi.</string>
+	<string name="always">Luôn luôn</string>
 </resources>

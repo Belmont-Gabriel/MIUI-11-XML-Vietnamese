@@ -1475,4 +1475,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="home_tab_search">Tìm kiếm</string>
 	<string name="floating_view_dialog_leave">Rời</string>
 	<string name="floating_view_dialog_desc">Nhạc sẽ dừng phát nếu bạn rời khỏi trang này. Vẫn rời khỏi?</string>
+	<string name="choose_music_lang_pref">Ngôn ngữ ưa thích cho các bài hát</string>
+	<string name="toast_my_playlist_sync_failed">Không thể đồng bộ danh sách phát vì lỗi mạng.</string>
+	<string name="tab_top_results">Kết quả hàng đầu</string>
 </resources>

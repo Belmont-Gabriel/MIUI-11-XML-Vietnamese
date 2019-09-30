@@ -901,4 +901,5 @@
 	<string name="choose_radix">Chọn hệ số</string>
 	<string name="convertion_unit_radix">Hệ số</string>
 	<string name="item_title_radix">Hệ số</string>
+	<string name="network_purpose">Chào mừng bạn đến với Máy tính! Máy tính cho phép bạn chuyển đổi tiền tệ, tính toán trả nợ thế chấp, v.v.</string>
 </resources>

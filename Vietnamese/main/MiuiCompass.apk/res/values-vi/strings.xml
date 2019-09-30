@@ -66,4 +66,6 @@
     <string name="preference_other">Khác</string>
     <string name="preference_privacy_title">Chính sách Riêng tư</string>
 	<string name="compass_settings">Cài đặt</string>
+	<string name="permission_camera_desc">Sử dụng ống bọt nước</string>
+	<string name="permission_location_desc">Hiển thị tọa độ và áp suất khí quyển</string>
 </resources>

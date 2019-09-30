@@ -1532,4 +1532,11 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="shortcut_new_contact_label">Liên hệ mới</string>
 	<string name="shortcut_scan_label">Quét danh thiếp</string>
 	<string name="scan_not_installed">Cài Máy quét trước</string>
+	<string name="contact_detail_calllog_correct_yellow_page">Sửa hoặc báo cáo</string>
+	<string name="callrecordview_menu_identify_numbers">Nhận diện số điện thoại</string>
+	<string name="yellowpage_address_tag">Địa chỉ</string>
+	<string name="contact_detail_more_calllog">Hiển thị thêm</string>
+	<string name="yellowpage_provider_label">Dữ liệu cung cấp bởi</string>
+	<string name="permission_storage">Bộ nhớ</string>
+	<string name="permission_contacts">Liên hệ</string>
 </resources>

@@ -130,4 +130,12 @@
 		<item>Xem mục đã đồng bộ</item>
 		<item>Chi tiết lưu trữ</item>
 	</string-array>
+	<string-array name="priv_dialog_sync_runtime_perm_desc">
+		<item>Để đồng bộ sự kiện</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để lưu các mục vào thiết bị (v.d. ảnh, video, bài hát)</item>
+	</string-array>
 </resources>

@@ -413,4 +413,7 @@
 	<string name="all_apps_slide_up_tips">Vuốt lên được sử dụng để mở Ngăn kéo ứng dụng. Chuyển sang Màn hình chính thông thường và thử lại.</string>
 	<string name="all_apps_suggestions">Gợi ý ứng dụng</string>
 	<string name="remove_invalidate_gadget_tips">Một tiện ích bạn dùng không còn khả dụng. Bạn có thể thêm tiện ích khác.</string>
+	<string name="shortcut_share_dialog_title">Miễn trừ</string>
+	<string name="shortcut_share_dialog_content">"Các tệp tin bạn gửi từ điện thoại của bạn, cũng như người nhận của chúng được quyết định và lựa chọn bởi bạn. Hãy chú ý khi bạn chọn tệp và chia sẻ với người nhận. Bạn không thể sử dụng điện thoại của bạn để truyền tải vi-rút, phần mềm độc hại, trojan, bom hẹn giờ và các đối tượng gây hại cho người khác. Không sử dụng điện thoại của bạn để truyền bất kỳ phần mềm nào có thể ảnh hưởng đến việc sử dụng thường xuyên thiết bị của người nhận hoặc bất kỳ mục nào có thể làm hỏng, can thiệp, chặn hoặc loại bỏ bất kỳ dữ liệu hệ thống hoặc thông tin cá nhân nào trên thiết bị di động đầu cuối. Bạn sẽ chịu trách nhiệm cho mọi thiệt hại gây ra cho người dùng hoặc thiết bị đầu cuối di động khác. Xiaomi sẽ làm hết sức mình để đảm bảo rằng chức năng chia sẻ, cũng như công nghệ và thông tin liên quan là an toàn, hiệu quả, chính xác và đáng tin cậy. Tuy nhiên, do những hạn chế về công nghệ hiện tại, Xiaomi không đảm bảo rằng chức năng chia sẻ là hoàn hảo và sẽ đáp ứng mọi nhu cầu của bạn."</string>
+	<string name="shortcut_share_dialog_positive_button">Đã hiểu</string>
 </resources>

@@ -338,4 +338,16 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="permgroupdesc_storage">Truy cập ảnh, phương tiện và tệp trên thiết bị của bạn</string>
 	<string name="permgroupdesc_location">Giám sát vị trí vật lý.</string>
 	<string name="permgroupdesc_calllog">Đọc và ghi nhật ký cuộc gọi điện thoại</string>
+	<string name="HIPS_Perm_PhoneID_Desc_Q">Truy cập số điện thoại và IMSI</string>
+	<string name="permdesc_write_storage">Truy cập và lưu ảnh và tệp tin trên thiết bị</string>
+	<string name="permdesc_read_storage">Truy cập ảnh và tệp tin lưu trữ trên thiết bị</string>
+	<string name="permdesc_write_calendar">Truy cập và thêm sự kiện lịch</string>
+	<string name="permdesc_sensors">Truy cập dữ liệu cảm biến cơ thể</string>
+	<string name="permdesc_out_calls">Giám sát cuộc gọi đi</string>
+	<string name="permdesc_read_calendar">Truy cập sự kiện lịch</string>
+	<string name="permdesc_microphone">Ghi âm cuộc gọi và âm thanh</string>
+	<string name="permdesc_recognition">Truy cập dữ liệu sức khỏe &amp; hoạt động</string>
+	<string name="permdesc_location">Truy cập thông tin vị trí</string>
+	<string name="permdesc_in_calls">Giám sát cuộc gọi đến</string>
+	<string name="permdesc_camera">Chụp ảnh và quay phim.</string>
 </resources>

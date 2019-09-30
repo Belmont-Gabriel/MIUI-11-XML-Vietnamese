@@ -2148,4 +2148,7 @@ d MMMM"</string>
 	<string name="bubble_accessibility_action_move_top_left">Di chuyển trên trái</string>
 	<string name="bubbles_prompt">Cho phép bong bóng từ %1$s?</string>
 	<string name="bubble_accessibility_action_move">Di chuyển</string>
+	<string name="face_data_apply_for_keyguard_title">Màn hình khóa</string>
+	<string name="face_data_apply_for_category_title">Mở khóa sử dụng dữ liệu khuôn mặt</string>
+	<string name="face_unlock_category_title">Tùy chọn Màn hình khóa</string>
 </resources>

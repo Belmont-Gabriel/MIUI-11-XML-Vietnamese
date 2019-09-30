@@ -343,4 +343,11 @@
 	<string name="ringtone_firefly">Đom đóm</string>
 	<string name="set_alarm_choose_ringtone">Chọn nhạc chuông</string>
 	<string name="set_alarm_other">Khác</string>
+	<string name="dialog_legal_off_day">&lt;Data&gt;"Dường như bạn đang dùng báo thức ngày nghỉ. Tính năng này cần kết nối mạng để hoạt động bình thường. Trước khi sử dụng tính năng này, bạn cần đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?"&lt;/Data&gt;</string>
+	<string name="dialog_net_permission_in_repeat_type">&lt;Data&gt;Tính năng này cần kết nối mạng để hoạt động bình thường. Trước khi sử dụng tính năng này, bạn cần đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
+	<string name="dialog_legal_workday">&lt;Data&gt;"Dường như bạn đang dùng báo thức ngày trong tuần. Tính năng này cần kết nối mạng để hoạt động bình thường. Trước khi sử dụng tính năng này, bạn cần đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?"&lt;/Data&gt;</string>
+	<string name="dialog_legal_workday_and_off_day">&lt;Data&gt;"Dường như bạn đang dùng báo thức ngày trong tuần và ngày nghỉ. Tính năng này cần kết nối mạng để hoạt động bình thường. Trước khi sử dụng tính năng này, bạn cần đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; and &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?"&lt;/Data&gt;</string>
+	<string name="dialog_legal_workday_desc">"Đồng hồ không được cho phép kết nối mạng để cập nhật thông tin về ngày làm việc. Báo thức ngày trong tuần sẽ kêu từ Thứ hai đến Thứ sáu."</string>
+	<string name="dialog_legal_off_day_desc">"Đồng hồ không được cho phép kết nối mạng để cập nhật thông tin về ngày nghỉ. Báo thức ngày nghỉ sẽ kêu vào Thứ bảy và Chủ nhật."</string>
+	<string name="dialog_legal_workday_and_off_day_desc">"Đồng hồ không được cho phép kết nối mạng để cập nhật thông tin về ngày nghỉ. Báo thức ngày trong tuần sẽ kêu từ Thứ hai đến Thứ sáu. Báo thức ngày nghỉ sẽ kêu vào Thứ bảy và Chủ nhật."</string>
 </resources>

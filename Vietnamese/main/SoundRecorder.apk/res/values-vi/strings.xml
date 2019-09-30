@@ -304,4 +304,5 @@
 	<string name="text_play_speed_1_0">Tốc độ phát lại tiêu chuẩn</string>
 	<string name="text_play_speed_1_5">Tốc độ phát lại 1.5X</string>
 	<string name="text_play_speed_2_0">Tốc độ phát lại 2X</string>
+	<string name="usage_description">Phiên âm các mục và đồng bộ hóa các mục với đám mây</string>
 </resources>

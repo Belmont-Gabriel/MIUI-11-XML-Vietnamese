@@ -559,4 +559,24 @@
 	<string name="catch_full_log_privacy_content_sensor">"Bạn đang tạo nhật ký và lưu nó vào thiết bị của bạn. Nhật ký có thể chứa thông tin thu thập bởi cảm biến trên thiết bị của bạn (bao gồm cảm biến ánh sáng, cảm biến áp suất, cảm biến bước chân, cảm biến từ trường v.v...). Hãy cẩn thận và đừng tiết lộ nhật ký này cho người khác. Bằng cách nhấn \"Đồng ý\" bên dưới, bạn đồng ý rằng chúng tôi sẽ thu thập dữ liệu trên trong khi tạo nhật ký, sau đó tải nhật ký lên máy chủ của chúng tôi để xác định và giải quyết các vấn đề bạn báo cáo."</string>
 	<string name="catch_full_log_privacy_content_signal">"Bạn đang tạo nhật ký và lưu nó vào thiết bị của bạn. Nhật ký có thể chứa tin nhắn của bạn, lịch sử cuộc gọi, thông tin mạng và dữ liệu giao tiếp. Hãy cẩn thận và đừng tiết lộ nhật ký này cho người khác. Bằng cách nhấn \"Đồng ý\" bên dưới, bạn đồng ý rằng chúng tôi sẽ thu thập dữ liệu trên trong khi tạo nhật ký, sau đó tải nhật ký lên máy chủ của chúng tôi để xác định và giải quyết các vấn đề bạn báo cáo."</string>
 	<string name="catch_full_log_privacy_content_wifi">"Bạn đang tạo nhật ký và lưu nó vào thiết bị của bạn. Nhật ký có thể chứa thông tin cá nhân của bạn, thông tin vị trí cũng như địa chỉ IP và MAC của thiết bị. Nếu bạn kết nối tới một mạng Wi-Fi không được mã hóa, chúng tôi có thể truy cập một phần dữ liệu giao tiếp của bạn. Hãy cẩn thận và đừng tiết lộ nhật ký này cho người khác. Bằng cách nhấn \"Đồng ý\" bên dưới, bạn đồng ý rằng chúng tôi sẽ thu thập dữ liệu trên trong khi tạo nhật ký, sau đó tải nhật ký lên máy chủ của chúng tôi để xác định và giải quyết các vấn đề bạn báo cáo."</string>
+	<string name="feedback_detail_feedback_attach">Tệp đính kèm</string>
+	<string name="feedback_detail_feedback_reply_hint">Trả lời</string>
+	<string name="feedback_detail_waiting">Đang tạo…</string>
+	<string name="mi_service_dialog_cancel">Thoát</string>
+	<string name="feedback_detail_feedback_id">ID báo cáo: %d</string>
+	<string name="feedback_detail_feedback_attach_uploading">Đang tải lên…</string>
+	<string name="feedback_detail_need_content">Nhập nội dung trước</string>
+	<string name="feedback_detail_feedback_summary">Phản hồi</string>
+	<string name="feedback_detail_upload_local_log">Tải tệp lên</string>
+	<string name="feedback_detail_copy_toast">Đã chép vào bộ nhớ tạm</string>
+	<string name="kr_authorization_function">Gửi phản hồi, tạo nhật ký, xem các câu hỏi thường gặp</string>
+	<string name="feedback_detail_upload_log">Tải lên nhật ký</string>
+	<string name="feedback_detail_upload_image">Tải lên ảnh/video</string>
+	<string name="feedback_detail_feedback_attach_upload_failed">Không thể tải lên</string>
+	<string name="feedback_detail_upload_generate_log">Tạo nhật ký</string>
+	<string name="mi_service_dialog_confirm">Mở</string>
+	<string name="mi_service_dialog_content">Tất cả tính năng phản hồi đã chuyển đến ứng dụng \"Dịch vụ &amp; phản hồi\" mới. Ứng dụng Phản hồi sẽ được xóa khỏi Màn hình chính của bạn. Chạm \"Mở\" để thử \"Dịch vụ &amp; phản hồi\".</string>
+	<string name="feedback_detail_feedback_category">Danh mục</string>
+	<string name="feedback_detail_title">Chi tiết</string>
+	<string name="mi_service_dialog_title">Giới thiệu \"Dịch vụ &amp; phản hồi\"</string>
 </resources>
