@@ -1200,9 +1200,8 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="search_remote_again">Không có mạng, thử lại</string>
 	<string name="sync_failed_mi_authority_view_detail">Xem chi tiết</string>
 	<string name="login_failed_tip">Không thể đăng nhập, thử lại sau</string>
-	<string name="account_add_title">Select an email service</string>
-	<string name="email_sync_failed">Synchronization failed</string>
-	<string name="mail_login_help">Login help</string>
+	<string name="email_sync_failed">Đồng bộ thất bại</string>
+	<string name="mail_login_help">Trợ giúp đăng nhập</string>
 	<string name="mail_login_help_bottom_tip">Nếu bạn cần khôi phục mật khẩu hoặc kiểm tra trạng thái cài đặt, truy cập https://email.163.com/ để thấy tùy chọn khả dụng cho bạn:</string>
 	<string name="mail_login_help_details1">1.Mật khẩu email: Nếu bạn chưa cài đặt xác thực máy khách và đã mở giao thức POP3/IMAP/SMTP, bạn có thể dùng mật khẩu email để đăng nhập.</string>
 	<string name="mail_login_help_details2">2.Mã xác thực máy khách: Nếu bạn đã cài mã xác thực máy khách, bạn cần sử dụng nó để đăng nhập. Và đảm bảo rằng giao thức POP3/IMAP/SMTP đã mở.</string>
