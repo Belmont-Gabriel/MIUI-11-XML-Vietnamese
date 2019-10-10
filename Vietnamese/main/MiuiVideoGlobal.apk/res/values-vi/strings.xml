@@ -541,7 +541,7 @@ Hãy thử tìm kiếm cái gì khác."</string>
     <string name="vp_newest_ep">Mới</string>
     <string name="vp_next_ci">Tiếp theo</string>
     <string name="vp_no_longer_tips">Không hiển thị lại</string>
-    <string name="vp_notify_apk_installed">Cài đặt ứng dụng %1$s thành công</string>
+    <string name="vp_notify_apk_installed">Tải xuống thành công</string>
     <string name="vp_offline">Ngoại tuyến</string>
     <string name="vp_offline_status_done">Hoàn tất</string>
     <string name="vp_offline_status_dowloading">Đang tải xuống</string>
@@ -1008,7 +1008,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="lv_local_folder">Thư mục</string>
 	<string name="lv_local_video">Video</string>
 	<string name="lv_media_type_unsported">Không thể phát định dạng video này.</string>
-	<string name="lv_menu_delete">Xóa</string>
+	<string name="lv_menu_delete">Xóa (%d)</string>
 	<string name="lv_menu_hide">Ẩn</string>
 	<string name="lv_menu_send">Gửi</string>
 	<string name="lv_menu_unhide">Bỏ ẩn</string>

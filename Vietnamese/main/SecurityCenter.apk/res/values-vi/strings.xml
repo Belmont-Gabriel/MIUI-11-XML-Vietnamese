@@ -2935,7 +2935,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Ambient</string>
 	<string name="power_ambient_display">Màn hình Ambient</string>
 	<string name="system_permission_declare_agree">Đồng ý</string>
-	<string name="system_permission_declare_double_link">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
+	<string formatted="false" name="system_permission_declare_double_link">Đọc và đồng ý với %1s và %2s của chúng tôi trước khi sử dụng tính năng này.</string>
 	<string formatted="false" name="system_permission_declare_main_purpose">Chào mừng tới %1s! Ứng dụng này cho phép bạn sử dụng các tính năng sau: %2s.</string>
 	<string name="system_permission_declare_no_say_no">"Nếu bạn chọn không cấp quyền hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này không thể hoạt động bình thường."</string>
 	<string name="system_permission_declare_privacy_declare">"Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn.
@@ -3130,4 +3130,17 @@ Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
 	<string name="cta_main_purpose">Chào mừng tới Bảo mật! Bạn có thể dùng ứng dụng này để xóa rác trên thiết bị, tìm và diệt virus, tối ưu hiệu năng chơi game, tiết kiệm pin, quản lý ứng dụng và hơn thế nữa.</string>
 	<string name="cta_HIPS_Perm_Location_Desc">Có được vị trí chính xác (Dựa trên GPS và mạng)</string>
 	<string name="superpower_notification_new_title">Còn lại ít hơn %d%% pin</string>
+	<string name="permgroupdesc_storage">Truy cập ảnh hoặc tệp tin trên thiết bị</string>
+	<string name="power_center_5g_save_close_later">"Không tắt"</string>
+	<string name="power_center_5g_save_summary_text">Làm cho kết nối 5G ít tiêu thụ năng lượng hơn trong các trường hợp nhất định</string>
+	<string name="power_center_5g_save_close_detail">Trình tiết kiệm pin 5G giúp tăng tuổi thọ pin mà không ảnh hưởng đến kết nối 5G. Tắt đi?</string>
+	<string name="power_center_5g_save_close_title">Tắt trình tiết kiệm pin 5G</string>
+	<string name="power_center_5g_save_title_text">Tiết kiệm pin 5G</string>
+	<string name="help_page_text_55_global">"Nếu bạn không thể kết nối mạng, đảm bảo rằng màn hình mở rộng của bạn hỗ trợ tính năng Miracast và nó đã được bật. Trên một vài mẫu, tính năng này sẽ được gọi là Hiển thị Không dây, Chiếu màn hình, hoặc Đa màn hình.
+4. Nếu bạn gặp phải bất kì vấn đề nào, bạn có thể báo cáo qua ứng dụng \"Dịch vụ &amp; phản hồi\" của chúng tôi."</string>
+	<string name="help_page_text_14_global">"1. Nếu bạn muốn sử dụng thiết bị Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử các bước dưới đây:
+Kết nối cả điện thoại và màn hình ngoài (v.d. TV của bạn) vào cùng một mạng Wi-Fi, hoặc kết nối màn hình ngoài vào điểm phát của điện thoại. Nếu không có mạng Wi-Fi khả dụng hoặc bạn không thể kết nối cả hai thiết bị vào cùng một mạng, kiểm tra xem tính năng truyền trên màn hình mở rộng đã được cập nhật, bật Bluetooth trên cả điện thoại và màn hình mở rộng, và bật Miracast trên TV của bạn.
+2. Nếu bạn đang truyền trên một thiết bị Xiaomi lần đầu tiên, bạn cần hoàn tất xác thực.
+3. Nếu bạn muốn dùng thiết bị không phải Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
+Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV của bạn) vào cùng một mạng Wi-Fi. hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
 </resources>

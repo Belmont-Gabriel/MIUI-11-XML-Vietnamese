@@ -13,7 +13,7 @@
         <item quantity="other">%d video</item>
     </plurals>
 	<plurals name="subscriber">
-		<item quantity="other">" người đăng ký"</item>
+		<item quantity="other">"%s người đăng ký"</item>
 	</plurals>
 	<plurals name="lv_subtitle_offset_advance_times">
 		<item quantity="other">Phụ đề sẽ được hiển thị sớm hơn %.1f giây</item>

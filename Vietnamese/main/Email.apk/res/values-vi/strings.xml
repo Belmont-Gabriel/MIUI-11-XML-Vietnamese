@@ -1244,4 +1244,5 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="user_privacy_settings_summary">Chúng tôi sẽ thu thập ID Android của bạn (đã được mã hóa dưới dạng ID người dùng duy nhất của bạn bằng Mi Mail) hoặc nhật ký hoạt động. Bạn có quyền rút lại sự đồng ý của bạn bất cứ lúc nào thông qua Cài đặt quyền riêng tư của người dùng</string>
 	<string name="user_privacy_settings">Cài đặt Riêng tư</string>
 	<string name="permission_des_detail">Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt, đăng xuất hoặc hạn chế quyền trong Cài đặt trong hầu hết các trường hợp.</string>
+	<string name="account_add_title">Chọn một dịch vụ email</string>
 </resources>

@@ -85,4 +85,5 @@
 	<string name="not_set">Chưa đặt</string>
 	<string name="preference_copied">\"%1$s\" đã sao chép vào clipboard.</string>
 	<string name="copy">Sao chép</string>
+	<string name="fast_connect_device_headset">Pin</string>
 </resources>

@@ -2741,4 +2741,5 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="wifi_call_help_message">Nếu bạn chọn ưa thích mạng di động, mạng di động sẽ mặc định được dùng cho cuộc gọi. Trong trường hợp không có mạng di động hoặc mạng rất yếu, mạng Wi-Fi sẽ được dùng.</string>
 	<string name="wifi_call_available_message">Bây giờ bạn có thể thực hiện cuộc gọi qua Wi-Fi. Nếu bạn đã kết nối tới mạng Wi-Fi, bạn có thể nói chuyện thậm chí cả khi không trong vùng phủ sóng.</string>
 	<string name="wifi_call_notification_message">Dịch vụ này được cung cấp bởi Orange. Có thể mất đến vài giờ để kích hoạt dịch vụ. Bạn sẽ nhận được một tin nhắn xác nhận sớm nhất có thể khi nó khả dụng.</string>
+	<string name="fiveg_power_secret_code_tip">Thực hiện việc đó trong ứng dụng Bảo mật - Pin - Tiết kiệm 5G</string>
 </resources>

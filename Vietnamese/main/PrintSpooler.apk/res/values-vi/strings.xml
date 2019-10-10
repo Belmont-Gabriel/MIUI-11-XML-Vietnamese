@@ -92,7 +92,7 @@
 	<string name="print_fail">"Không thể in"</string>
 	<string name="print_fail_network_error">"Không thể in. Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="print_help_label">Trợ giúp</string>
-	<string name="print_help_tip">Đảm bảo rằng cả điện thoại và máy in đều kết nối tới cùng mạng Wi-Fi và tính năng Wi-Fi Direct đang bật. Xem \"Trợ giúp\".</string>
+	<string name="print_help_tip">Đảm bảo rằng cả điện thoại và máy in đều kết nối tới cùng mạng Wi-Fi và tính năng Wi-Fi Direct đang bật. %1$s.</string>
 	<string name="print_help_tip_reg">Trợ giúp</string>
 	<string name="print_searching_printers">Đang tìm máy in…</string>
 	<string name="print_submited">Sẵn sàng in</string>

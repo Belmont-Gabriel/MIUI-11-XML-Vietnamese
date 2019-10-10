@@ -1526,4 +1526,8 @@ Nhấp vào nút Bắt đầu thu thập dữ liệu
 	<string name="frr_img_quality_filter">"Chất lượng kém hơn:"</string>
 	<string name="less_than_ms_time">"Ít hơn 1"</string>
 	<string name="test_bio_assay">"Kiểm tra máy sống"</string>
+	<string name="cit_macro_camera_check_title">Kiểm tra máy ảnh cận cảnh</string>
+	<string name="cit_diag_jank_title">Đọc nhật ký jank</string>
+	<string name="cit_ultra_camera_check_title">Kiểm tra siêu máy ảnh</string>
+	<string name="cit_diag_jank_summary">Chép tập tin nhật ký jank vào thẻ sd</string>
 </resources>

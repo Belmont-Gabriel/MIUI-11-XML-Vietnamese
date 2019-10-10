@@ -2151,4 +2151,5 @@ d MMMM"</string>
 	<string name="face_data_apply_for_keyguard_title">Màn hình khóa</string>
 	<string name="face_data_apply_for_category_title">Mở khóa sử dụng dữ liệu khuôn mặt</string>
 	<string name="face_unlock_category_title">Tùy chọn Màn hình khóa</string>
+	<string name="gxzw_quick_close">Đóng</string>
 </resources>

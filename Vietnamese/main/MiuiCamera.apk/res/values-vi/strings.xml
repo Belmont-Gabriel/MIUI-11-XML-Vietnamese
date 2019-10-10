@@ -1302,4 +1302,9 @@ Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a h
 	<string name="location_permission_not_ask_again">Cho phép Máy ảnh truy cập vị trí của bạn trong Cài đặt.</string>
 	<string name="location_permission_not_ask_again_go_to_settings">Cho phép</string>
 	<string name="hint_mimovie">Chụp trong chế độ phong cảnh để đạt hiệu ứng tốt nhất</string>
+	<string name="pref_960_watermark_title">Dấu chìm 960FPS</string>
+	<string name="vv_use_hint_text_body">"Chế độ Vlog cho phép bạn
+ghi và sửa video khi đang di chuyển"</string>
+	<string name="ultra_tele_use_hint_text_body">"sử dụng zoom 50X để chụp đối tượng ở xa chi tiết hơn"</string>
+	<string name="pref_lens_dirty_detect_summary">Nhận thông báo khi ống kính bị bẩn</string>
 </resources>

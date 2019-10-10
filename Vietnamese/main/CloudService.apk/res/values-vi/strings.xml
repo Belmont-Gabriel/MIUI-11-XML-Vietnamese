@@ -804,4 +804,7 @@ Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, 
 Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng các dịch vụ này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy.
 Đọc và đồng ý với"&lt;u&gt;&lt;a href="app://com.miui.cloudservice.user_agreement.license"&gt; Thỏa thuận Người dùng &lt;/a&gt;&lt;/u&gt;và&lt;u&gt;&lt;a href="app://com.miui.cloudservice.gdpr.license"&gt; Chính sách Riêng tư &lt;/a&gt;&lt;/u&gt;"của chúng tôi trước khi sử dụng Tìm thiết bị.
 "</string>
+	<string name="cloud_storage_default_title">Lưu trữ đám mây</string>
+	<string name="cloud_storage_loading_data">Chỉ vài giây…</string>
+	<string name="cloud_storage_already_full">Lưu trữ đám mây đã đầy: %1$s/%2$s</string>
 </resources>

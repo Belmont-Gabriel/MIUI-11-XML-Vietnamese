@@ -695,4 +695,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="system_ad">Quảng cáo trong Ứng dụng hệ thống</string>
 	<string name="passport_ticket_login_select_sim_card_cancel">Hủy</string>
 	<string name="passport_ticket_login_select_sim_card">Chọn thẻ SIM</string>
+	<string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Quốc tế: Kích hoạt SIM thất bại</string>
 </resources>
