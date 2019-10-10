@@ -1023,4 +1023,5 @@ Một tin nhắn đi được yêu cầu để kích hoạt Tin nhắn Mi. Nhà 
 	<string name="mi_message_title">Tin nhắn Mi</string>
 	<string name="rcs_main_purpose">Tính năng này cho phép bạn gửi và nhận tin nhắn RCS. Tin nhắn RCS được cung cấp bởi China Mobile.</string>
 	<string name="system_permission_declare_single_link">Đọc và đồng ý với %1s của chúng tôi trước khi sử dụng tính năng này.</string>
+	<string formatted="false" name="system_permission_declare_double_link">Đọck và đồng ý với %1s và %2s của chúng tôi trước khi sử dụng tính năng này.</string>
 </resources>
