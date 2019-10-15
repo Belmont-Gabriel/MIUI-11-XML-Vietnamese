@@ -9744,4 +9744,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
 	<string name="wifi_generation_status">Wi-Fi %1$d</string>
 	<string name="system_haptic_feedback">Phản hồi xúc giác</string>
 	<string name="wifi_generation_icon_display">Biểu tượng</string>
+	<string name="screen_fps_summary">Tần số quét cao hơn sẽ khiến hình ảnh mượt hơn trong khi tần số quét thấp hơn giúp tiết kiệm pin</string>
+	<string name="screen_fps_title">Tần số quét</string>
+	<string name="speaker_clean">Làm sạch loa</string>
 </resources>

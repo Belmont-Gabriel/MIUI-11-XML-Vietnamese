@@ -57,4 +57,16 @@
         <item>Bên trái</item>
         <item>Bên phải</item>
     </string-array>
+	<string-array name="cell_icon_size_entries">
+		<item>Bé</item>
+		<item>Nhỏ</item>
+		<item>Vừa</item>
+		<item>Lớn</item>
+		<item>Đại</item>
+	</string-array>
+	<string-array name="minus_screen_entries">
+		<item>Không</item>
+		<item>App vault</item>
+		<item>Google</item>
+	</string-array>
 </resources>

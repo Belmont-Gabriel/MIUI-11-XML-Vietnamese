@@ -280,4 +280,5 @@
 	<string name="customer_location_judgment">Trung Quốc</string>
 	<string name="can_not_transfer_when_screening">Không thể truyền khi đang chuyển</string>
 	<string name="flip_screen_camera_tip">Quay điện thoại xung quanh để sử dụng máy ảnh</string>
+	<string name="input_method_clipboard_tips">Mục đã sao chép sẽ bị xóa khỏi khay nhớ tạm sau 48 giờ</string>
 </resources>

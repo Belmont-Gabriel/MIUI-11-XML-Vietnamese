@@ -3143,4 +3143,8 @@ Kết nối cả điện thoại và màn hình ngoài (v.d. TV của bạn) và
 2. Nếu bạn đang truyền trên một thiết bị Xiaomi lần đầu tiên, bạn cần hoàn tất xác thực.
 3. Nếu bạn muốn dùng thiết bị không phải Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
 Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV của bạn) vào cùng một mạng Wi-Fi. hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
+	<string name="cta_close_dialog_ok">Hạn chế</string>
+	<string name="cta_close_dialog_title">Hạn chế truy cập</string>
+	<string name="cta_close_dialog_content">"Nếu bạn hạn chế Bảo mật truy cập mạng và thông tin vị trí của bạn, bạn sẽ không thể nhận cảnh báo động đất, cập nhật định nghĩa vi-rút và thông tin danh sách chặn. Thiết bị của bạn sẽ kém an toàn hơn. Vẫn hạn chế?"</string>
+	<string name="cta_close_dialog_cancel">Hủy</string>
 </resources>

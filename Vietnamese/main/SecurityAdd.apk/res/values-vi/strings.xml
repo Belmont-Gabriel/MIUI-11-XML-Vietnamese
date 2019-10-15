@@ -291,4 +291,16 @@ An toàn, chất lượng, phát triển"</string>
 	<string name="toast_text_kid_space_deleted">Không gian của trẻ đã bị xóa</string>
 	<string name="toast_text_kid_space_delete_success">Đã xóa không gian của trẻ thành công</string>
 	<string name="toast_text_kid_space_deleting">Xóa không gian của trẻ</string>
+	<string name="superpower_app_contact">Liên hệ</string>
+	<string name="camera_perm_dialog_btn_cancel">Hủy</string>
+	<string name="superpower_app_edit">Sửa</string>
+	<string name="superpower_app_isadded">Đã thêm</string>
+	<string name="camera_perm_dialog_title">Nhắc nhở</string>
+	<string name="superpower_app_phone">Điện thoại</string>
+	<string name="camera_perm_dialog_btn_ok">Cho phép</string>
+	<string name="superpower_settings_launcher">Siêu tiết kiệm pin</string>
+	<string name="superpower_app_delete">Xóa</string>
+	<string name="superpower_app_mms">Tin nhắn</string>
+	<string name="superpower_toast_app_select_full">Bạn có thể thêm tới 6 mục vào ứng dụng thường dùng</string>
+	<string name="superpower_app_exit">Thoát</string>
 </resources>
