@@ -107,7 +107,6 @@
     <string name="date_interval_tab">Khoảng thời gian</string>
     <string name="date_interval_text_to">Đến %1$s</string>
     <string name="date_jump_title">Chuyển đến ngày</string>
-    <string name="date_time_fmt">%1$s, %2$s</string>
     <string name="date_today">" (hôm nay)"</string>
     <string name="day_view_new_event_hint">Sự kiện mới</string>
     <string name="default_reminder_later_time">Thời gian mặc định cho \"Nhắc nhở sau\"</string>
