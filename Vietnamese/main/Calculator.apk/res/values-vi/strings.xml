@@ -902,4 +902,10 @@
 	<string name="convertion_unit_radix">Hệ số</string>
 	<string name="item_title_radix">Hệ số</string>
 	<string name="network_purpose">Chào mừng bạn đến với Máy tính! Máy tính cho phép bạn chuyển đổi tiền tệ, tính toán trả nợ thế chấp, v.v.</string>
+	<string name="preference_use_voice">Đầu ra bằng giọng nói</string>
+	<string name="unit_data_display_radix_10">Thập phân</string>
+    <string name="unit_data_display_radix_16">Thập lục phân</string>
+    <string name="unit_data_display_radix_2">Nhị phân</string>
+    <string name="unit_data_display_radix_8">Bát phân</string>
+	<string name="warn_locale_unsupport_for_voice">Đầu ra bằng giọng nói của ngôn ngữ này hiện không được hỗ trợ.</string>
 </resources>

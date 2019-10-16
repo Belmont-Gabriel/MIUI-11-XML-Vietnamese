@@ -663,4 +663,13 @@
 		<item>Quyết định sau</item>
 		<item>Từ chối</item>
 	</string-array>
+	<string-array name="panchang_weeks">
+        <item>Chủ nhật</item>
+        <item>Thứ hai</item>
+        <item>Thứ ba</item>
+        <item>Thứ tư</item>
+        <item>Thứ năm</item>
+        <item>Thứ sáu</item>
+        <item>Thứ bảy</item>
+     </string-array>
 </resources>
