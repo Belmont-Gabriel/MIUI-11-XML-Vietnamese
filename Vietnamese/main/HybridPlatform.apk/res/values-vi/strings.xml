@@ -233,4 +233,27 @@
     <string name="web_dialog_save_file">Lưu tập tin</string>
     <string name="web_download_no_file_name">Tên tập tin không được để trống</string>
     <string name="web_download_no_permission">Không thể tải xuống. Kiểm tra quyền lưu trữ và thử lại.</string>
+	<string name="abc_menu_space_shortcut_label">phím cách</string>
+    <string name="app_manager_url_router_msg">Cho phép các trang web sử dụng Ứng dụng nhanh và tạo lối tắt Màn hình chính</string>
+    <string name="app_manager_url_router_title">Cho phép các trang web sử dụng Ứng dụng nhanh</string>
+    <string name="app_notification_channel_push">Thông báo đẩy</string>
+    <string name="crop_image_activity_no_permissions">Đang hủy, các quyền đã yêu cầu không được cấp</string>
+    <string name="crop_image_activity_title" />
+    <string name="features_media_ringtone_msg">%1$s đang cố thay đổi nhạc chuông hệ thống</string>
+    <string name="features_notification_channel_audio">Âm thanh</string>
+    <string name="features_notification_channel_default">Thông báo ứng dụng</string>
+    <string name="loading_fail_back">Quay lại</string>
+    <string name="loading_hint">Vui lòng chờ…</string>
+    <string name="location_warn_allow">Cho phép</string>
+    <string name="location_warn_message">%s cần truy cập thông tin vị trí của bạn</string>
+    <string name="location_warn_reject">Chặn</string>
+    <string name="location_warn_remember_pref">Nhớ lựa chọn của tôi</string>
+    <string name="location_warn_title">Thông tin vị trí</string>
+    <string name="preview_save_failed">Lưu thất bại</string>
+    <string name="preview_share_failed">Không thể chia sẻ</string>
+    <string name="preview_share_to">Chia sẻ với:</string>
+    <string name="set_alarm_tip">\"%1$s\" đang cố đặt báo thức</string>
+    <string name="toast_shortcut_add_failed">Không thể thêm lối tắt. Thử lại.</string>
+    <string name="toast_shortcut_add_success">Thêm vào Màn hình chính thành công</string>
+    <string name="toast_shortcut_already_exist">Lối tắt này đã tồn tại</string>
 </resources>
