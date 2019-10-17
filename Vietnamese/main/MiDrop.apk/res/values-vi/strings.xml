@@ -767,4 +767,34 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="nn">Trạng thái Wi-Fi</string>
     <string name="nw">Hôm qua</string>
 	<string name="av">Bỏ qua</string>
+	<string name="my">Rất nhanh</string>
+    <string name="n6">Đang chuyển</string>
+    <string name="no">OK</string>
+    <string name="np">Bằng việc sử dụng sản phẩm này, Bạn đồng ý với %1$s và %2$s.</string>
+    <string name="nq">Chính sách Riêng tư</string>
+    <string name="nr">Thỏa thuận Người dùng</string>
+    <string name="ns">Điều khoản và Điều kiện</string>
+    <string name="nt">Mã hóa mặc định FTP hệ thống</string>
+    <string name="nu">UTF-8</string>
+    <string name="nv">Phiên bản</string>
+    <string name="nx">Gửi tập tin</string>
+    <string name="ny">%s muốn kết nối</string>
+    <string name="nz">Webshare</string>
+    <string name="o0">Chuyển mà không cần kết nối internet</string>
+    <string name="o1">Tải xuống ShareMe để tận hưởng chuyển nhanh</string>
+    <string name="o2">Chuyển tập tin mà không cần kết nối Internet cho bất kỳ nội dung nào sau đây:</string>
+    <string name="o3">Không thể tải trang. Kiểm tra cài đặt mạng và thử lại.</string>
+    <string name="o4">Chuyển nhanh mà không cần kết nối internet</string>
+    <string name="o5">IU trực quan không có quảng cáo</string>
+    <string name="o6">Được yêu thích bởi hàng triệu người dùng</string>
+    <string name="o7">&lt;Data>Trước khi sử dụng ShareMe, bạn phải đọc và đồng ý với &lt;a id=agreement href=\"%1$s\">Thỏa thuận Người dùng&lt;/a> và &lt;a id=privacy href=\"%2$s\">Chính sách Riêng tư&lt;/a> của chúng tôi.&lt;/Data></string>
+    <string name="o8">Chia sẻ tập tin. Không cần internet.</string>
+    <string name="o9">ĐỒNG Ý</string>
+    <string name="o_">Điểm phát sóng di động</string>
+    <string name="oa">Dường như như trợ lý Wi-Fi đang bật. Tắt tính năng này để ngăn kết nối bị gián đoạn.</string>
+    <string name="ob">Tắt Trợ lý Wi-Fi</string>
+    <string name="oc">Tên Wi-Fi:</string>
+    <string name="od">Mật khẩu:</string>
+    <string name="oe">Trạng thái Wi-Fi</string>
+    <string name="on">Hôm qua</string>
 </resources>

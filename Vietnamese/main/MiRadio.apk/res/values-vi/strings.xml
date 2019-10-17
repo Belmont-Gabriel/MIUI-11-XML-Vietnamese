@@ -1034,4 +1034,5 @@ Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã t
 	<string name="news">Tin tức</string>
 	<string name="fm_record_smaple_prefix_miui">Ghi âm FM</string>
 	<string name="music">Nhạc &amp; FM</string>
+	<string name="passport_captcha_title">Mã xác thực</string>
 </resources>

@@ -120,4 +120,5 @@
 	<string name="sms_received_sound_title">Âm báo đã nhận SMS</string>
 	<string name="ringtone_slot_setting_title">Cài đặt cho từng SIM</string>
 	<string name="ringtone_title">Nhạc chuông điện thoại</string>
+	<string name="mms">Tin nhắn</string>
 </resources>

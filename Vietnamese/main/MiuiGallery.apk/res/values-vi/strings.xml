@@ -1870,4 +1870,12 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="file_sending">Gửi tệp</string>
 	<string name="btn_cancel">Hủy</string>
 	<string name="throwing_print">In</string>
+	<string name="editor_talkback_redo">Khôi phục</string>
+    <string name="editor_talkback_undo">Hoàn tác</string>
+    <string name="movie_audio_antiquity">Hoài cổ</string>
+    <string name="movie_audio_dream">Giấc mơ</string>
+    <string name="movie_audio_vitality">Mãnh liệt</string>
+    <string name="video_editor_audio_antiquity">Hoài cổ</string>
+    <string name="video_editor_audio_dream">Giấc mơ</string>
+    <string name="video_editor_audio_vitality">Mãnh liệt</string>
 </resources>
