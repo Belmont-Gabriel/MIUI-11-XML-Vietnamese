@@ -557,7 +557,7 @@
     <string name="sst_wallpaper_history_title">Lịch sử</string>
     <string name="subscribe_item_checked">Đã đăng ký</string>
     <string name="subscribe_item_unchecked">Đã hủy đăng ký</string>
-    <string name="summary2">Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Thỏa thuận Người dùng&lt;/font&gt;&lt;/a&gt; và &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Chính sách Riêng tư&lt;/font&gt;&lt;/a&gt; của chúng tôi. Tính năng này cần kết nối mạng để làm việc bình thường.</string>
+    <string name="summary2">"Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Thỏa thuận Người dùng&lt;/font&gt;&lt;/a&gt; và &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Chính sách Riêng tư&lt;/font&gt;&lt;/a&gt; của chúng tôi. Tính năng này cần kết nối mạng để làm việc bình thường."</string>
     <string name="theme_des">Áp dụng lại chủ đề mặc định và bật lại Tạp chí Khóa màn hình.</string>
     <string name="theme_ok">Cài đặt</string>
     <string name="theme_title">Chuyển sang Chủ đề mặc định</string>
