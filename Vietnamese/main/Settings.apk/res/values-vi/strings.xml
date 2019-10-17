@@ -3693,7 +3693,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_privacy_settings">Sao lưu &amp; đặt lại;Sao lưu và đặt lại;Sao lưu;đặt lại</string>
     <string name="search_local_backup_section_title">Sao lưu trên máy</string>
     <string name="search_local_auto_backup_section_title">Sao lưu tự động;Tự động sao lưu</string>
-    <string name="search_cloud_restore_section_title">Khôi phục từ Mi Cloud;Mi Cloud;Sao lưu Mi Cloud</string>
+    <string name="search_cloud_restore_section_title">Khôi phục từ Mi Cloud; Mi Cloud, Sao lưu đám mây; Xiaomi Cloud; Khôi phục từ Xiaomi Cloud</string>
     <string name="search_cloud_backup_settings_section_title">Cài đặt sao lưu;Sao lưu</string>
     <string name="search_master_clear_title">Đặt lại dữ liệu gốc</string>
     <string name="search_development_settings_title">Tùy chọn nhà phát triển;Trợ giúp; Nhà phát triển; Nhà phát triển; Phát triển; Phát triển; Khắc phục sự cố, Gỡ lỗi, Gỡ lỗi, Gỡ lỗi USB, Gỡ lỗi USB</string>
@@ -3724,7 +3724,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="search_device_status">Trạng thái</string>
     <string name="search_sim_status_title">Trạng thái thẻ SIM;SIM</string>
     <string name="search_slot_status_title">Thông tin IMEI;IMEI</string>
-    <string name="search_micloud">Đồng bộ;Mi Cloud;Đồng bộ Cloud;Đồng bộ với Mi Cloud</string>
+    <string name="search_micloud">Đồng bộ hóa; Mi Cloud, Xiaomi Cloud, Đồng bộ đám mây, Đồng bộ với đám mây; Đồng bộ với Xiaomi Cloud</string>
     <string name="networks_title">Mạng di động</string>
     <string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
     <string name="user_experience_program_title">Chương trình Trải nghiệm Người dùng</string>
@@ -8163,7 +8163,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="usage_app_system_app_summary">"Không thể giới hạn thời gian màn hình cho ứng dụng hệ thống"</string>
 	<string name="usage_app_weekday_limit">Ngày trong tuần</string>
 	<string name="usage_app_weekend_limit">Ngày cuối tuần</string>
-	<string name="popup_gesture_summary">Quay lại Màn hình chính, nhấc điện thoại và nhìn vào màn hình để tự động mở Máy ảnh trước</string>
+	<string name="popup_gesture_summary">Quay trở lại màn hình chính, nhấc điện thoại và nhìn vào màn hình để tự động mở Máy ảnh trước</string>
 	<string name="popup_gesture_title">Nhấc điện thoại để mở Máy ảnh trước</string>
 	<string name="bluetooth_disable_inband_ringing">Vô hiệu hóa chuông trong thiết bị đeo</string>
 	<string name="bluetooth_disable_inband_ringing_summary">Không phát nhạc chuông tùy chỉnh trên Tai nghe Bluetooth</string>

@@ -335,4 +335,8 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="request_permission_storage_dialog_content">Để chia sẻ thông tin thời tiết dưới định dạng ảnh</string>
 	<string name="request_permission_read_phone_state_dialog_content">Để nhận dạng thiết bị của bạn</string>
 	<string name="request_permission_location_dialog_content">Để hiển thị thông tin thời tiết có liên quan ở vị trí hiện tại của bạn</string>
+	<string name="q_version_location_provider_btn_text">Bật truy cập vị trí để cải thiện độ chính xác vị trí</string>
+	<string name="life_index_title">Chỉ số thời tiết</string>
+	<string name="view_indexes_item_day_after_tommorrow">Trong 2 ngày</string>
+	<string name="refresh_empty_data">"Không thể tải dữ liệu. Chờ một vài phút và thử lại."</string>
 </resources>

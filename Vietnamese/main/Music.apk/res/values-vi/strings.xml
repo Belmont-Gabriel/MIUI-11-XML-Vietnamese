@@ -1478,4 +1478,6 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="choose_music_lang_pref">Ngôn ngữ ưa thích cho các bài hát</string>
 	<string name="toast_my_playlist_sync_failed">Không thể đồng bộ danh sách phát vì lỗi mạng.</string>
 	<string name="tab_top_results">Kết quả hàng đầu</string>
+	<string name="dark_mode">Chế độ tối</string>
+	<string name="you_can_switch_mode_in_settings">Bạn có thể chuyển giữa các chế độ trong Cài đặt</string>
 </resources>

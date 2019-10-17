@@ -2932,8 +2932,8 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="gb_first_guide_handsfree_des">Trả lời cuộc gọi dưới nền</string>
 	<string name="gb_first_guide_shortcut_des">Một Lối tắt Màn hình chính cho Tăng tốc Trò chơi đã được tạo</string>
 	<string name="gb_first_guide_title">Tăng tốc và hiệu năng ở mức hệ thống</string>
-	<string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Ambient</string>
-	<string name="power_ambient_display">Màn hình Ambient</string>
+	<string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Luôn bật</string>
+	<string name="power_ambient_display">Màn hình Luôn bật</string>
 	<string name="system_permission_declare_agree">Đồng ý</string>
 	<string name="system_permission_declare_double_link">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&amp;lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string formatted="false" name="system_permission_declare_main_purpose">Chào mừng tới %1s! Ứng dụng này cho phép bạn sử dụng các tính năng sau: %2s.</string>
@@ -2964,7 +2964,7 @@ Chú ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu quy�
 	<string name="superpower_progress_turnoff_process">Hạn chết hoạt động nền</string>
 	<string name="superpower_savemode_limit1">Chủ đề tối</string>
 	<string name="superpower_savemode_limit2">Hạn chế hoạt động nền</string>
-	<string name="superpower_savemode_limit3">Hạn chế hoạt động hao pin (đồng bộ, GPS, rung, Màn hình Ambient, v.v.)</string>
+	<string name="superpower_savemode_limit3">Hạn chế hoạt động hao pin (đồng bộ, GPS, rung, Màn hình Luôn bật, v.v.)</string>
 	<string name="superpower_savemode_limit4">Cho phép ứng dụng đã chọn hoạt động bình thường</string>
 	<string name="superpower_settings">Siêu tiết kiệm pin</string>
 	<string name="superpower_settins_autoenter_summary">Tự động bật Siêu tiết kiệm pin khi pin chỉ còn 10%</string>
@@ -3147,4 +3147,6 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="cta_close_dialog_title">Hạn chế truy cập</string>
 	<string name="cta_close_dialog_content">"Nếu bạn hạn chế Bảo mật truy cập mạng và thông tin vị trí của bạn, bạn sẽ không thể nhận cảnh báo động đất, cập nhật định nghĩa vi-rút và thông tin danh sách chặn. Thiết bị của bạn sẽ kém an toàn hơn. Vẫn hạn chế?"</string>
 	<string name="cta_close_dialog_cancel">Hủy</string>
+	<string name="shortcut_title_scan">Quét</string>
+	<string name="shortcut_title_whatsapp_clean">Dọn dẹp WhatsApp</string>
 </resources>

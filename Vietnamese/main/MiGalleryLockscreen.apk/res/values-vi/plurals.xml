@@ -7,7 +7,7 @@
         <item quantity="other">%1$s hình nền</item>
     </plurals>
 	<plurals name="feed_article_entrance_title">
-        <item quantity="other">%d bài viết về chủ đề này</item>
+        <item quantity="other">Xem %s bài viết đề xuất cho bạn</item>
     </plurals>
 	<plurals name="time_day_ago">
         <item quantity="other">%d ngày trước</item>
@@ -19,10 +19,10 @@
         <item quantity="other">%d phút trước</item>
     </plurals>
 	<plurals name="llks_tools_remote_control_data">
-		<item quantity="other">%d mục</item>
+		<item quantity="other">%s mục</item>
 	</plurals>
 	<plurals name="llks_tools_smart_devices_data">
-		<item quantity="other">%d thiết bị</item>
+		<item quantity="other">%s thiết bị</item>
 	</plurals>
 	<plurals name="wm_cw_count">
 		<item quantity="other">%d ảnh</item>

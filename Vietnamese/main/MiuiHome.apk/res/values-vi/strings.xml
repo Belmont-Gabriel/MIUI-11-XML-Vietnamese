@@ -429,4 +429,6 @@
 	<string name="recommend_app">Gợi ý ứng dụng</string>
 	<string name="home_screen_settings">Màn hình chính</string>
 	<string name="cell_icon_size_title">Kích thước biểu tượng</string>
+	<string name="system_text">Hệ thống</string>
+	<string name="apply_text">ÁP DỤNG</string>
 </resources>

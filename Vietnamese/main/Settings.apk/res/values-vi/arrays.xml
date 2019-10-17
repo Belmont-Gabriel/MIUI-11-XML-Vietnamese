@@ -711,12 +711,12 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
     <string-array name="screen_optimize_title">
         <item>Độ tương phản tự động</item>
         <item>Tăng độ tương phản</item>
-        <item>Chuẩn</item>
+        <item>Màu gốc</item>
     </string-array>
     <string-array name="screen_optimize_summary">
         <item>Tối ưu hóa độ tương phản màn hình với ánh sáng môi trường</item>
         <item>Tăng độ tương phản của màn hình</item>
-        <item>Độ tương phản sẽ không thay đổi</item>
+        <item>Khôi phục màu tiêu chuẩn của nội dung màn hình bằng hiệu chỉnh màu</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Cho phép</item>

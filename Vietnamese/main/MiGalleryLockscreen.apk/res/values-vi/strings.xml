@@ -507,7 +507,7 @@
     <string name="passport_user_id_intro">Đăng nhập %1$s</string>
     <string name="passport_v_code_error">Mã xác thực không đúng</string>
     <string name="passport_wechat_not_install">Chưa cài đặt WeChat</string>
-    <string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
+    <string name="password_toggle_content_description">Hiển thị mật khẩu</string>
     <string name="phone_bind_too_many">Điện thoại này đã được liên kết với nhiều tài khoản Mi trong thời gian ngắn. Thử dùng số điện thoại khác.</string>
     <string name="phone_hint">Số điện thoại</string>
     <string name="phone_number">Số điện thoại</string>
@@ -557,7 +557,7 @@
     <string name="sst_wallpaper_history_title">Lịch sử</string>
     <string name="subscribe_item_checked">Đã đăng ký</string>
     <string name="subscribe_item_unchecked">Đã hủy đăng ký</string>
-    <string name="summary2">Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;a href =\'%1$s\'>Thỏa thuận Người dùng&lt;/a> và &lt;a href=\'%2$s\'>Chính sách Riêng tư&lt;/a> của chúng tôi. Tính năng này cần kết nối internet để làm việc bình thường.</string>
+    <string name="summary2">Bằng cách sử dụng tính năng này, bạn đồng ý với &lt;font color='#37A5FF'&gt;&lt;a href ='%1$s'&gt;Thỏa thuận Người dùng&lt;/font&gt;&lt;/a&gt; và &lt;font color='#37A5FF'&gt;&lt;a href='%2$s'&gt;Chính sách Riêng tư&lt;/font&gt;&lt;/a&gt; của chúng tôi. Tính năng này cần kết nối mạng để làm việc bình thường.</string>
     <string name="theme_des">Áp dụng lại chủ đề mặc định và bật lại Tạp chí Khóa màn hình.</string>
     <string name="theme_ok">Cài đặt</string>
     <string name="theme_title">Chuyển sang Chủ đề mặc định</string>
@@ -614,7 +614,7 @@
 	<string name="toast_update_no_more_newest_feeds">Chưa có mục nào mới</string>
 	<string name="theme_apply_lockscreen_success">Áp dụng thành công</string>
 	<string name="theme_close_maml">Ảnh Tạp chí Khóa màn hình sẽ thay thế hình nền Màn hình khóa.</string>
-	<string name="theme_des_maml">"Các thành phần khác của chủ đề hiện tại sẽ không bị ảnh hưởng. Chủ đề sẽ được làm mới để áp dụng thay đổi."</string>
+	<string name="theme_des_maml">"Điều này có thể mất vài giây. Các thành phần khác của chủ đề hiện tại sẽ không bị ảnh hưởng. Chủ đề sẽ được làm mới để áp dụng thay đổi."</string>
 	<string name="theme_title_subscribe">Đăng ký Tạp chí Khóa màn hình</string>
 	<string name="llks_tools_mipay_wallet_name">Ví Mi</string>
 	<string name="llks_whole_cate">Tất cả danh mục</string>
