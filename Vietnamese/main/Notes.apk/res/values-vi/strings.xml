@@ -366,4 +366,5 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="confirm_ok">Đồng ý</string>
 	<string name="permission_get_account_desc">Đồng bộ ghi chú với đám mây</string>
 	<string name="privacy_note_content_empty">Không có mục nào ở đây.</string>
+	<string name="time_picker_label_minute">Phút</string>
 </resources>

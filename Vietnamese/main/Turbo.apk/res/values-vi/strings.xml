@@ -38,4 +38,14 @@
     <string name="ssb_clear_data_activity_name">Đặt lại độ sáng thích ứng?</string>
     <string name="ssb_clear_data_confirm_description">Độ sáng thích ứng sẽ được đặt lại về mặc định ban đầu.</string>
     <string name="ssb_clear_data_description">Đưa độ sáng thích ứng về chế độ cài đặt mặc định ban đầu.</string>
+	<string name="early_warning_feedback_action">Phản hồi</string>
+    <string name="early_warning_feedback_body">Vui lòng cung cấp phản hồi của bạn ở đây</string>
+    <string name="early_warning_feedback_chooser_text">Chọn ứng dụng email</string>
+    <string name="early_warning_feedback_subject">Phản hồi về thông báo cảnh báo sớm</string>
+    <string name="early_warning_notification_channel_name">Cảnh báo về pin</string>
+    <string name="early_warning_notification_set_up_automatic_bs">Thiết lập lịch Trình tiết kiệm pin</string>
+    <string name="early_warning_notification_text">Thời điểm này là trước khi bạn thường sạc</string>
+    <string name="early_warning_notification_title">Pin có thể hết lúc %1$s</string>
+    <string name="early_warning_notification_turn_on_bs">Bật Trình tiết kiệm pin</string>
+    <string name="early_warning_notification_turn_on_once_bs">Bật một lần</string>
 </resources>

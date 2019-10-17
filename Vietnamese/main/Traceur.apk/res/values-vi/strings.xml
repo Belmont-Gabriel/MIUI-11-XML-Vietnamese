@@ -588,4 +588,6 @@ Lưu trữ thông tin xác thực có thể không bật</string>
 	<string name="tap_to_stop_tracing">Chạm để dừng ghi dấu</string>
 	<string name="clear_saved_traces">Xóa dấu vết đã lưu</string>
 	<string name="trace_is_being_recorded">Đang ghi dấu vết</string>
+	<string name="keywords">systrace, nhật ký hoạt động, hiệu suất</string>
+	<string name="speed_label_okay">Khá tốt</string>
 </resources>

@@ -8,4 +8,7 @@
         <item quantity="other">Xem tất cả %d bình luận</item>
         <item quantity="one">Xem 1 bình luận</item>
     </plurals>
+	<plurals name="callNoAnswerTimeFormat">
+        <item quantity="other">Đổ chuông %d lần</item>
+    </plurals>
 </resources>

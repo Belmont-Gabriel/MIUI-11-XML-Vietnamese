@@ -481,4 +481,18 @@ Kiểm tra mã số theo dõi của bạn."</string>
     <string name="yellowpage_search_the_yellowpage">Tìm kiếm Danh bạ web</string>
     <string name="yellowpage_user_profile">Hồ sơ</string>
 	<string name="mark_number_dialog_default_sub_title">Thông tin này sẽ được tải lên máy chủ của chúng tôi</string>
+	<string name="antispam_update_low_storage">Không thể cập nhật. Không đủ dung lượng lưu trữ.</string>
+    <string name="turn_on_auto_update_antispam_data_summary">Đã cập nhật lúc %s</string>
+    <string name="turn_on_auto_update_antispam_data_title">Cập nhật dữ liệu thành công</string>
+    <string name="user_notice_main_purpose_palmhall">Sảnh Dịch vụ Online CMCC</string>
+    <string name="user_notice_main_purpose_yellowpage">Nhận dạng số điện thoại</string>
+    <string name="user_notice_permission_desc_location">Để giới thiệu dịch vụ địa phương của nhà cung cấp từ Trang vàng</string>
+    <string name="user_notice_permission_desc_read_call_log">Để hiển thị lịch sử cuộc gọi trong chi tiết liên hệ của Trang vàng</string>
+    <string name="user_notice_permission_desc_read_phone_state">Để truy cập IMEI và IMSI</string>
+    <string name="user_notice_permission_desc_read_sms">Để đánh dấu tin nhắn nặc danh giúp cải thiện hiệu quả nhận dạng</string>
+    <string name="user_notice_permission_desc_send_sms">Để gửi SMS đến liên hệ trong Trang vàng</string>
+    <string name="user_notice_permission_desc_storage_heduohao">Để tải lên ảnh ID đến dịch CMCC</string>
+    <string name="user_notice_permission_desc_storage_yellowpage">Để cập nhật dữ liệu ID Người gọi trên máy</string>
+    <string name="user_notice_permission_desc_write_call_log">Để cập nhật dữ liệu ID Người gọi</string>
+    <string name="user_notice_permission_desc_write_contacts">Để thêm liên hệ từ Trang vàng</string>
 </resources>

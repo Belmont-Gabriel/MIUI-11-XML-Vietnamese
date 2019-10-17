@@ -495,4 +495,23 @@ Cập nhật không khả dụng cho bạn!"</string>
 	<string name="default_filedownloader_notification_content">Trình tải xuống tệp đang chạy.</string>
 	<string name="default_filedownloader_notification_title">Trình tải xuống tệp</string>
 	<string name="btn_wrong_md5">MD5 sai. Chạm để xóa ROM!</string>
+	<string name="button_text_cancel">Hủy</string>
+    <string name="button_text_next_step">Tiếp theo</string>
+    <string name="button_text_next_step_timer">Bước tiếp theo (%d)</string>
+    <string name="master_clear_apply_title">Chú ý</string>
+    <string name="menu_title_switch_dev">Chuyển sang Beta</string>
+    <string name="menu_title_switch_stable">Chuyển sang ROM ổn định</string>
+    <string name="switch_version_cancel">Hủy chuyển đổi</string>
+    <string name="switch_version_warning">Chuyển sang ROM khác yêu cầu phải xóa dữ liệu trên thiết bị của bạn. Các mục bị xóa bao gồm ảnh, nhạc, ghi chú và các mục khác. Các mục trên sẽ bị xóa khi bạn nhấn Khởi động lại ngay sau khi phiên bản mới được tải xuống. Sao lưu tất cả các mục quan trọng để có thể khôi phục lại trong tương lai.</string>
+    <string name="warning_dialog_content">Bản cập nhật này bao gồm nâng cấp phiên bản Android. Các ứng dụng bên dưới không được tối ưu và có thể chứa các vấn đề tương thích nghiêm trọng. Bạn vẫn có thể cập nhật, bỏ qua bản cập nhật này hoặc cập nhật các ứng dụng bên dưới và thử lại.</string>
+    <string name="warning_dialog_error_tag1">Sẽ không khởi chạy</string>
+    <string name="warning_dialog_error_tag2">Sẽ buộc đóng</string>
+    <string name="warning_dialog_error_tag3">Không thể cài đặt hoặc gỡ cài đặt</string>
+    <string name="warning_dialog_error_tag4">Sẽ không phản hồi</string>
+    <string name="warning_dialog_error_tag5">UI không tương thích</string>
+    <string name="warning_dialog_error_tag99">Vấn đề khác</string>
+    <string name="warning_dialog_item_tag">Nguy cơ:</string>
+    <string name="warning_dialog_neg">Cập nhật</string>
+    <string name="warning_dialog_pos">Không cập nhật</string>
+    <string name="warning_dialog_title">Phát hiện nguy cơ</string>
 </resources>

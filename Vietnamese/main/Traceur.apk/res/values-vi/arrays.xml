@@ -226,4 +226,30 @@
 		<item>Tỷ lệ hình động 5x</item>
 		<item>Tỷ lệ hình động 10x</item>
 	</string-array>
+	<string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Sử dụng lựa chọn của hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Âm thanh Qualcomm® aptX™</item>
+        <item>Âm thanh Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Sử dụng lựa chọn của hệ thống (Mặc định)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>Âm thanh Qualcomm® aptX™</item>
+        <item>Âm thanh Qualcomm® aptX™ HD</item>
+        <item>LDAC</item>
+        <item>Bật codec tùy chọn</item>
+        <item>Tắt codec tùy chọn</item>
+    </string-array>
+    <string-array name="bluetooth_audio_active_device_summaries">
+        <item></item>
+        <item>, đang hoạt động</item>
+        <item>, đang hoạt động (nội dung phương tiện)</item>
+        <item>, đang hoạt động (điện thoại)</item>
+    </string-array>
 </resources>

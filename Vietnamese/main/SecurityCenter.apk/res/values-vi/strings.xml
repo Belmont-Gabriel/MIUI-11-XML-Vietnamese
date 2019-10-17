@@ -3149,4 +3149,14 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="cta_close_dialog_cancel">Hủy</string>
 	<string name="shortcut_title_scan">Quét</string>
 	<string name="shortcut_title_whatsapp_clean">Dọn dẹp WhatsApp</string>
+	<string name="permgroupdesc_calendar">Truy cập sự kiện lịch</string>
+    <string name="permgroupdesc_calllog">Truy cập và lưu các mục vào lịch sử cuộc gọi</string>
+    <string name="permgroupdesc_camera">Chụp ảnh và quay video</string>
+    <string name="permgroupdesc_contacts">Truy cập liên hệ</string>
+    <string name="permgroupdesc_location">Truy cập thông tin vị trí</string>
+    <string name="permgroupdesc_microphone">Ghi âm</string>
+    <string name="permgroupdesc_phone">Thực hiện cuộc gọi và quản lý cuộc hội thoại</string>
+    <string name="permgroupdesc_recognition">Truy cập dữ liệu sức khỏe &amp; hoạt động</string>
+    <string name="permgroupdesc_sensors">Truy cập dữ liệu cảm biến thân thể</string>
+    <string name="permgroupdesc_sms">Đọc hoặc gửi tin nhắn SMS</string>
 </resources>
