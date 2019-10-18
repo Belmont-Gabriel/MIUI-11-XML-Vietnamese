@@ -1480,4 +1480,9 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="tab_top_results">Kết quả hàng đầu</string>
 	<string name="dark_mode">Chế độ tối</string>
 	<string name="you_can_switch_mode_in_settings">Bạn có thể chuyển giữa các chế độ trong Cài đặt</string>
+	<string name="local_download_song_guide">"Các bài hát bạn tải xuống trong Kugou Music, NetEase Music, QQ Music và các ứng dụng âm nhạc khác sẽ xuất hiện tại đây.
+Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi ngay bây giờ!"</string>
+	<string name="local_download_song_guide_title">Tất cả các tải xuống đều ở đây</string>
+	<string name="local_create">Khởi tạo</string>
+	<string name="local_favorite_songgroup">Nhóm nhạc yêu thích</string>
 </resources>
