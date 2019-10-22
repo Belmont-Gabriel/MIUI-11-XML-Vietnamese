@@ -9747,4 +9747,8 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
 	<string name="screen_fps_summary">Tần số quét cao hơn sẽ khiến hình ảnh mượt hơn trong khi tần số quét thấp hơn giúp tiết kiệm pin</string>
 	<string name="screen_fps_title">Tần số quét</string>
 	<string name="speaker_clean">Làm sạch loa</string>
+	<string name="network_alarm_summary_reg">Xem ứng dụng được hỗ trợ</string>
+	<string name="network_alarm_summary">"Ghi chú: Một vài ứng dụng không tương thích với tính năng này.%1$s"</string>
+	<string name="network_alarm">"Không tắt tiếng cuộc gọi qua mạng"</string>
+	<string name="network_alarm_support_apps">Ứng dụng được hỗ trợ</string>
 </resources>

@@ -1661,4 +1661,14 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Sử dụng MAC ngẫu nhiên (mặc định)</item>
 		<item>Sử dụng MAC của thiết bị</item>
 	</string-array>
+	<string-array name="true_color_screen_optimize_title">
+		<item>Tự động (đề xuất)</item>
+		<item>Bão hòa</item>
+		<item>Màu gốc</item>
+	</string-array>
+	<string-array name="true_color_screen_optimize_summary">
+		<item>Điều chỉnh màu sắc dựa trên ánh sáng hiện tại</item>
+		<item>Luôn tăng cường màu sắc</item>
+		<item>Khôi phục màu tiêu chuẩn của nội dung màn hình bằng hiệu chỉnh màu</item>
+	</string-array>
 </resources>

@@ -579,4 +579,7 @@
 	<string name="feedback_detail_feedback_category">Danh mục</string>
 	<string name="feedback_detail_title">Chi tiết</string>
 	<string name="mi_service_dialog_title">Giới thiệu \"Dịch vụ &amp; phản hồi\"</string>
+	<string name="feedback_hint_optional">Chọn</string>
+	<string name="feedback_title_occurrence_time">Chọn thời gian</string>
+	<string name="feedback_choose_occurrence_time">Thời gian</string>
 </resources>

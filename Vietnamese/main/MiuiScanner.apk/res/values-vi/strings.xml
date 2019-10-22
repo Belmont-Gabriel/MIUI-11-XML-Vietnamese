@@ -347,4 +347,5 @@
 	<string name="to_install_title">Mã QR này chuyển hướng bạn đến một ứng dụng chưa được cài đặt. Tải xuống ngay?</string>
 	<string name="close_hotspot_when_connecting_to_wifi">Điểm phát đang bật. Bật Wi-Fi.</string>
 	<string name="always">Luôn luôn</string>
+	<string name="flight_mode_connecting_to_wifi">Bật Wi-Fi thủ công khi Chế độ máy bay được bật</string>
 </resources>

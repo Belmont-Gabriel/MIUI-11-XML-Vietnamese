@@ -112,4 +112,6 @@
 	<string name="printer_busy">Bận</string>
 	<string name="wifi_direct">WiFi Direct</string>
 	<string name="system_print_service_help">Tìm hiểu về In</string>
+	<string name="copies_decrease">Sao chép -1</string>
+	<string name="copies_increase">Sao chép +1</string>
 </resources>
