@@ -514,4 +514,6 @@ Cập nhật không khả dụng cho bạn!"</string>
     <string name="warning_dialog_neg">Cập nhật</string>
     <string name="warning_dialog_pos">Không cập nhật</string>
     <string name="warning_dialog_title">Phát hiện nguy cơ</string>
+	<string name="fetching_data">Đang lấy link tải, vui lòng chờ…</string>
+	<string name="no_mirror">Tất cả các link đang ngoại tuyến, vui lòng thử lại sau…</string>
 </resources>

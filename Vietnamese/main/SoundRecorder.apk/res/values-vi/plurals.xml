@@ -24,4 +24,7 @@
         <item quantity="other">%d chưa đồng bộ</item>
         <item quantity="one">%d chưa đồng bộ</item>
     </plurals>
+	<plurals name="search_result">
+		<item quantity="other">Tìm thấy %d ghi âm</item>
+	</plurals>
 </resources>

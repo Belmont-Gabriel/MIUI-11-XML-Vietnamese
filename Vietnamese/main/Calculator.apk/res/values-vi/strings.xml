@@ -908,4 +908,8 @@
     <string name="unit_data_display_radix_2">Nhị phân</string>
     <string name="unit_data_display_radix_8">Bát phân</string>
 	<string name="warn_locale_unsupport_for_voice">Đầu ra bằng giọng nói của ngôn ngữ này hiện không được hỗ trợ.</string>
+	<string name="voice_guide_text">Bạn có thể bật đọc kết quả tại đây</string>
+	<string name="preference_use_voice_title">Đọc kết quả</string>
+	<string name="preference_use_voice_summary">Bật để sử dụng đọc kết quả trong quá trình tính toán</string>
+	<string name="preference_user_feedback_title">Phản hồi</string>
 </resources>

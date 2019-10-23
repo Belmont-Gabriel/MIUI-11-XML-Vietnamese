@@ -2742,4 +2742,19 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="wifi_call_available_message">Bây giờ bạn có thể thực hiện cuộc gọi qua Wi-Fi. Nếu bạn đã kết nối tới mạng Wi-Fi, bạn có thể nói chuyện thậm chí cả khi không trong vùng phủ sóng.</string>
 	<string name="wifi_call_notification_message">Dịch vụ này được cung cấp bởi Orange. Có thể mất đến vài giờ để kích hoạt dịch vụ. Bạn sẽ nhận được một tin nhắn xác nhận sớm nhất có thể khi nó khả dụng.</string>
 	<string name="fiveg_power_secret_code_tip">Thực hiện việc đó trong ứng dụng Bảo mật - Pin - Tiết kiệm 5G</string>
+	<string name="wifi_call_accept">Bỏ qua</string>
+	<string name="wifi_call_help_message_1">"Gọi Wi-Fi là một dịch vụ cung cấp bởi Orange cho phép bạn tạo và nhận cuộc gọi qua Wi-Fi. Tính năng này có thể sử dụng ở nơi tín hiệu di động yếu.
+
+Để sử dụng Gọi Wi-Fi, bật nó trong Cài đặt &gt; Gọi Wi-Fi.
+
+Để kích hoạt dochj vụ này, Orange sẽ gửi cho bạn một tin nhắn xác thực sớm nhất có thể khi dịch vụ khả dụng. Sau đó, bạn sẽ có thể kết nối mạng Wi-Fi để tạo cuộc gọi.
+
+Cuộc gọi qua Wi-Fi sẽ được tính phí theo gói cước của bạn.
+
+Bất cứ khi nào tính năng này khả dụng, biểu tượng sau sẽ được hiển thị ở đầu màn hình của bạn."</string>
+	<string name="wifi_call_help_message_2">"Nếu bạn chọn ưu tiên mạng Wi-Fi, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp bạn không kết nối mạng Wi-Fi hoặc tín hiệu yếu, mạng di động sẽ được dùng để gọi điện.
+
+Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
+	<string name="wifi_call_welcome_settings">Gọi Wi-Fi</string>
+	<string name="wifi_call_preferred_summary">"Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
 </resources>
