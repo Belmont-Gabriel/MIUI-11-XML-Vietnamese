@@ -100,4 +100,6 @@
     <string name="name_label">Tên:</string>
     <string name="detail_invalid_setting_error_msg">C.đặt k.hợp lệ.</string>
     <string name="error">Lỗi</string>
+	<string name="not_ready_msg">Ứng dụng chưa sẵn sàng</string>
+    <string name="wrong_pin">PIN sai</string>
 </resources>

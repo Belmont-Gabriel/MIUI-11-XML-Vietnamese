@@ -1310,4 +1310,5 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="ccc_temperature_warning_title">Thiết bị quá nhiệt</string>
 	<string name="subtitle_network_exception_tips">Không thể kết nối mạng. Không thể phiên âm bây giờ.</string>
 	<string name="ccc_temperature_warning_msg">Thiết bị của bạn bị quá nhiệt. Máy ảnh sẽ tắt trong %d giây. Ảnh hoặc video của bạn sẽ tự động được lưu.</string>
+	<string name="dialog_ok_time">OK (%d giây)</string>
 </resources>

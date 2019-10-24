@@ -9758,4 +9758,7 @@ Dưới đây là một số nguyên nhân:
 1. Bluetooth đã bị tắt trên thiết bị này hoặc nó nằm ngoài vùng phủ sóng.
 2. Thiết bị này không ở trong Chế độ phát hiện.
 3. Thiết bị này đã được kết nối với thiết bị khác. Ngắt kết nối và thử lại."</string>
+    <string name="call_records_name_1">Đỗ Tuân</string>
+    <string name="call_records_name_2">Chị Bảo</string>
+    <string name="call_records_name_3">Trần Anh</string>
 </resources>
