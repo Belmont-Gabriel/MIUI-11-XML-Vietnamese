@@ -35,4 +35,10 @@
     <plurals name="show_more">
         <item quantity="other">Hiển thị thêm %1$d</item>
     </plurals>
+	<plurals name="durationMinutes">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
+	<plurals name="durationSeconds">
+		<item quantity="other">%1$d giây</item>
+	</plurals>
 </resources>

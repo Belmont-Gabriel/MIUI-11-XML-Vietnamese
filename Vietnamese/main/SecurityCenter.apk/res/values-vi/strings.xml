@@ -1705,7 +1705,7 @@ thiết bị của bạn"</string>
     <string name="mixed_recording_incorrect_too_short">Nhập ít nhất %d ký tự.</string>
     <string name="lockpattern_recording_intro_header">Kết nối ít nhất 4 điểm để tạo hình mở khóa</string>
     <string name="numeric_recording_intro_header">Nhập mật khẩu</string>
-    <string name="mixed_recording_intro_header">Nhập ít nhất 4 ký tự</string>
+    <string name="mixed_recording_intro_header">Nhập %1$s-%2$s ký tự</string>
     <string name="lockpattern_pattern_entered_header">Đã thêm hình mở khóa</string>
     <string name="numeric_pattern_entered_header">Thiết lập mã PIN thành công</string>
     <string name="mixed_pattern_entered_header">Thiết lập mật khẩu thành công</string>

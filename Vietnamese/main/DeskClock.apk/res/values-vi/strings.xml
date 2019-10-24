@@ -351,4 +351,5 @@
 	<string name="dialog_legal_off_day_desc">"Đồng hồ không được cho phép kết nối mạng để cập nhật thông tin về ngày nghỉ. Báo thức ngày nghỉ sẽ kêu vào Thứ bảy và Chủ nhật."</string>
 	<string name="dialog_legal_workday_and_off_day_desc">"Đồng hồ không được cho phép kết nối mạng để cập nhật thông tin về ngày nghỉ. Báo thức ngày trong tuần sẽ kêu từ Thứ hai đến Thứ sáu. Báo thức ngày nghỉ sẽ kêu vào Thứ bảy và Chủ nhật."</string>
 	<string name="confirm">Xác nhận</string>
+	<string name="module_unzipping">Đang giải nén âm thanh…</string>
 </resources>

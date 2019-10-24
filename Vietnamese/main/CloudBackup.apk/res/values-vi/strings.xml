@@ -86,7 +86,7 @@ Chú ý: Dữ liệu ứng dụng bạn đã cài đặt sẽ không được sa
     <string name="download_settings">Đang tải xuống cài đặt Màn hình chính %s%%</string>
     <string name="cloud_back_up_date_format">HH:mm dd/MM/yyyy</string>
     <string name="recover_home_settings">Khôi phục cài đặt Màn hình chính</string>
-    <string name="cancel_recover_settings"><u>Hủy</u></string>
+    <string name="cancel_recover_settings">Hủy</string>
     <string name="recover_settings_description">Giữ thiết bị của bạn luôn mở</string>
     <string name="recover_miui_settings">Khôi phục cài đặt hệ thống</string>
     <string name="wait_icon_download">Đang tải xuống biểu tượng ứng dụng</string>
@@ -242,4 +242,5 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="restore_failed_reason_network_error">Lỗi mạng. Chờ một vài phút rồi thử lại.</string>
 	<string name="restore_task_unfinished">"Không thể khôi phục"</string>
 	<string name="restoring_data">Đang khôi phục dữ liệu…</string>
+	<string name="restoring_home_screen_apps">Đang khôi phục từ Xiaomi Cloud…</string>
 </resources>
