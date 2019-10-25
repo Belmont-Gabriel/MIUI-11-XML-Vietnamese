@@ -2152,4 +2152,14 @@ d MMMM"</string>
 	<string name="face_data_apply_for_category_title">Mở khóa sử dụng dữ liệu khuôn mặt</string>
 	<string name="face_unlock_category_title">Tùy chọn Màn hình khóa</string>
 	<string name="gxzw_quick_close">Đóng</string>
+	<string name="wireless_charging_saver_message">Tiết kiệm pin đang bật. Vẫn bật sạc không dây ngược?</string>
+	<string name="quick_settings_wireless_label">Sạc không giây ngược</string>
+	<string name="wireless_charging_saver_ok">Giữ</string>
+	<string name="wireless_charging_tips_title">Sạc không dây ngược</string>
+	<string name="wireless_charging_tips_disable">"Không hiển thị lại"</string>
+	<string name="wireless_charging_connected_message">"Không thể sử dụng sạc không dây ngược khi thiết bị của bạn đang được sạc không dây."</string>
+	<string name="wireless_charging_saver_cancel">Tắt</string>
+	<string name="wireless_charging_ok">Đã hiểu</string>
+	<string name="wireless_charging_tips_message">Đặt thiết bị hỗ trợ sạc không dây Qi (điện thoại, phụ kiện, v.v.) trên mặt sau của thiết bị.</string>
+	<string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin điện thoại còn ít hơn 30%."</string>
 </resources>
