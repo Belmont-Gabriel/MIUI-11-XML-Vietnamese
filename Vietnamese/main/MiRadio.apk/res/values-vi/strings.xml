@@ -1011,7 +1011,7 @@ Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã t
 	<string name="poor_signal_due_to_no_headset">Kết nối tai nghe để cải thiện tín hiệu</string>
 	<string name="please_plug_headset">Kết nối tai nghe</string>
 	<string name="talkback_more_function">Thêm tính năng</string>
-	<string name="declaration_main_content2">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; và &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
+	<string name="declaration_main_content2">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
 	<string name="cross_talk">Hài độc thoại</string>
 	<string name="talkback_local_radio">"Nghe đài khi bạn ngoại tuyến"</string>
 	<string name="talkback_switch_speaker">Sử dụng loa</string>
@@ -1028,7 +1028,7 @@ Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã t
 	<string name="guide_radio">"Nghe đài địa phương khi bạn ngoại tuyến"</string>
 	<string name="cancel_delay_stop">Tắt bộ hẹn giờ</string>
 	<string name="listen_without_headset">Bạn có thể nghe các chương trình sau mà không cần tai nghe:</string>
-	<string name="declaration_main_content2_unloadable">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%1$s&amp;gt;Thỏa thuận Người dùng&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; và &amp;lt;font color=#0097ff&amp;gt;&amp;lt;a href=%2$s&amp;gt;Chính sách Riêng tư&amp;lt;/a&amp;gt;&amp;lt;/font&amp;gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
+	<string name="declaration_main_content2_unloadable">&lt;Data&gt;"Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng này, đăng xuất hoặc hạn chế quyền trong Cài đặt trong những trường hợp như vậy. Đọc và đồng ý với &lt;font color=#0097ff&gt;&lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color=#0097ff&gt;&lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng Đài FM."&lt;/Data&gt;</string>
 	<string name="hot_list">Hàng đầu</string>
 	<string name="listen_to_history">Nghe lịch sử kênh</string>
 	<string name="news">Tin tức</string>

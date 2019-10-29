@@ -56,8 +56,8 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="agree">Đồng ý</string>
     <string name="disagree">Hủy</string>
     <string name="setting_locale">Đang thiết lập khu vực…</string>
-    <string name="agree_terms">Tôi đã đọc và đồng ý với Điều khoản Dịch vụ và Chính sách Riêng tư.</string>
-    <string name="miui_terms_no_network">Bạn không có kết nối internet. Xem Điều khoản Dịch vụ tại %s.</string>
+    <string name="agree_terms">Tôi đã đọc và đồng ý với Thỏa thuận Người dùng và Chính sách Riêng tư.</string>
+    <string name="miui_terms_no_network">Bạn không có kết nối internet. Xem Thỏa thuận Người dùng tại %s.</string>
     <string name="miui_privacy_policy_no_network">Bạn không có kết nối internet. Xem Chính sách Riêng tư tại %s.</string>
     <string name="locale_picker_title">Chọn khu vực</string>
     <string name="install_preinstall_app">Đang tải ứng dụng…</string>
@@ -114,9 +114,9 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="sim_card_detecting_confirm_turn_on_network">Cho phép kết nối với mạng dữ liệu di động? Nếu bạn cho phép, thẻ SIM mà bạn lắp sẽ được sử dụng để kết nối mạng dữ liệu di động.</string>
     <string name="sim_card_detection_mobile_not_available">Thẻ SIM không thể kết nối mạng</string>
     <string name="sim_scard_detecting_check_mobile_not_available">Thẻ SIM của bạn không thể kết nối với mạng nhà mạng hợp lệ. Chắc chắn bạn có đủ số dư trong tài khoản của mình và thử kết nối lại.</string>
-    <string name="start_up_slogan">Thiết kế để trải nghiệm màn hình tràn cạnh</string>
+    <string name="start_up_slogan">Cuộc sống trở nên dễ dàng hơn</string>
     <string name="terms_of_use_label_systemhelper">, Dịch vụ tự đăng ký</string>
-    <string name="terms_of_use_lable_apps">Dịch vụ Mi, Dịch vụ kích hoạt Mi SIM, Mi Cloud, Tìm thiết bị, Màn hình chính, Trung tâm Trò chơi, MAB, MIUI Daemon, Thành phần hệ thống MSA, Dịch vụ dịch thuật, Ứng dụng nhanh, App vault, thống kê, Liên kết Mi</string>
+    <string name="terms_of_use_lable_apps">Dịch vụ Mi, Dịch vụ kích hoạt Mi SIM, Xiaomi Cloud, Tìm thiết bị, Màn hình chính, Trò chơi, MIUI Daemon, Thành phần hệ thống MSA, Dịch vụ dịch thuật, Ứng dụng nhanh, App vault, thống kê, Liên kết Mi</string>
     <string name="terms_of_use_lable_default_input_method_facemoji">"
 
 Bạn phải đồng ý với Chính sách Riêng tư Facemoji trước khi sử dụng tính năng này."</string>
@@ -129,7 +129,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
     <string name="terms_privacy_policy_input_method_kika">Chính sách Riêng tư Kika</string>
     <string name="voice_assist_advice">Mi AI cho phép bạn sử dụng điều khiển bằng giọng nói, nhưng nó tiêu thụ nhiều điện năng hơn (+ 1% mỗi giờ).</string>
     <string name="voice_assist_condition">"Bạn sẽ có thể sử dụng Mi AI trong những trường hợp sau:
-. Khi màn hình bật.
+1. Khi màn hình bật.
 2. Khi bạn đang nghe nhạc với màn hình tắt."</string>
 	<string name="zone_picker_title">Chọn múi giờ</string>
 	<string name="locale_picker_other_locale_title">Thêm khu vực</string>

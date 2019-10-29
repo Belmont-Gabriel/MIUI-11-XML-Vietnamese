@@ -5224,7 +5224,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="biometric_weak_liveliness_title">Kiểm tra tính năng sống động</string>
     <string name="biometric_weak_liveliness_summary">Cần chớp mắt để mở khóa</string>
     <string name="lockscreen_magazine">Tạp chí Khóa màn hình</string>
-    <string name="lockscreen_magazine_summary">Tạp chí Khóa màn hình chất lượng cao</string>
+    <string name="lockscreen_magazine_summary">Hình ảnh tuyệt đẹp và những câu chuyện thú vị được gửi đến bạn hàng ngày</string>
     <string name="setup_password_back">Quay lại</string>
     <string name="setup_password_confirm">OK</string>
     <string name="setup_choose_unlock_fingerprint_msg">Đặt khóa màn hình trước khi thêm vân tay.</string>
@@ -9761,4 +9761,20 @@ Dưới đây là một số nguyên nhân:
     <string name="call_records_name_1">Đỗ Tuân</string>
     <string name="call_records_name_2">Chị Bảo</string>
     <string name="call_records_name_3">Trần Anh</string>
+	<string name="scheduled_style">Đặt lịch</string>
+	<string name="always_style">Luôn luôn</string>
+	<string name="fingerprint_unlock_press_type">Bấm</string>
+	<string name="screen_fps_unit_power_save">%dHz (Tiết kiệm pin)</string>
+	<string name="fingerprint_unlock_touch_type">Chạm</string>
+	<string name="unlock_type_category_title">Phương thức nhận diện</string>
+	<string name="gxzw_anim_aurora">Rạng đông</string>
+	<string name="screen_fps_summary_smooth">Một vài ứng dụng sẽ tự động tăng tốc độ làm mới để cải thiện chất lượng hình ảnh</string>
+	<string name="screen_fps_unit_smooth">%dHz (Chất lượng tốt hơn)</string>
+	<string name="wellbing_title">Digital wellbeing &amp; kiểm soát của cha mẹ</string>
+	<string name="fingerprint_unlock_type">Phương thức nhận diện vân tay</string>
+	<string name="screen_fps_summary_power_save">Sử dụng tỷ lệ cố định tiêu thụ ít năng lượng hơn</string>
+	<string name="usb_headset_not_support_tile">Nhận diện tai nghe</string>
+	<string name="usb_headset_not_support_cancel">Đã hiểu</string>
+	<string name="usb_headset_not_support_message">"Tai nghe analog USB không được hỗ trợ, vui lòng thay thế bằng tai nghe kỹ thuật số, 
+ hoặc sử dụng cổng tai nghe 3.5mm để truy cập tai nghe"</string>
 </resources>

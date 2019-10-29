@@ -311,8 +311,8 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="grant_dialog_button_allow_background">Cho phép mọi lúc</string>
 	<string name="grant_dialog_button_allow_foreground">Cho phép chỉ khi dùng ứng dụng</string>
 	<string name="grant_dialog_button_deny_and_dont_ask_again">Từ chối &amp; không hỏi lại</string>
-	<string name="grant_dialog_button_deny_background">Giữ quyền truy cập khi đang sử dụng</string>
-	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Giữ và không hỏi lại</string>
+	<string name="grant_dialog_button_deny_background">Chỉ khi đang sử dụng ứng dụng</string>
+	<string name="grant_dialog_button_deny_background_and_dont_ask_again">Từ chối và không hỏi lại</string>
 	<string name="permgrouprequest_storage_isolated">Cho phép &lt;b&gt;%1$s&lt;/b&gt; truy cập ảnh và phương tiện trên thiết bị?</string>
 	<string name="permission_description_summary_activity_recognition">Ứng dụng với quyền này có thể truy cập hoạt động vật lý của bạn, như đi bộ, đạp xe, lái xe, đếm bước đi và nhiều hơn nữa</string>
 	<string name="permission_description_summary_calendar">Ứng dụng với quyền này có thể truy cập lịch của bạn</string>
@@ -350,4 +350,5 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="permdesc_location">Truy cập thông tin vị trí</string>
 	<string name="permdesc_in_calls">Giám sát cuộc gọi đến</string>
 	<string name="permdesc_camera">Chụp ảnh và quay phim.</string>
+	<string name="permdesc_location_background">Truy cập vị trí dưới nền</string>
 </resources>

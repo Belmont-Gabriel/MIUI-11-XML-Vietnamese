@@ -1311,4 +1311,16 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="subtitle_network_exception_tips">Không thể kết nối mạng. Không thể phiên âm bây giờ.</string>
 	<string name="ccc_temperature_warning_msg">Thiết bị của bạn bị quá nhiệt. Máy ảnh sẽ tắt trong %d giây. Ảnh hoặc video của bạn sẽ tự động được lưu.</string>
 	<string name="dialog_ok_time">OK (%d giây)</string>
+	<string name="pref_camera_auxiliary_close">Đóng</string>
+	<string name="rgb_histogram">Biểu đồ RGB</string>
+	<string name="auxiliary_close_status">Tắt hiệu ứng phụ trợ</string>
+	<string name="log_format">Định dạng nhật ký</string>
+	<string name="pref_camera_auxiliary_focus_peak">Tiêu điểm cao nhất</string>
+	<string name="pref_camera_auxiliary_exposure_feedback">Phản hồi tiếp xúc</string>
+	<string name="accessibility_camera_switch_capture_recording">Chuyển đổi hình ảnh và video</string>
+	<string name="pref_camera_auxiliary_title">Phụ trợ</string>
+	<string name="auxiliary_exposure_feedback_status">Bật phản hồi phơi sáng</string>
+	<string name="pref_popup_camera_title">Máy ảnh trượt lên</string>
+	<string name="auxiliary_focus_peak_status">Bật tiêu điểm cao nhất</string>
+	<string name="moive_frame">Khung phim</string>
 </resources>

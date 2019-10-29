@@ -1985,4 +1985,17 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="load_more_footer_status_msg_full">Không còn dữ liệu</string>
 	<string name="load_more_footer_status_msg_loading">Đang tải...</string>
 	<string name="security_permission_desc_storage">Sử dụng để đọc và ghi tệp ví dụ như ảnh đã lưu và bật tính năng tải lên/tải xuống tệp</string>
+	<string name="pref_extras_devopt">Tùy chọn Nhà phát triển</string>
+	<string name="auto_floatlayer_custom_e_n">Tùy chỉnh nhảy</string>
+	<string name="auto_floatlayer_click_download_e_n">Nhấn vào đây để tải về</string>
+	<string name="hot_word_hot_count_postfix">Người đang xem</string>
+	<string name="auto_floatlayer_click_link_e_n">Bấm để nhảy</string>
+	<string name="vo_info_flow_rs_hint">Tìm kiếm</string>
+	<string name="vo_short_video_play_count">%s phát</string>
+	<string name="auto_floatlayer_auto_download_e_n">Tải xuống tự động</string>
+	<string name="add_tag">Thêm Thẻ</string>
+	<string name="sug_search_history_empty_text">Xóa tất cả</string>
+	<string name="pref_content_simple_homepage">Trang bắt đầu đơn giản</string>
+	<string name="sug_search_history_delete_text">Xóa hồ sơ</string>
+	<string name="auto_floatlayer_store_download_e_n">Tải xuống Cửa hàng ứng dụng</string>
 </resources>

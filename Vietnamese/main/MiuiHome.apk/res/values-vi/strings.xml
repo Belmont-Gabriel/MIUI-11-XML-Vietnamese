@@ -434,4 +434,5 @@
 	<string name="all_apps_setting_original_scrollbar">Bố cục gốc</string>
 	<string name="all_apps_setting_scroll_bar">Thanh cuộn</string>
 	<string name="icon_size">Kích thước biểu tượng</string>
+	<string name="launcher_search_bar_title">Thanh tìm kiếm</string>
 </resources>

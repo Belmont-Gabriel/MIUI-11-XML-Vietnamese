@@ -9,7 +9,7 @@
     <string name="aod_mode_summary">Hiển thị đồng hồ, ngày, thông báo, và ảnh nền khi màn hình tắt.</string>
     <string name="aod_mode_time_summary">Hẹn giờ để bật Chế độ luôn bật</string>
     <string name="aod_mode_time_title">Hẹn giờ bật</string>
-    <string name="aod_mode_title">Chế độ luôn bật</string>
+    <string name="aod_mode_title">Màn hình luôn bật</string>
     <string name="aod_to_close">Tắt</string>
     <string name="cancel">Hủy</string>
     <string name="paper_mode_end_time_title">Tắt</string>
@@ -90,4 +90,10 @@
 	<string name="show_notificaton">Hiển thị thông báo</string>
 	<string name="select_notification_notify_style">Chọn hiệu ứng thông báo</string>
 	<string name="signature">Chữ ký</string>
+	<string name="above_image">Lên</string>
+	<string name="aod_show_date_and_time">Hiện ngày và giờ</string>
+	<string name="custom_image">Tùy chỉnh ảnh</string>
+	<string name="shownone_arround_image">Không</string>
+	<string name="time_location">Vị trí đồng hồ</string>
+	<string name="below_image">Xuống</string>
 </resources>

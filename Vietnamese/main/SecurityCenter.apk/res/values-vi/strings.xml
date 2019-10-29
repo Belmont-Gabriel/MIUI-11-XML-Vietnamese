@@ -2935,11 +2935,10 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="battery_desc_ambient_display">Năng lượng tiêu hao bởi Màn hình Luôn bật</string>
 	<string name="power_ambient_display">Màn hình Luôn bật</string>
 	<string name="system_permission_declare_agree">Đồng ý</string>
-	<string name="system_permission_declare_double_link">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&amp;lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
+	<string name="system_permission_declare_double_link">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string formatted="false" name="system_permission_declare_main_purpose">Chào mừng tới %1s! Ứng dụng này cho phép bạn sử dụng các tính năng sau: %2s.</string>
 	<string name="system_permission_declare_no_say_no">"Nếu bạn chọn không cấp quyền hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này không thể hoạt động bình thường."</string>
-	<string name="system_permission_declare_privacy_declare">"Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn.
-Chú ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu quyền dưới đây để hoạt động bình thường:"</string>
+	<string name="system_permission_declare_privacy_declare">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Lưu ý rằng Bảo mật cần kết nối mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</string>
 	<string name="system_permission_declare_revoke_path">Bạn có thể gỡ cài đặt ứng dụng này, đăng xuất khỏi tài khoản, hoặc quản lý quyền và ủy quyền của bạn trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
 	<string name="system_permission_declare_use_network">Kết nối mạng</string>
 	<string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
@@ -2984,8 +2983,7 @@ Chú ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu quy�
 	<string name="privacy_apps_tutorial_dlg_title">Làm thế nào để tìm ứng dụng ẩn</string>
 	<string name="stop_milink_connect">Dừng truyền</string>
 	<string name="system_permission_declare_disagree">Không đồng ý</string>
-	<string name="system_permission_declare_privacy_no_permission">"Hãy nhớ rằng %1s cần thu thập dữ liệu của bạn để hoạt động bình thường.
-Chúng tôi tôn trọng và bảo vệ sự riêng tư của bạn."</string>
+	<string name="system_permission_declare_privacy_no_permission">"Lưu ý rằng Bảo mật cần kết nối mạng và thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ cho bạn. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan."</string>
 	<string name="system_permission_declare_privacy_policy">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string name="system_permission_declare_revoke_system">Bạn có thể thoát ứng dụng này.</string>
 	<string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ cài đặt ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
@@ -3159,4 +3157,8 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
     <string name="permgroupdesc_recognition">Truy cập dữ liệu sức khỏe &amp; hoạt động</string>
     <string name="permgroupdesc_sensors">Truy cập dữ liệu cảm biến thân thể</string>
     <string name="permgroupdesc_sms">Đọc hoặc gửi tin nhắn SMS</string>
+	<string name="applock_go_to">Cài đặt</string>
+	<string name="applock_settings_unlock_all_toast">Đã mở khóa tất cả ứng dụng</string>
+	<string name="power_center_list_item_set_lockscreen_time_holder">Khóa thiết bị sau %d giây không hoạt động</string>
+	<string name="lock_all_title">Khóa tất cả ứng dụng</string>
 </resources>
