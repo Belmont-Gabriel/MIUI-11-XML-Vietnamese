@@ -3161,4 +3161,11 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="applock_settings_unlock_all_toast">Đã mở khóa tất cả ứng dụng</string>
 	<string name="power_center_list_item_set_lockscreen_time_holder">Khóa thiết bị sau %d giây không hoạt động</string>
 	<string name="lock_all_title">Khóa tất cả ứng dụng</string>
+	<string name="privacy_notification_title_camera_mic">%1s đang sử dụng máy ảnh và micro dưới nền</string>
+	<string name="privacy_description_camera_mic">%1s đang sử dụng máy ảnh và micro dưới nền. Bạn có thể gạt nút bên dưới để hạn chế hoạt động này.</string>
+	<string name="privacy_notification_title_camera">%1s đang sử dụng máy ảnh dưới nền</string>
+	<string name="privacy_notification_subtitle">Chạm để quản lý quyền</string>
+	<string name="privacy_description_camera">%1s đang sử dụng máy ảnh dưới nền. Bạn có thể gạt nút bên đưới dể hạn chế hoạt động này.</string>
+	<string name="privacy_notification_title_mic">%1s đang sử dụng micro dưới nền</string>
+	<string name="privacy_description_mic">%1s đang sử dụng micro dưới nền. Bạn có thể gạt nút bên dưới để hạn chế hoạt động này.</string>
 </resources>

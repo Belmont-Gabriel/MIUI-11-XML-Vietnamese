@@ -1581,4 +1581,11 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="favorite_fail">"Không thể thêm vào ưa thích"</string>
 	<string name="report">Báo cáo</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
+	<string name="recommend_online_switch_open_time">Tính năng này sẽ tự động được bật lúc %s</string>
+	<string name="sign_in_progress">Đang đăng nhập…</string>
+	<string name="upload_error_log">Tải lên nhật ký</string>
+	<string name="passport_error_user_agreement_error">Đồng ý với Điều khoản và Điều kiện trước</string>
+	<string name="passport_user_agreement_link_more">"&lt;Data&gt;Tôi đã đọc và đồng ý với tài liệu dưới đây: &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%4$s&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi, &lt;a href=%2$s&gt;%3$s&lt;/a&gt;.&lt;/Data&gt;"</string>
+	<string name="sns_bind_limit">Thử quá nhiều lần. Thử cách đăng nhập khác.</string>
+	<string name="account_none_bind_info">Không</string>
 </resources>

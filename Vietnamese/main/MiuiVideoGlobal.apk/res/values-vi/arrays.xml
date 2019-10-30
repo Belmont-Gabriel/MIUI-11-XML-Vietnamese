@@ -28,4 +28,8 @@
 		<item>Nhật</item>
 		<item>Pháp</item>
 	</string-array>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
 </resources>

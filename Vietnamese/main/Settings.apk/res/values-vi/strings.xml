@@ -9770,7 +9770,7 @@ Dưới đây là một số nguyên nhân:
 	<string name="gxzw_anim_aurora">Rạng đông</string>
 	<string name="screen_fps_summary_smooth">Một vài ứng dụng sẽ tự động tăng tốc độ làm mới để cải thiện chất lượng hình ảnh</string>
 	<string name="screen_fps_unit_smooth">%dHz (Chất lượng tốt hơn)</string>
-	<string name="wellbing_title">Digital wellbeing &amp; kiểm soát của cha mẹ</string>
+	<string name="wellbing_title">Digital Wellbeing &amp; kiểm soát của cha mẹ</string>
 	<string name="fingerprint_unlock_type">Phương thức nhận diện vân tay</string>
 	<string name="screen_fps_summary_power_save">Sử dụng tỷ lệ cố định tiêu thụ ít năng lượng hơn</string>
 	<string name="usb_headset_not_support_tile">Nhận diện tai nghe</string>

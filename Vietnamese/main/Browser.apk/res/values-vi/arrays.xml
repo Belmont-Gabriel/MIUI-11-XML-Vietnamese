@@ -14,8 +14,8 @@
         <item>Không</item>
     </string-array>
     <string-array name="pref_homepage_choices">
-        <item>Trang bắt đầu mặc định</item>
-        <item>Tùy chỉnh</item>
+        <item>Trang bắt đầu</item>
+        <item>Tùy chỉnh URL</item>
     </string-array>
     <string-array name="pref_nav_mode_summary">
         <item>Điện thoại</item>
