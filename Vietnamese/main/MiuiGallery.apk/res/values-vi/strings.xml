@@ -1890,4 +1890,15 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="main_save_cancel">Hủy</string>
 	<string name="main_save_compress">Nén và lưu</string>
 	<string name="cleaner_raw_action">Xóa</string>
+	<string name="movie_template_dull2">Thời gian</string>
+	<string name="movie_template_dull3">Sắc đẹp</string>
+	<string name="movie_audio_point5">Sóng</string>
+	<string name="movie_audio_point4">Giữa hè</string>
+	<string name="movie_template_cool2">Nhịp điệu</string>
+	<string name="movie_audio_point6">Lễ hội</string>
+	<string name="movie_template_cool3">Sóng</string>
+	<string name="movie_template_dull">Câu chuyện</string>
+	<string name="movie_audio_point3">Kỷ niệm</string>
+	<string name="movie_audio_point2">Hoàng hôn</string>
+	<string name="movie_template_cool">Ánh sáng</string>
 </resources>

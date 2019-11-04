@@ -52,7 +52,7 @@ Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm
 Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm kiếm"</string>
     <string name="entrance_setting">Đang mở tìm kiếm</string>
     <string name="swipe_up_title">Trượt lên</string>
-    <string name="swipe_up_summary">Trượt lên để mở tìm kiếm toàn cầu</string>
+    <string name="swipe_up_summary">Trượt lên để mở tìm kiếm toàn bộ</string>
     <string name="suggest_open_app_failed">Không thể mở ứng dụng này</string>
     <string name="top_clicked">Mục thường dùng</string>
     <string name="search_keyword_quicksearchbox">Tìm kiếm</string>
@@ -60,7 +60,7 @@ Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm
     <string name="permission_prompt_title">Muốn thêm?</string>
     <string name="permission_prompt_detail">Tìm kiếm phim, sách, âm nhạc, và nhiều hơn nữa.</string>
     <string name="permission_prompt_start">Cho phép</string>
-    <string name="permission_prompt_started_info">Bạn đã cho phép tìm kiếm toàn cầu</string>
+    <string name="permission_prompt_started_info">Bạn đã cho phép tìm kiếm toàn bộ</string>
     <string name="switch_prompt_title">Không thể tìm thấy %s?</string>
     <string name="switch_prompt_ignore">Bỏ qua</string>
     <string name="switch_prompt_set">Xem tùy chọn</string>
@@ -125,7 +125,7 @@ Bạn có thể thay đổi điều này trong Cài đặt > Ứng dụng > Tìm
     <string name="google_search_hint">Tìm kiếm của Google</string>
     <string name="google_search_description">Đề xuất tìm kiếm của Google</string>
     <string name="voice_search_hint_title">Thử nói:</string>
-	<string name="about_preference_activity_title">Về Tìm kiếm toàn cầu</string>
+	<string name="about_preference_activity_title">Về Tìm kiếm toàn bộ</string>
     <string name="account_prifix">Tài khoản</string>
     <string name="autologin_bar_hide_text">Ẩn</string>
     <string name="autologin_bar_login_text">Đăng nhập</string>

@@ -9624,7 +9624,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
 	<string name="accessibility_setting_item_control_timeout_title">Thời gian để thực hiện hành động (Hết giờ Truy cập)</string>
 	<string name="security_settings_face_enroll_education_start">Bắt đầu</string>
 	<string name="display_dashboard_summary_with_style">Phong cách, hình nền, thời gian màn hình, kích thước phông chữ</string>
-	<string name="global_actions_panel_short_title">Hành động toàn cầu</string>
+	<string name="global_actions_panel_short_title">Hành động toàn bộ</string>
 	<string name="profile_owner_add_title_simplified">Cho phép giám sát?</string>
 	<string name="security_settings_face_enroll_education_title">Cách cài đặt Mở khóa gương mặt</string>
 	<string name="high_label">Cao</string>
@@ -9645,7 +9645,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
 	<string name="lock_screen_notifs_show_alerting">Chỉ hiển thị thông báo cảnh báo</string>
 	<string name="accessibility_dialog_button_cancel">Hủy</string>
 	<string name="mobile_network_disable_sim_explanation">Để tắt SIM này, tháo thẻ SIM</string>
-	<string name="global_actions_panel_summary">Để hiển thị trên bảng Hành động toàn cầu, nhấn &amp; giữ nút Nguồn</string>
+	<string name="global_actions_panel_summary">Để hiển thị trên bảng Hành động toàn bộ, nhấn &amp; giữ nút Nguồn</string>
 	<string name="low_label">Thấp</string>
 	<string name="data_during_calls_title">Dữ liệu khi gọi</string>
 	<string name="enable_mms_notification_summary">Chạm để cho phép tin nhắn MMS trên %1$s khi dữ liệu di động tắt</string>
@@ -9670,13 +9670,13 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
 	<string name="back_sensitivity_dialog_message">"
 Độ nhạy cao hơn có thể xung đột với bất kỳ cử chỉ ứng dụng nào dọc theo cạnh màn hình."</string>
 	<string name="wifi_metered_title">Sử dụng mạng</string>
-	<string name="keywords_global_actions_panel">Hành động toàn cầu</string>
+	<string name="keywords_global_actions_panel">Hành động toàn bộ</string>
 	<string name="smart_notifications_title">Thông báo thích ứng</string>
 	<string name="keywords_battery_saver_schedule">thói quen, lịch trình, tiết kiệm pin, tiết kiệm năng lượng, pin, tự động, phần trăm</string>
 	<string name="battery_saver_turn_on_summary">Mở rộng thời lượng pin</string>
 	<string name="gentle_notifications_display_status">Thanh trạng thái</string>
 	<string name="bluetooth_untethered_unpair_dialog_body">%1$s sẽ không còn có thể ghép nối với bất kì thiết bị nào liên kết với tài khoản này</string>
-	<string name="global_actions_panel_title">Hiện hành động toàn cầu</string>
+	<string name="global_actions_panel_title">Hiện hành động toàn bộ</string>
 	<string name="gesture_not_supported_dialog_message">Không hỗ trợ bởi ứng dụng màn hình chính mặc định của bạn, %s</string>
 	<string name="gentle_notifications_display_summary_shade">Chỉ hiển thị trong khung kéo xuống</string>
 	<string name="gentle_notifications_display_lock">Màn hình khóa</string>

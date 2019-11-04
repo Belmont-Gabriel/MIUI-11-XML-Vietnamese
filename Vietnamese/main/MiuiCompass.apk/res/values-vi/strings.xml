@@ -68,4 +68,5 @@
 	<string name="compass_settings">Cài đặt</string>
 	<string name="permission_camera_desc">Sử dụng ống bọt nước</string>
 	<string name="permission_location_desc">Hiển thị tọa độ và áp suất khí quyển</string>
+	<string name="cta_v2_app_purpose">Hiển thị hướng, tọa độ, áp suất khí quyển và độ cao hiện tại</string>
 </resources>

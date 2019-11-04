@@ -2439,4 +2439,8 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="wifi_suggestion_content">Gợi ý bởi %s</string>
 	<string name="wifi_suggestion_title">Kết nối tới mạng Wi-Fi?</string>
 	<string name="copied">Đã sao chép</string>
+	<string name="handset_text_usb_handset_insert">Chạm để thêm cài đặt cho tai nghe và âm thanh.</string>
+	<string name="handset_title_unsupported_handset_insert">Tai nghe analog USB không được hỗ trợ</string>
+	<string name="handset_text_unsupported_handset_insert">Chạm để thêm thông tin.</string>
+	<string name="handset_title_usb_handset_insert">Thẻ âm thanh USB đang xuất âm thanh</string>
 </resources>

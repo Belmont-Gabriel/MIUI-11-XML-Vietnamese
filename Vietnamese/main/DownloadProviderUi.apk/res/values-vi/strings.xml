@@ -301,7 +301,7 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
     <string name="sniff_shortcut_exist">Lối tắt đã tồn tại</string>
     <string name="sniff_associate_text">Phổ biến</string>
     <string name="sniff_no_result_text">Không tìm thấy kết quả</string>
-    <string name="sniff_cannot_use">Không thể sử dụng tìm kiếm toàn cầu, chạm vào liên kết để tải xuống</string>
+    <string name="sniff_cannot_use">Không thể sử dụng tìm kiếm toàn bộ, chạm vào liên kết để tải xuống</string>
     <string name="sniff_hot_text">Liên quan</string>
     <string name="xl_privilege_title">Thành viên Xunlei</string>
     <string name="xl_privilege_speedup">Tăng tốc tải xuống</string>
