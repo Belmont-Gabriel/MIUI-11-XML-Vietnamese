@@ -141,4 +141,19 @@
 	<string name="miui_feedback_edit_title_occurrence_time">Chọn thời gian</string>
 	<string name="miui_feedback_edit_choose_occurrence_time">Thời gian</string>
 	<string name="miui_feedback_edit_hint_optional">Chọn</string>
+	<string name="miui_mine_net_error_retry">Thử lại</string>
+	<string name="miui_mine_select_city">Chọn thành phố</string>
+	<string name="miui_mine_net_error_sub_title">Vui lòng kiểm tra kết nối mạng</string>
+	<string name="miui_mine_top_bar_title">Dịch vụ của tôi</string>
+	<string name="miui_mine_lbs_title_nostore_text">Thành phố của bạn không có %s</string>
+	<string name="miui_mine_address_choose_province_hotcity">Tỉnh và thành phố nổi tiếng</string>
+	<string name="miui_mine_loading_text">Đang tải</string>
+	<string name="miui_mine_net_error_title">Không thể kết nối mạng</string>
+	<string name="miui_mine_address_info_">Tỉnh và thành phố nổi tiếng</string>
+	<string name="miui_mine_unlogin">Nhấn vào đây để đăng nhập</string>
+	<string name="miui_mine_address_choose_province_gpscity">Định vị tỉnh, thành phố</string>
+	<string name="abc_searchview_description_query">Tìm kiếm truy vấn</string>
+	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
+	<string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
+	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 </resources>

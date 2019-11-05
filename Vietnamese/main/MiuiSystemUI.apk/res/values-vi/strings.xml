@@ -2163,4 +2163,5 @@ d MMMM"</string>
 	<string name="wireless_charging_tips_message">Đặt thiết bị hỗ trợ sạc không dây Qi (điện thoại, phụ kiện, v.v.) trên mặt sau của thiết bị.</string>
 	<string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin điện thoại còn ít hơn 30%."</string>
 	<string name="quick_settings_sim_disabled">(Đã tắt)</string>
+	<string name="gxzw_quick_open_title">Mở menu lối tắt</string>
 </resources>

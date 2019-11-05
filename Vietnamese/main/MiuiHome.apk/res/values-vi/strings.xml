@@ -437,4 +437,5 @@
 	<string name="launcher_search_bar_title">Thanh tìm kiếm</string>
 	<string name="launcher_global_search_mode_title">Tìm kiếm toàn bộ</string>
 	<string name="launcher_global_search_provider_title">Nhà cung cấp tìm kiếm toàn bộ</string>
+	<string name="search_no_result">"Không thể tìm thấy kết quả"</string>
 </resources>

@@ -248,4 +248,5 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="content_introduction">Trung tâm Nội dung tổng hợp nội dung và dịch vụ từ nhiều kênh. Tại đây bạn có thể đọc bài viết, xem video, xem các mục nổi bật hàng ngày và nhận đề xuất nội dung.</string>
 	<string name="permission_picture_introduction">Để lưu, chỉnh sửa và đồng bộ ảnh và video</string>
 	<string name="permission_login_introduction">Để đăng nhập và quản lý tài khoản hệ thống</string>
+	<string name="permission_location">Truy cập thông tin vị trí:</string>
 </resources>

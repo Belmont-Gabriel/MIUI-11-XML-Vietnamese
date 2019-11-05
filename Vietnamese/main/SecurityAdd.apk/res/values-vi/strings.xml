@@ -303,4 +303,14 @@ An toàn, chất lượng, phát triển"</string>
 	<string name="superpower_app_mms">Tin nhắn</string>
 	<string name="superpower_toast_app_select_full">Bạn có thể thêm tới 6 mục vào ứng dụng thường dùng</string>
 	<string name="superpower_app_exit">Thoát</string>
+	<string name="cancel">Hủy</string>
+	<string name="net_booster_expire_notification">Tăng tốc mạng sắp hết hạn</string>
+	<string name="net_booster_overdue_notification">Tăng tốc mạng sắp hết hạn</string>
+	<string name="free_send_net_booster_busniess">Nhận tăng tốc Xunlei miễn phí</string>
+	<string name="renew_now">Gia hạn</string>
+	<string name="fingerprint_not_remind">Không hỏi lại</string>
+	<string name="free_send_net_booster">Tăng tốc mạng miễn phí</string>
+	<string name="net_booster_overdue_notification_tip">Tăng tốc mạng sắp hết hạn. Bạn có muốn gia hạn?</string>
+	<string name="free_send_net_booster_busniess_tip">Chạm để nhận</string>
+	<string name="free_send_net_booster_tip">Tận hưởng cảm giác chơi game siêu mượt với Tăng tốc mạng miễn phí.</string>
 </resources>

@@ -306,4 +306,6 @@
 	<string name="text_play_speed_2_0">Tốc độ phát lại 2X</string>
 	<string name="usage_description">Phiên âm các mục và đồng bộ hóa các mục với đám mây</string>
 	<string name="online_recognize_progress">Đang phiên âm %s…</string>
+	<string name="search_empty">"Không tìm thấy kết quả"</string>
+	<string name="search_hint">Tìm kiếm</string>
 </resources>
