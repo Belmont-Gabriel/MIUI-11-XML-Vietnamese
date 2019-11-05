@@ -185,4 +185,6 @@
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="network_error">Lỗi kết nối mạng, vui lòng thử lại</string>
+	<string name="retry">Thử lại</string>
 </resources>

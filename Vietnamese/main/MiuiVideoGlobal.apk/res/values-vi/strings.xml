@@ -1656,4 +1656,40 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="no_phone">Không có số điện thoại liên kết</string>
 	<string name="get_back_pwd">Đang đặt lại mật khẩu</string>
 	<string name="passport_querying_phone_info">Đang yêu cầu thông tin tài khoản…</string>
+	<string name="share_fail">"Không thể chia sẻ. Kiểm tra cài đặt mạng của bạn và thử lại."</string>
+	<string name="for_diagnosis_usage_only">Nhật ký chỉ được sử dụng cho mục đích phân tích.</string>
+	<string name="auth_fail_warning">Phiên làm việc hết hạn. Đăng nhập lại.</string>
+	<string name="diagnosis_log_send_failed">"Không thể gửi nhật ký. Thử lại."</string>
+	<string name="passport_identification_expired">Mã xác thực hết hạn. Bắt đầu lại.</string>
+	<string name="account_user_avatar_from_album">Thư viện</string>
+	<string name="diagnosis_log_sent_format">"Gửi nhật ký thành công.
+ID:%s
+Gửi mã này cho người giám sát."</string>
+	<string name="account_error_all_space_user_name">"Tên đăng nhập không thể chỉ chứa ký tự trống"</string>
+	<string name="send_email_activate_message">Gửi email xác thực thành công</string>
+	<string name="resend_email_success">Gửi thành công</string>
+	<string name="send_diagnosis_log">Gửi nhật ký</string>
+	<string name="all">Hiển thị tất cả</string>
+	<string name="temporary_not_available">"Tính năng này chưa khả dụng"</string>
+	<string name="account_error_invalid_user_name">"Tên không thể chứa &lt;, &gt;, hay /"</string>
+	<string name="update_email_address_dialog_message">Bạn cần xác nhận danh tính trước khi cập nhật email khôi phục.</string>
+	<string name="confirm_unbundled_phone_dialog_message">Số điện thoại này được liên kết với Tài khoản Mi %2$s trên %1$s. Nó sẽ không còn được kết nối với Tài khoản Mi %3$s nếu bạn tiếp tục. Tiếp tục?</string>
+	<string name="passport_error_auth_fail">Phiên hết hạn. Đăng nhập lại.</string>
+	<string name="collect_diagnosis_log">Thu thập nhật ký</string>
+	<string name="passport_user_agreement_link">"&lt;Data&gt;Tôi đã đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của Xiaomi.&lt;/Data&gt;"</string>
+	<string name="sns_access_token_expired_warning">Phiên hết hạn. Đăng nhập lại để kết nối lại với tài khoản này.</string>
+	<string name="account_user_base_info">Thông tin cơ bản</string>
+	<string name="account_user_other_info">Chi tiết</string>
+	<string name="account_user_name">Biệt danh</string>
+	<string name="update_email_address_dialog_title">Cập nhật email khôi phục</string>
+	<string name="account_user_avatar_from_camera">Máy ảnh</string>
+	<string name="account_bind_secure_phone_title">Thêm số điện thoại khôi phục</string>
+	<string name="no_account">Chưa đăng nhập</string>
+	<string name="hide">Ẩn</string>
+	<string name="account_error_user_name">Biệt danh này không khả dụng. Thử với tên khác.</string>
+	<string name="sms_send_success">Gửi thành công</string>
+	<string name="account_error_longer_user_name">"Tên không được dài hơn 20 ký tự"</string>
+	<string name="resend_email_reach_limit_title">Quá nhiều lần thử</string>
+	<string name="service_error">Lỗi máy chủ</string>
+	<string name="account_bind_secure_email_title">Thêm email khôi phục</string>
 </resources>

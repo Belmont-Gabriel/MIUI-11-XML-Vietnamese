@@ -1006,7 +1006,7 @@ Tin nhắn này có thể không được yêu cầu."</string>
 	<string name="rcs_pref_category_rcs_message">Tin nhắn RCS</string>
 	<string name="error_invalid_otp">Mã không hợp lệ</string>
 	<string name="confirm_upload_sms">Tải lên tin nhắn để cải thiện tính năng danh sách chặn</string>
-	<string name="mms_main_purpose">Để truy cập toàn bộ tính năng của Nhắn tin, cho phép ứng dụng kết nối mạng, bật Tin nhắn Mi và Tin nhắn Thông minh.</string>
+	<string name="mms_main_purpose">Để truy cập toàn bộ tính năng của Nhắn tin, bật Tin nhắn Mi và Tin nhắn Thông minh.</string>
 	<string name="smart_msg_main_purpose">Tin nhắn Thông minh cung cấp nhận dạng ID người gửi và dịch vụ menu thông minh.</string>
 	<string name="perm_purpose_mms_account">Để truy cập thông tin tài khoản</string>
 	<string name="mx_privacy_policy">Chính sách Riêng tư Tin nhắn Mi</string>
@@ -1047,15 +1047,16 @@ Một tin nhắn đi được yêu cầu để kích hoạt Tin nhắn Mi. Nhà 
     <string name="mms_title">Tin nhắn</string>
     <string name="rms_editor_hints">Trò chuyện</string>
     <string name="system_permission_declare_agree">Đồng ý</string>
-    <string name="system_permission_declare_disagree">Không đồng ý</string>
+    <string name="system_permission_declare_disagree">Hủy</string>
     <string name="system_permission_declare_main_purpose" formatted="false">Chào mừng sử dụng %1s! %2s</string>
-    <string name="system_permission_declare_no_say_no">Nếu bạn chọn không cấp các quyền yêu cầu hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này sẽ không thể hoạt động bình thường.</string>
-    <string name="system_permission_declare_privacy_declare">"Chúng tôi tôn trọng và bảo vệ quyền riêng tư của bạn.
-Lưu ý rằng %1s cần thu thập dữ liệu của bạn và yêu cầu các quyền sau để hoạt động bình thường:"</string>
+    <string name="system_permission_declare_no_say_no">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.
+Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này."</string>
+    <string name="system_permission_declare_privacy_declare">"%1s cần thu thập dữ liệu của bạn và yêu cầu các quyền sau để hoạt động bình thường:"</string>
     <string name="system_permission_declare_revoke_path">Bạn có thể hủy ủy quyền và tắt dịch vụ trong cài đặt Tin nhắn.</string>
     <string name="system_permission_declare_use_network">Kết nối mạng</string>
     <string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
     <string name="system_permission_perm_read_mms">Đọc MMS</string>
     <string name="system_permission_perm_read_numbers">Đọc số điện thoại</string>
     <string name="system_permission_perm_send_mms">Gửi MMS</string>
+	<string name="mx_main_purpose_short">Tin nhắn Mi cho phép người dùng MIUI gửi và nhận SMS và MMS miễn phí.</string>
 </resources>

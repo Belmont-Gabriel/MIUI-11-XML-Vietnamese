@@ -1009,4 +1009,22 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="clear_and_bright">Thanh Minh</string>
 	<string name="lunar_er_shi">20</string>
 	<string name="christmas_day">Lễ Giáng Sinh</string>
+	<string name="install_weather_app_loading">Đang tải...</string>
+	<string name="retrocession_day">Lễ hội ánh sáng</string>
+	<string name="international_womens_day">Ngày lễ tình nhân</string>
+	<string name="tw_childrens_day">Tết thiếu nhi</string>
+	<string name="share_success">Chia sẻ thành công</string>
+	<string name="united_nations_day">Ngày Liên hợp quốc</string>
+	<string name="lunar_ling">Không</string>
+	<string name="easter">Phục sinh</string>
+	<string name="install_weather_app_error">Không tải được ứng dụng.</string>
+	<string name="tw_youth_day">Tết thanh niên</string>
+	<string name="lunar_shi_er">Mười hai</string>
+	<string name="hksar_establishment_day">Kỷ niệm thành lập khu đặc chính Hồng Kông</string>
+	<string name="downloading">Đang tải xuống</string>
+	<string name="lunar_shi_yi">Mười một</string>
+	<string name="share_fail">Chia sẻ thất bại</string>
+	<string name="share_cancel">Hủy chia sẻ</string>
+	<string name="armed_forces_day">Ngày cựu chiến binh</string>
+	<string name="anniversary_of_lifting_martial_law">Ngày tưởng niệm</string>
 </resources>

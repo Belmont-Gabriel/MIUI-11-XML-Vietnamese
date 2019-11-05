@@ -107,4 +107,11 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
 	<string name="san_wait_msg_2">Tìm kiếm thiết bị có thể mất một lúc…</string>
 	<string name="san_wait_msg_3">"Thiết bị mở rộng sẽ dễ tìm hơn khi nó được kết nối chung một mạng với điện thoại"</string>
 	<string name="san_wait_msg_4">"Xem \"Trợ giúp\" nếu bạn không thể tìm thấy thiết bị"</string>
+	<string name="help_page_text_55_global">"Nếu bạn không thể kết nối mạng, đảm bảo màn hình mở rộng hỗ trợ tính năng Miracast và nó được bật. Trên một số mẫu, tính năng này được gọi là Hiển thị Không dây, Phản chiếu Màn hình, hoặc Đa màn hình.
+4. Trong trường hợp có vấn đề xảy ra, bạn có thể báo cáo thông qua ứng dụng \"Dịch vụ &amp; phản hồi\" của chúng tôi."</string>
+	<string name="help_page_text_14_global">"1. Nếu bạn muốn dùng thiết bị của Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử các bước dưới đây:
+Kết nối cả điện thoại của bạn và màn hình mở rộng (v.d. TV của bạn) vào cùng mạng Wi-Fi, hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại. Nếu không có mạng Wi-Fi hoặc bạn không thể kết nối cả hai thiết bị vào cùng một mạng, kiểm tra xem tính năng chiếu trên màn hình của bạn đã được cập nhật chưa, bật Bluetooth trên cả điện thoại và màn hình mở rộng của bạn, và bật Miracast trên TV.
+2. Nếu bạn đang chiếu trên thiết bị của Xiaomi lần đầu, bạn cần hoàn tất xác thực.
+3. Nếu bạn muốn sử dụng thiết bị không phải của Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
+Kết nối cả điện thoại của bạn và màn hình mở rộng (v.d. TV của bạn) vào cùng mạng Wi-Fi, hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
 </resources>

@@ -17,7 +17,7 @@
     <string name="refocus_discard_positive_btn">Lưu</string>
     <string name="refocus_discard_negative_btn">Hủy bỏ</string>
 	<string name="extra_photo_common_saving">Đang lưu…</string>
-	<string name="motion_photo_re_pick_title">Chọn ảnh đẹp nhất</string>
+	<string name="motion_photo_re_pick_title">Ảnh trực tiếp</string>
 	<string name="motion_photo_toast_default">Mặc định</string>
 	<string name="motion_photo_toast_suggest">Đề xuất</string>
 	<string name="app_error">Có lỗi xảy ra, đang đóng ứng dụng…</string>

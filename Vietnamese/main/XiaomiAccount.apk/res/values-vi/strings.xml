@@ -595,7 +595,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="input_new_pwd">Nhập mật khẩu mới</string>
 	<string name="mi_finance">Tài chính của tôi</string>
 	<string name="mi_finance_info">Thưởng người dùng mới</string>
-    <string name="same_new_and_old_pwd">Không thể giống với mật khẩu hiện tại</string>
+    <string name="same_new_and_old_pwd">Mật khẩu mới phải khác mật khẩu cũ</string>
 	<string name="sim_card">Thẻ SIM</string>
 	<string name="used_cloud_storage_info">Lưu trữ đã dùng %s</string>
 	<string name="i_agree_continue">Đồng ý</string>
@@ -696,4 +696,6 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_ticket_login_select_sim_card_cancel">Hủy</string>
 	<string name="passport_ticket_login_select_sim_card">Chọn thẻ SIM</string>
 	<string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Quốc tế: Kích hoạt SIM thất bại</string>
+	<string name="pwd_width_phone_number_or_mail_num">"Mật khẩu không thể chứa số điện thoại của bạn, email, hoặc ID Tài khoản Mi"</string>
+	<string name="risky_pwd_not_allow">"Mật khẩu mới không an toàn. Đặt mật khẩu khác."</string>
 </resources>
