@@ -13,7 +13,7 @@
     <string name="wifi_disabled_wifi_failure">Không thể kết nối Wi-Fi</string>
     <string name="wifi_disabled_password_failure">Vấn đề xác thực</string>
     <string name="wifi_not_in_range">Không nằm trong phạm vi</string>
-    <string name="wifi_no_internet">Không thể truy cập internet, sẽ không kết nối lại tự động.</string>
+    <string name="wifi_no_internet">Không thể kết nối mạng.</string>
     <string name="saved_network">Đã lưu %1$s</string>
     <string name="connected_via_wfa">Đã kết nối qua trợ lý Wi‑Fi</string>
     <string name="connected_via_passpoint">Đã kết nối qua %1$s</string>
@@ -9777,4 +9777,5 @@ Dưới đây là một số nguyên nhân:
 	<string name="usb_headset_not_support_cancel">Đã hiểu</string>
 	<string name="usb_headset_not_support_message">"Tai nghe analog USB không được hỗ trợ, vui lòng thay thế bằng tai nghe kỹ thuật số, 
  hoặc sử dụng cổng tai nghe 3.5mm để truy cập tai nghe"</string>
+ <string name="xiaomi_cloud_find_device">Tìm thiết bị</string>
 </resources>

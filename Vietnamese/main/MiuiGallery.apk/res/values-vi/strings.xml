@@ -252,7 +252,7 @@ khả dụng"</string>
     <string name="backup_only_in_wifi_summary">Không bao giờ sử dụng dữ liệu di động để đồng bộ ảnh hoặc video</string>
     <string name="backup_only_wifi_dialog_message">Sử dụng dữ liệu di động để đồng bộ ảnh và video?</string>
     <string name="backup_pause">Tạm dừng sao lưu</string>
-    <string name="backup_pause_title">Sao lưu trong %s</string>
+    <string name="backup_pause_title">Đồng bộ đã tạm dừng</string>
     <string name="backup_pending">Sẽ được sao lưu tự động</string>
     <string name="backup_stop">Dừng sao lưu</string>
     <string name="backup_sync_dialog_confirm">Bật</string>

@@ -48,4 +48,13 @@
 	<string name="saving_image">Đang lưu ảnh…</string>
 	<string name="saving_image_to_album">Đang lưu ảnh vào %1$s…</string>
 	<string name="wait_error">Chỉ vài giây…</string>
+	<string name="motion_photo_cancel">Hủy</string>
+	<string name="motion_photo_save_video">Lưu thành video</string>
+	<string name="motion_photo_save_gif_ing">Đang lưu GIF…</string>
+	<string name="motion_photo_save_gif">Lưu thành GIF</string>
+	<string name="motion_photo_save_fail">"Không thể lưu"</string>
+	<string name="motion_photo_save_image">Lưu ảnh đẹp nhất</string>
+	<string name="motion_photo_toast_long_press_play">Nhấn và giữ ảnh để phát</string>
+	<string name="motion_photo_save_video_ing">Đang lưu video…</string>
+	<string name="motion_photo_save_image_ing">Đang lưu ảnh đẹp nhất…</string>
 </resources>

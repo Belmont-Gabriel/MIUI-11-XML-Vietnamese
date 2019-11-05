@@ -23,7 +23,7 @@
     <string name="wifi_disabled_wifi_failure">Không thể kết nối Wi-Fi</string>
     <string name="wifi_disabled_password_failure">Vấn đề xác thực</string>
     <string name="wifi_not_in_range">Không nằm trong phạm vi</string>
-    <string name="wifi_no_internet">Không thể truy cập internet, sẽ không kết nối lại tự động.</string>
+    <string name="wifi_no_internet">Không thể kết nối mạng.</string>
     <string name="saved_network">Đã lưu %1$s</string>
     <string name="connected_via_wfa">Đã kết nối qua trợ lý Wi‑Fi</string>
     <string name="connected_via_passpoint">Đã kết nối qua %1$s</string>
@@ -2162,4 +2162,5 @@ d MMMM"</string>
 	<string name="wireless_charging_ok">Đã hiểu</string>
 	<string name="wireless_charging_tips_message">Đặt thiết bị hỗ trợ sạc không dây Qi (điện thoại, phụ kiện, v.v.) trên mặt sau của thiết bị.</string>
 	<string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin điện thoại còn ít hơn 30%."</string>
+	<string name="quick_settings_sim_disabled">(Đã tắt)</string>
 </resources>

@@ -1996,7 +1996,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="add_tag">Thêm Thẻ</string>
 	<string name="sug_search_history_empty_text">Xóa tất cả</string>
 	<string name="pref_content_simple_homepage">Trang bắt đầu đơn giản</string>
-	<string name="sug_search_history_delete_text">Xóa hồ sơ</string>
+	<string name="sug_search_history_delete_text">Xóa tìm kiếm</string>
 	<string name="auto_floatlayer_store_download_e_n">Tải xuống Cửa hàng ứng dụng</string>
 	<string name="character_counter_content_description">Vượt quá giới hạn ký tự %1$d trên %2$d</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>

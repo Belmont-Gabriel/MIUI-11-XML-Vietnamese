@@ -367,4 +367,10 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="permission_get_account_desc">Đồng bộ ghi chú với đám mây</string>
 	<string name="privacy_note_content_empty">Không có mục nào ở đây.</string>
 	<string name="time_picker_label_minute">Phút</string>
+	<string name="new_audio_create_cancel_talkback_des">Đã hủy</string>
+	<string name="new_audio_create_done_talkback_des">Đã tạo</string>
+	<string name="new_audio_create_guide_tip">Nhấn và giữ để tạo ghi chú giọng nói</string>
+	<string name="new_audio_create_talkback_des">Chạm để tạo ghi chú văn bản. Nhấn và giữ để tạo ghi chú giọng nói. Thả nút để dừng ghi âm và tạo ghi chú, hoặc vuốt lên để hủy.</string>
+	<string name="audio_create_normal_state">Thả ra để tạo. Vuốt lên để hủy.</string>
+	<string name="audio_create_will_cancel_state">Thả ra để hủy</string>
 </resources>
