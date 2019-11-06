@@ -1485,4 +1485,15 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="local_download_song_guide_title">Tất cả các tải xuống đều ở đây</string>
 	<string name="local_create">Khởi tạo</string>
 	<string name="local_favorite_songgroup">Nhóm nhạc yêu thích</string>
+	<string name="dialog_score_prompt_good">Cảm ơn sự hỗ trợ của bạn! Đánh giá ứng dụng của chúng tôi trên Google Play?</string>
+	<string name="dialog_score_title">Đánh giá ứng dụng của chúng tôi</string>
+	<string name="do_not_support_google_voice_search">"Tìm kiếm giọng nói Google không được hỗ trợ trên thiết bị này."</string>
+	<string name="tab_chart">Biểu đồ</string>
+	<string name="hungama_batch_download_alert_summary_toast">Đăng ký để tải xuống cả danh sách phát.</string>
+	<string name="dialog_score_prompt_bad">"Cảm ơn bạn đã phản hồi! Chúng tôi sẽ làm hết sức mình để cải thiện ứng dụng và dịch vụ."</string>
+	<string name="hungama_free_download_out_summary_toast">"Bạn đã tải %d bài hát. Đăng ký để tải thêm nhiều hơn."</string>
+	<string name="daily_recommendation">Trộn hàng ngày</string>
+	<string name="dialog_score_btn_good">Đánh giá</string>
+	<string name="you_may_like">Bạn cũng có thể thích</string>
+	<string name="more_splendid_contents">Thêm</string>
 </resources>

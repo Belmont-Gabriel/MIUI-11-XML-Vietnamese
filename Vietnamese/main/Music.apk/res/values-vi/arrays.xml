@@ -18,4 +18,13 @@
         <item>Tìm kiếm "Tương lai khó quên"</item>
         <item>Phát nhạc cục bộ</item>
     </string-array>
+	<string-array name="recommendation_desc_week">
+		<item>Khuyến nghị Chủ nhật</item>
+		<item>Khuyến nghị Thứ hai</item>
+		<item>Khuyến nghị Thứ ba</item>
+		<item>Khuyến nghị Thứ tư</item>
+		<item>Khuyến nghị Thứ năm</item>
+		<item>Khuyến nghị Thứ sáu</item>
+		<item>Khuyến nghị Thứ bảy</item>
+	</string-array>
 </resources>

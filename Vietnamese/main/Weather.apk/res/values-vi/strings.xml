@@ -339,4 +339,9 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="life_index_title">Chỉ số thời tiết</string>
 	<string name="view_indexes_item_day_after_tommorrow">Trong 2 ngày</string>
 	<string name="refresh_empty_data">"Không thể tải dữ liệu. Chờ một vài phút và thử lại."</string>
+	<string name="weather_list_title">Tiêu đề thời tiết</string>
+	<string name="weather_list_info">Thông tin liên quan</string>
+	<string name="accessibility_webview_share">Chia sẻ</string>
+	<string name="accessibility_ad_close">Đóng nội dung được đề xuất</string>
+	<string name="index_item_download_pause">Tiếp tục tải xuống</string>
 </resources>

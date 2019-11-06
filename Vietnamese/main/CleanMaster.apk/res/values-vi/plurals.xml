@@ -90,4 +90,25 @@
     <plurals name="whatsapp_delete_files">
         <item quantity="other">Xóa %1$d mục?</item>
     </plurals>
+	<plurals name="dc_item_summary_uninstall_app">
+		<item quantity="other">&lt;Data&gt;Bạn có thể gỡ cài đặt &lt;font color=#0097FF&gt;%d&lt;/font&gt; ứng dụng không thường dùng&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="dc_item_summary_app_data">
+		<item quantity="other">&lt;Data&gt;Bạn có thể xóa dữ liệu của &lt;font color=#0097FF&gt;%d&lt;/font&gt; ứng dụng&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="dc_item_summary_apk">
+		<item quantity="other">&lt;Data&gt;Bạn có thể xóa &lt;font color=#0097FF&gt;%d&lt;/font&gt; gói cài đặt&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="dc_item_summary_image">
+		<item quantity="other">&lt;Data&gt;Bạn có thể xóa &lt;font color=#0097FF&gt;%d&lt;/font&gt; ảnh không cần thiết&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="dc_item_summary_large_file">
+		<item quantity="other">&lt;Data&gt;Bạn có thể xóa &lt;font color=#0097FF&gt;%d&lt;/font&gt; tệp tin lớn&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="dc_group_title_normal">
+		<item quantity="other">Cần %1$d bước để giải phóng %2$s</item>
+	</plurals>
+	<plurals name="dc_item_summary_video">
+		<item quantity="other">&lt;Data&gt;Bạn có thể xóa &lt;font color=#0097FF&gt;%d&lt;/font&gt; video&lt;/Data&gt;</item>
+	</plurals>
 </resources>

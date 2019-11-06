@@ -774,4 +774,25 @@
 	<string name="appcleaner_wechat_pref_time_three_day">Mỗi 3 ngày</string>
 	<string name="appcleaner_wechat_pref_time_fifteen_day">Mỗi 15 ngày</string>
 	<string name="button_agree">Đồng ý</string>
+	<string name="dc_storage_info">Khả dụng %1$s | Tổng %2$s</string>
+	<string name="guide_dc_dialog_negative">Hủy</string>
+	<string name="dc_advise_delete">Giải phóng dung lượng</string>
+	<string name="dc_header_used_space_text">Lưu chữ chiếm dụng</string>
+	<string name="dc_item_summary_wechat_chat">Xóa lịch sử chat để giải phóng thêm dung lượng</string>
+	<string name="guide_dc_dialog_title">Bộ nhớ đang hết</string>
+	<string name="dc_item_title_uninstall_app">Gỡ cài đặt ứng dụng</string>
+	<string name="dc_item_title_image">Xóa ảnh</string>
+	<string name="dc_activity_title">Dọn dẹp sâu</string>
+	<string name="dc_item_title_wechat">Dọn dẹp WeChat</string>
+	<string name="dc_group_title_appclean">Ứng dụng</string>
+	<string name="dc_item_title_large_file">Xóa tệp tin lớn</string>
+	<string name="guide_dc_dialog_message">"Dung lượng trống còn ít hơn 2GB. Điều này có thể làm chậm thiết bị của bạn. Thực hiện dọn dẹp sâu để giải phóng dung lượng."</string>
+	<string name="dc_item_title_wechat_chat">Xóa lịch sử WeChat</string>
+	<string name="dc_item_title_video">Xóa video</string>
+	<string name="dc_storage_cleaned">Đã giải phóng %s</string>
+	<string name="dc_header_can_clean">Có thể xóa</string>
+	<string name="dc_item_title_apk">Xóa gói cài đặt</string>
+	<string name="dc_item_title_qq">Dọn dẹp QQ</string>
+	<string name="dc_header_can_not_clean">Chiếm dụng</string>
+	<string name="dc_item_title_app_data">Xóa dữ liệu ứng dụng</string>
 </resources>
