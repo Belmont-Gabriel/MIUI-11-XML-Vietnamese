@@ -1027,4 +1027,15 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="share_cancel">Hủy chia sẻ</string>
 	<string name="armed_forces_day">Ngày cựu chiến binh</string>
 	<string name="anniversary_of_lifting_martial_law">Ngày tưởng niệm</string>
+	<string name="edit_event_title_create_birthday">Thêm ngày sinh nhật</string>
+	<string name="life_card_credit_secondary">Ngày hoàn trả | %1$s  |  Lần cuối %2$s ngày</string>
+	<string name="life_card_credit_secondary_overdue">Ngày hoàn trả | %1$s  |  Đã hết hạn</string>
+	<string name="edit_event_title_create_agenda">Thêm sự kiện</string>
+	<string name="edit_event_title_edit_birthday">Sửa ngày sinh nhật</string>
+	<string name="edit_event_title_edit_anniversary">Sửa ngày kỷ niệm</string>
+	<string name="edit_event_title_create_anniversary">Thêm ngày kỷ niệm</string>
+	<string name="edit_event_title_edit_agenda">Sửa sự kiện</string>
+	<string name="edit_event_title_edit_countdown">Sửa đếm ngược</string>
+	<string name="limit_detail_no_limit">Không giới hạn</string>
+	<string name="edit_event_title_create_countdown">Thêm đếm ngược</string>
 </resources>

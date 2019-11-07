@@ -2001,4 +2001,9 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="character_counter_content_description">Vượt quá giới hạn ký tự %1$d trên %2$d</string>
 	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 	<string name="password_toggle_content_description">Hiển thị mật khẩu</string>
+	<string name="short_video_gesture_btn">Tôi biết</string>
+	<string name="short_video_comment_hint">Gửi ý kiến của bạn</string>
+	<string name="short_video_net_dialog_continue">Tiếp tục</string>
+	<string name="small_video_ad_download_text">Tải xuống</string>
+	<string name="short_video_gesture_hint">Vuốt để xem thêm</string>
 </resources>
