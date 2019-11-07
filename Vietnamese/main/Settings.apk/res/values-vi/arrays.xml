@@ -389,7 +389,7 @@
         <item>bật màn hình</item>
         <item>nhận tài khoản</item>
         <item>chạy trong nền</item>
-		<item>âm lượng của trợ năng</item>
+        <item>âm lượng hỗ trợ tiếp cận</item>
     </string-array>
     <string-array name="app_ops_labels">
         <item>Vị trí</item>
@@ -456,7 +456,7 @@
         <item>Bật màn hình</item>
         <item>Nhận tài khoản</item>
         <item>Chạy trong nền</item>
-        <item>Âm lượng của trợ năng</item>
+        <item>Âm lượng hỗ trợ tiếp cận</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Ngắn</item>
@@ -584,7 +584,7 @@
     </string-array>
     <string-array name="ap_identify">
         <item>Mặc định</item>
-        <item>iPhone</item>
+        <item>Điểm phát sóng</item>
     </string-array>
     <string-array name="battery_indicator_style_entries">
         <item>Đồ họa</item>

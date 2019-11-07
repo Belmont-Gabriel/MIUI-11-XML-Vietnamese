@@ -5567,11 +5567,11 @@ Tốc độ lấy mẫu"</string>
     <string name="night_display_category_status">Trạng thái</string>
     <string name="night_display_end_time_title">Thời gian kết thúc</string>
     <string name="night_display_start_time_title">Thời gian bắt đầu</string>
-    <string name="night_display_summary_off">Tắt. %1$s</string>
+    <string name="night_display_summary_off">Đang tắt / %1$s</string>
     <string name="night_display_summary_off_auto_mode_custom">Sẽ tự động bật lúc %1$s.</string>
     <string name="night_display_summary_off_auto_mode_never">Sẽ không bao giờ tự động bật.</string>
     <string name="night_display_summary_off_auto_mode_twilight">Sẽ tự động bật lúc hoàng hôn.</string>
-    <string name="night_display_summary_on">Bật. %1$s</string>
+    <string name="night_display_summary_on">Bật / %1$s</string>
     <string name="night_display_summary_on_auto_mode_custom">Sẽ tự động tắt lúc %1$s.</string>
     <string name="night_display_summary_on_auto_mode_never">Sẽ không bao giờ tự động tắt.</string>
     <string name="night_display_summary_on_auto_mode_twilight">Sẽ tự động tắt lúc bình minh.</string>
@@ -7664,7 +7664,7 @@ Xin lưu ý rằng các thông báo quan trọng về hoạt động và trạng
     <string name="zen_mode_sound_summary_off">Tắt</string>
     <string name="zen_mode_sound_summary_off_with_info">Tắt / %1$s</string>
     <string name="zen_mode_sound_summary_on">Bật</string>
-    <string name="zen_mode_sound_summary_on_with_info">Bật / %1$s</string>
+    <string name="zen_mode_sound_summary_on_with_info">Đang bật / %1$s</string>
     <string name="zen_mode_starred_callers">liên hệ đánh dấu sao</string>
     <string name="zen_mode_starred_contacts_title">Liên hệ đánh dấu sao</string>
     <string name="zen_mode_use_automatic_rule">Sử dụng quy tắc</string>
