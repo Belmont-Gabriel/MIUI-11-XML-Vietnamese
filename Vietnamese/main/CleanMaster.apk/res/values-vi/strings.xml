@@ -777,7 +777,7 @@
 	<string name="dc_storage_info">Khả dụng %1$s | Tổng %2$s</string>
 	<string name="guide_dc_dialog_negative">Hủy</string>
 	<string name="dc_advise_delete">Giải phóng dung lượng</string>
-	<string name="dc_header_used_space_text">Lưu chữ chiếm dụng</string>
+	<string name="dc_header_used_space_text">Lưu trữ chiếm dụng</string>
 	<string name="dc_item_summary_wechat_chat">Xóa lịch sử chat để giải phóng thêm dung lượng</string>
 	<string name="guide_dc_dialog_title">Bộ nhớ đang hết</string>
 	<string name="dc_item_title_uninstall_app">Gỡ cài đặt ứng dụng</string>
