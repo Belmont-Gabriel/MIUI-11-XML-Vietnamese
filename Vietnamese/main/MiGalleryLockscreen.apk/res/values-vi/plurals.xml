@@ -27,4 +27,7 @@
 	<plurals name="wm_cw_count">
 		<item quantity="other">%d ảnh</item>
 	</plurals>
+	<plurals name="article_num">
+		<item quantity="other">%d bài viết</item>
+	</plurals>
 </resources>

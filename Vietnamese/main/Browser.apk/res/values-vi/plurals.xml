@@ -81,4 +81,34 @@
 	<plurals name="auto_play_next_tips">
         <item quantity="other">Phát video tiếp theo sau %d giây</item>
     </plurals>
+	<plurals name="vo_image_mark">
+		<item quantity="other">%d ảnh</item>
+	</plurals>
+	<plurals name="vo_wei_bo_publish_time_hour">
+		<item quantity="other">· %s giờ trước</item>
+	</plurals>
+	<plurals name="vo_comment">
+		<item quantity="other">%s bình luận</item>
+	</plurals>
+	<plurals name="vo_vote_num">
+		<item quantity="other">%d người đã bình chọn</item>
+	</plurals>
+	<plurals name="info_flow_tips">
+		<item quantity="other">Tìm thấy %d mục mới cho bạn</item>
+	</plurals>
+	<plurals name="hot_word_hot_count">
+		<item quantity="other">%d lượt xem</item>
+	</plurals>
+	<plurals name="vo_short_video_play_count">
+		<item quantity="other">%s lượt xem</item>
+	</plurals>
+	<plurals name="vo_source_comment">
+		<item quantity="other">%1$s | %2$s bình luận</item>
+	</plurals>
+	<plurals name="vo_zhi_hu_answer">
+		<item quantity="other">%d trả lời trên Zhihu</item>
+	</plurals>
+	<plurals name="vo_wei_bo_publish_time_minute">
+		<item quantity="other">· %s phút trước</item>
+	</plurals>
 </resources>

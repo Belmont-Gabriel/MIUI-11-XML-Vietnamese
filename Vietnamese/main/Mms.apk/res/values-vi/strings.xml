@@ -1059,4 +1059,5 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
     <string name="system_permission_perm_read_numbers">Đọc số điện thoại</string>
     <string name="system_permission_perm_send_mms">Gửi MMS</string>
 	<string name="mx_main_purpose_short">Tin nhắn Mi cho phép người dùng MIUI gửi và nhận SMS và MMS miễn phí.</string>
+	<string name="contact_card_unknown_contact">Liên hệ chưa biết</string>
 </resources>

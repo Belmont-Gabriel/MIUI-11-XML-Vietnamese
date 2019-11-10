@@ -308,4 +308,6 @@
 	<string name="online_recognize_progress">Đang phiên âm %s…</string>
 	<string name="search_empty">"Không tìm thấy kết quả"</string>
 	<string name="search_hint">Tìm kiếm</string>
+	<string name="cancel_rename">Hủy</string>
+	<string name="loading_more">Chỉ vài giây…</string>
 </resources>
