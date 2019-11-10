@@ -2164,4 +2164,8 @@ d MMMM"</string>
 	<string name="wireless_charging_low_battery_level_message">"Không thể sử dụng sạc không dây ngược khi pin điện thoại còn ít hơn 30%."</string>
 	<string name="quick_settings_sim_disabled">(Đã tắt)</string>
 	<string name="gxzw_quick_open_title">Mở menu lối tắt</string>
+	<string name="gxzw_quick_open_add_note_sub">Ghi chú</string>
+	<string name="gxzw_quick_open_dialer">Quay số</string>
+	<string name="gxzw_quick_open_add_note">Thêm ghi chú</string>
+	<string name="gxzw_quick_open_dialer_sub">Điện thoại</string>
 </resources>

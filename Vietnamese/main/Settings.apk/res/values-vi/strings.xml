@@ -8187,7 +8187,7 @@ Bật tính năng này và chạm vào nút Trợ năng ở cuối màn hình đ
 	<string name="aod_settings_category_name">Màn hình Ambient</string>
 	<string name="aod_settings_title">Màn hình Ambient</string>
 	<string name="applications_settings_title">Ứng dụng</string>
-	<string name="feedback_settings">Phản hồi</string>
+	<string name="feedback_settings">Dịch vụ &amp; phản hồi</string>
 	<string name="full_screen_display">Chế độ toàn màn hình</string>
 	<string name="gmscore_settings_title">Dịch vụ Google cơ bản</string>
 	<string name="google_service_title">Dịch vụ Google</string>

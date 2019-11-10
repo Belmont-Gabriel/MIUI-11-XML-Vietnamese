@@ -2006,4 +2006,20 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="short_video_net_dialog_continue">Tiếp tục</string>
 	<string name="small_video_ad_download_text">Tải xuống</string>
 	<string name="short_video_gesture_hint">Vuốt để xem thêm</string>
+	<string name="browser_default_setting_cancel">Hủy</string>
+	<string name="nav_launch_title">Thử sử dụng các ứng dụng dưới đây</string>
+	<string name="security_permission_message_location">"Ứng dụng này cần truy cập vị trí của bạn để cung cấp các dịch vụ dựa trên vị trí. Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể hạn chế quyền hoặc thu hồi ủy quyền của mình trong Cài đặt."</string>
+	<string name="ad_go_download">Tải xuống</string>
+	<string name="browser_default_setting_content">Truy cập mạng an toàn</string>
+	<string name="dialog_nps_comment_slogan_text">"Đánh giá ứng dụng để ủng hộ chúng tôi"</string>
+	<string name="ad_go_see">Thêm</string>
+	<string name="short_video_net_dialog_title">"Bạn đang sử dụng dữ liệu di động. Sử dụng dữ liệu di động có thể phát sinh cước phí."</string>
+	<string name="vo_location_change_content">Có vẻ như bạn đã thay đổi vị trí. Chuyển sang thành phố hiện tại?</string>
+	<string name="security_permission_title_location">Cho phép truy cập vị trí của bạn</string>
+	<string name="browser_default_setting_confirm">Xác nhận</string>
+	<string name="browser_default_setting_title">Đặt làm trình duyệt mặc đinh</string>
+	<string name="security_permission_negative_btn_location">Hủy</string>
+	<string name="security_permission_positive_btn_location">Đồng ý</string>
+	<string name="video_ad_duration">Đóng quảng cáo (%d)</string>
+	<string name="video_next_playback">Tiếp theo</string>
 </resources>

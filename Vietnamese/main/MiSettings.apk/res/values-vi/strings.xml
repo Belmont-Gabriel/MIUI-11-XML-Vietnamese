@@ -196,4 +196,5 @@
 	<string name="usage_home_premission_second_summary">Để có thể hoạt động bình thường, ứng dụng này cần thi thập thông tin cá nhân của bạn. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.</string>
 	<string name="usage_focus_focus_premission_main_summary">Ứng dụng này cần truy cập thông tin tài khoản của bạn để ghi lại thống kê sử dụng Chế độ Tập trung.</string>
 	<string name="focus_time_exception_tip">Có vẻ như thời gian hệ thống đã thay đổi. Đã tắt Chế độ Tập trung.</string>
+	<string name="stop_app_timer_tip">Sau khi hủy kích hoạt, dữ liệu liên quan đến quản lý thời gian màn hình và các quyền được gọi sẽ bị xóa, bao gồm các mục cài đặt, dữ liệu cục bộ và dữ liệu đám mây, v.v.​</string>
 </resources>

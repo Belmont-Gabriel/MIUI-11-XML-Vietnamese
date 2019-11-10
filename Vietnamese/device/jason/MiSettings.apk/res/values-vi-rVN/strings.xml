@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string name="intelligent_recognition_item_summary">Sử dụng nhạc chuông được chỉ định cho các cuộc gọi từ dịch vụ giao hàng và taxi. Tính năng này sẽ hoạt động khi %s được đặt làm nhạc chuông mặc định của bạn.</string>
+</resources>

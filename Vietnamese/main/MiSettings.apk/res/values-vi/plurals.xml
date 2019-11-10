@@ -55,6 +55,6 @@
 		<item quantity="other">%d ngày</item>
 	</plurals>
 	<plurals name="usage_state_focus_usage_summary">
-		<item quantity="other">%d là một bước tiến lớn đối với chánh niệm và sự tập trung!</item>
+		<item quantity="other">%d phút là một bước tiến lớn đối với chánh niệm và sự tập trung!</item>
 	</plurals>
 </resources>

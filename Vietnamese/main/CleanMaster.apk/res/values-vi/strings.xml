@@ -554,9 +554,9 @@
     <string name="auto_clean_operation_clean_and_alert">Nhắc nhở và dọn dẹp</string>
     <string name="auto_clean_operation_just_clean">Chỉ dọn dẹp</string>
     <string name="auto_clean_trigger_dialog_title">Dọn dẹp bộ nhớ</string>
-    <string name="auto_clean_trigger_percent_ninety">Khi 90% bị chiếm dụng</string>
-    <string name="auto_clean_trigger_percent_eighty">Khi 80% bị chiếm dụng</string>
-    <string name="auto_clean_trigger_percent_sixty">Khi 60% bị chiếm dụng</string>
+    <string name="auto_clean_trigger_percent_ninety">Khi đã dùng 90%</string>
+    <string name="auto_clean_trigger_percent_eighty">Khi đã dùng 80%</string>
+    <string name="auto_clean_trigger_percent_sixty">Khi đã dùng 60%</string>
     <string name="auto_clean_notification_title">Nhắc nhở dọn dẹp</string>
     <string name="auto_clean_notification_content">Dọn dẹp rác %s</string>
     <string name="guide_secure_dialog_title">Tối ưu hiệu suất</string>
@@ -777,7 +777,7 @@
 	<string name="dc_storage_info">Khả dụng %1$s | Tổng %2$s</string>
 	<string name="guide_dc_dialog_negative">Hủy</string>
 	<string name="dc_advise_delete">Giải phóng dung lượng</string>
-	<string name="dc_header_used_space_text">Lưu trữ chiếm dụng</string>
+	<string name="dc_header_used_space_text">Lưu trữ đã dùng</string>
 	<string name="dc_item_summary_wechat_chat">Xóa lịch sử chat để giải phóng thêm dung lượng</string>
 	<string name="guide_dc_dialog_title">Bộ nhớ đang hết</string>
 	<string name="dc_item_title_uninstall_app">Gỡ cài đặt ứng dụng</string>
@@ -793,6 +793,6 @@
 	<string name="dc_header_can_clean">Có thể xóa</string>
 	<string name="dc_item_title_apk">Xóa gói cài đặt</string>
 	<string name="dc_item_title_qq">Dọn dẹp QQ</string>
-	<string name="dc_header_can_not_clean">Chiếm dụng</string>
+	<string name="dc_header_can_not_clean">Đã dùng</string>
 	<string name="dc_item_title_app_data">Xóa dữ liệu ứng dụng</string>
 </resources>
