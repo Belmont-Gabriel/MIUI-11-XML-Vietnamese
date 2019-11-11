@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+	<string-array name="dark_ui_mode_entries">
+		<item>Tối</item>
+		<item>Sáng</item>
+	</string-array>
+</resources>

@@ -145,7 +145,7 @@
 	<string name="usage_state_add_up_count">Phiên</string>
 	<string name="usage_state_open_focus_mode">Bật Chế độ Tập trung</string>
 	<string name="usage_state_focus_mode_summary2">Giữ tập trung</string>
-	<string name="stop_app_timer_fail">Dừng quản lý thời gian màn hình không thành công</string>
+	<string name="stop_app_timer_fail">Không thể tắt Thời gian màn hình</string>
 	<string name="usage_state_focus_success">Thử thách thành công</string>
 	<string name="usage_focus_save_success">Ảnh đã được lưu vào Thư viện</string>
 	<string name="wait_tip">Vui lòng chờ...</string>
