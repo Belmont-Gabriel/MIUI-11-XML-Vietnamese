@@ -87,4 +87,5 @@
 	<string name="copy">Sao chép</string>
 	<string name="fast_connect_device_headset">Pin</string>
 	<string name="fast_connect_device_battery">Pin</string>
+	<string name="fast_connect_nzbt_reset">Nhấn và giữ nút bên trên trong %1$s khi tắt nguồn</string>
 </resources>

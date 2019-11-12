@@ -336,7 +336,7 @@
     <string name="higher_quality_music">Nhạc chất lượng cao</string>
     <string name="hot_icon_in_fast_indexer">H</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Thỏa thuận Người dùng&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
+    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
     <string name="individuation_recommend_message">Bật đề nghị để nhận yêu cầu cá nhân dựa trên sở thích của bạn.</string>
     <string name="individuation_recommend_title">Kiến nghị</string>
     <string name="input_hint_prefix">Vui lòng nhập %1$s</string>

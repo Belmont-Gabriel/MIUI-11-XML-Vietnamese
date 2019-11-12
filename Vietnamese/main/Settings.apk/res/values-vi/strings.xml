@@ -2811,7 +2811,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="user_restrictions_controlled_by">Do %1$s kiểm soát</string>
     <string name="app_sees_restricted_accounts">Ứng dụng này có thể truy cập tài khoản của bạn</string>
     <string name="app_sees_restricted_accounts_and_controlled_by">Ứng dụng này có thể truy cập tài khoản của bạn. Do %1$s kiểm soát</string>
-    <string name="restriction_wifi_config_title">Wi-Fi and Mạng di động</string>
+    <string name="restriction_wifi_config_title">Wi-Fi và Mạng di động</string>
     <string name="restriction_wifi_config_summary">Cho phép sửa đổi cài đặt Wi-Fi và Mạng di động</string>
     <string name="restriction_bluetooth_config_title">Bluetooth</string>
     <string name="restriction_bluetooth_config_summary">Cho phép sửa đổi cài đặt và ghép nối Bluetooth</string>
@@ -2923,7 +2923,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="alarm_volume_option_title">Âm lượng báo thức</string>
     <string name="ring_volume_option_title">Âm lượng chuông</string>
     <string name="notification_volume_option_title">Âm lượng thông báo</string>
-    <string name="ringtone_title">Nhạc chuông điện thoại</string>
+    <string name="ringtone_title">Nhạc chuông</string>
     <string name="notification_ringtone_title">Nhạc chuông thông báo mặc định</string>
     <string name="alarm_ringtone_title">Nhạc chuông báo thức mặc định</string>
     <string name="vibrate_when_ringing_title">Rung khi có cuộc gọi</string>
@@ -3814,7 +3814,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="sms_delivered_sound_title">Âm báo đã gửi SMS</string>
     <string name="sms_received_sound_dialog_title">Chọn âm báo đã nhận SMS</string>
     <string name="sms_delivered_sound_dialog_title">Chọn âm báo đã gửi SMS</string>
-    <string name="alarm_sound_title">Âm báo thức</string>
+    <string name="alarm_sound_title">Báo thức</string>
     <string name="alarm_sound_dialog_title">Chọn âm báo thức</string>
     <string name="calendar_sound_title">Âm thanh Lịch</string>
     <string name="calendar_sound_dialog_title">Chọn âm thanh lịch</string>
@@ -9098,7 +9098,7 @@ Không phải tất cả ứng dụng đều hỗ trợ cài đặt này."</stri
 	<string name="encryption_interstitial_message_pin_for_face">"Ngoài việc sử dụng khuôn mặt để mở khóa thiết bị của bạn, bạn có thể bảo vệ thiết bị hơn nữa bằng cách yêu cầu PIN trước khi nó khởi động. Cho đến khi khởi động hoàn tất, nó không thể nhận cuộc gọi, tin nhắn hay thông báo, bao gồm cả báo thức..
 
 Điều này giúp bảo vệ dữ liệu khi điện thoại bị mất hoặc bị đánh cắp. Yêu cầu PIN để khởi động thiết bị?"</string>
-	<string name="enhanced_4g_lte_mode_summary_4g_calling">Use 4G services to improve voice and other communications (recommended)</string>
+	<string name="enhanced_4g_lte_mode_summary_4g_calling">Sử dụng 4G để cải thiện giọng nói và giao tiếp khác (đề xuất)</string>
 	<string name="enhanced_4g_lte_mode_title_4g_calling">Gọi 4G</string>
 	<string name="enhanced_4g_lte_mode_title_advanced_calling">Gọi nâng cao</string>
 	<string name="error_capturing_system_heap_dump_message">Không thể ghi heap dump hệ thống</string>
@@ -9779,4 +9779,20 @@ Dưới đây là một số nguyên nhân:
  hoặc sử dụng cổng tai nghe 3.5mm để truy cập tai nghe"</string>
 	<string name="xiaomi_cloud_find_device">Tìm thiết bị</string>
 	<string name="temporary_style">10 sau khi chạm màn hình</string>
+	<string name="dual_wifi_switching_summary">Wi-Fi kép yêu cầu các băng tần khác nhau, và nếu bạn muốn thay đổi băng tần của Wi-Fi chính, Wi-Fi phụ sẽ bị ngắt kết nối.</string>
+	<string name="dual_wifi_primary_wifi_connected">Đã kết nối Wi-Fi chính</string>
+	<string name="dual_wifi_switching_prompt">Nhắc chuyển Wi-Fi</string>
+	<string name="multi_network_acceleration_app_settings">Quản lý ứng dụng tăng tốc đa mạng</string>
+	<string name="dual_wifi">Tăng tốc mạng Wi-Fi kép</string>
+	<string name="dual_wifi_on">Bật</string>
+	<string name="dual_wifi_off">Tắt</string>
+	<string name="dual_wifi_slave_wifi_connected">Đã kết nối Wi-Fi phụ</string>
+	<string name="dual_wifi_enabler_summary">Đồng thời sử dụng hai mạng Wi-Fi để tăng tốc</string>
+	<string name="wifi_multi_network_acceleration">Tăng tốc đa mạng thông minh</string>
+	<string name="dual_wifi_avaliable_slave_wifi">Wi-Fi phụ khả dụng</string>
+	<string name="dual_wifi_avaliable_slave_wifi_24G">Wi-Fi phụ khả dụng (2.4G)</string>
+	<string name="dual_wifi_summary">Kết nối tới Wi-Fi chính, bật Wi-Fi phụ, và tăng tốc mạng.</string>
+	<string name="dual_wifi_switching_not_remind">Không có thêm gợi ý lần tới</string>
+	<string name="dual_wifi_acceleration">Tăng tốc mạng Wi-Fi phụ</string>
+	<string name="dual_wifi_avaliable_slave_wifi_5G">Wi-Fi phụ khả dụng (5G)</string>
 </resources>

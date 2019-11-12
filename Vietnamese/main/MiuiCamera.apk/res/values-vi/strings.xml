@@ -1323,4 +1323,8 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="pref_popup_camera_title">Máy ảnh trượt lên</string>
 	<string name="auxiliary_focus_peak_status">Bật tiêu điểm cao nhất</string>
 	<string name="moive_frame">Khung phim</string>
+	<string name="pref_camera_video_tag">Thẻ Video</string>
+	<string name="video_tag_flag_title">Đánh dấu</string>
+	<string name="pref_camera_first_tag_tips">Đánh dấu, video phát lại có thể được xem</string>
+	<string name="pref_camera_manual_description_title">Giới thiệu thông số</string>
 </resources>

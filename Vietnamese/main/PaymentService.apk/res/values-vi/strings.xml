@@ -288,7 +288,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="passport_account_hint_text">Địa chỉ email hoặc ID Tài khoản Mi</string>
     <string name="passport_account_identity_title">Xác minh danh tính của bạn</string>
     <string name="passport_account_label">Tài khoản Mi</string>
-    <string name="passport_account_name">Tài khoản: %1$s</string>
+    <string name="passport_account_name">"Tài khoản: %1$s "</string>
     <string name="passport_account_not_activated">Tài khoản chưa được kích hoạt</string>
     <string name="passport_account_not_actived">Tài khoản của bạn chưa được kích hoạt</string>
     <string name="passport_active_email_visit">Kiểm tra hộp thư đến của bạn tại %s</string>

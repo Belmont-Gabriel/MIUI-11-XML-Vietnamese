@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+    <string name="ad_exit_dialog_message">Cài đặt %s thành công. Mở ngay?</string>
+</resources>

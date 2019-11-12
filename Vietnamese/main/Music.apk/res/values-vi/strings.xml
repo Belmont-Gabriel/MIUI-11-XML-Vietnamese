@@ -360,7 +360,7 @@
     <string name="hungama_subscribe_positive_button">Thanh toán</string>
     <string name="hungama_subscribe_title">Tải xuống</string>
     <string name="i_know">OK</string>
-    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Thỏa thuận Người dùng&lt;/a> and &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
+    <string name="impunity_declaration_content">Bạn phải đọc và đồng ý với &lt;a href=\"http://www.miui.com/res/doc/eula.html?lang=en\">Thỏa thuận Người dùng&lt;/a> và &lt;a href=\"http://www.miui.com/res/doc/privacy.html?lang=en\">Chính sách Riêng tư&lt;/a> trước khi sử dụng sản phẩm.</string>
     <string name="impunity_declaration_ignore">Không hiển thị lại</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="impunity_declaration_positive_text">Đồng ý</string>
