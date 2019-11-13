@@ -1618,7 +1618,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="status_bar_clear_all_button">Xóa</string>
      <string name="status_bar_clock_date_format_12">E, d MMM</string>
      <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
-     <string name="status_bar_clock_date_time_format_12">aah:mm E, d MMM</string>
+     <string name="status_bar_clock_date_time_format_12">h:mm aa, E, d MMM</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Thiết lập phương thức nhập</string>
      <string name="status_bar_latest_events_title">Thông báo</string>
      <string name="status_bar_no_notifications_title">Không có thông báo</string>
@@ -2168,4 +2168,6 @@ d MMMM"</string>
 	<string name="gxzw_quick_open_dialer">Quay số</string>
 	<string name="gxzw_quick_open_add_note">Thêm ghi chú</string>
 	<string name="gxzw_quick_open_dialer_sub">Điện thoại</string>
+	<string name="band_24G">" (Băng tần 2.4GHz)"</string>
+	<string name="band_5G">" (Băng tần 5GHz)"</string>
 </resources>
