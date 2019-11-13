@@ -272,4 +272,5 @@
 	<string name="incoming_circle_text_video_answer">Thả ra để trả lời bằng video</string>
 	<string name="incoming_circle_text_video_answer_p">Vuốt lên để trả lời bằng video</string>
 	<string name="manager_conference_done">Xong</string>
+	<string name="wifi_call">Gọi VoWifi</string>
 </resources>

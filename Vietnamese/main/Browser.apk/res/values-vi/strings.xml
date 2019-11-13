@@ -1750,7 +1750,7 @@ Rời khỏi trang này bây giờ?"</string>
 	<string name="ad_app_download_notification_content">Sau khi cài đặt xong, mở bản demo ngay~</string>
 	<string name="ad_app_download_site_new">TIN TỨC</string>
 	<string name="ad_exit_dialog_exit_btn_name">Thoát</string>
-	<string name="ad_exit_dialog_message">Cài đặt hoàn tất! Bạn có muốn mở ngay?</string>
+	<string name="ad_exit_dialog_message">Cài đặt %s thành công. Mở ngay?</string>
 	<string name="ad_exit_dialog_open_btn_name">Mở</string>
 	<string name="ad_exit_dialog_title_name">Xác nhận mở ứng dụng mới</string>
 	<string name="permission_agree_service">Tôi đã đọc và đồng ý với tất cả các điều khoản và điều kiện sau đây.</string>

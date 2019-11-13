@@ -1652,17 +1652,17 @@ thiết bị của bạn"</string>
     <string name="app_name">Khóa ứng dụng</string>
     <string name="back_app_name">Quay lại Khóa ứng dụng</string>
     <string name="notification_item">Bảo vệ ứng dụng bằng Khóa ứng dụng</string>
-    <string name="notification_masked_item">Ẩn thông báo</string>
+    <string name="notification_masked_item">Làm thế nào để ẩn nội dung thông báo?</string>
     <string name="lock_mode_title">Cài đặt khóa</string>
     <string name="after_the_lock_screen">Khóa ứng dụng cùng với màn hình</string>
     <string name="set_applock_password">Thiết lập mật khẩu</string>
     <string name="ac_firstUseApplock_title">Đặt mật khẩu để bảo vệ ứng dụng</string>
     <string name="ac_firstUseApplock_subTitle">Tin cậy hơn với công cụ bảo mật cấp hệ thống</string>
     <string name="notification_subtitle">Chạm để bật</string>
-    <string name="notification_masked_subtitle">Ẩn thông báo từ các ứng dụng được bảo vệ bằng Khóa ứng dụng</string>
+    <string name="notification_masked_subtitle">Sử dụng Khóa ứng dụng để ẩn nội dung thông báo cho ứng dụng được chọn</string>
     <string name="ac_enter_applock">Vào Khóa ứng dụng</string>
-    <string name="ac_mask_all_apps">Ẩn tất cả ứng dụng</string>
-    <string name="ac_unmask_all_apps">Bỏ ẩn tất cả ứng dụng</string>
+    <string name="ac_mask_all_apps">Ẩn cho tất cả</string>
+    <string name="ac_unmask_all_apps">Hiện cho tất cả</string>
     <string name="ac_summaryOn">Nhập mật khẩu để mở ứng dụng được bảo vệ</string>
     <string name="ac_summaryOff">Đã tắt, không yêu cầu mật khẩu để mở ứng dụng</string>
     <string name="lockpattern_tutorial_cancel_label">Hủy</string>
@@ -1680,7 +1680,7 @@ thiết bị của bạn"</string>
     <string name="convenient_mode">Mở khóa tất cả ứng dụng cùng lúc</string>
     <string name="convenient_summary">Nhập mật khẩu một lần để mở khóa tất cả ứng dụng</string>
     <string name="suggest_app_tolock">Kiến nghị</string>
-    <string name="suggest_app_tolock_masked">Đã ẩn</string>
+    <string name="suggest_app_tolock_masked">Đã ẩn nội dung</string>
     <string name="suggest_app_tolock_unmasked">Hiển thị thông báo</string>
     <string name="forget_password_button_text"><u>Quên mật khẩu</u></string>
     <string name="forget_password_button_text_normal">Quên mật khẩu</string>
@@ -3168,4 +3168,10 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="privacy_description_camera">%1s đang sử dụng máy ảnh dưới nền. Bạn có thể gạt nút bên đưới dể hạn chế hoạt động này.</string>
 	<string name="privacy_notification_title_mic">%1s đang sử dụng micro dưới nền</string>
 	<string name="privacy_description_mic">%1s đang sử dụng micro dưới nền. Bạn có thể gạt nút bên dưới để hạn chế hoạt động này.</string>
+	<string name="power_dialog_super_save_msg_5g">"Siêu tiết kiệm pin hạn chế hầy hết tính năng hao pin (v.d. kết nối 5G) giảm hiệu năng thiết bị của bạn. Chỉ gọi điện, nhắn tin và kết nối mạng không bị ảnh hưởng. Bật Siêu tiết kiệm pin?"</string>
+	<string name="privacyapp_number_unmasked_text">Không thể ẩn nội dung thông báo</string>
+	<string name="power_optimize_disable_5g">Hạn chế kết nối 5G</string>
+	<string name="privacyapp_number_masked_text">Đã ẩn nội dung thông báo</string>
+	<string name="power_center_scan_item_title_5g">Kết nối 5G</string>
+	<string name="power_save_ps_close_setting_5g">Hạn chế tính năng gây hao pin (đồng bộ, kết nối 5G, GPS)</string>
 </resources>
