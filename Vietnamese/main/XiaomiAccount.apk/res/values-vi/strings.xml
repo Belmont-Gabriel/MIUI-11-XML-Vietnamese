@@ -432,7 +432,7 @@
     <string name="push_notify_dialog_title">Xác minh tài khoản</string>
     <string name="push_notify_dialog_message">Một thiết bị không xác định đã được sử dụng để đăng nhập vào Tài khoản Mi của bạn. Nhập mã xác minh trên thiết bị. Nếu không phải là bạn, hãy thay đổi mật khẩu ngay. Không tiết lộ mã xác minh cho người khác.</string>
     <string name="account_secure_info_pref_title">Thông tin tài khoản</string>
-    <string name="account_user_email">Email</string>
+    <string name="account_user_email">Email khôi phục</string>
     <string name="account_user_phone">Điện thoại</string>
     <string name="account_user_recovery_phone">Số điện thoại khôi phục</string>
     <string name="account_security_info_pref_title">Thông tin bảo mật</string>

@@ -4,9 +4,9 @@
 	<string name="delete_frequent_phrases">Xóa cụm từ thường xuyên</string>
 	<string name="delete_frequent_phrases_confirm">Xóa cụm từ thường xuyên đã chọn?</string>
 	<string name="edit_frequent_phrases">Sửa cụm từ thường xuyên</string>
-	<string name="frequent_phrases_des">Enter frequent phrases with only a few taps while editing text</string>
-	<string name="frequent_phrases_size_exceeded">Can add up to %1$d frequent phrases. Delete unnecessary ones to add more.</string>
-	<string name="menu_add_frequent_phrases">Theem</string>
+	<string name="frequent_phrases_des">Nhập cụm từ thường xuyên chỉ với một vài cú chạm khi đang sửa văn bản</string>
+	<string name="frequent_phrases_size_exceeded">Có thể thêm tới %1$d cụm từ thường xuyên. Xóa cụm từ không cần thiết để thêm nhiều hơn.</string>
+	<string name="menu_add_frequent_phrases">Thêm</string>
 	<string name="menu_delete">Xóa</string>
 	<string name="menu_edit">Sửa</string>
 	<string name="sync_phrase_label">Cụm từ thường xuyên</string>

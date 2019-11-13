@@ -901,7 +901,7 @@ Cập nhật Mi Video lên phiên bản mới nhất trước."</string>
 	<string name="cast_mute">Tắt tiếng</string>
 	<string name="cast_notification_connected_message">Đã kết nối với %1$s</string>
 	<string name="cast_notification_connecting_message">Đang kết nối với %1$s</string>
-	<string name="cast_notification_default_channel_name">Cast</string>
+	<string name="cast_notification_default_channel_name">Truyền</string>
 	<string name="cast_notification_disconnect">Ngắt kết nối</string>
 	<string name="cast_pause">Tạm dừng</string>
 	<string name="cast_play">Phát</string>
@@ -1533,7 +1533,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="srl_content_empty">Vùng hiển thị nội dung của SmartRefreshLayout đang trống. Bạn quên thêm nó vào tệp layout xml?</string>
 	<string name="vp_hardware_unsported">"Video này không thể phát trên thiết bị của bạn."</string>
 	<string name="srl_footer_finish">Tải thành công</string>
-	<string name="srl_header_update">"'Lần cập nhật cuối' M-d HH:mm"</string>
+	<string name="srl_header_update">"'Lần cập nhật cuối' d-M HH:mm"</string>
 	<string name="no_subscriptions">Không có mục nào ở đây</string>
 	<string name="auto_play_next_on">Tự động phát được bật</string>
 	<string name="gallery_video_operate_text">Điều chỉnh chuyển động chậm</string>
@@ -1647,7 +1647,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="passport_wrong_voice">Mã bạn nhập không chính xác</string>
 	<string name="input_new_pwd">Nhập mật khẩu mới</string>
 	<string name="error_invalid_bind_address">Địa chỉ email bạn đã nhập là không hợp lệ.</string>
-	<string name="account_user_email">Email</string>
+	<string name="account_user_email">Email khôi phục</string>
 	<string name="account_error_shorter_user_name">Tên phải dài hơn 2 ký tự</string>
 	<string name="get_phone_verifycode_exceed_limit">Quá nhiều mã xác minh được gửi đến số điện thoại này. Vui lòng chờ sau 24 giờ và thử lại.</string>
 	<string name="passport_talkback_switch_image_captcha">Chuyển sang mã xác nhận hình ảnh</string>

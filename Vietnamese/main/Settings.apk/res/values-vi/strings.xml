@@ -6938,7 +6938,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="accessibility_vibration_intensity_low">Thấp</string>
     <string name="accessibility_vibration_intensity_medium">Trung bình</string>
     <string name="accessibility_vibration_intensity_off">Tắt</string>
-    <string name="accessibility_vibration_settings_title">Rung</string>
+    <string name="accessibility_vibration_settings_title">Rung &amp; cường độ rung</string>
     <string name="accessibility_vibration_summary">Chuông %1$s, chạm %2$s</string>
     <string name="accessibility_vibration_summary_high">Chuông &amp; thông báo đặt mức cao</string>
     <string name="accessibility_vibration_summary_low">Chuông &amp; thông báo đặt mức thấp</string>

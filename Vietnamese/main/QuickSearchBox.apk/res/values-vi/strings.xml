@@ -17,7 +17,7 @@
     <string name="distance_unit_meter">m</string>
     <string name="distance_unit_kilometer">km</string>
     <string name="search_sources">Mục có thể tìm kiếm</string>
-    <string name="corpus_label_web">Web</string>
+    <string name="corpus_label_web">Kết quả Web</string>
     <string name="corpus_description_web">Tìm kiếm trên web, dấu trang và lịch sử trình duyệt</string>
     <string name="corpus_label_apps">Ứng dụng</string>
     <string name="corpus_description_apps">Tên của các ứng dụng đã cài đặt</string>

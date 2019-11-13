@@ -528,8 +528,8 @@ Quản trị viên có thể giám sát và quản lý cài đặt, truy cập c
     <string name="quick_settings_disclosure_managed_profile_named_vpn">Hồ sơ công việc đã kết nối %1$s</string>
     <string name="quick_settings_disclosure_personal_profile_named_vpn">Hồ sơ cá nhân đã kết nối %1$s</string>
     <string name="quick_settings_disclosure_named_vpn">Thiết bị đã kết nối %1$s</string>
-    <string name="status_bar_date_format">"EEEE
-d MMMM"</string>
+    <string name="status_bar_date_format">"E
+d MMM"</string>
     <string name="status_bar_recent_guide_all">"Trượt lên để đóng
 Trượt xuống để khóa"</string>
     <string name="status_bar_recent_guide_top">Trượt lên để đóng</string>
@@ -538,9 +538,9 @@ Trượt xuống để khóa"</string>
     <string name="description_direction_up">Kéo lên trên cho %s.</string>
     <string name="description_direction_left">Trượt sang trái để %s.</string>
     <string name="description_target_search">Tìm kiếm</string>
-    <string name="status_bar_date_format_12">"EEEE
-d MMMM"</string>
-    <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+    <string name="status_bar_date_format_12">"E
+d MMM"</string>
+    <string name="status_bar_clock_date_format">E, d MMM</string>
     <string name="accessibility_recent_task_exit">Đã đóng Gần đây</string>
     <string name="accessibility_recent_task_memory_info">Tổng RAM: %2$s |RAM khả dụng: %1$s. Chạm đúp để xóa.</string>
     <string name="accessibility_recent_task_locked">Đã khóa, trượt xuống để mở khóa.</string>
@@ -1616,9 +1616,9 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="status_bar_airplane">Chế độ máy bay</string>
      <string name="status_bar_alarm">Báo thức</string>
      <string name="status_bar_clear_all_button">Xóa</string>
-     <string name="status_bar_clock_date_format_12">EEEE, d MMMM</string>
-     <string name="status_bar_clock_date_time_format">H:mm E, d MMMM</string>
-     <string name="status_bar_clock_date_time_format_12">aah:mm E, d MMMM</string>
+     <string name="status_bar_clock_date_format_12">E, d MMM</string>
+     <string name="status_bar_clock_date_time_format">H:mm E, d MMM</string>
+     <string name="status_bar_clock_date_time_format_12">aah:mm E, d MMM</string>
      <string name="status_bar_input_method_settings_configure_input_methods">Thiết lập phương thức nhập</string>
      <string name="status_bar_latest_events_title">Thông báo</string>
      <string name="status_bar_no_notifications_title">Không có thông báo</string>
