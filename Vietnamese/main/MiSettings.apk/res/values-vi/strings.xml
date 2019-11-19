@@ -134,12 +134,12 @@
 	<string name="usage_state_focus_warning_text">Tập trung vào điều gì đó thật quan trọng</string>
 	<string name="usage_state_addup_time">Tất cả các phiên</string>
 	<string name="usage_state_download">Lưu vào Thư viện</string>
-	<string name="stop_app_timer">Dừng quản lý thời gian màn hình</string>
+	<string name="stop_app_timer">Tắt Thời gian màn hình</string>
 	<string name="usage_state_focus_mode_warning_title">Chú ý</string>
 	<string name="usage_continuous_days">Ngày liên tục</string>
 	<string name="usage_state_duration_title">Phiên này</string>
 	<string name="usage_state_focus_weak_summary">Đặt điện thoại của bạn ra xa</string>
-	<string name="stop_app_timer_success">Quản lý thời gian màn hình đã dừng</string>
+	<string name="stop_app_timer_success">Quản lý Thời gian màn hình đã tắt</string>
 	<string name="usage_state_add_up_days">Ngày</string>
 	<string name="usage_total_times">Tổng số phiên</string>
 	<string name="usage_state_add_up_count">Phiên</string>
@@ -148,7 +148,7 @@
 	<string name="stop_app_timer_fail">Không thể tắt Thời gian màn hình</string>
 	<string name="usage_state_focus_success">Thử thách thành công</string>
 	<string name="usage_focus_save_success">Ảnh đã được lưu vào Thư viện</string>
-	<string name="wait_tip">Vui lòng chờ...</string>
+	<string name="wait_tip">Chỉ vài giây...</string>
 	<string name="usage_state_turn_on">Bật</string>
 	<string name="usage_state_accurate_date">dd MMMM, yyyy</string>
 	<string name="usage_state_add_up_time">Tổng thời gian</string>
@@ -196,5 +196,20 @@
 	<string name="usage_home_premission_second_summary">Để có thể hoạt động bình thường, ứng dụng này cần thi thập thông tin cá nhân của bạn. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.</string>
 	<string name="usage_focus_focus_premission_main_summary">Ứng dụng này cần truy cập thông tin tài khoản của bạn để ghi lại thống kê sử dụng Chế độ Tập trung.</string>
 	<string name="focus_time_exception_tip">Có vẻ như thời gian hệ thống đã thay đổi. Đã tắt Chế độ Tập trung.</string>
-	<string name="stop_app_timer_tip">Sau khi hủy kích hoạt, dữ liệu liên quan đến quản lý thời gian màn hình và các quyền được gọi sẽ bị xóa, bao gồm các mục cài đặt, dữ liệu cục bộ và dữ liệu đám mây, v.v.​</string>
+	<string name="stop_app_timer_tip">Sau khi tắt, dữ liệu liên quan đến quản lý thời gian màn hình và các quyền được gọi sẽ bị xóa, bao gồm các mục cài đặt, dữ liệu cục bộ và dữ liệu đám mây, v.v.​</string>
+	<string name="several_days_use_time">Thời gian màn hình: %2$s</string>
+	<string name="trend_from_yesterday_more_simple">%1$s hơn hôm qua</string>
+	<string name="unlock_times_per_hour">"Mở khóa mỗi giờ: "</string>
+	<string name="most_unlock_week_day">"Mở khóa nhiều nhất: "</string>
+	<string name="trend_from_yesterday_less_simple">%1$s ít hơn hôm qua</string>
+	<string name="trend_from_yesterday_more">%1$s nhiều hơn hôm qua</string>
+	<string name="first_unlock_time">"Lần mở khóa đầu tiên: "</string>
+	<string name="unlock_times_per_day">"Trung bình hàng ngày: "</string>
+	<string name="today_use_time">Thời gian màn hình: %1$s</string>
+	<string name="healthy_use_phone">Quản lý thời gian màn hình</string>
+	<string name="usage_state_focus_mode_experience_warning_message">"Chế độ tập trung chỉ cho phép sử dụng Máy ảnh và gọi khẩn cấp. Bạn sẽ không thể tắt Chế độ Tập trung sớm."</string>
+	<string name="trend_from_yesterday_equal">Giống như hôm qua</string>
+	<string name="trend_from_yesterday_less">%1$s ít hơn hôm qua</string>
+	<string name="today_usage_title">Hôm nay</string>
+	<string name="category_other">Khác</string>
 </resources>

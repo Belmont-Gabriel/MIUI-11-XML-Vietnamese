@@ -77,4 +77,7 @@
 	<plurals name="agenda_count_down">
 		<item quantity="other">Trong %d phút</item>
 	</plurals>
+	<plurals name="express_setting_phone_binded_info">
+		<item quantity="other">Đã thêm %d số điện thoại</item>
+	</plurals>
 </resources>

@@ -7815,7 +7815,7 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
 	<string name="auto_dual_clock_title">Đồng hồ kép</string>
 	<string name="dual_clock">Đồng hồ kép</string>
 	<string name="dual_clock_aod_hint">"\"Đồng hồ kép\" dựa trên các tính năng sau: 1. Với màn hình đã tắt, cho phép hiển thị các mục trong Cài đặt &gt; Hiển thị; 2. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 3. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
-	<string name="dual_clock_hint">"\"Dual Clock\" dựa trên các tính năng sau: 1. Với Màn hình khóa, đảm bảo bạn sử dụng chủ đề mặc định hoặc Classic (Cổ điển) trong Cài đặt &gt; Chủ đề; 2. Với Màn hình chính, đảm bảo bạn đang sử dụng tiện ích đồng hồ mặc định của hệ thống."</string>
+	<string name="dual_clock_hint">Đồng hồ kép yêu cầu sử dụng tiện ích đồng hồ hệ thống và chủ đề mặc định</string>
 	<string name="dual_clock_ok">Đã hiểu</string>
 	<string name="dual_clock_open_message">Đồng hồ kép sẽ hiển thị trên Màn hình khóa và Màn hình chính.</string>
 	<string name="more_installed_services_title">Thêm dịch vụ đã tải</string>
@@ -7977,8 +7977,8 @@ Bạn có thể biến thiết bị Android của mình thành một điểm tru
 	<string name="activity_title_power_manager">Tiết kiệm pin; Tiết kiệm pin</string>
     <string name="card_main_hbassistant_title">Phong bì đỏ, gói đỏ; Tiền</string>
     <string name="loading">Chỉ vài giây…</string>
-	<string name="auto_dual_clock_aod_summary">Hiển thị Đồng hồ đôi khi thời gian hiện tại khác thời gian trên đồng hồ thứ hai</string>
-	<string name="dual_clock_aod_open_message">Đồng hồ đôi sẽ hiện trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
+	<string name="auto_dual_clock_aod_summary">Hiển thị Đồng hồ kép khi thời gian hiện tại khác thời gian trên đồng hồ thứ hai</string>
+	<string name="dual_clock_aod_open_message">Đồng hồ kép sẽ hiện trên Màn hình khóa, Màn hình chính và Màn hình Ambient.</string>
     <string name="gxzw_enroll_again">Nhấc ngón tay lên và nhấn vào cảm biến vân tay lần nữa</string>
 	<string name="layout_exhuge_font_take_effect_tips">Cỡ chữ XXL chỉ hoạt động trong Điện thoại, Tin nhắn và Liên hệ</string>
 	<string name="layout_exhuge_font_tips">Nhiều tùy chọn khả dụng trong %1$s</string>
@@ -9736,7 +9736,7 @@ Cho phép tất cả các ứng dụng muốn quét?"</string>
 	<string name="aod_name_wanxiang">Màn hình Ambient</string>
 	<string name="aod_style_description">Hiển thị đồng hồ, ngày, giờ, thông báo và các mục khác khi màn hình tắt</string>
 	<string name="aod_notification_style_none">Không làm gì</string>
-	<string name="title_layout_current2_weight">Kích cỡ phông chữ &amp; độ đậm phông chữ</string>
+	<string name="title_layout_current2_weight">Kích cỡ &amp; độ đậm phông chữ</string>
 	<string name="wifi_generation_title">Công nghệ</string>
 	<string name="xiaomi_transfer">Chia sẻ Mi</string>
 	<string name="wifi_generation_summary">Thêm số thế hệ công nghệ không dây vào biểu tượng Wi-Fi</string>
@@ -9797,4 +9797,7 @@ Dưới đây là một số nguyên nhân:
 	<string name="dual_wifi_avaliable_slave_wifi_5G">Wi-Fi phụ khả dụng (băng tần 5GHz)</string>
 	<string name="band_24G">" (Băng tần 2.4GHz)"</string>
 	<string name="band_5G">" (Băng tần 5GHz)"</string>
+	<string name="max_fingerprint_reached_toast">Bạn có thể thêm tới 5 dấu vân tay</string>
+	<string name="apply_fingerprint_to">Sử dụng vân tay để</string>
+	<string name="enrol_fingerprint_data">Thêm vân tay</string>
 </resources>

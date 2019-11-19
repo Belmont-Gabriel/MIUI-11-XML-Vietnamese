@@ -820,7 +820,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="gas_detail_account_name">Số tài khoản</string>
     <string name="gas_detail_header_title">Nhắc tiền điện</string>
     <string name="limit_detail_title">Giới hạn thành phố</string>
-    <string name="setting_show_reject_agenda">Hiển thị sụ kiện bị từ chối</string>
+    <string name="setting_show_reject_agenda">Hiển thị sự kiện bị từ chối</string>
     <string name="n_week_last">Tuần</string>
     <string name="n_week_first">Đầu tiên</string>
     <string name="n_day_later">Ngày sau</string>

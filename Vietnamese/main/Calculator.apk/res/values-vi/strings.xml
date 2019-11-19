@@ -912,4 +912,10 @@
 	<string name="preference_use_voice_title">Đọc kết quả</string>
 	<string name="preference_use_voice_summary">Bật để sử dụng đọc kết quả trong quá trình tính toán</string>
 	<string name="preference_user_feedback_title">Phản hồi</string>
+	<string name="lpr_ok">Đã hiểu</string>
+	<string name="lpr_tips_msg">"Bắt đầu từ ngày 8 tháng 10 năm 2019, lãi suất cho vay nhà ở thương mại cá nhân sẽ được tính theo lãi suất cơ bản cho vay (LPR) thay vì lãi suất chuẩn được thực hiện trước đó là 4,9%. Bây giờ, tỷ lệ cuối cùng sẽ được xác nhận bằng cách thêm điểm cơ bản LPR.
+
+LPR một năm và năm năm sẽ được trích dẫn vào ngày 20 mỗi tháng (sự chậm trễ có thể xảy ra do ngày lễ ngân hàng) trên trang web của Ngân hàng Nhân dân Trung Quốc."</string>
+	<string name="loan_basic_point">Điểm cơ bản</string>
+	<string name="loan_type_title">Tiêu chuẩn lãi suất</string>
 </resources>

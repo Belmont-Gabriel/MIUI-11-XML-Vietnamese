@@ -348,7 +348,7 @@
     <string name="resource_trial_end_purchase">Mua</string>
     <string name="resource_trial_end_restore">Kết thúc dùng thử</string>
     <string name="resource_trial_end_time">(dùng thử đến %1$s)</string>
-    <string name="resource_trial_end_time_format">hh:mma (d MMM)</string>
+    <string name="resource_trial_end_time_format">hh:mma d MMM</string>
     <string name="resource_trial_end_title">Hết hạn dùng thử</string>
     <string name="resource_trial_fail_cancel">OK</string>
     <string name="resource_trial_fail_go_settings">Cài đặt</string>

@@ -57,4 +57,19 @@
 	<plurals name="usage_state_focus_usage_summary">
 		<item quantity="other">%d phút là một bước tiến lớn đối với chánh niệm và sự tập trung!</item>
 	</plurals>
+	<plurals name="trend_from_last_several_day_less">
+		<item quantity="other">%2$s ít hơn của thời gian màn hình hôm nay so với trung bình %1$d-ngày của bạn</item>
+	</plurals>
+	<plurals name="last_several_days">
+		<item quantity="other">%d ngày</item>
+	</plurals>
+	<plurals name="trend_from_last_several_day_more">
+		<item quantity="other">%2$s nhiều hơn của thời gian màn hình hôm nay so với trung bình %1$d-ngày của bạn</item>
+	</plurals>
+	<plurals name="unlock_times">
+		<item quantity="other">%.2f lần</item>
+	</plurals>
+	<plurals name="trend_from_last_several_day_equal">
+		<item quantity="other">Thời gian màn hình hôm nay bằng với trung bình %d-ngày của bạn</item>
+	</plurals>
 </resources>

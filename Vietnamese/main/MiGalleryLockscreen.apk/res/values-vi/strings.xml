@@ -717,7 +717,7 @@
 	<string name="disable_dlg_title">Tắt Tạp chí Khóa màn hình?</string>
 	<string name="toast_connect_failed_tip">"Không thể kết nối. Chờ một vài phút rồi thử lại."</string>
 	<string name="enable_toast_ar">Đã chuyển sang đề xuất</string>
-	<string name="system_default">Mặc định hệ thống</string>
+	<string name="system_default">Mặc định</string>
 	<string name="wp_desktop_enable_title">Trình chiếu Màn hình chính</string>
 	<string name="sst_morning_history_desc">Xem lời chào buổi sáng trước đó</string>
 	<string name="mode_auto_desc_open">Tự động nhận ảnh mới</string>

@@ -300,4 +300,22 @@
 	<plurals name="backup_pause_dialog_message">
 		<item quantity="other">Tạm dừng đồng bộ ảnh, video, liên hệ, ghi chú và các mục khác với đám mây trong %d phút.</item>
 	</plurals>
+	<plurals name="trash_purge_dialog_message_image">
+		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
+	</plurals>
+	<plurals name="trash_vip_info_text_unlogin">
+		<item quantity="other">Các mục có thể lưu trữ tại đây tối đa %1$d ngày. Nâng cấp gói của bạn để gia tăng thời hạn này.</item>
+	</plurals>
+	<plurals name="photo_remain_days">
+		<item quantity="other">%d ngày</item>
+	</plurals>
+	<plurals name="trash_vip_info_text_login">
+		<item quantity="other">Các mục có thể lưu trữ tại đây tối đa %1$d ngày (%2$s)</item>
+	</plurals>
+	<plurals name="trash_purge_dialog_message_media">
+		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
+	</plurals>
+	<plurals name="trash_purge_dialog_message_video">
+		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
+	</plurals>
 </resources>
