@@ -918,4 +918,5 @@
 LPR một năm và năm năm sẽ được trích dẫn vào ngày 20 mỗi tháng (sự chậm trễ có thể xảy ra do ngày lễ ngân hàng) trên trang web của Ngân hàng Nhân dân Trung Quốc."</string>
 	<string name="loan_basic_point">Điểm cơ bản</string>
 	<string name="loan_type_title">Tiêu chuẩn lãi suất</string>
+	<string name="lpr_tips_title">LPR (Lãi suất cho vay chính)</string>
 </resources>

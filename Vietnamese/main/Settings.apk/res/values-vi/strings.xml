@@ -9800,4 +9800,6 @@ Dưới đây là một số nguyên nhân:
 	<string name="max_fingerprint_reached_toast">Bạn có thể thêm tới 5 dấu vân tay</string>
 	<string name="apply_fingerprint_to">Sử dụng vân tay để</string>
 	<string name="enrol_fingerprint_data">Thêm vân tay</string>
+	<string name="sunlight_mode">Chế độ Ánh sáng mặt trời</string>
+	<string name="sunlight_mode_summary">Điều chỉnh độ sáng thành ánh sáng mạnh xung quanh khi tắt độ sáng tự động</string>
 </resources>

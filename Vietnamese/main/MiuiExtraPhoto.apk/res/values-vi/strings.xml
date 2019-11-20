@@ -57,4 +57,5 @@
 	<string name="motion_photo_toast_long_press_play">Nhấn và giữ ảnh để phát</string>
 	<string name="motion_photo_save_video_ing">Đang lưu video…</string>
 	<string name="motion_photo_save_image_ing">Đang lưu ảnh đẹp nhất…</string>
+	<string name="extra_photo_common_save_fail">Lưu thất bại</string>
 </resources>

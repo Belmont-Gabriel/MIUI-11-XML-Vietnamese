@@ -2938,7 +2938,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="system_permission_declare_double_link">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string formatted="false" name="system_permission_declare_main_purpose">Chào mừng tới %1s! Ứng dụng này cho phép bạn sử dụng các tính năng sau: %2s.</string>
 	<string name="system_permission_declare_no_say_no">"Nếu bạn chọn không cấp quyền hoặc không cho phép chúng tôi thu thập và sử dụng dữ liệu của bạn, ứng dụng này không thể hoạt động bình thường."</string>
-	<string name="system_permission_declare_privacy_declare">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Lưu ý rằng Bảo mật cần kết nối mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</string>
+	<string name="system_permission_declare_privacy_declare">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Lưu ý rằng ứng dụng này cần kết nối mạng và yêu cầu các quyền sau để thu thập thông tin cá nhân của bạn:"</string>
 	<string name="system_permission_declare_revoke_path">Bạn có thể gỡ cài đặt ứng dụng này, đăng xuất khỏi tài khoản, hoặc quản lý quyền và ủy quyền của bạn trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
 	<string name="system_permission_declare_use_network">Kết nối mạng</string>
 	<string name="system_permission_perm_answer_call">Thực hiện cuộc gọi</string>
@@ -2983,7 +2983,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="privacy_apps_tutorial_dlg_title">Làm thế nào để tìm ứng dụng ẩn</string>
 	<string name="stop_milink_connect">Dừng truyền</string>
 	<string name="system_permission_declare_disagree">Không đồng ý</string>
-	<string name="system_permission_declare_privacy_no_permission">"Lưu ý rằng Bảo mật cần kết nối mạng và thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ cho bạn. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan."</string>
+	<string name="system_permission_declare_privacy_no_permission">"Lưu ý rằng ứng dụng này cần kết nối mạng và thu thập thông tin cá nhân cần thiết để cung cấp dịch vụ cho bạn. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan."</string>
 	<string name="system_permission_declare_privacy_policy">&lt;Data&gt;Đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này.&lt;/Data&gt;</string>
 	<string name="system_permission_declare_revoke_system">Bạn có thể thoát ứng dụng này.</string>
 	<string name="system_permission_declare_revoke_uninstallable">Bạn có thể gỡ cài đặt ứng dụng này hoặc quản lý quyền và xác thực trong Bảo mật &gt; Quản lý ứng dụng &gt; Quyền &gt; Quyền khác.</string>
