@@ -111,4 +111,19 @@
 	<plurals name="dc_item_summary_video">
 		<item quantity="other">&lt;Data&gt;Bạn có thể xóa &lt;font color=#0097FF&gt;%d&lt;/font&gt; video&lt;/Data&gt;</item>
 	</plurals>
+	<plurals name="global_wa_image">
+		<item quantity="other">%1$d mục</item>
+	</plurals>
+	<plurals name="global_wa_voice">
+		<item quantity="other">&lt;Data&gt;Đã tìm thấy &lt;big&gt;&lt;big&gt;&lt;font size=20 color=#FF9000 &gt;%1$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; tin nhắn thoại&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="global_wa_video">
+		<item quantity="other">%1$d items</item>
+	</plurals>
+	<plurals name="global_wa_clean_finish_picture">
+		<item quantity="other">&lt;Data&gt;Đã giải phóng &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (đủ cho &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; ảnh)&lt;/Data&gt;</item>
+	</plurals>
+	<plurals name="global_wa_clean_finish_audio">
+		<item quantity="other">&lt;Data&gt;Đã giải phóng &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%1$s&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; (đủ cho &lt;big&gt;&lt;big&gt;&lt;font color=#01BB00 &gt;%2$d&lt;/font&gt;&lt;/big&gt;&lt;/big&gt; bài hát)&lt;/Data&gt;</item>
+	</plurals>
 </resources>

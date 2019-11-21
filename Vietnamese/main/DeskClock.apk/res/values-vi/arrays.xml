@@ -102,4 +102,31 @@
 		<item>Đen</item>
 		<item>Tự động</item>
 	</string-array>
+	<string-array name="days_of_week">
+		<item>CN</item>
+		<item>T2</item>
+		<item>T3</item>
+		<item>T4</item>
+		<item>T5</item>
+		<item>T6</item>
+		<item>T7</item>
+	</string-array>
+	<string-array name="bedtime_guide_repeat_type">
+		<item>Thứ hai đến Thứ sáu</item>
+		<item>Mỗi ngày</item>
+		<item>Ngày làm việc</item>
+	</string-array>
+	<string-array name="bedtime_repeat_entries">
+		<item>Mỗi ngày</item>
+		<item>Thứ hai đến Thứ sáu</item>
+		<item>Ngày làm việc</item>
+		<item>Tùy chỉnh</item>
+	</string-array>
+	<string-array name="notification_adv_time_entries">
+		<item>Tại thời gian đã đặt</item>
+		<item>15 phút trước đó</item>
+		<item>30 phút trước đó</item>
+		<item>1 giờ trước đó</item>
+		<item>Không</item>
+	</string-array>
 </resources>

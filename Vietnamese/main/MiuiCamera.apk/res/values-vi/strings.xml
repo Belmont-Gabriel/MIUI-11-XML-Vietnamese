@@ -1330,4 +1330,6 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="pref_camera_quick_settings">Cài đặt nhanh</string>
 	<string name="camera_settings_category_development">Tính năng thử nghiệm</string>
 	<string name="pref_camera_common_settings">Cài đặt chung</string>
+	<string name="pref_camera_heic_image_format_title">Định dạng HEIC</string>
+	<string name="pref_camera_heic_image_format_description">Chụp ảnh ở định dạng HEIF hiệu quả cao</string>
 </resources>
