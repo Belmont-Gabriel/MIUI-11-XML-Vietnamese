@@ -201,15 +201,15 @@
 	<string name="trend_from_yesterday_more_simple">%1$s hơn hôm qua</string>
 	<string name="unlock_times_per_hour">"Mở khóa mỗi giờ: "</string>
 	<string name="most_unlock_week_day">"Mở khóa nhiều nhất: "</string>
-	<string name="trend_from_yesterday_less_simple">%1$s ít hơn hôm qua</string>
-	<string name="trend_from_yesterday_more">%1$s nhiều hơn hôm qua</string>
+	<string name="trend_from_yesterday_less_simple">Ít hơn hôm qua %1$s</string>
+	<string name="trend_from_yesterday_more">Nhiều hơn hôm qua %1$s </string>
 	<string name="first_unlock_time">"Lần mở khóa đầu tiên: "</string>
 	<string name="unlock_times_per_day">"Trung bình hàng ngày: "</string>
 	<string name="today_use_time">Thời gian màn hình: %1$s</string>
 	<string name="healthy_use_phone">Quản lý thời gian màn hình</string>
 	<string name="usage_state_focus_mode_experience_warning_message">"Chế độ tập trung chỉ cho phép sử dụng Máy ảnh và gọi khẩn cấp. Bạn sẽ không thể tắt Chế độ Tập trung sớm."</string>
 	<string name="trend_from_yesterday_equal">Giống như hôm qua</string>
-	<string name="trend_from_yesterday_less">%1$s ít hơn hôm qua</string>
+	<string name="trend_from_yesterday_less">Ít hơn hôm qua %1$s</string>
 	<string name="today_usage_title">Hôm nay</string>
 	<string name="category_other">Khác</string>
 </resources>

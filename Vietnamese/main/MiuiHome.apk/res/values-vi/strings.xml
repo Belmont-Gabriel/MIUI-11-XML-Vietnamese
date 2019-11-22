@@ -467,4 +467,5 @@
 	<string name="all_app_category_news_reading">Tin tức &amp; Đọc sách</string>
 	<string name="all_app_category_all">Tất cả</string>
 	<string name="reset_cate_tip_title">Khôi phục nhóm mặc định</string>
+	<string name="edit">Sửa</string>
 </resources>

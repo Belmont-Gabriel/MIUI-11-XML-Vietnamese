@@ -372,7 +372,7 @@
 	<string name="bedtime_setting_repeat_type">Khi nào sẽ áp dụng lịch trình đi ngủ?</string>
 	<string name="agree">Đồng ý</string>
 	<string name="sleep_notification_title">Tới giờ đi ngủ rồi</string>
-	<string name="sleep_time">Ngủ lúc</string>
+	<string name="sleep_time">Giờ ngủ</string>
 	<string name="bedtime_sleep_time_remind">"Bạn sẽ được nhận thông báo đi ngủ trước thời gian này 15 phút"</string>
 	<string name="bedtime_welcome_desc">Duy trì một lịch đi ngủ đều đặn và nhất quán có lợi cho sức khỏe của bạn. Đặt lời nhắc sẽ giúp bạn đi ngủ và thức dậy đúng giờ mỗi ngày.</string>
 	<string name="update_it">Cập nhật</string>

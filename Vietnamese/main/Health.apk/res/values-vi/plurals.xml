@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="day_index">
+        <item quantity="other">%1$d ngày</item>
+    </plurals>
+    <plurals name="goal_format_with_unit">
+        <item quantity="other">Mục tiêu: %1$d bước</item>
+    </plurals>
+    <plurals name="goal_unit">
+        <item quantity="other">" bước"</item>
+    </plurals>
+    <plurals name="menstruation_sum_days">
+        <item quantity="other">Chu kỳ %1$d ngày</item>
+    </plurals>
+    <plurals name="step_num_format">
+        <item quantity="other">%1$d bước</item>
+    </plurals>
+    <plurals name="steps_format">
+        <item quantity="other">%1$d</item>
+    </plurals>
+    <plurals name="subtitle_add_record">
+        <item quantity="other">Bạn đã không ghi lại %1$d ngày. Ghi lại chu kỳ của bạn để dự đoán được chính xác hơn.</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_continued_days">
+        <item quantity="other">Chu kỳ này kéo dài tổng cộng %1$d ngày</item>
+    </plurals>
+    <plurals name="subtitle_menstruation_cycle_days">
+        <item quantity="other">Ngày %1$d của chu kỳ kinh nguyệt này</item>
+    </plurals>
+    <plurals name="sum_cycle_days">
+        <item quantity="other">Chu kỳ %1$d ngày</item>
+    </plurals>
+    <plurals name="times_format">
+        <item quantity="other">%1$d lần</item>
+    </plurals>
+    <plurals name="title_menstruation_day">
+        <item quantity="other">Ngày %1$d của chu kỳ</item>
+    </plurals>
+    <plurals name="title_menstruation_margin_next_time_days">
+        <item quantity="other">%1$d ngày nữa đến chu kỳ tiếp theo</item>
+    </plurals>
+    <plurals name="title_menstruation_predict_period">
+        <item quantity="other">Dự tính ngày %1$d của chu kỳ</item>
+    </plurals>
+    <plurals name="unit_days">
+        <item quantity="other">" ngày"</item>
+    </plurals>
+    <plurals name="user_age_display_format_year">
+        <item quantity="other">%1$d tuổi</item>
+    </plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
+</resources>
