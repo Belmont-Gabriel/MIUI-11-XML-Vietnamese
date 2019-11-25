@@ -3174,4 +3174,27 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="privacyapp_number_masked_text">Đã ẩn nội dung thông báo</string>
 	<string name="power_center_scan_item_title_5g">Kết nối 5G</string>
 	<string name="power_save_ps_close_setting_5g">Hạn chế tính năng gây hao pin (đồng bộ, kết nối 5G, GPS)</string>
+	<string name="notification_low_battery_action_btn">Bật</string>
+	<string name="battery_low_title_power_save">Tiết kiệm pin</string>
+	<string name="dlg_cancel">Hủy</string>
+	<string name="enable_extreme_power_save_mode">Siêu tiết kiệm pin</string>
+	<string name="dlg_confirm">Bật</string>
+	<string name="notification_channel_battery">Pin</string>
+	<string name="low_temperature_button_ok">Tôi biết</string>
+	<string name="battery_low_button_not_open_power_save">Lần tới</string>
+	<string name="notification_low_battery_open_save_mode">Bật tiết kiệm Pin</string>
+	<string name="open_extreme_power_save_mode_title">Bật Siêu tiết kiệm pin</string>
+	<string name="battery_low_button_open_power_save">Bật</string>
+	<string name="dlg_summary_close_wifi">Wi-Fi, Bluetooth, và điểm phát di động sẽ bị tắt.</string>
+	<string name="invalid_charger">"Không thể sạc qua USB. Sử dụng sạc đi kèm với thiết bị của bạn."</string>
+	<string name="notification_low_battery_need_charge">Sạc thiết bị của bạn</string>
+	<string name="low_temperature_warning_title">Nhiệt độ không khí thấp</string>
+	<string name="save_mode_btn_ok">Đã hiểu</string>
+	<string name="dlg_summary_nfc">NFC sẽ được tắt.</string>
+	<string name="low_temperature_warning_message">"Có vẻ như trời rất lạnh và điện thoại của bạn sẽ tắt sớm hơn dự kiến. Hãy lưu mọi thứ quan trọng."</string>
+	<string name="dlg_summary_close_theme">"Chủ đề động không hoạt động."</string>
+	<string name="dlg_summary_close_app">"Ứng dụng không chạy dưới nền. Thông báo sẽ bị hạn chế."</string>
+	<string name="battery_can_use_time">%s còn lại</string>
+	<string name="dlg_summary_title">Hoạt động nền sẽ bị hạn chế khi bạn rời khỏi ứng dụng hoặc quay trở lại Màn hình chính. Thêm ứng dụng vào ngoại lệ Tiết kiệm pin để nó có thể chạy trong nền.</string>
+	<string name="battery_low_title">Pin yếu</string>
 </resources>

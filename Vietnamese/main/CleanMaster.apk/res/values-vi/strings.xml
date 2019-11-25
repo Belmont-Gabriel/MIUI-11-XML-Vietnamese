@@ -845,4 +845,6 @@
 	<string name="global_wa_result_finish_hint_zero">Đã giải phóng %s</string>
 	<string name="global_wa_shortcut_dialog_content">Tạo một Lối tắt Màn hình chính cho Dọn dẹp WhatsApp để dễ truy cập tính năng này hơn.</string>
 	<string name="global_wa_setting_alert_time_seven_day">Mỗi tuần</string>
+	<string name="global_wa_item_title_video">Video</string>
+	<string name="global_wa_gif">GIF</string>
 </resources>

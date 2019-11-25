@@ -1332,4 +1332,13 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="pref_camera_common_settings">Cài đặt chung</string>
 	<string name="pref_camera_heic_image_format_title">Định dạng HEIC</string>
 	<string name="pref_camera_heic_image_format_description">Chụp ảnh ở định dạng HEIF hiệu quả cao</string>
+	<string name="id_card_mode_hint_back">Vui lòng chụp ảnh mặt sau thẻ ID</string>
+	<string name="document_blackwhite">Đen &amp; trắng</string>
+	<string name="pref_document_mode">Chế độ tài liệu</string>
+	<string name="id_card_mode_hint_front">Vui lòng chụp ảnh mặt trước thẻ ID</string>
+	<string name="id_card_mode_use_hint_text_title">Chế độ chụp thẻ ID</string>
+	<string name="document_origin">Ảnh gốc</string>
+	<string name="document_blur_warn">Văn bản bị mờ</string>
+	<string name="pref_camera_video_tag_description">Chạm \"Đánh dấu\" khi đang quay phim để có thể quay lại khoảnh khắc đã đánh dấu khi xem</string>
+	<string name="document_strengthen">Tăng cường</string>
 </resources>

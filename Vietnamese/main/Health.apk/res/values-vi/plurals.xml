@@ -51,4 +51,40 @@
 	<plurals name="mtrl_badge_content_description">
 		<item quantity="other">%d thông báo mới</item>
 	</plurals>
+	<plurals name="dialog_choose_items">
+		<item quantity="other">Đã chọn %1$d mục</item>
+	</plurals>
+	<plurals name="goal_unit_with_number">
+		<item quantity="other">%1$d bước</item>
+	</plurals>
+	<plurals name="dialog_delete_records_confirm">
+		<item quantity="other">Xóa %1$d bản ghi?</item>
+	</plurals>
+	<plurals name="last_measure_date_interval">
+		<item quantity="other">%1$d ngày kể từ lần cân cuối cùng</item>
+	</plurals>
+	<plurals name="last_measure_day_body_weight">
+		<item quantity="other">%1$d ngày kể từ lần cân cuối cùng</item>
+	</plurals>
+	<plurals name="mesens_card_title_days">
+		<item quantity="other">Ngày %1$d</item>
+	</plurals>
+	<plurals name="daily_suggestions_steps">
+		<item quantity="other">Đi bộ ít nhất %1$d bước mỗi ngày</item>
+	</plurals>
+	<plurals name="mesens_card_title_day_in_predict">
+		<item quantity="other">Ngày %1$d (mong đợi)</item>
+	</plurals>
+	<plurals name="title_today_exercise_steps">
+		<item quantity="other">%1$d bước hôm nay</item>
+	</plurals>
+	<plurals name="mesens_card_title_predict_date">
+		<item quantity="other">Chu kỳ tiếp theo trong %1$d ngày</item>
+	</plurals>
+	<plurals name="sleep_management_exp_hours">
+		<item quantity="other">"Cài đặt hiện tại không đảm bảo bạn ngủ %1$d giờ mỗi ngày. Bạn cần nhiều hơn thế."</item>
+	</plurals>
+	<plurals name="sleep_goal_by_hour">
+		<item quantity="other">Mục tiêu: %1$d giờ</item>
+	</plurals>
 </resources>
