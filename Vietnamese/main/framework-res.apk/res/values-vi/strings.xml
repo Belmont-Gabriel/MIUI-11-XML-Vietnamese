@@ -2443,4 +2443,5 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="handset_title_unsupported_handset_insert">Tai nghe analog USB không được hỗ trợ</string>
 	<string name="handset_text_unsupported_handset_insert">Chạm để thêm thông tin.</string>
 	<string name="handset_title_usb_handset_insert">Thẻ âm thanh USB đang xuất âm thanh</string>
+	<string name="app_running_notification_tip_text">Điều này có thể làm chậm thiết bị của bạn và hao pin. Chạm để thoát ứng dụng</string>
 </resources>

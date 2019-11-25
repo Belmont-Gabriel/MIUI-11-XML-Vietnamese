@@ -148,4 +148,7 @@
 	<plurals name="recurrence_end_count">
 		<item quantity="other">Cho %d sự kiện</item>
 	</plurals>
+	<plurals name="other_all_day_events">
+		<item quantity="other">Thêm %d sự kiện</item>
+	</plurals>
 </resources>

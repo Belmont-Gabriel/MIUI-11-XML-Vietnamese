@@ -3197,4 +3197,8 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="battery_can_use_time">%s còn lại</string>
 	<string name="dlg_summary_title">Hoạt động nền sẽ bị hạn chế khi bạn rời khỏi ứng dụng hoặc quay trở lại Màn hình chính. Thêm ứng dụng vào ngoại lệ Tiết kiệm pin để nó có thể chạy trong nền.</string>
 	<string name="battery_low_title">Pin yếu</string>
+	<string name="app_running_tip_dialog_title">Thoát ứng dụng</string>
+	<string name="app_running_tip_dialog_negative">Hủy</string>
+	<string name="app_running_tip_dialog_text">Thoát %1$s để ngăn nó chạy dưới nền. Điều này giúp tăng tốc thiết bị của bạn và bớt hao pin.</string>
+	<string name="app_running_tip_uninstall">Gỡ cài đặt ứng dụng này</string>
 </resources>
