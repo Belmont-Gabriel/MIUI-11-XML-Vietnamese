@@ -111,24 +111,24 @@ Sức khỏe Mi sẽ chỉ thông báo cho bạn các mục quan trọng."</stri
     <string name="improve_your_health_default_tips">Tập thể dục và ngủ đủ giấc để khỏe mạnh.</string>
     <string name="jump_over">Bỏ qua</string>
     <string name="label_average_daily_sleep_duration">Thời gian ngủ trung bình</string>
-    <string name="label_average_daily_sleep_time">Thời gian ngủ trung bình</string>
-    <string name="label_average_daily_sleep_time2">Thời gian ngủ trung bình</string>
-    <string name="label_average_daily_wake_up_time">Thời gian thức trung bình</string>
+    <string name="label_average_daily_sleep_time">Giờ ngủ trung bình</string>
+    <string name="label_average_daily_sleep_time2">Giờ ngủ trung bình</string>
+    <string name="label_average_daily_wake_up_time">Giờ dậy trung bình</string>
     <string name="label_duration">Thời gian</string>
     <string name="label_exercise_goal">Mục tiêu</string>
     <string name="label_get_device_id">Lấy ID thiết bị</string>
-    <string name="label_got_up">Thức dậy</string>
+    <string name="label_got_up">Dậy</string>
     <string name="label_sleep">Ngủ</string>
     <string name="label_sleep2">Ngủ</string>
     <string name="label_sleep_duration">Thời gian ngủ</string>
     <string name="label_sleep_intercept">Gián đoạn</string>
     <string name="label_sleep_time">Ngủ</string>
-    <string name="label_sleep_time2">Thời gian ngủ</string>
+    <string name="label_sleep_time2">Giờ ngủ</string>
     <string name="label_today_exercise_consumption">Đã tiêu hao</string>
     <string name="label_today_exercise_summary">Số bước hôm nay</string>
     <string name="label_today_sleep_summary">Ngủ tối qua</string>
     <string name="label_wake_up">Thức dậy</string>
-    <string name="label_wake_up_time">Thức dậy</string>
+    <string name="label_wake_up_time">Giờ dậy</string>
     <string name="light_sleep">Ngủ nông</string>
     <string name="manual_adjust">Điều chỉnh</string>
     <string name="mark_end">Kỳ kinh nguyệt đã kết thúc</string>
@@ -202,7 +202,7 @@ Sức khỏe Mi sẽ chỉ thông báo cho bạn các mục quan trọng."</stri
     <string name="setting_sedentary_on">BẬT</string>
     <string name="setting_sedentary_title">Nhắc nhở di chuyển</string>
     <string name="skip">Bỏ qua</string>
-    <string name="sleep">Ngủ</string>
+    <string name="sleep">Giấc ngủ</string>
     <string name="sleep_auto_start_perm_grant">Quyền đã được cho phép</string>
     <string name="sleep_chart_empty">Không có dữ liệu</string>
     <string name="sleep_chart_loading">Vui lòng chờ…</string>
@@ -284,8 +284,8 @@ dựa trên thông tin cá nhân của mình."</string>
     <string name="turn_on_necessary_permissions">Cho phép các quyền yêu cầu để theo dõi giấc ngủ.</string>
     <string name="unable_record_future_menstruation">Không thể ghi lại kỳ trong tương lai</string>
     <string name="unit_day">Ngày</string>
-    <string name="unit_hour">" giờ"</string>
-    <string name="unit_min">" phút"</string>
+    <string name="unit_hour">" giờ "</string>
+    <string name="unit_min">" phút "</string>
     <string name="unit_second">" giây"</string>
     <string name="update_notify_dialog_ignore">Để sau</string>
     <string name="update_notify_dialog_msg">"Tìm thấy cập nhật mới: %1$s.
@@ -337,7 +337,7 @@ Kích thước: %2$s"</string>
 	<string name="date_format_m_d_3">dd/MM</string>
 	<string name="input_body_weight">Nhập dữ liệu cân nặng để nhận lời khuyên sức khỏe</string>
 	<string name="preference_not_set">Chưa đặt</string>
-	<string name="recommand_body_weight_msg">Đề xuất mục tiêu cân nặng: %1$.1f kg. Đạt BMI %2$.1f để giảim nguy cơ mắc bệnh tim mạch và gan.</string>
+	<string name="recommand_body_weight_msg">Đề xuất mục tiêu cân nặng: %1$.1f kg. Đạt BMI %2$.1f để giảm nguy cơ mắc bệnh tim mạch và gan.</string>
 	<string name="equivalent_exercise">Đi bộ ≈%1$s km(%2$s kcal)</string>
 	<string name="body_weight_extremely_obesity">Bệnh béo phì</string>
 	<string name="menstruation">Kinh nguyệt</string>
@@ -356,7 +356,7 @@ Kích thước: %2$s"</string>
 	<string name="sleep_record_label">Ghi lại giấc ngủ</string>
 	<string name="label_set_exercise">Đặt mục tiêu hoạt động</string>
 	<string name="card_on_using">Đang sử dụng</string>
-	<string name="sleep_goal_not_upto_standard">"Bạn chưa ngủ đủ giấc."</string>
+	<string name="sleep_goal_not_upto_standard">Bạn ngủ chưa đủ</string>
 	<string name="title_start_use">Bắt đầu</string>
 	<string name="model_card_setting">Cài đặt thẻ</string>
 	<string name="menstruation_record_not_found">Chưa có bản ghi ở đây</string>
@@ -366,7 +366,7 @@ Kích thước: %2$s"</string>
 	<string name="sleep_detector_unopened">"Bạn chưa bắt đầu theo dõi giấc ngủ."</string>
 	<string name="sleep_management_label">Quản lý giờ ngủ</string>
 	<string name="edit_sleep_record_button">Sửa</string>
-	<string name="label_body_weight_trend">Tiến trình</string>
+	<string name="label_body_weight_trend">Quá trình</string>
 	<string name="body_weight_little_obesity">Béo phì vừa phải</string>
 	<string name="generate_body_weight_proposal">Cân để nhận lời khuyên sức khỏe</string>
 	<string name="dialog_body_weight_select">Đặt cân nặng</string>
@@ -428,4 +428,5 @@ Kích thước: %2$s"</string>
 	<string name="manual_page_measure_date_title">Ngày và giờ</string>
 	<string name="dialog_feedback_purpose">Sức khỏe Mi cần truy cập bộ nhớ để có thể gửi phản hồi.</string>
 	<string name="dialog_sleep_record_auto_start">Để theo dõi giấc ngủ chính xác hơn, cho phép Sức khỏe Mi tự khởi chạy.</string>
+	<string name="minute">Phút</string>
 </resources>

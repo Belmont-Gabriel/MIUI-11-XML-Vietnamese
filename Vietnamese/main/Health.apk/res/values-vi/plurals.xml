@@ -87,4 +87,10 @@
 	<plurals name="sleep_goal_by_hour">
 		<item quantity="other">Mục tiêu: %1$d giờ</item>
 	</plurals>
+	<plurals name="hours">
+		<item quantity="other">"%1$d giờ "</item>
+	</plurals>
+	<plurals name="minutes">
+		<item quantity="other">%1$d phút</item>
+	</plurals>
 </resources>

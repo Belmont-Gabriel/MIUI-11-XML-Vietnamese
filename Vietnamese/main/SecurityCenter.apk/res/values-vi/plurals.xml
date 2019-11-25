@@ -363,4 +363,10 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 		<item quantity="other">%d tin nhắn và cuộc gọi đã chặn</item>
 		<item quantity="one">%d tin nhắn hoặc cuộc gọi đã chặn</item>
 	</plurals>
+	<plurals name="keyguard_charging_info_drained_hour_time_format">
+		<item quantity="other">%s giờ</item>
+	</plurals>
+	<plurals name="keyguard_charging_info_drained_min_time_format">
+		<item quantity="other">%s phút</item>
+	</plurals>
 </resources>
