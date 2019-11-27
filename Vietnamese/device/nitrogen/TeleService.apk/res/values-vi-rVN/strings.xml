@@ -11,4 +11,30 @@
 	<string name="bluetooth_connected_no_map">Đã kết nối (không truy cập tin nhắn)%1$s</string>
 	<string name="power_discharging_duration_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn (%2$s)</string>
 	<string name="power_remaining_duration_only_enhanced">Khoảng %1$s còn lại dựa trên mức sử dụng của bạn</string>
+	<string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534.</string>
+	<string name="enter_input" formatted="false">Tin nhắn USSD phải có độ dài trong khoảng từ %d đến %d ký tự. Vui lòng thử lại.</string>
+	<string name="fdn_invalid_number">SQĐS không được cập nhật do số vượt quá 20 chữ số.</string>
+    <string name="auto_answer_delay_entries_delay_3s">3 giây</string>
+    <string name="auto_answer_delay_entries_delay_5s">5 giây</string>
+    <string name="auto_answer_delay_entries_delay_10s">10 giây</string>
+    <string name="missed_call_notify_times_summary">Chọn số lần bạn muốn được nhắc về cuộc gọi nhỡ (lần nhắc nhở cách nhau khoảng 5 phút)</string>
+    <string name="missed_call_notify_once">1 lần</string>
+    <string name="missed_call_notify_twice">2 lần</string>
+    <string name="missed_call_notify_thrice">3 lần</string>
+    <string name="missed_call_notify_five_times">5 lần</string>
+    <string name="missed_call_notify_ten_times">10 lần</string>
+    <string name="old_password_label">Mật khẩu 4 chữ số hiện tại</string>
+    <string name="new_password_label">Mật khẩu 4 chữ số mới</string>
+    <string name="invalid_password">Nhập mật khẩu dài 4 số</string>
+    <string name="enter_callbarring_password">Nhập mật khẩu chặn cuộc gọi (4 chữ số)</string>
+    <string name="invalid_pin">Nhập mã PIN từ 4 đến 8 số.</string>
+    <string name="invalid_puk">Nhập mã PUK từ 4 đến 8 số.</string>
+    <string name="invalid_pin2">Nhập mã PIN2 từ 4 đến 8 số.</string>
+    <string name="invalid_puk2">Nhập mã PUK2 với 8 số.</string>
+    <string name="cfnry_time_five_sec">5 giây</string>
+    <string name="cfnry_time_ten_sec">10 giây</string>
+    <string name="cfnry_time_fifteen_sec">15 giây</string>
+    <string name="cfnry_time_twenty_sec">20 giây</string>
+    <string name="cfnry_time_twenty_five_sec">25 giây</string>
+    <string name="cfnry_time_thirty_sec">30 giây</string>
 </resources>
