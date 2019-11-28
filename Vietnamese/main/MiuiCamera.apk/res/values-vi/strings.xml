@@ -1375,7 +1375,7 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="parameter_lens_st">, S-TELE(Ống kính Zoom kết hợp)</string>
 	<string name="parameter_log_format_description">Áp dụng chức năng logarit cho định dạng quay video trên đường cong phơi sáng để đảm bảo cảm biến ghi lại các chi tiết sáng và tối phong phú hơn để tăng không gian điều chỉnh cho xử lý hậu kỳ</string>
 	<string name="parameter_metering_description">Đo sáng trung bình: trung bình có trọng số của tất cả các khu vực trong ảnh, phù hợp với các ảnh được chiếu sáng đồng đều; Đo sáng trọng tâm: chủ yếu tập trung vào khu vực trung tâm của hình ảnh và xem xét thích hợp độ sáng của khu vực xung quanh, phù hợp chụp ảnh với đối tượng ở trung tâm; Chỉ đo diện tích được bao phủ bởi điểm đo sáng: Phù hợp để kiểm soát độ chính xác của hình ảnh</string>
-	<string name="parameter_peak_focus_description">Được sử dụng để đánh dấu vị trí lấy nét khi lấy nét thủ công. Sau khi bật, đường viền của khu vực có tiêu cự nét nhất sẽ được tô bằng các điểm xanh lá, và vùng có nhiều điểm nhất là điểm nét của ảnh</string>
+	<string name="parameter_peak_focus_description">Được sử dụng để đánh dấu vị trí lấy nét khi lấy nét thủ công. Sau khi bật, đường viền của khu vực có tiêu cự nét nhất sẽ được tô bằng các điểm màu đỏ, và vùng có nhiều điểm nhất là điểm nét của ảnh</string>
 	<string name="parameter_peak_raw_description">Ghi lại dữ liệu thô của ảnh, phù hợp để xử lý hậu kỳ</string>
 	<string name="parameter_wb_description">Bao gồm tự động, cài sẵn (đèn sợi đốt, ánh sáng ban ngày, đèn huỳnh quang, mây) và do người dùng tùy chỉnh (Có thể đặt nhiệt độ màu trong khoảng 2000-8000K)</string>
 	<string name="parameter_zoom_slider_description">Kéo thanh thu phóng để đạt được bố cục ảnh mong muốn</string>
