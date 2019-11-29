@@ -3201,4 +3201,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="app_running_tip_dialog_negative">Hủy</string>
 	<string name="app_running_tip_dialog_text">Thoát %1$s để ngăn nó chạy dưới nền. Điều này giúp tăng tốc thiết bị của bạn và bớt hao pin.</string>
 	<string name="app_running_tip_uninstall">Gỡ cài đặt ứng dụng này</string>
+	<string name="battery_low_percent_format_save_mode_closed">"Pin còn ít hơn %s. Đừng quên sạc thiết bị của bạn."</string>
+	<string name="notification_low_battery_title">Pin còn ít hơn %s</string>
+	<string name="battery_low_percent_format_save_mode_open">"Pin còn ít hơn %1$s. Bật Tiết kiệm pin để thêm %2$s."</string>
 </resources>

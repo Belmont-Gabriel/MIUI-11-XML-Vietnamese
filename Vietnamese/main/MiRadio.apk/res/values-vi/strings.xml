@@ -1081,4 +1081,15 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="auto_pay_describe">(Nghe liên tục thuận tiện hơn)</string>
 	<string name="chapter_pay_title">Mua từ %1$s</string>
 	<string name="coin">%1$s Yuan</string>
+	<string name="check_in_success">Đăng nhập thành công</string>
+	<string name="shortcut_cancel">Hủy</string>
+	<string name="check_in_remind">Tiền mặt có thể được khấu trừ khi thực hiện nhiệm vụ</string>
+	<string name="shortcut_confirm">Đồng ý</string>
+	<string name="check_in_get_coin">Phần thưởng đăng nhập</string>
+	<string name="shortcut_title">Chuyển đến Màn hình chính</string>
+	<string name="collect_coin_sure">Thu thập xu</string>
+	<string name="check_in_get_more_coin">Phần thưởng đăng nhập liên tiếp</string>
+	<string name="fm_headline_title">Chọn ngày hôm nay</string>
+	<string name="account_check_in">Đăng nhập</string>
+	<string name="collect_coin_title">Bộ sưu tập quà tặng miễn phí</string>
 </resources>
