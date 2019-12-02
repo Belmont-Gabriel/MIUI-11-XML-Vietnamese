@@ -344,4 +344,16 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="accessibility_webview_share">Chia sẻ</string>
 	<string name="accessibility_ad_close">Đóng nội dung được đề xuất</string>
 	<string name="index_item_download_pause">Tiếp tục tải xuống</string>
+	<string name="news_refresh_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="news_tips_success">%1$d bài viết đã cập nhật</string>
+	<string name="news_refresh_loading">Đang tải</string>
+	<string name="news_load_more_failed">Không có kết nối mạng, vui lòng kiểm tra cài đặt mạng và thử lại</string>
+	<string name="news_tips_no_data">Không có thông tin mới</string>
+	<string name="news_hour_minute_time_format">HH:mm dd-MM-yyyy</string>
+	<string name="news_refresh_release_to_refresh">Thả ra để làm mới</string>
+	<string name="news_tips_net_error">Không có kết nối mạng, vui lòng kiểm tra cài đặt mạng và thử lại</string>
+	<string name="news_load_more_loading">Đang tải</string>
+	<string name="news_load_more_no_data">Chỉ hiển thị 48 giờ gần nhất</string>
+	<string name="news_load_more_default">Kéo lên để tải thêm</string>
+	<string name="widget_cta_not_agree">Chạm để lấy thông tin thời tiết</string>
 </resources>

@@ -100,7 +100,7 @@ Bạn phải đồng ý với Điều khoản Dịch vụ và Chính sách Riên
     <string name="other_settings_mifg_online_content_summary">Nhận hình nền mới để trình chiếu Màn hình khóa thường xuyên.</string>
 	<string name="agree_terms_input_method_facemoji">Tôi đã đọc và đồng ý với Chính sách Riêng tư của Facemoji.</string>
     <string name="agree_terms_input_method_kika">Tôi đã đọc và đồng ý với Chính sách Riêng tư của Kika.</string>
-    <string name="ai_button_desc">Sử dụng phím này để kích hoạt Mi AI và hoàn thành các tác vụ trên điện thoại chỉ bằng giọng nói của bạn</string>
+    <string name="ai_button_desc">Phím Mi AI cho phép bạn kích hoạt Mi AI và sử dụng lối tắt Mi AI</string>
     <string name="ai_button_double_press">Bấm đúp</string>
     <string name="ai_button_double_press_desc">Thiết lập tính năng Mi AI</string>
     <string name="ai_button_long_press">Chạm và giữ</string>
@@ -183,7 +183,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="permission_read_write_file_introduction">Để truy cập, lưu và đệm các mục trên thiết bị của bạn</string>
 	<string name="carrier_introduction">"Nhằm mục đích cung cấp cho bạn dịch vụ tốt hơn, thiết bị của bạn có thể gửi định kỳ thông tin phiên bản thiết bị của bạn, dữ liệu thông tin thiết bị (bao gồm IMEI/IMSI/MSISDN/địa chỉ MAC, MEID/ICCID), và thong tin vị trí gần đúng(bao gồm ID trạm gốc) tới nhà cung cấp qua Wi-Fi, mạng dữ liệu di đông, hoặc SMS miễn phí. Nhà cung cấp hứa sẽ chỉ phân tích thông tin liên quan để cải thiện chất lượng dịch vụ hoặc cung cấp dịch vụ hoặc công nghệ tùy chỉnh và sẽ không tiết lộ thông tin liên quan cho bên thứ ba dưới bất kỳ hình thức nào nhận dạng cá nhân bạn. Những tuyên bố cụ thể của nhà cung cấp sẽ được áp dụng. Tham khảo ý kiến nhà cung cấp dịch vụ của bạn về chi phí sử dụng dịch vụ này."</string>
 	<string name="require_authority_statement">Để cho phép chúng tôi cung cấp cho bạn các dịch vụ cơ bản, bạn cần cấp các quyền sau để chúng tôi thu thập thông tin cá nhân của bạn:</string>
-	<string name="user_agreement_declare">Trước khi sử dụng MIUI, bạn cần đọc và đồng ý với Thỏa thuận Người dùng và Chính sách Riêng tư của chúng tôi. Khi thiết bị của bạn được kích hoạt, Dịch vụ Kích hoạt SIM Mi, Màn hình chính, Cụm từ thường xuyên, Dịch vụ phiên dịch, MIUI Daemon, và Cập nhật sẽ kết nối mạng. MSA sẽ kết nối mạng và truy cập vị trí của bạn.</string>
+	<string name="user_agreement_declare">Trước khi sử dụng MIUI, bạn cần đọc và đồng ý với Thỏa thuận Người dùng và Chính sách Riêng tư của chúng tôi. Khi thiết bị của bạn được kích hoạt, Dịch vụ Kích hoạt SIM Mi, Tìm thiết bị, Màn hình chính, Cụm từ thường xuyên, Dịch vụ phiên dịch, MIUI Daemon, Trình xem HTML, và Cập nhật sẽ kết nối mạng. Dịch vụ thông minh sẽ kết nối mạng và truy cập vị trí của bạn.</string>
 	<string name="service_name_carrier">Tuyên bố dịch vụ nhà cung cấp</string>
 	<string name="permission_recording">Ghi âm cuộc gọi và âm thanh:</string>
 	<string name="permission_recording_introduction">Để ghi âm thanh khi đang quay video</string>
@@ -198,7 +198,7 @@ Bạn phải đồng ý với Chính sách Riêng tư Kika trước khi sử d�
 	<string name="permission_screen_shoot_introduction">Để truy cập và lưu quay phim màn hình</string>
 	<string name="fast_application_introduction">Khung Ứng dụng nhanh cho phép bạn tạo và cung cấp dịch vụ trong ứng dụng nhanh.</string>
 	<string name="permission_location_introduction">Để cung cấp các dịch vụ dựa trên vị trí</string>
-	<string name="security_introduction">Bạn có thể sử dụng ứng dụng này để dọn dẹp rác trên thiết bị của bạn, tìm và vô hiệu hóa virus, tối ưu hóa hiệu suất để chơi game, tiết kiệm pin, quản lý ứng dụng và hơn thế nữa.</string>
+	<string name="security_introduction">Bạn có thể sử dụng ứng dụng này để dọn dẹp rác trên thiết bị của bạn, tìm và vô hiệu hóa virus, tối ưu hóa hiệu suất để chơi game, tiết kiệm pin, quản lý ứng dụng, quyền và hơn thế nữa.</string>
 	<string name="recorder_introduction">Bạn có thể sử dụng ứng dụng này để ghi âm và sao lưu ghi âm lên đám mây.</string>
 	<string name="servicestate_title">Tuyên bố về các dịch vụ cơ bản</string>
 	<string name="download_introduction">Ứng dụng này quản lý tất cả tải xuống của bạn, bao gồm những mục đã xong trong GetApps, Mi Video, Cập nhât, Chủ đề, và Trình duyệt.</string>
