@@ -313,4 +313,27 @@ An toàn, chất lượng, phát triển"</string>
 	<string name="net_booster_overdue_notification_tip">Tăng tốc mạng sắp hết hạn. Bạn có muốn gia hạn?</string>
 	<string name="free_send_net_booster_busniess_tip">Chạm để nhận</string>
 	<string name="free_send_net_booster_tip">Tận hưởng cảm giác chơi game siêu mượt với Tăng tốc mạng miễn phí.</string>
+	<string name="close_password_dialog_message">Khi mật khẩu bị tắt, mật khẩu trong Không gian chính cũng sẽ bị tắt. Dữ liệu vân tay và khuôn mặt đã nhập sẽ bị xóa. Bạn sẽ không thể sử dụng chức năng bảo mật vân tay, nhận dạng khuôn mặt và bảo mật thiết bị.</string>
+	<string name="guide_desc_3">Bảo vệ toàn diện về nội dung giáo dục sớm như song ngữ, hoạt hình, bài hát thiếu nhi</string>
+	<string name="sound_control_desc">Nhạc nền vui vẻ làm cho bé thích thú hơn</string>
+	<string name="guide_desc_4">"Ngăn chặn giảm SMS, truy cập lưu lượng quá mức, cuộc gọi nhỡ
+An toàn và bảo mật"</string>
+	<string name="face_distance_detect_desc">Để bảo vệ mắt cho trẻ em, điện thoại sẽ tự động nhắc khi nhìn quá gần màn hình</string>
+	<string name="create_kid_mode_dialog_msg">Khi được bật, một biểu tượng sẽ được tạo trên Màn hình chính để truy cập nhanh vào Không gian của trẻ</string>
+	<string name="call_control_desc">Sau khi bật, phụ huynh cần mở khóa trước khi trả lời cuộc gọi</string>
+	<string name="eye_protect_desc">Màu sắc và độ sáng màn hình được điều chỉnh để bảo vệ mắt của trẻ và tự động nhắc nhở trẻ kịp thời giữ khoảng cách với thiết bị điện tử</string>
+	<string name="kid_mode_des3">Bảo vệ toàn diện về nội dung giáo dục sớm như song ngữ, hoạt hình, bài hát thiếu nhi</string>
+	<string name="incall_dialog_msg">Để bật xác minh cuộc gọi, bạn cần đặt mật khẩu trong không gian chính để mở khóa khi có cuộc gọi đến.</string>
+	<string name="time_control_desc">Quản lý thời gian sử dụng trong không gian của trẻ</string>
+	<string name="no_net_dialog_msg">Khi lần đầu tạo Không gian của trẻ, bạn cần kết nối mạng để tải các nội dung và dịch vụ liên quan trong Không gian của trẻ. Vui lòng bật dữ liệu di động hoặc Wi-Fi</string>
+	<string name="app_market_desc">Tải ứng dụng cho trẻ trong Không gian của trẻ</string>
+	<string name="network_control_desc">Quản lý sử dụng trực tuyến trong Không gian của trẻ</string>
+	<string name="this_function_can_not_use_in_second_space">Bảo vệ gia đình chỉ hỗ trợ trong Không gian chính, vui lòng chuyển sang Không gian chính để sử dụng tính năng này</string>
+	<string name="remove_kid_mode_tip_msg">Khi xóa Không gian của trẻ, tất cả dữ liệu trong đó sẽ bị mất và không thể khôi phục lại. Vẫn xóa?</string>
+	<string name="camera_perm_dialog_message">Trong quá trình sử dụng, ứng dụng này yêu cầu quyền truy cập vào quyền Máy ảnh để phát hiện khoảng cách mắt tới màn hình. Nếu bạn không đồng ý cấp các quyền trên, chức năng này sẽ không hoạt động đúng, nhưng nó sẽ không ảnh hưởng đến việc bạn sử dụng các chức năng khác của ứng dụng này. Bạn có thể hủy cấp phép ở trên và rút lại sự đồng ý của bạn bất cứ lúc nào bằng cách tắt chức năng "Phát hiện khoảng cách màn hình".</string>
+	<string name="password_change_value_preference_desc">Mật khẩu màn hình khóa ở Không gian chính sẽ được dùng để thoát khỏi Không gian của trẻ</string>
+	<string name="network_daliy_net_usage_limit_tips">Khi lưu lượng hàng ngày đạt giới hạn, hệ thống sẽ tự ngắt kết nối mạng. Do đó bạn không cần lo lắng về việc tính phí khi vượt quá giới hạn dữ liệu</string>
+	<string name="app_control_desc">Quản lý ứng dụng của bé trong Không gian của trẻ</string>
+	<string name="set_password_dialog_message">Bạn nên đặt mật khẩu màn hình khóa không gian chính. Sau khi cài đặt, mật khẩu màn hình khóa sẽ được yêu cầu khi thoát khỏi chế độ của trẻ. Trẻ em không thể vào không gian chính của bạn theo ý muốn</string>
+	<string name="time_manager_dialog_msg">Để cho phép quản lý thời gian, trước tiên bạn cần đặt mật khẩu khóa màn hình chính để phụ huynh mở khóa.</string>
 </resources>

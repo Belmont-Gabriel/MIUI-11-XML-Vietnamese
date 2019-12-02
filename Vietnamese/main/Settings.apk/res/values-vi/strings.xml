@@ -9808,4 +9808,15 @@ Dưới đây là một số nguyên nhân:
 	<string name="mtp_solution_button_cancel">Đã hiểu</string>
 	<string name="mtp_connection_failed">"Không thể truyền tệp tin tới máy tính đã kết nối. Thử xử lý sự cố."</string>
 	<string name="mtp_connection_not_remind">"Không hiển thị lại"</string>
+	<string name="legal_written_offer">Ưu đãi bằng văn bản</string>
+	<string name="dual_wifi_auto_disable">Tự động dừng tăng tốc</string>
+	<string name="color_lamp_applications_title">Quản lý thông báo</string>
+	<string name="dual_wifi_auto_disable_summary">Ngắt kết nối với Wi-Fi phụ khi tắt màn hình để tiết kiệm năng lượng</string>
+	<string name="color_lamp_notification_pulse_title">Nháy đèn thông báo khi màn hình tắt</string>
+	<string name="color_lamp_title">Đèn LED</string>
+	<string name="color_lamp_battery_title">Giữ bật khi đang sạc</string>
+	<string name="color_lamp_incall_pulse_title">Nháy đèn cho cuộc gọi đến</string>
+	<string name="popup_led_try_later">Chờ một vài phút và thử lại</string>
+	<string name="color_lamp_applications_title_summary">Cho phép hoặc hạn chế sử dụng LED trong \"Danh mục thông báo\"</string>
+	<string name="color_lamp_charging_summary">LED sẽ tắt khi thiết bị đã sạc đầy</string>
 </resources>

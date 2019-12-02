@@ -1038,4 +1038,15 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="edit_event_title_edit_countdown">Sửa đếm ngược</string>
 	<string name="limit_detail_no_limit">Không giới hạn</string>
 	<string name="edit_event_title_create_countdown">Thêm đếm ngược</string>
+	<string name="shift_detail_desc">Chu kỳ này là %1$d ngày, hôm nay là ngày %2$d của chu kỳ, ngày bắt đầu là: %3$s</string>
+	<string name="sms_import_description">Quản lý tốt hơn các sự kiện SMS liên quan đến thời gian</string>
+	<string name="fortune_setting_tips">Sau khi thiết lập ngày sinh nhật của bạn, bạn có thể nhận được tài sản độc quyền của bạn. Lịch vàng hàng ngày, tình hình tài chính, hoa đào, phí chuyển tiếp và các thông tin khác</string>
+	<string name="limit_notification_text">%1$s%2$s Cuối dòng: %3$s</string>
+	<string name="setting_toast_dump_mylog_done">Đã tạo thành công, nhật ký của bạn nằm trong thư mục \"Điện thoại/MIUI/debug_log/com.android.calendar/dump\"</string>
+	<string name="feed_share_weibo_title">【%1$s】 Từ lịch Xiaomi: %2$s</string>
+	<string name="shift_detail_desc_not_start">Mỗi chu kỳ dài %1$d ngày, ngày bắt đầu là: %2$s</string>
+	<string name="feed_guide_tips">Khi bạn bật, bạn có thể thấy những gì xảy ra hàng ngày trên kênh mình đăng ký</string>
+	<string name="limit_setting_tips">Sau khi bật và đặt lời nhắc, bạn sẽ nhận được lời nhắc trên lịch khi xe của bạn bị hạn chế trong ngày. Hướng dẫn cài đặt số đuôi không chữ số: %1$s</string>
+	<string name="feed_guide_title">Chọn kênh yêu thích của bạn và khám phá những điều mới ngay</string>
+	<string name="subscription_service_unsupported">Truy cập mạng trái phép, dịch vụ thuê bao không có sẵn</string>
 </resources>

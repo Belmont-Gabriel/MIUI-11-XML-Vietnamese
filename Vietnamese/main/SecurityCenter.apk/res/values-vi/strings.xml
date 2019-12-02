@@ -3204,4 +3204,19 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="battery_low_percent_format_save_mode_closed">"Pin còn ít hơn %s. Đừng quên sạc thiết bị của bạn."</string>
 	<string name="notification_low_battery_title">Pin còn ít hơn %s</string>
 	<string name="battery_low_percent_format_save_mode_open">"Pin còn ít hơn %1$s. Bật Tiết kiệm pin để thêm %2$s."</string>
+	<string name="HIPS_Perm_Read_Contact_Desc">Đọc liên hệ của bạn</string>
+	<string name="HIPS_Perm_CallLog_Desc">Viết và xóa lịch sử cuộc gọi</string>
+	<string name="HIPS_Perm_Read_Call_Log_Desc">Đọc lịch sử cuộc gọi</string>
+	<string name="HIPS_Perm_Read_SMS_Desc">Đọc tin nhắn SMS</string>
+	<string name="HIPS_Perm_use_sip_Desc">Sử dụng giao thức SIP để phát video</string>
+	<string name="permdesc_in_calls">Giám sát cuộc gọi đến</string>
+	<string name="HIPS_Perm_Call_Desc">Trực tiếp gọi số điện thoại</string>
+	<string name="HIPS_Perm_add_voicemail_Desc">Thêm tin nhắn thoại hệ thống</string>
+	<string name="HIPS_Perm_get_accounts_Desc">Truy cập tất cả tài khoản được lưu trên thiết bị</string>
+	<string name="HIPS_Perm_Contact_Desc">Chỉnh sửa và xóa liên hệ</string>
+	<string name="HIPS_Perm_PhoneID_Desc_Q">Truy cập số điện thoại và trạng thái thiết bị</string>
+	<string name="permdesc_out_calls">Giám sát cuộc gọi đi</string>
+	<string name="HIPS_Perm_PhoneID_Desc">Truy cập số điện thoại, IMEI, và IMSI</string>
+	<string name="HIPS_Perm_SendSMS_Desc">Trực tiếp gửi tin nhắn SMS</string>
+	<string name="system_permission_perm_optional">" (tùy chọn)"</string>
 </resources>

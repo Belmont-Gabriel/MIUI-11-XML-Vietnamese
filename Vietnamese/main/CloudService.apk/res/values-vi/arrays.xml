@@ -138,4 +138,8 @@
 		<item>Để đồng bộ liên hệ</item>
 		<item>Để lưu các mục vào thiết bị (v.d. ảnh, video, bài hát)</item>
 	</string-array>
+	<string-array name="priv_dialog_finddevice_runtime_perm_desc">
+		<item>Để nhận dạng thiết bị của bạn</item>
+		<item>Để định vị thiết bị của bạn và chuyển sang Chế độ đánh mất</item>
+	</string-array>
 </resources>

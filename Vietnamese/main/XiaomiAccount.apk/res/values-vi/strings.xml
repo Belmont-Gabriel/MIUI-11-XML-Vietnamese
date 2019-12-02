@@ -698,4 +698,8 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Quốc tế: Kích hoạt SIM thất bại</string>
 	<string name="pwd_width_phone_number_or_mail_num">"Mật khẩu không thể chứa số điện thoại của bạn, email, hoặc ID Tài khoản Mi"</string>
 	<string name="risky_pwd_not_allow">"Mật khẩu mới không an toàn. Đặt mật khẩu khác."</string>
+	<string name="passport_debug_china_failed_to_get_phone_from_both_sim_activate_and_operator">Nội địa: Kích hoạt SIM không nhận được số, nhà cung cấp dịch vụ không nhận được số</string>
+	<string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">Quốc tế: Kích hoạt thẻ SIM (Thành công %s)</string>
+	<string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">Nội địa: Kích hoạt thẻ SIM (Thành công %s)</string>
+	<string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">Nội địa: Kích hoạt thẻ SIM thất bại, nhà cung cấp dịch vụ đã nhận được số (Thành công %s)</string>
 </resources>

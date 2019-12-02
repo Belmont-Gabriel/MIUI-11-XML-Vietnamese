@@ -2172,4 +2172,18 @@ d MMMM"</string>
 	<string name="band_5G">" (Băng tần 5GHz)"</string>
 	<string name="screenshot_failed_to_capture_title">"Ứng dụng này không cho phép chụp ảnh màn hình"</string>
 	<string name="screenshot_failed_to_save_title">Không đủ dung lượng lưu trữ cho ảnh chụp màn hình mới</string>
+	<string name="multi_face_input_success_msg_slide">Vuốt xuống ở Màn hình khóa để sử dụng Mở khóa khuôn mặt</string>
+	<string name="multi_face_delete_message">Chú ký</string>
+	<string name="multi_face_name_prefix">"Khuôn mặt "</string>
+	<string name="multi_face_number_reach_limit">"Không thể thêm dữ liệu cho nhiều hơn 2 khuôn mặt"</string>
+	<string name="multi_face_input_success_msg_lift">Vuốt lên từ Màn hình khóa để sử dụng Mở khóa khuôn mặt</string>
+	<string name="multi_face_input_success_msg_normal">Sử dụng Mở khóa khuôn mặt khi Màn hình khóa sáng lên</string>
+	<string name="multi_face_input">Thêm dữ liệu khuôn mặt</string>
+	<string name="quick_settings_cellular_detail_unable_change">"Không thể đặt khi đang gọi"</string>
+	<string name="multi_face_input_enrolling">Đang thêm dữ liệu khuôn mặt…</string>
+	<string name="multi_face_input_reach_upper_limit">"Không thể thêm dữ liệu khuôn mặt. Chờ một vài phút rồi thử lại."</string>
+	<string name="multi_face_list">Dữ liệu khuôn mặt</string>
+	<string name="multi_face_input_enroll">Thêm dữ liệu khuôn mặt</string>
+	<string name="multi_face_input_success_name_title">Tên</string>
+	<string name="multi_face_delete_show_message">Xóa dữ liệu khuôn mặt ngay?</string>
 </resources>

@@ -1092,4 +1092,12 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="fm_headline_title">Chọn ngày hôm nay</string>
 	<string name="account_check_in">Đăng nhập</string>
 	<string name="collect_coin_title">Bộ sưu tập quà tặng miễn phí</string>
+	<string name="collect_coin_message">Bạn có thể vào Tài khoản để thu thập tiền thưởng, có thể khấu trừ tiền mặt</string>
+	<string name="shortcut_message">Chuyển biểu tượng Đài FM đến Màn hình chính của bạn để truy cập nội dung nhanh chóng</string>
+	<string name="chapter_pay_explain">"1．1 coin = 1NDT
+2．Các chương trình miễn phí sẽ không bị khấu trừ, các chương trình đã mua sẽ tự động bỏ qua
+3．Âm thanh không thể trả lại khi đã mua"</string>
+	<string name="please_login_first">Tệp tiếp theo là chương trình trả phí, vui lòng đăng nhập trước khi mua</string>
+	<string name="album_pay_explain">"1．1 coin = 1NDT
+2．Âm thanh không thể trả lại khi đã mua"</string>
 </resources>

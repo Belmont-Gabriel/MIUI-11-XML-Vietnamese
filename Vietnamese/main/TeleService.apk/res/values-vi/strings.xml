@@ -2759,4 +2759,5 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="wifi_call_preferred_summary">"Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
 	<string name="last_sim_callback_title">Nhớ thẻ SIM ưa thích</string>
 	<string name="last_sim_callback_summary">Khi gọi từ lịch sử cuộc gọi, sử dụng thẻ SIM đã được sử dụng để gọi liên hệ này từ lần trước</string>
+	<string name="fiveg_sa_switch_title">Mạng SA</string>
 </resources>
