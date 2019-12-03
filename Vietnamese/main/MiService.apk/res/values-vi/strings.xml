@@ -156,4 +156,5 @@
 	<string name="abc_searchview_description_submit">Gửi truy vấn</string>
 	<string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
+	<string name="miui_feedback_main_frequent_question_title">Câu hỏi thường gặp</string>
 </resources>

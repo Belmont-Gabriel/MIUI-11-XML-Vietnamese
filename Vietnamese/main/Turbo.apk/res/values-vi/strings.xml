@@ -38,7 +38,7 @@
     <string name="ssb_clear_data_activity_name">Đặt lại độ sáng thích ứng?</string>
     <string name="ssb_clear_data_confirm_description">Độ sáng thích ứng sẽ được đặt lại về mặc định ban đầu.</string>
     <string name="ssb_clear_data_description">Đưa độ sáng thích ứng về chế độ cài đặt mặc định ban đầu.</string>
-	<string name="early_warning_feedback_action">Phản hồi</string>
+    <string name="early_warning_feedback_action">Phản hồi</string>
     <string name="early_warning_feedback_body">Vui lòng cung cấp phản hồi của bạn ở đây</string>
     <string name="early_warning_feedback_chooser_text">Chọn ứng dụng email</string>
     <string name="early_warning_feedback_subject">Phản hồi về thông báo cảnh báo sớm</string>
@@ -48,4 +48,10 @@
     <string name="early_warning_notification_title">Pin có thể hết lúc %1$s</string>
     <string name="early_warning_notification_turn_on_bs">Bật Trình tiết kiệm pin</string>
     <string name="early_warning_notification_turn_on_once_bs">Bật một lần</string>
+    <string name="character_counter_content_description">Đã nhập %1$d trong số %2$d ký tự</string>
+    <string name="character_counter_overflowed_content_description">Đã vượt quá giới hạn ký tự %1$d/%2$d</string>
+    <string name="clear_text_end_icon_content_description">Xóa văn bản</string>
+    <string name="early_warning_android_system">Hệ thống Android</string>
+    <string name="exposed_dropdown_menu_content_description">Hiển thị menu thả xuống</string>
+    <string name="not_set">Chưa đặt</string>
 </resources>

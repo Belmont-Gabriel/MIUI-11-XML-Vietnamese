@@ -549,4 +549,6 @@ Tăng tốc tải xuống giữa các thiết bị."</string>
 	<string name="close">Đóng</string>
 	<string name="close_ad">Đóng quảng cáo</string>
 	<string name="path_no_available">"Đường dẫn này không khả dụng"</string>
+	<string name="korean_permission_group_storage_describe">Truy cập lưu trữ của thiết bị để quản lý tải xuống</string>
+    <string name="korean_permission_group_storage_title">Lưu trữ</string>
 </resources>
