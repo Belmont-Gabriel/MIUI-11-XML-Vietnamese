@@ -469,4 +469,6 @@
 	<string name="reset_cate_tip_title">Khôi phục nhóm mặc định</string>
 	<string name="edit">Sửa</string>
 	<string name="system_shortcuts_remove">Xóa</string>
+	<string name="auto_delete_category_dialog_content">Sau khi xóa biểu tượng tìm kiếm trong một nhóm, nhóm sẽ không còn được giữ lại. Bạn có chắc chắn muốn xóa nó không?</string>
+	<string name="auto_delete_category_dialog_title">Xóa nhóm</string>
 </resources>

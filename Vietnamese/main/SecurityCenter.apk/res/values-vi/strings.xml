@@ -2855,7 +2855,7 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="securityadd_update_tips_now">Cập nhật</string>
 	<string name="securityadd_update_tips_title">Cập nhật</string>
 	<string name="power_save_ps_clean">Xóa bộ đệm khi thiết bị khóa</string>
-	<string name="power_save_ps_close_setting">Tắt dịch vụ nền (đồng bộ, GPS) để tiết kiệm pin</string>
+	<string name="power_save_ps_close_setting">Tắt các dịch vụ và tính năng có mức tiêu thụ điện năng cao (đồng bộ hóa, GPS, phản hồi xúc giác, \"Nhấc để đánh thức \", \"Chạm hai lần để đánh thức hoặc tắt màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\") để tiết kiệm pin</string>
     <string name="power_save_ps_freeze">Đóng băng các ứng dụng chạy nền</string>
     <string name="power_save_ps_limit">Giới hạn hoạt động của các ứng dụng hệ thống</string>
 	<string name="choose_gs_show_way">Chọn hướng trang chủ</string>
@@ -3173,7 +3173,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="power_optimize_disable_5g">Hạn chế kết nối 5G</string>
 	<string name="privacyapp_number_masked_text">Đã ẩn nội dung thông báo</string>
 	<string name="power_center_scan_item_title_5g">Kết nối 5G</string>
-	<string name="power_save_ps_close_setting_5g">Hạn chế tính năng gây hao pin (đồng bộ, kết nối 5G, GPS)</string>
+	<string name="power_save_ps_close_setting_5g">Tắt các dịch vụ và tính năng có mức tiêu thụ điện năng cao (đồng bộ hóa, kết nối mạng 5G, GPS, phản hồi xúc giác, \"Nhấc để đánh thức\", \"Chạm hai lần để đánh thức hoặc tắt màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\") để tiết kiệm pin</string>
 	<string name="notification_low_battery_action_btn">Bật</string>
 	<string name="battery_low_title_power_save">Tiết kiệm pin</string>
 	<string name="dlg_cancel">Hủy</string>
@@ -3219,4 +3219,13 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="HIPS_Perm_PhoneID_Desc">Truy cập số điện thoại, IMEI, và IMSI</string>
 	<string name="HIPS_Perm_SendSMS_Desc">Trực tiếp gửi tin nhắn SMS</string>
 	<string name="system_permission_perm_optional">" (tùy chọn)"</string>
+	<string name="power_center_list_item_wake_notification">Không sáng màn hình khi có thông báo</string>
+	<string name="power_center_dialog_msg_title">Bật để có thêm %1$s. Các hành động dưới đây sẽ được thực hiện để tiết kiệm pin:</string>
+	<string name="power_save_mode_other_optimization">Tối ưu tùy chỉnh</string>
+	<string name="power_save_mode_close_notification_screenon_title">"Không sáng màn hình khi có thông báo"</string>
+	<string name="power_optimize_disable_gps_high_accuracy">Tắt chế độ vị trí chính xác cao</string>
+	<string name="power_save_mode_close_xiaoai_wakeup_title">"Không kích hoạt Mi AI bằng giọng nói"</string>
+	<string name="power_save_mode_close_notification_screenon_summary">Hoạt động khi Tiết kiệm pin được bật</string>
+	<string name="power_save_mode_close_xiaoai_wakeup_summary">Hoạt động khi Tiết kiệm pin được bật</string>
+	<string name="power_center_list_item_haptic_feedback">Tắt phản hồi xúc giác</string>
 </resources>

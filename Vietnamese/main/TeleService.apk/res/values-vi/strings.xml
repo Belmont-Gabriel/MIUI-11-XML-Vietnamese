@@ -2757,7 +2757,14 @@ Bất cứ khi nào tính năng này khả dụng, biểu tượng sau sẽ đư
 Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
 	<string name="wifi_call_welcome_settings">Gọi Wi-Fi</string>
 	<string name="wifi_call_preferred_summary">"Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc định để gọi điện thoại. Trong trường hợp không có mạng di động hoặc tín hiệu yếu, mạng Wi-Fi sẽ được sử dụng."</string>
-	<string name="last_sim_callback_title">Nhớ thẻ SIM ưa thích</string>
+	<string name="last_sim_callback_title">Nhớ SIM ưa thích</string>
 	<string name="last_sim_callback_summary">Khi gọi từ lịch sử cuộc gọi, sử dụng thẻ SIM đã được sử dụng để gọi liên hệ này từ lần trước</string>
 	<string name="fiveg_sa_switch_title">Mạng SA</string>
+	<string name="main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
+	<string name="mobile_advanced_dns_server_title">Địa chỉ máy chủ DNS</string>
+	<string name="advanced_mobile_settings">Cài đặt nâng cao</string>
+	<string name="mobile_connection_management">Quản lý kết nối mạng di động</string>
+	<string name="mobile_advanced_ip_address_title">Địa chỉ IP</string>
+	<string name="mobile_property">Thuộc tính mạng di động</string>
+	<string name="netcheck_title">Chẩn đoán mạng di động</string>
 </resources>

@@ -9819,4 +9819,6 @@ Dưới đây là một số nguyên nhân:
 	<string name="popup_led_try_later">Chờ một vài phút và thử lại</string>
 	<string name="color_lamp_applications_title_summary">Cho phép hoặc hạn chế sử dụng LED trong \"Danh mục thông báo\"</string>
 	<string name="color_lamp_charging_summary">LED sẽ tắt khi thiết bị đã sạc đầy</string>
+	<string name="delete_fingerprint_confirm_title">Chú ý</string>
+	<string name="lockscreen_magazine_india">Glance dành cho Mi</string>
 </resources>

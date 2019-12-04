@@ -308,4 +308,7 @@ Tất cả dữ liệu người dùng trước đó sẽ được lưu lại."</
 	<string name="miui_install_source_unkown">Chưa biết</string>
 	<string name="game_center_intercept_trust_app">Tôi tin tưởng ứng dụng này và có thể đối mặt với mọi rủi ro có thể xảy ra.</string>
 	<string name="pref_key_app_store_title">Đề xuất các phiên bản an toàn</string>
+	<string name="permission_title">%1$s quyền</string>
+	<string name="install_failed">"Không thể cài đặt ứng dụng"</string>
+	<string name="install_done">Ứng dụng đã được cài đặt.</string>
 </resources>

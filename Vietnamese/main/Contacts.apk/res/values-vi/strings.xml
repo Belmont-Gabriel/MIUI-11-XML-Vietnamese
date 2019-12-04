@@ -1539,4 +1539,5 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="yellowpage_provider_label">Dữ liệu cung cấp bởi</string>
 	<string name="permission_storage">Bộ nhớ</string>
 	<string name="permission_contacts">Liên hệ</string>
+	<string name="cloud_upgrade_recommend">"Không thể đồng bộ danh bạ do không đủ dung lượng lưu trữ đám mây. Nâng cấp gói lưu trữ đám mây của bạn."</string>
 </resources>

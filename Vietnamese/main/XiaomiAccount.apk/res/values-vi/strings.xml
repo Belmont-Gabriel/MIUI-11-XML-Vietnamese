@@ -702,4 +702,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">Quốc tế: Kích hoạt thẻ SIM (Thành công %s)</string>
 	<string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">Nội địa: Kích hoạt thẻ SIM (Thành công %s)</string>
 	<string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">Nội địa: Kích hoạt thẻ SIM thất bại, nhà cung cấp dịch vụ đã nhận được số (Thành công %s)</string>
+	<string name="passport_can_not_receive_verification_code">"Không nhận được mã xác thực?"</string>
 </resources>
