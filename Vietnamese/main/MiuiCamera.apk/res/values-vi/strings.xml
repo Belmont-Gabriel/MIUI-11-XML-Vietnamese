@@ -1382,4 +1382,12 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="pref_pic_flaw_tip_summary">Khi bạn chụp ảnh một người nhắm mắt hoặc các cạnh của ảnh bị chặn, một lời nhắc sẽ được đưa ra trên màn hình trong thời gian thực</string>
 	<string name="id_card_mode_use_hint_text_body">"Gộp chung hai mặt thẻ ID vào một ảnh
 In dễ dàng trên khổ A4"</string>
+	<string name="video_effect_entry_wind_sing">Gió hát</string>
+	<string name="video_effect_entry_summer_day">Ngày hè</string>
+	<string name="video_effect_entry_lost">Mất tích</string>
+	<string name="video_effect_entry_fantasy">Ảo mộng</string>
+	<string name="video_effect_entry_central">Trung tâm</string>
+	<string name="video_effect_entry_northern_europe">Bắc Âu</string>
+	<string name="video_effect_entry_color_retention">Giữ chân dung màu</string>
+	<string name="video_effect_entry_meet">Gặp gỡ</string>
 </resources>

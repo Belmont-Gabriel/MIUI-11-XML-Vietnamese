@@ -382,4 +382,11 @@
 	<string name="prompt">Chú ý</string>
 	<string name="uninstall_prompt">Nếu có vấn đề xảy ra khi cài đặt, vào Cài đặt &gt; Ứng dụng &gt; Quản lý ứng dụng &gt; Máy quét, chạm \"Gỡ cài đặt\", và thử cài đặt lại ứng dụng.</string>
 	<string name="your_application_is_under_review">" (Ứng dụng của bạn đang được xem xét.)"</string>
+	<string name="store_title">Quét dấu hiệu cửa hàng</string>
+	<string name="store_location_dialog">Dịch vụ này được cung cấp bởi Dianping. Tất cả hình ảnh bạn chụp khi sử dụng dịch vụ này, bao gồm thông tin vị trí liên quan, sẽ được chia sẻ với Dianping để nhận thông tin về cửa hàng.</string>
+	<string name="store_location_prompt">Cho phép Máy quét truy cập vị trí của bạn để nhận diện cửa hàng</string>
+	<string name="store_no_date">"Không thể nhận diện cửa hàng"</string>
+	<string name="store_location_fail">"Không thể lấy thông tin vị trí"</string>
+	<string name="store_feedback_prompt">Nhập phản hồi của bạn trước</string>
+	<string name="store_module_title">Cửa hàng</string>
 </resources>

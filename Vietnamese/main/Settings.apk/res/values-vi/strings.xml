@@ -9821,4 +9821,5 @@ Dưới đây là một số nguyên nhân:
 	<string name="color_lamp_charging_summary">LED sẽ tắt khi thiết bị đã sạc đầy</string>
 	<string name="delete_fingerprint_confirm_title">Chú ý</string>
 	<string name="lockscreen_magazine_india">Glance dành cho Mi</string>
+	<string name="mtp_solution_button_ok">Xử lý sự cố</string>
 </resources>
