@@ -1681,7 +1681,7 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="pull_refresh_end">Thả ra để làm mới</string>
     <string name="pull_refresh_refreshing">Đang làm mới</string>
     <string name="recommending_close_toast_text">Đóng tính năng này trong cài đặt nâng cao</string>
-    <string name="refresh_text">Làm mới</string>
+    <string name="refresh_text">Thử lại</string>
     <string name="small_video_load_failed">Tải thất bại</string>
     <string name="small_video_loading">Đang tải</string>
     <string name="small_video_main_tab">Đề xuất</string>
@@ -1819,7 +1819,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
 	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ nhớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
 	<string name="data_traffic_download_confirm">Sử dụng kết nối dữ liệu di động</string>
-	<string name="load_error_tip">Tải lỗi, chạm để thử lại</string>
+	<string name="load_error_tip">Không thể tải, chạm để thử lại</string>
 	<string name="debug_mode_toast">Chế độ gỡ lỗi đã bật</string>
 	<string name="guide_first_optimization_type_main_title">Video tuyệt vời không có điểm dừng</string>
 	<string name="guide_first_optimization_type_sub_title">15 giây video nhỏ ghi lại khoảnh khắc</string>
@@ -2010,7 +2010,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="nav_launch_title">Thử sử dụng các ứng dụng dưới đây</string>
 	<string name="security_permission_message_location">"Ứng dụng này cần truy cập vị trí của bạn để cung cấp các dịch vụ dựa trên vị trí. Nếu bạn không đồng ý cấp các quyền đó, bạn sẽ không thể sử dụng một số tính năng của ứng dụng này; tuy nhiên, chức năng cơ bản của nó vẫn sẽ có sẵn cho bạn. Bạn luôn có thể hạn chế quyền hoặc thu hồi ủy quyền của mình trong Cài đặt."</string>
 	<string name="ad_go_download">Tải xuống</string>
-	<string name="browser_default_setting_content">Truy cập mạng an toàn</string>
+	<string name="browser_default_setting_content">Duyệt web nhanh chóng và an toàn</string>
 	<string name="dialog_nps_comment_slogan_text">"Đánh giá ứng dụng để ủng hộ chúng tôi"</string>
 	<string name="ad_go_see">Thêm</string>
 	<string name="short_video_net_dialog_title">"Bạn đang sử dụng dữ liệu di động. Sử dụng dữ liệu di động có thể phát sinh cước phí."</string>
@@ -2026,4 +2026,5 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="ad_lunch_app">Khởi chạy packageName</string>
 	<string name="ad_app_fail">Khởi chạy packageName thất bại</string>
 	<string name="ad_app_success">Khởi chạy packageName thành công</string>
+	<string name="notification_channel_name_local_push">Thông báo trình duyệt</string>
 </resources>

@@ -63,4 +63,10 @@
 	<plurals name="feed_back_home">
 		<item quantity="other">Quay lại trang chủ trong %1$d giây…</item>
 	</plurals>
+	<plurals name="notice_user_banned">
+		<item quantity="other">Nội dung của bạn chứa các mục (%1$s) vi phạm tiêu chuẩn cộng đồng của chúng tôi. Tài khoản của bạn đã bị khóa %2$d ngày cho đến %3$s.</item>
+	</plurals>
+	<plurals name="comment_model_watch_reply">
+		<item quantity="other">Xem %d phản hồi</item>
+	</plurals>
 </resources>
