@@ -277,7 +277,7 @@
     <string name="confirm_delete_conversation_title">Xóa</string>
     <string name="confirm_discard_text">Hủy thư này?</string>
     <string name="confirm_response">Đang gửi trả lời…</string>
-    <string name="confirm_save_message_no">Hủy</string>
+    <string name="confirm_save_message_no">Hủy bỏ</string>
     <string name="confirm_save_message_title">Lưu như thư nháp?</string>
     <string name="confirm_save_message_yes">Lưu</string>
     <string name="confirm_send_message_with_no_body">Không có văn bản trong nội dung thư.</string>
@@ -361,7 +361,7 @@
     <string name="dialog_system_auto_sync_account_no_open">Bật đồng bộ tài khoản để nhận email tự động</string>
     <string name="dialog_system_auto_sync_master_no_open">Bật đồng bộ để nhận email tự động</string>
     <string name="disable_admin_warning">CẢNH BÁO: Tắt quyền ứng dụng Email để quản trị thiết bị sẽ xóa tất cả các tài khoản email được yêu cầu cùng với nội dung tin nhắn, liên hệ, sự kiện lịch, và các dữ liệu khác.</string>
-    <string name="discard">Hủy</string>
+    <string name="discard">Hủy bỏ</string>
     <string name="discard_drafts">Hủy thư nháp</string>
     <string name="dismiss_tip_hover_text">Bỏ qua chỉ dẫn</string>
     <string name="disturb_switch">Không làm phiền</string>

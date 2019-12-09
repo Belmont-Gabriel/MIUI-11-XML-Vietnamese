@@ -168,8 +168,8 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
 	<string name="message_appstore_verify_has_new_version">Một phiên bản mới hơn của ứng dụng này khả dụng ở App Store. Bạn có muốn cài đặt không?</string>
 	<string name="uninstall_failed_device_policy_manager">"Không thể gỡ cài đặt gói này vì nó là quản trị viên thiết bị kích hoạt."</string>
 	<string name="settings_warning_dialog_detail">"Bạn sẽ được nhắc trong các trường hợp dưới đây:
- "&lt;li&gt;Khi một ứng dụng chứa vi-rút.&lt;/li&gt;"
- "&lt;li&gt;Gói cài đặt đến từ nguồn không xác định.&lt;/li&gt;</string>
+ Khi một ứng dụng chứa vi-rút.
+ Gói cài đặt đến từ nguồn không xác định."</string>
 	<string name="miui_no_perms">Không có quyền được yêu cầu</string>
 	<string name="app_not_found_dlg_text">"Không tìm thấy ứng dụng này trong danh sách ứng dụng đã cài đặt."</string>
 	<string name="miui_clean">Xóa</string>
@@ -312,4 +312,5 @@ Tất cả dữ liệu người dùng trước đó sẽ được lưu lại."</
 	<string name="install_failed">"Không thể cài đặt ứng dụng"</string>
 	<string name="install_done">Ứng dụng đã được cài đặt.</string>
 	<string name="pref_ads">Đề xuất</string>
+	<string name="app_name">Trình cài đặt gói</string>
 </resources>

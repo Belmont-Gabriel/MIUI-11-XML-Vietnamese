@@ -264,7 +264,7 @@
     <string name="module_download_msg_replace">Bản cập nhật âm thanh cho báo thức thông minh MIUI khả dụng. Kết nối mạng và tải xuống ngay?</string>
     <string name="search_menu_title">Tìm kiếm</string>
 	<string name="abc_menu_space_shortcut_label">phím cách</string>
-	<string name="confirm_abort">Hủy</string>
+	<string name="confirm_abort">Hủy bỏ</string>
 	<string name="clock_bg_button_setting_title">Màu nền</string>
     <string name="clock_bg_button_setting_summary_common">Chọn màu nền cho ứng dụng Đồng hồ</string>
     <string name="clock_bg_button_setting_summary_follow_sys">Màu nền sẽ chuyển sang màu đen mỗi khi bạn chuyển sang Chế độ tối</string>

@@ -385,7 +385,7 @@ Máy tính bảng này không có tai nghe. Bạn có thể chuyển sang chế 
     <string name="saving_account">Đang lưu…</string>
     <string name="removing_account">Đang xóa…</string>
     <string name="sip_menu_save">Lưu</string>
-    <string name="sip_menu_discard">Hủy</string>
+    <string name="sip_menu_discard">Hủy bỏ</string>
     <string name="alert_dialog_close">Đóng hồ sơ</string>
     <string name="alert_dialog_ok">OK</string>
     <string name="close_profile">Đóng</string>

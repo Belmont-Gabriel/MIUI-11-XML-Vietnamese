@@ -676,7 +676,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="login_and_enable_service">Đăng nhập bằng Tài khoản Mi</string>
     <string name="long_press_to_refocus">Bấm &amp; giữ để lấy nét</string>
     <string name="main_discard_confirm_message">Bạn chưa lưu thay đổi</string>
-    <string name="main_discard_negative_btn">Hủy</string>
+    <string name="main_discard_negative_btn">Hủy bỏ</string>
     <string name="main_discard_positive_btn">Lưu &amp; Thoát</string>
     <string name="main_save_error_msg">Không thể lưu thay đổi do lỗi</string>
     <string name="megabyteShort">MB</string>
@@ -1068,7 +1068,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="sticker_words">Chữ</string>
     <string name="storage_no_space">Không đủ dung lượng</string>
     <string name="sub_discard_confirm_message">Lưu thay đổi?</string>
-    <string name="sub_discard_negative_btn">Hủy</string>
+    <string name="sub_discard_negative_btn">Hủy bỏ</string>
     <string name="sub_discard_positive_btn">Lưu</string>
     <string name="success_create_quick_icon_on_desk">Đã tạo thành công</string>
     <string name="sync_album_in_proecess">Đang đồng bộ album…</string>

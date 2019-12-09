@@ -142,7 +142,7 @@
     <string name="toast_network_unavailable">Không thể gửi. Không thể kết nối mạng.</string>
     <string name="discard_draft_dialog_title">Hủy bản nháp?</string>
     <string name="discard_draft_dialog_content">Tất cả những sửa đổi của bạn đối với bản báo cáo này sẽ bị mất.</string>
-    <string name="discard_draft_dialog_button_discard">Hủy</string>
+    <string name="discard_draft_dialog_button_discard">Hủy bỏ</string>
     <string name="discard_draft_dialog_button_cancel">Không</string>
     <string name="network_unavailable_dialog_title">Không thể kết nối mạng</string>
     <string name="network_unavailable_dialog_content">Báo cáo của bạn sẽ được gửi khi bạn kết nối mạng.</string>

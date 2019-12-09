@@ -125,8 +125,8 @@
     <string name="delivery_toast_body">Tin nhắn được nhận bởi %s.</string>
     <string name="disable_notifications_dialog_message">Ngăn chặn các thông báo tin nhắn văn bản trùng lặp từ ứng dụng Tin nhắn mặc định?</string>
     <string name="disabled">Tắt</string>
-    <string name="discard">Hủy</string>
-    <string name="discard_message">Hủy</string>
+    <string name="discard">Hủy bỏ</string>
+    <string name="discard_message">Hủy bỏ</string>
     <string name="discard_message_reason">Tin nhắn của bạn sẽ bị hủy vì người nhận không hợp lệ.</string>
     <string name="discard_slideshow">Hủy trình chiếu</string>
     <string name="dl_failure_notification">Không thể tải xuống tin nhắn %1$s từ %2$s.</string>

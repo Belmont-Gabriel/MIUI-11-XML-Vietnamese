@@ -1051,4 +1051,10 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="subscription_service_unsupported">Truy cập mạng trái phép, dịch vụ thuê bao không có sẵn</string>
 	<string name="language_change_confirmation">Thay đổi thành công. Bạn có thể thay đổi ngôn ngữ trong cài đặt Lịch.</string>
 	<string name="news">Tin tức</string>
+	<string name="menstruation_use_button">Tiếp tục sử dụng</string>
+	<string name="menstruation_dialog_tips">Chức năng Trợ lý kinh nguyệt được cung cấp bởi Sức khỏe Mi, nhấn Tiếp tục sử dụng lịch để tải xuống hoặc cập nhật ứng dụng Sức khỏe Mi.</string>
+	<string name="solar_lunar_convert_description_2">Chuyển đổi giữa Âm lịch và Lịch Gregorius</string>
+	<string name="subscribe_failed">Đăng ký không thành công. Lỗi mạng, vui lòng thử lại sau</string>
+	<string name="menstruation_title">Trợ lý kinh nguyệt</string>
+	<string name="miuishare_app_name">Chia sẻ Mi</string>
 </resources>

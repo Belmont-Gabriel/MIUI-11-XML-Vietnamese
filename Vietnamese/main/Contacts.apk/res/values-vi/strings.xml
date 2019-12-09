@@ -605,7 +605,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="menu_deleteGroup">Xóa</string>
     <string name="menu_dial_ip_number">Thực hiện cuộc gọi IP</string>
     <string name="menu_dialpad_text">Bàn phím</string>
-    <string name="menu_discard">Hủy</string>
+    <string name="menu_discard">Hủy bỏ</string>
     <string name="menu_display_all">Hiển thị tất cả</string>
     <string name="menu_display_selected">Hiển thị đã chọn</string>
     <string name="menu_doNotSave">Hủy</string>

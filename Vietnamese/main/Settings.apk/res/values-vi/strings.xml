@@ -1611,7 +1611,7 @@ Hãy xem xét sử dụng ^1 nhanh hơn để đạt được hiệu suất tố
     <string name="menu_delete">Xóa APN</string>
     <string name="menu_new">APN mới</string>
     <string name="menu_save">Lưu</string>
-    <string name="menu_cancel">Hủy</string>
+    <string name="menu_cancel">Hủy bỏ</string>
     <string name="error_name_empty">Không được để trống trường Tên.</string>
     <string name="error_apn_empty">APN không được để trống.</string>
     <string name="error_mcc_not3">Trường MCC phải có 3 chữ số.</string>
