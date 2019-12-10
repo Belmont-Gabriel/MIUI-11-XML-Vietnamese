@@ -73,7 +73,7 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
     <string name="update_profile_failture_not_connect_wifi">Cập nhật thất bại, không có kết nối W-Fi</string>
     <string name="sucess">Thành công</string>
     <string name="failure">Thất bại</string>
-    <string name="cloud_addr_info">Thông tin Mi Cloud Chế độ ẩn</string>
+    <string name="cloud_addr_info">Thông tin Xiaomi Cloud Chế độ ẩn</string>
     <string name="lasttime_feature_cloud">Thời gian cập nhật tính năng thông dụng:</string>
     <string name="lasttime_applist_cloud">Thời gian cập nhật danh sách ứng dụng:</string>
     <string name="base_info">Thông tin cơ bản</string>

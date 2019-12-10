@@ -25,7 +25,7 @@
         <item quantity="other">Đã tạo %1$s | Tất cả %2$d bài hát</item>
     </plurals>
     <plurals name="Nstop_backup_songs_message">
-        <item quantity="other">%d bài hát đã được sao lưu vào Mi Cloud. Dừng ngay?</item>
+        <item quantity="other">%d bài hát đã được sao lưu vào Xiaomi Cloud. Dừng ngay?</item>
     </plurals>
     <plurals name="Ntracks_count">
         <item quantity="other">%d bài hát</item>
@@ -106,7 +106,7 @@
         <item quantity="other">Xóa %d bài hát?</item>
     </plurals>
     <plurals name="dialog_remove_from_cloud_descript">
-        <item quantity="other">Xóa %d bài hát khỏi Mi Cloud? Chúng cũng sẽ bị xóa khỏi danh sách phát.</item>
+        <item quantity="other">Xóa %d bài hát khỏi Xiaomi Cloud? Chúng cũng sẽ bị xóa khỏi danh sách phát.</item>
     </plurals>
     <plurals name="send_songs_toast">
         <item quantity="other">%d bài hát sẽ được gửi</item>

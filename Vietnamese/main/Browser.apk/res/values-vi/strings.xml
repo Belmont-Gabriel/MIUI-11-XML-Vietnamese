@@ -43,7 +43,7 @@
     <string name="account_prifix">Tài khoản:</string>
     <string name="action">Đăng nhập</string>
     <string name="action_menu_account_not_login">Chưa đăng nhập</string>
-    <string name="action_menu_account_not_login_hint">Đăng nhập để đồng bộ với Mi Cloud</string>
+    <string name="action_menu_account_not_login_hint">Đăng nhập để đồng bộ với Xiaomi Cloud</string>
     <string name="action_menu_bookshelf">Kệ sách</string>
     <string name="action_menu_current_version">Phiên bản hiện tại</string>
     <string name="action_menu_text_add_bookmark">Thêm dấu trang</string>
@@ -174,12 +174,12 @@
     <string name="close_ads_title">Chặn nội dung không?</string>
     <string name="close_all_tab_alert_message">Đóng tất cả các thẻ đang mở trong trình duyệt?</string>
     <string name="close_all_tab_alert_title">Đóng tất cả các thẻ</string>
-    <string name="close_cloud_tab_tip">Đóng thẻ Mi Cloud trên %s?</string>
+    <string name="close_cloud_tab_tip">Đóng thẻ Xiaomi Cloud trên %s?</string>
     <string name="cloud_loading_tips">Kéo xuống để đồng bộ</string>
     <string name="cloud_no_new_data_toast">Mọi thứ đều được cập nhật</string>
     <string name="cloud_sync_closed_toast">Không thể cập nhật do đồng bộ tắt</string>
     <string name="cloud_sync_failed_toast">Không thể cập nhật</string>
-    <string name="cloud_tab">Thẻ Mi Cloud</string>
+    <string name="cloud_tab">Thẻ Xiaomi Cloud</string>
     <string name="cloud_time_tips">Đồng bộ lần cuối</string>
     <string name="cloud_up_to_loading_tips">Thả để đồng bộ</string>
     <string name="color_picker_button_black">Đen</string>
@@ -1545,8 +1545,8 @@ Rời khỏi trang này bây giờ?"</string>
     <string name="network_not_available_comment">Không có kết nối mạng, không thể bình luận</string>
     <string name="not_now">Không phải bây giờ</string>
     <string name="novel_toast_hint">Trang web này đã được thêm vào dấu trang</string>
-    <string name="open_cloud_sync">Bật đồng bộ với Mi Cloud</string>
-    <string name="open_cloud_sync_desc">Đã thêm dấu trang. Bật đồng bộ Mi Cloud để đồng bộ dấu trang được thêm trên các thiết bị khác. Đăng nhập và bật ngay?</string>
+    <string name="open_cloud_sync">Bật đồng bộ với Xiaomi Cloud</string>
+    <string name="open_cloud_sync_desc">Đã thêm dấu trang. Bật đồng bộ Xiaomi Cloud để đồng bộ dấu trang được thêm trên các thiết bị khác. Đăng nhập và bật ngay?</string>
     <string name="page_hang_message">Trang hiện tại bị treo và bạn cần khởi động lại trình duyệt.</string>
     <string name="page_hang_title">Trang treo</string>
     <string name="permissions_prompt_message">%s muốn</string>

@@ -192,7 +192,7 @@
     <string name="keyguard_charging_info_drained_min_time_format">%d phút</string>
     <string name="keyguard_charging_info_drained_time_format" formatted="false">%d giờ %d phút</string>
     <string name="keyguard_charging_info_finished_charging_text">Đã sạc đầy</string>
-    <string name="phone_locked_foget_password_content">"Bạn có thể đăng nhập i.mi.com bằng cách sử dụng Tài khoản Mi đã liên kết với thiết bị này, và xóa tất cả dữ liệu. Điều này có nghĩa là bạn sẽ xóa tất cả dữ liệu cá nhân lưu trữ trên thiết bị này. Sau đó, bạn có thể khởi động lại thiết bị và khôi phục liên hệ, tin nhắn, ảnh, và các mục khác từ Mi Cloud. 
+    <string name="phone_locked_foget_password_content">"Bạn có thể đăng nhập i.mi.com bằng cách sử dụng Tài khoản Mi đã liên kết với thiết bị này, và xóa tất cả dữ liệu. Điều này có nghĩa là bạn sẽ xóa tất cả dữ liệu cá nhân lưu trữ trên thiết bị này. Sau đó, bạn có thể khởi động lại thiết bị và khôi phục liên hệ, tin nhắn, ảnh, và các mục khác từ Xiaomi Cloud. 
 
 Bạn sẽ không thể thực hiện được trừ khi bạn đã đăng nhập Tài khoản Mi trên thiết bị. Nếu không, bạn sẽ phải flash lại thiết bị."</string>
     <string name="phone_locked_foget_password_footer">"Các bước thực hiện:

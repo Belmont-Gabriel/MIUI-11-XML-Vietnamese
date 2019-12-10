@@ -1451,7 +1451,7 @@ thiết bị của bạn"</string>
     <string name="empty_title_manual_item_white_list">Không có danh sách ngoại lệ.</string>
     <string name="title_cloud_account">Tài khoản Mi</string>
     <string name="summary_cloud_account">Tận hưởng nhiều dịch vụ tuyệt vời khác của Mi</string>
-    <string name="title_cloud_service">Mi Cloud</string>
+    <string name="title_cloud_service">Xiaomi Cloud</string>
     <string name="summary_cloud_service">Đồng bộ ảnh, liên hệ, và nhiều thứ nữa trên tất cả các thiết bị của bạn</string>
     <string name="title_network_switch">Kết nối mạng</string>
     <string name="summary_network_switch">Cho phép ứng dụng Bảo mật kết nối internet</string>
@@ -1486,16 +1486,16 @@ thiết bị của bạn"</string>
     <string name="summary_mifi_insurance">Nhận gói đổi điện thoại miễn phí 1 năm trong trường hợp phần cứng bị hư hỏng</string>
     <string name="title_cloud_space_almost_full">Dung lượng lưu trữ đám mây gần đầy, nhiều mục có thể không được đồng bộ</string>
     <string name="summary_cloud_space_almost_full">Thêm dung lượng lưu trữ</string>
-    <string name="title_cloud_space_full">Mi Cloud đã đầy</string>
+    <string name="title_cloud_space_full">Xiaomi Cloud đã đầy</string>
     <string name="summary_cloud_space_full">Thêm dung lượng lưu trữ và tính năng mới</string>
     <string name="title_auto_update">Cập nhật tự động</string>
     <string name="summary_auto_update">MIUI sẽ chọn thời gian thích hợp nhất để tải xuống và cài đặt cập nhật.</string>
     <string name="title_miui_update_latest">MIUI đã cập nhật phiên bản mới nhất</string>
     <string name="title_miui_update">Tìm thấy phiên bản mới</string>
     <string name="summary_miui_update">Tìm thấy phiên bản mới cho %s.</string>
-    <string name="title_virus_cloudscan">Quét virus Mi Cloud</string>
+    <string name="title_virus_cloudscan">Quét virus Xiaomi Cloud</string>
     <string name="summary_virus_cloudscan">Tải lên tên và chi tiết ứng dụng và quét bằng cách sử dụng nhận dạng virus trực tuyến</string>
-    <string name="title_cleaner_cloudscan">Quét rác Mi Cloud</string>
+    <string name="title_cleaner_cloudscan">Quét rác Xiaomi Cloud</string>
     <string name="summary_cleaner_cloudscan">Tải lên và so sánh tên thư mục với cơ sở dữ liệu trực tuyến</string>
     <string name="title_xiaomi_roaming">Chuyển vùng Mi</string>
     <string name="summary_xiaomi_roaming">0.01 NDT/MB đối với chuyển vùng dữ liệu di động.</string>
@@ -1807,7 +1807,7 @@ thiết bị của bạn"</string>
     <string name="optimize_result_button_consume_power_analysis">Quét pin</string>
     <string name="optimize_result_button_purchase_flow">Xem tất cả</string>
     <string name="optimize_result_button_purchase">Mua</string>
-    <string name="optimize_result_button_cloudspace">Thêm lưu trữ Mi Cloud</string>
+    <string name="optimize_result_button_cloudspace">Thêm lưu trữ Xiaomi Cloud</string>
     <string name="optimize_result_title_system_default_settings">Cài đặt mặc định đã được thay đổi</string>
     <string name="optimize_result_summary_system_default_settings">Sử dụng ứng dụng MIUI mặc định để tăng tính ổn định và bảo mật hệ thống.</string>
     <string name="optimize_result_toast_system_default_settings">Đã khôi phục cài đặt mặc định</string>

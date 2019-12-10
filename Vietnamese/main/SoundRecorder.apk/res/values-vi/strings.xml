@@ -36,7 +36,7 @@
     <string name="call_record">Cuộc gọi đã ghi âm</string>
     <string name="no_file">Trống</string>
     <string name="alert_message_delete_record_title">Xóa ghi âm?</string>
-    <string name="alert_message_delete_record">Xóa ghi âm từ thiết bị cũng đồng thời xóa từ Mi Cloud. Vẫn xóa ngay?</string>
+    <string name="alert_message_delete_record">Xóa ghi âm từ thiết bị cũng đồng thời xóa từ Xiaomi Cloud. Vẫn xóa ngay?</string>
     <string name="share">Chia sẻ</string>
     <string name="rename">Đổi tên</string>
     <string name="delete">Xóa</string>
@@ -71,7 +71,7 @@
     <string name="pause">Tạm dừng</string>
     <string name="back">Quay lại</string>
     <string name="toast_uninstall_fileexplorer">Trình tập tin chưa được cài đặt</string>
-    <string name="record_download">Tải xuống từ Mi Cloud</string>
+    <string name="record_download">Tải xuống từ Xiaomi Cloud</string>
     <string name="record_download_msg">Ghi âm chỉ có thể được phát sau khi đã hoàn tất tải xuống.</string>
     <string name="record_download_msg_reload">Bản ghi âm này không tồn tại.</string>
     <string name="record_download_complete">Đã tải xuống</string>
@@ -93,11 +93,11 @@
     <string name="record_back_pressed_hint">Để dừng ghi âm, chạm phím Quay lại lần nữa</string>
     <string name="record_mark_point">%s đánh dấu</string>
     <string name="record_quliaty_preference_title">Chất lượng ghi âm</string>
-    <string name="cloud_record_tip">Đồng bộ ghi âm với Mi Cloud.</string>
+    <string name="cloud_record_tip">Đồng bộ ghi âm với Xiaomi Cloud.</string>
     <string name="cloud_record_open">Đồng bộ ghi âm</string>
-	<string name="cloud_service_state_open_reminder">Bật đồng bộ Mi Cloud để đồng bộ tập tin ghi âm.</string>
-	<string name="cloud_status_full_dialog_title">Lưu trữ Mi Cloud đã đầy</string>
-    <string name="cloud_status_full_dialog_msg">Lưu trữ Mi Cloud đã đầy, không thể đồng bộ ghi âm. Nâng cấp tài khoản của bạn để nhận thêm dung lượng lưu trữ.</string>
+	<string name="cloud_service_state_open_reminder">Bật đồng bộ Xiaomi Cloud để đồng bộ tập tin ghi âm.</string>
+	<string name="cloud_status_full_dialog_title">Lưu trữ Xiaomi Cloud đã đầy</string>
+    <string name="cloud_status_full_dialog_msg">Lưu trữ Xiaomi Cloud đã đầy, không thể đồng bộ ghi âm. Nâng cấp tài khoản của bạn để nhận thêm dung lượng lưu trữ.</string>
     <string name="cloud_status_full_dialog_cancel">Không phải bây giờ</string>
     <string name="cloud_status_full_dialog_ok">Nâng cấp</string>
     <string name="text_btn_recording">Ghi âm</string>
@@ -155,9 +155,9 @@
     <string name="record_picker_title">Chọn một bản ghi</string>
     <string name="sync_only_in_wifi">Chỉ sử dụng Wi-Fi để đồng bộ</string>
     <string name="sync_only_in_wifi_summary">Ghi âm sẽ không dùng dữ liệu di động để tải lên các bản ghi âm</string>
-    <string name="sync_records">Đồng bộ với Mi Cloud</string>
+    <string name="sync_records">Đồng bộ với Xiaomi Cloud</string>
     <string name="alert_message_delete_local_record">Xóa bản ghi âm này?</string>
-    <string name="dialog_privacy_revoke_tips">Sau khi bạn thu hồi quyền, ứng dụng sẽ ngừng thu thập thông tin, và tất cả các dữ liệu liên quan sẽ được xóa trên máy chủ. Ứng dụng có thể không sử dụng được. Thu hồi quyền? Để đảm bảo an toàn, hãy đăng nhập vào i.mi.com trước khi thu hồi quyền cho dịch vụ Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Sau khi bạn thu hồi quyền, ứng dụng sẽ ngừng thu thập thông tin, và tất cả các dữ liệu liên quan sẽ được xóa trên máy chủ. Ứng dụng có thể không sử dụng được. Thu hồi quyền? Để đảm bảo an toàn, hãy đăng nhập vào i.mi.com trước khi thu hồi quyền cho dịch vụ Xiaomi Cloud.</string>
     <string name="privacy_policy_title">Chính sách Riêng tư</string>
     <string name="record_format_preference_title">Định dạng ghi âm</string>
 	<string name="err_msg_abandon">Đơn hàng đã bị hủy</string>

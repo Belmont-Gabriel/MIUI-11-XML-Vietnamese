@@ -204,7 +204,7 @@
     <string name="passport_extra_gdpr_license">Tạo tài khoản Mi nghĩa là bạn đồng ý để Xiaomi thu thập, xử lý và sử dụng dữ liệu cá nhân của bạn, bao gồm dữ liệu xác minh (như: mã xác minh), dữ liệu Không gian thứ hai (như: thông tin về cách bạn sử dụng Không gian thứ hai, ID được sử dụng trong Không gian thứ nhất và thứ hai) và các dữ liệu khác được quy định trong Chính sách Riêng tư. Tham khảo Chính sách Riêng tư để tìm hiểu cách chúng tôi xử lý và sử dụng dữ liệu cá nhân.</string>
     <string name="search_app_name">Tài khoản Mi</string>
     <string name="search_mi_account">Tài khoản Mi</string>
-    <string name="search_mi_account_key_words">Mi Cloud,Cài đặt Tài khoản,Thông tin Mi Pay,Đăng xuất</string>
+    <string name="search_mi_account_key_words">Xiaomi Cloud,Cài đặt Tài khoản,Thông tin Mi Pay,Đăng xuất</string>
     <string name="search_mi_account_desc">Tài khoản Mi</string>
     <string name="search_mi_account_path">Cài đặt/Tài khoản Mi</string>
     <string name="search_user_detail">Thông tin cá nhân</string>
@@ -335,7 +335,7 @@
     <string name="account_mibi_center">Mi Credit</string>
     <string name="account_mipay_info">Mi Pay</string>
     <string name="account_xiaomi_service">Dịch vụ</string>
-    <string name="cloud_service">Mi Cloud</string>
+    <string name="cloud_service">Xiaomi Cloud</string>
     <string name="vip_account_settings">Cài đặt VIP</string>
     <string name="xiao_mi_vip">Mi VIP</string>
     <string name="mi_vip_info">Xem đặc quyền</string>
@@ -369,9 +369,9 @@
     <string name="delete_device_failed">Không thể xóa thiết bị</string>
     <string name="empty_device_list_notice">Không có thiết bị</string>
     <string name="device_name">Tên thiết bị</string>
-    <string name="multi_user_not_show_sync_activity_title">Không thể bật đồng bộ với Mi Cloud</string>
+    <string name="multi_user_not_show_sync_activity_title">Không thể bật đồng bộ với Xiaomi Cloud</string>
     <string name="multi_user_not_show_sync_activity_message_1">Dường như bạn đã sử dụng Tài khoản Mi trên Không gian thứ nhất.</string>
-    <string name="multi_user_not_show_sync_activity_message_2">Trong trường hợp đó, tất cả dữ liệu sẽ được đồng bộ vào Không gian thứ hai. Để tránh điều này, bạn không nên bật đồng bộ Mi Cloud.</string>
+    <string name="multi_user_not_show_sync_activity_message_2">Trong trường hợp đó, tất cả dữ liệu sẽ được đồng bộ vào Không gian thứ hai. Để tránh điều này, bạn không nên bật đồng bộ Xiaomi Cloud.</string>
     <string name="find_device_access_denied">Không thể nhận được trạng thái, truy cập đã bị từ chối</string>
     <string name="find_device_account_error">Không thể nhận được trạng thái do lỗi tài khoản</string>
     <string name="find_device_null_credential_error">Không thể nhận thông tin thiết bị, liên hệ với dịch vụ chăm sóc khách hàng Xiaomi</string>
@@ -460,7 +460,7 @@
     <string name="recycle_phone_notification_title">Nguy cơ bảo mật Tài khoản Mi</string>
     <string name="recycle_phone_notification_msg">Dường như số điện thoại của bạn đã được tái sử dụng. Chạm để cập nhật.</string>
     <string name="device_delete_loading">Vui lòng chờ…</string>
-    <string name="account_dspt_provision">"Đăng nhập vào Mi Cloud, cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
+    <string name="account_dspt_provision">"Đăng nhập vào Xiaomi Cloud, cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
     <string name="account_settings">Tài khoản</string>
     <string name="alert_title_remove_account">Xóa tài khoản?</string>
     <string name="barcode_add_account_prompt">Để kết nối đến một tài khoản, quét mã QR một lần nữa sau khi bạn đăng nhập.</string>
@@ -479,7 +479,7 @@
     <string name="account_dspt_provision2">Tìm hiểu thêm</string>
     <string name="account_learn_more_title">Tạo một Tài khoản Mi miễn phí</string>
     <string name="cloud_service_dspt">Đồng bộ ảnh, liên hệ, ghi chú, ứng dụng và nhiều thứ khác giữa các thiết bị của bạn.</string>
-    <string name="mi_account_dspt_provision">"Đăng nhập vào Mi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
+    <string name="mi_account_dspt_provision">"Đăng nhập vào Xiaomi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào. "</string>
     <string name="theme_store">Cửa hàng Chủ đề MIUI</string>
     <string name="theme_store_dspt">Chọn phong cách riêng cho mình. Hàng trăm chủ đề miễn phí làm cho điện thoại của bạn thêm độc đáo.</string>
     <string name="timeout_retry">Yêu cầu quá lâu, vui lòng thử lại.</string>
@@ -499,8 +499,8 @@
     <string name="passport_reg_type_other_ways"><u>Sử dụng địa chỉ email hoặc số điện thoại thay thế</u></string>
     <string name="passport_reg_type_other_ways_title">Tạo Tài khoản Mi</string>
     <string name="passport_sim_index_info">Thẻ SIM %1$d - %2$s</string>
-    <string name="passport_xiaomi_account_dspt">Sử dụng Tài khoản Mi của bạn để đăng nhập Mi Cloud, Cửa hàng Chủ đề MIUI, và Cửa hàng Mi từ bất kỳ nơi đâu.</string>
-    <string name="passport_xiaomi_account_sec_dspt2">Để đăng nhập Tài khoản Mi cần phải kết nối internet. Truy cập vị trí và Mi Cloud sẽ được mở tự động.</string>
+    <string name="passport_xiaomi_account_dspt">Sử dụng Tài khoản Mi của bạn để đăng nhập Xiaomi Cloud, Cửa hàng Chủ đề MIUI, và Cửa hàng Mi từ bất kỳ nơi đâu.</string>
+    <string name="passport_xiaomi_account_sec_dspt2">Để đăng nhập Tài khoản Mi cần phải kết nối internet. Truy cập vị trí và Xiaomi Cloud sẽ được mở tự động.</string>
     <string name="phone_unactivated">Chưa kích hoạt</string>
     <string name="phone_unknown">Không xác định</string>
     <string name="account_user_gender_female">Nữ</string>
@@ -525,14 +525,14 @@
     <string name="passport_login_check_find_device">Đang kiểm tra trạng thái Tìm thiết bị…</string>
     <string name="passport_login_check_find_device_failed">Không thể kiểm tra trạng thái Tìm thiết bị. Hãy kiểm tra kết nối mạng.</string>
     <string name="passport_login_find_device_bind">Thiết bị này đã được liên kết với ID Tài khoản Mi (%s).</string>
-    <string name="passport_xiaomi_account_sec_dspt2_vip">Để đăng nhập Tài khoản Mi cần kết nối internet. Truy cập vị trí, Mi Cloud và Mi VIP sẽ được mở tự động.</string>
+    <string name="passport_xiaomi_account_sec_dspt2_vip">Để đăng nhập Tài khoản Mi cần kết nối internet. Truy cập vị trí, Xiaomi Cloud và Mi VIP sẽ được mở tự động.</string>
     <string name="account_security_question">Câu hỏi bảo mật</string>
     <string name="account_vip_achievements">Thành tựu</string>
     <string name="agree_add_continue">Đồng ý</string>
     <string name="cta_declaration_agree_and_continue">Đồng ý</string>
     <string name="cta_declaration_exit">Thoát</string>
     <string name="cta_declaration_ignore">Không hiển thị lại</string>
-    <string name="cta_declaration_message">Để đăng nhập vào Tài khoản Mi, bạn cần phải kết nối với internet. Dịch vụ định vị và đồng bộ với Mi Cloud sẽ được bật. Để sao lưu dữ liệu của bạn, ứng dụng này cần truy cập vào danh bạ, tin nhắn, lịch sử cuộc gọi, và các bản ghi âm. Chúng tôi sẽ không sử dụng dữ liệu của bạn cho mục đích thương mại hoặc chia sẻ cho bên thứ ba. Sau khi đăng nhập vào Tài khoản Mi, Mi VIP và dịch vụ Mi sẽ kết nối với internet.</string>
+    <string name="cta_declaration_message">Để đăng nhập vào Tài khoản Mi, bạn cần phải kết nối với internet. Dịch vụ định vị và đồng bộ với Xiaomi Cloud sẽ được bật. Để sao lưu dữ liệu của bạn, ứng dụng này cần truy cập vào danh bạ, tin nhắn, lịch sử cuộc gọi, và các bản ghi âm. Chúng tôi sẽ không sử dụng dữ liệu của bạn cho mục đích thương mại hoặc chia sẻ cho bên thứ ba. Sau khi đăng nhập vào Tài khoản Mi, Mi VIP và dịch vụ Mi sẽ kết nối với internet.</string>
     <string name="cta_declaration_title">Điều khoản và Điều kiện</string>
     <string name="delete_bank_card_failed">Xóa thẻ thanh toán thất bại, vui lòng thử lại</string>
     <string name="error_duplicate_answers">Vì lí do an toàn, bạn không nên sử dụng câu trả lời trùng lặp</string>

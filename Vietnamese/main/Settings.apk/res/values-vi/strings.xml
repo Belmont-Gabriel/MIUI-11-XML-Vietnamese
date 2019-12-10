@@ -310,7 +310,7 @@
     <string name="privacy_authorize_revoke_time">Hủy (%1$d giây)</string>
     <string name="privacy_authorize_title">Đang cấp ủy quyền</string>
     <string name="privacy_authorize_privacy_policy">Chính sách Riêng tư</string>
-    <string name="privacy_authorize_dialog_message"><Data>Để sử dụng các tính năng cơ bản của dịch vụ Mi Cloud, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý có nghĩa là bạn đã đọc và đồng ý với chúng tôi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Thỏa thuận Người dùng&lt;/a>.​</Data></string>
+    <string name="privacy_authorize_dialog_message"><Data>Để sử dụng các tính năng cơ bản của dịch vụ Xiaomi Cloud, bạn phải đồng ý để Xiaomi thu thập, xử lý, và sử dụng dữ liệu cá nhân của bạn. Tham khảo Chính sách Riêng tư của chúng tôi để tìm hiểu cách chúng tôi thu thập và xử lý dữ liệu cá nhân. Chọn Đồng ý có nghĩa là bạn đã đọc và đồng ý với chúng tôi &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Chính sách Riêng tư&lt;/a> và &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Thỏa thuận Người dùng&lt;/a>.​</Data></string>
     <string name="privacy_authorize_dialog_exit">Thoát</string>
     <string name="privacy_authorize_dialog_agree">Đồng ý</string>
     <string name="privacy_authorize_network_error">Kết nối mạng và thử lại.</string>
@@ -318,7 +318,7 @@
     <string name="privacy_authorize_revoke_failed">Không thể hủy ủy quyền</string>
     <string name="privacy_authorize_success">Đã cấp ủy quyền thành công</string>
     <string name="privacy_authorize_revoking">Đang thu hồi ủy quyền…</string>
-    <string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Mi Cloud (bao gồm đồng bộ và sao lưu).</string>
+    <string name="privacy_authorize_cloud_msg">Để đảm bảo an toàn cho tài khoản của bạn, hãy đăng nhập vào i.mi.com nếu bạn muốn hủy ủy quyền cho các dịch vụ Xiaomi Cloud (bao gồm đồng bộ và sao lưu).</string>
     <string name="app_name_na">Sử dụng dữ liệu</string>
     <string name="firewall_mobile">Dữ liệu di động</string>
     <string name="pref_bg_network_title">Kết nối nền</string>
@@ -3733,7 +3733,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="upload_debug_log_summary">Thông tin mà chúng tôi thu thập có thể chứa dữ liệu cá nhân của bạn. Nó sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và sẽ không bao giờ sử dụng để xác định cá nhân bạn.</string>
     <string name="sound_vibrate_settings">Âm thanh &amp; rung</string>
     <string name="settings_notify_phone_recycled">Số điện thoại của bạn đã bị thu hồi. Chạm để thêm số điện thoại khác.</string>
-    <string name="settings_notify_need_backup">Sao lưu cài đặt lên Mi Cloud để truy cập sau khi bạn đổi điện thoại.</string>
+    <string name="settings_notify_need_backup">Sao lưu cài đặt lên Xiaomi Cloud để truy cập sau khi bạn đổi điện thoại.</string>
     <string name="model_name">Tên đời máy</string>
     <string name="my_device">Thiết bị của tôi</string>
     <string name="device_miui_version">Phiên bản MIUI</string>
@@ -3805,7 +3805,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="account_other">Khác</string>
     <string name="xiaomi_cloud_service_disabled">Tắt</string>
     <string name="xiaomi_cloud_service_unknown">Không xác định</string>
-    <string name="xiaomi_cloud_service_description">Mi Cloud đồng bộ liên hệ, ảnh và các mục khác giữa các thiết bị. \"Tìm thiết bị\" cần Mi Cloud để làm việc bình thường.</string>
+    <string name="xiaomi_cloud_service_description">Xiaomi Cloud đồng bộ liên hệ, ảnh và các mục khác giữa các thiết bị. \"Tìm thiết bị\" cần Xiaomi Cloud để làm việc bình thường.</string>
     <string name="sure_sync_now">Đồng bộ ngay?</string>
     <string name="sync_now">Đồng bộ</string>
     <string name="suggestion_for_phone_recycled">Thêm số điện thoại khác</string>
@@ -4353,7 +4353,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="wifi_tether_setting_title">Cài đặt</string>
     <string name="audio_profile_settings_title">Cấu hình âm thanh</string>
     <string name="enable_wifi_display">Hiển thị không dây</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="xiaomi_money_service">Mi Credit</string>
     <string name="wifi_auto_connect">Tự động kết nối</string>
     <string name="select_ssid_type_title">Chọn SSID</string>
@@ -4571,12 +4571,12 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="google_backup_enable">Bật sao lưu</string>
     <string name="local_auto_backup_on">Bật</string>
     <string name="local_auto_backup_off">Tắt</string>
-    <string name="cloud_backup_section_title">Sao lưu Mi Cloud</string>
-    <string name="cloud_restore_section_title">Khôi phục từ Mi Cloud</string>
+    <string name="cloud_backup_section_title">Sao lưu Xiaomi Cloud</string>
+    <string name="cloud_restore_section_title">Khôi phục từ Xiaomi Cloud</string>
     <string name="cloud_restore_section_summary">Khôi phục ứng dụng, bố cục Màn hình chính, và cài đặt hệ thống</string>
     <string name="cloud_backup_settings_section_title">Cài đặt sao lưu</string>
     <string name="login_account_dialog_title">Đăng nhập Tài khoản Mi</string>
-    <string name="login_account_dialog_message">Đăng nhập Tài khoản Mi của bạn và bật đồng bộ với Mi Cloud.</string>
+    <string name="login_account_dialog_message">Đăng nhập Tài khoản Mi của bạn và bật đồng bộ với Xiaomi Cloud.</string>
     <string name="login_action">Đăng nhập</string>
     <string name="other_personal_settings">Cài đặt cá nhân</string>
     <string name="other_advanced_settings">Cài đặt bổ sung</string>
@@ -6193,7 +6193,7 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="path_children_mode_settings">Cài đặt/Cài đặt bổ sung/Chế độ trẻ em</string>
     <string name="path_choose_timezone">Cài đặt/Cài đặt bổ sung/Ngày &amp; giờ/ Chọn múi giờ</string>
     <string name="path_cloud_backup_settings_section_title">Cài đặt/Cài đặt bổ sung/Sao lưu &amp; đặt lại/Cài đặt sao lưu</string>
-    <string name="path_cloud_restore_section_title">Cài đặt/Cài đặt bổ sung/Sao lưu &amp; đặt lại/Khôi phục từ Mi Cloud</string>
+    <string name="path_cloud_restore_section_title">Cài đặt/Cài đặt bổ sung/Sao lưu &amp; đặt lại/Khôi phục từ Xiaomi Cloud</string>
     <string name="path_copyright">Cài đặt/Giới thiệu điện thoại/Thông tin pháp lý/Bản quyền</string>
     <string name="path_credentials_install">Cài đặt/Cài đặt bổ sung/Riêng tư/Cài đặt từ bộ nhớ</string>
     <string name="path_date_time_settings">Cài đặt/Cài đặt bổ sung/Ngày &amp; giờ</string>
@@ -8314,12 +8314,12 @@ https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
     <string name="cloud_backup_login">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="cloud_backup_window_title">Sao lưu lên MiCloud</string>
     <string name="cloud_home_title">MiCloud</string>
-    <string name="cloud_item_info_summary">" (Trên máy: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Trên máy: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="cloud_last_backup">"Sao lưu lần cuối lúc "</string>
     <string name="cloud_no_backup">Không có bản sao lưu nào</string>
     <string name="cloud_restore_guide">Để khôi phục dữ liệu người dùng cho %s, chạm Khôi phục</string>
     <string name="cloud_restore_title">Khôi phục dữ liệu sao lưu</string>
-    <string name="cloud_restore_window_title">Khôi phục từ Mi Cloud</string>
+    <string name="cloud_restore_window_title">Khôi phục từ Xiaomi Cloud</string>
     <string name="cloud_search">Đang tìm…</string>
     <string name="compute_backup_info">Đang lấy thông tin sao lưu…</string>
     <string name="compute_delete_contact_info">Đang nhận thông tin…</string>
@@ -8394,7 +8394,7 @@ https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
     <string name="file_uploading">Đang tải lên…</string>
     <string name="files_backup_info">Tất cả tập tin trên thẻ SD (bao gồm ảnh, bài hát, video, dữ liệu ứng dụng…)</string>
     <string name="findlost_contact">Khôi phục liên hệ</string>
-    <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Mi Cloud</string>
+    <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Xiaomi Cloud</string>
     <string name="flash_drive_backup_btn">Sao lưu trên ổ USB</string>
     <string name="flash_drive_backup_note">"Sao lưu ứng dụng vào ổ USB.
 Chắc chắn ổ USB có đủ dung lượng lưu trữ trước khi bạn bắt đầu."</string>
@@ -8438,7 +8438,7 @@ bạn nên tạo một bản sao lưu iCloud trước."</string>
     <string name="icloud_need_wifi_message">Bạn hiện chưa kết nối Wi-Fi. Để nhập dữ liệu từ iCloud, hãy kết nối Wi-Fi.</string>
     <string name="icloud_need_wifi_title">Kết nối Wi-Fi</string>
     <string name="import_again">Nhập lại</string>
-    <string name="import_data_from_icloud">Nhập dữ liệu từ Mi Cloud</string>
+    <string name="import_data_from_icloud">Nhập dữ liệu từ Xiaomi Cloud</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Cài ứng dụng Mi Talk và đăng nhập.
 \u0009http://www.miliao.com
 
@@ -8468,7 +8468,7 @@ bạn nên tạo một bản sao lưu iCloud trước."</string>
     <string name="login_failed">Không thể đăng nhập. Hãy thử lại.</string>
     <string name="logining">Đang đăng nhập…</string>
     <string name="lte_4g_settings_title">Bật/Tắt 4G</string>
-    <string name="miliao_account_guide">Sử dụng Tài khoản Mi của bạn để đăng nhập Mi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
+    <string name="miliao_account_guide">Sử dụng Tài khoản Mi của bạn để đăng nhập Xiaomi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
     <string name="miliao_account_login">Đăng nhập vào MiTalk</string>
     <string name="mms_title">Tin nhắn đa phương tiện</string>
     <string name="multi_select_title">Đã chọn %1$s</string>
@@ -8569,7 +8569,7 @@ Giải phóng ít nhất %s."</string>
     <string name="sc_others">Đã xảy ra lỗi</string>
     <string name="sc_precondition_failed">Bạn cần phải thêm địa chỉ email vào tài khoản Mi trước.</string>
     <string name="sc_request_timeout">Yêu cầu hết thời gian</string>
-    <string name="sc_service_unavailable">Mi Cloud không khả dụng</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud không khả dụng</string>
     <string name="sc_unaccess_password_file">Không tìm thấy mật khẩu mạng Wi-Fi</string>
     <string name="sc_unauthorized">Đăng nhập lại</string>
     <string name="scan_soft_ap">Đang tìm thiết bị mới…</string>
@@ -8722,7 +8722,7 @@ Giải phóng ít nhất %s."</string>
     <string name="trans_intro_desc_new">Chạm \"Tôi là người nhận\". Mã QR sẽ được tạo.</string>
     <string name="trans_intro_desc_old">Chạm \"Tôi là người gửi\". Quét mã QR trên điện thoại mới, chờ Mi Mover tính tập tin gửi, và chạm \"Gửi\".</string>
     <string name="trans_intro_desc_old_market">Chạm \"Bắt đầu\". Quét mã QR trên điện thoại mới, chờ Mi Mover tính tập tin gửi, và chạm \"Gửi\".</string>
-    <string name="trans_intro_desc_private">Mi Mover không thể truy cập ảnh trong album ẩn bởi vì chúng đã được mã hóa. Bạn có thể lưu trữ ảnh từ Mi Cloud trên thiết bị mới.</string>
+    <string name="trans_intro_desc_private">Mi Mover không thể truy cập ảnh trong album ẩn bởi vì chúng đã được mã hóa. Bạn có thể lưu trữ ảnh từ Xiaomi Cloud trên thiết bị mới.</string>
     <string name="trans_intro_question_1">%d. Cách sử dụng Mi Mover để chuyển dữ liệu từ thiết bị iOS?</string>
     <string name="trans_intro_question_10">%d. Không thể tìm thấy điểm phát trên thiết bị cũ?</string>
     <string name="trans_intro_question_2">%d. Cách sử dụng Mi Mover để chuyển dữ liệu từ thiết bị Android?</string>
@@ -8916,7 +8916,7 @@ Kích thước cập nhật Delta: %2$s"</string>
 	<string name="notch_style_status_bar_outside">Ẩn và di chuyển thanh trạng thái</string>
 	<string name="lock_screen_settings_title">Màn hình khóa</string>
 	<string name="xiaomi_cloud_service_description_contact">Liên hệ và</string>
-	<string name="xiaomi_cloud_service_description_format">Mi Cloud đồng bộ ảnh %s của bạn, sao lưu ứng dụng và cài đặt của bạn, và giúp bạn tìm điện thoại bằng Tìm thiết bị.</string>
+	<string name="xiaomi_cloud_service_description_format">Xiaomi Cloud đồng bộ ảnh %s của bạn, sao lưu ứng dụng và cài đặt của bạn, và giúp bạn tìm điện thoại bằng Tìm thiết bị.</string>
 	<string name="wireless_button">Sạc không dây cho thiết bị khác</string>
 	<string name="wireless_charging_settings">Sạc không dây cho thiết bị khác</string>
 	<string name="wireless_closed">Tắt</string>

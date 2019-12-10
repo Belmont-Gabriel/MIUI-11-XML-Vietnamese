@@ -61,7 +61,7 @@
     <string name="close_alarm">Tắt</string>
     <string name="common_settings">Cài đặt</string>
     <string name="default_alarm_alert">Âm báo thức mặc định</string>
-    <string name="default_alarm_title">Nhạc chuông mặc định</string>
+    <string name="default_alarm_title">Chuông mặc định</string>
     <string name="delete_selected_timer_item">Xóa nhiệm vụ hẹn giờ đã chọn?</string>
     <string name="delete_timer_item_title">Xóa nhiệm vụ hẹn giờ</string>
     <string name="delete_timezone_title">Xóa múi giờ</string>
@@ -324,8 +324,8 @@
 	<string name="network_privacy">&lt;Data&gt;Để có được thông tin liên quan về các ngày lễ địa phương, điều chỉnh báo thức và cung cấp các dịch vụ được cá nhân hóa, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
 	<string name="network_privacy_global">&lt;Data&gt;Để cung cấp các dịch vụ được cá nhân hóa, Đồng hồ cần kết nối mạng. Trước khi sử dụng Đồng hồ, bạn cần đọc và đồng ý với &lt;a href=\"%1$s\"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Đồng ý?&lt;/Data&gt;</string>
 	<string name="ringtone_other">Thêm nhạc chuông</string>
-	<string name="ringtone_weather">Báo thức theo thời tiết</string>
-	<string name="ringtone_week">Chuông báo hàng tuần</string>
+	<string name="ringtone_weather">Theo thời tiết</string>
+	<string name="ringtone_week">Hàng tuần</string>
 	<string name="setting_alarm_arriving_subtitle">Hiển thị thông báo trước khi báo thức kêu</string>
 	<string name="shutdown_alarm_alert_enable_summary">Tắt báo thức sắp kêu ít nhất 10 phút trước khi bạn tắt điện thoại</string>
 	<string name="shutdown_alarm_alert_title">Tắt báo thức</string>

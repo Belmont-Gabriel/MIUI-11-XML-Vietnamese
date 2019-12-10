@@ -129,17 +129,17 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="backup_update">Cập nhật</string>
     <string name="backup_delete">Xóa:</string>
     <string name="findlost_contact">Khôi phục liên hệ</string>
-    <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Mi Cloud</string>
+    <string name="findlost_contact_online">Khôi phục lại liên hệ đã xóa từ Xiaomi Cloud</string>
     <string name="cloud_backup_login">Đăng nhập vào Tài khoản Mi của bạn</string>
     <string name="cloud_backup_hint">Để truy cập vào sao lưu của bạn, hãy đăng nhập bây giờ</string>
     <string name="cloud_backup_window_title">Sao lưu lên MiCloud</string>
-    <string name="cloud_restore_window_title">Khôi phục từ Mi Cloud</string>
+    <string name="cloud_restore_window_title">Khôi phục từ Xiaomi Cloud</string>
     <string name="cloud_restore_title">Khôi phục dữ liệu sao lưu</string>
     <string name="local_backup_window_title">Dữ liệu sao lưu trên máy</string>
     <string name="local_restore_window_title">Khôi phục từ máy</string>
     <string name="account_login">Đăng nhập</string>
     <string name="miliao_account_login">Đăng nhập vào MiTalk</string>
-    <string name="miliao_account_guide">Sử dụng Tài khoản Mi của bạn để đăng nhập Mi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
+    <string name="miliao_account_guide">Sử dụng Tài khoản Mi của bạn để đăng nhập Xiaomi Cloud, Cửa hàng Chủ đề MIUI và các dịch vụ Mi khác từ bất cứ nơi nào.</string>
     <string name="auto_backup">Lịch trình sao lưu thường xuyên</string>
     <string name="contact_title">Liên hệ</string>
     <string name="call_title">Lịch sử cuộc gọi</string>
@@ -186,7 +186,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="sc_network_unavailable">Kiểm tra kết nối của bạn và thử lại.</string>
     <string name="sc_bad_request">Yêu cầu không hợp lệ</string>
     <string name="sc_unaccess_password_file">Không tìm thấy mật khẩu mạng Wi-Fi</string>
-    <string name="sc_service_unavailable">Mi Cloud không khả dụng</string>
+    <string name="sc_service_unavailable">Xiaomi Cloud không khả dụng</string>
     <string name="sc_unauthorized">Đăng nhập lại</string>
     <string name="sc_request_timeout">Yêu cầu hết thời gian</string>
     <string name="sc_precondition_failed">Bạn cần phải thêm địa chỉ email vào tài khoản Mi trước.</string>
@@ -243,7 +243,7 @@ Kích thước cập nhật Delta: %2$s"</string>
     <string name="deselect_all">Bỏ chọn tất cả</string>
     <string name="reverse_all">Xóa hết</string>
     <string name="refresh">Làm mới</string>
-    <string name="cloud_item_info_summary">" (Trên máy: %1$s | Mi Cloud: %2$s)"</string>
+    <string name="cloud_item_info_summary">" (Trên máy: %1$s | Xiaomi Cloud: %2$s)"</string>
     <string name="total_num">%d mục,</string>
     <string name="cloud_restore_guide">Để khôi phục dữ liệu người dùng cho %s, chạm Khôi phục</string>
     <string name="import_from_xiaomi_account_hint1">"1.\u0009Cài ứng dụng Mi Talk và đăng nhập.
@@ -484,7 +484,7 @@ Chọn các mục quan trọng để chuyển nhanh hơn."</string>
     <string name="trans_intro_title_account">Tài khoản và mật khẩu:</string>
     <string name="trans_intro_desc_account">Bạn phải đăng nhập tài khoản lại (ví dụ: Tài khoản Mi, Exchange, Google, v.v.) trên thiết bị mới vì lý do bảo mật.</string>
     <string name="trans_intro_title_private">Album ẩn:</string>
-    <string name="trans_intro_desc_private">Mi Mover không thể truy cập ảnh trong album ẩn bởi vì chúng đã được mã hóa. Bạn có thể lưu trữ ảnh từ Mi Cloud trên thiết bị mới.</string>
+    <string name="trans_intro_desc_private">Mi Mover không thể truy cập ảnh trong album ẩn bởi vì chúng đã được mã hóa. Bạn có thể lưu trữ ảnh từ Xiaomi Cloud trên thiết bị mới.</string>
     <string name="trans_intro_title_multiuser">Dữ liệu Không gian thứ hai:</string>
     <string name="trans_intro_desc_multiuser">Mi Mover không thể truy cập các mục trên Không gian thứ hai. Di chuyển các mục đến Không gian thứ nhất và khởi chạy Mi Mover ở đây.</string>
     <string name="trans_intro_title_multiapp">Dữ liệu ứng dụng kép:</string>
@@ -554,7 +554,7 @@ https://appleid.apple.com/#!&amp;page=signin để đóng"</string>
     <string name="hsa_verify_failed_message">Xác thực hai yếu tố thất bại. Bạn có thể thử lại hoặc tắt xác thực hai yếu tố.</string>
     <string name="hsa_verify_retry">Thử lại</string>
     <string name="hsa_verify_shutdown">Tắt</string>
-    <string name="import_data_from_icloud">Nhập dữ liệu từ Mi Cloud</string>
+    <string name="import_data_from_icloud">Nhập dữ liệu từ Xiaomi Cloud</string>
     <string name="loading_data">Đang tải dữ liệu</string>
     <string name="icloud_need_sync">"Để nhập dữ liệu từ iOS,
 bạn nên tạo một bản sao lưu iCloud trước."</string>

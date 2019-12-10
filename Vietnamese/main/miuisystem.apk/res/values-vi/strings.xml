@@ -97,9 +97,9 @@
     <string name="winter_solstice">Đông Chí</string>
     <string name="no_notification_tips">Không có thông báo.</string>
     <string name="android_ringtone_default_with_actual">Nhạc chuông mặc định (%1$s)</string>
-    <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đã tắt</string>
-    <string name="cloud_state_finished">Đã đồng bộ với Mi Cloud</string>
-    <string name="cloud_state_syncing">Đã đồng bộ với Mi Cloud</string>
+    <string name="cloud_state_disabled">Đồng bộ với Xiaomi Cloud đã tắt</string>
+    <string name="cloud_state_finished">Đã đồng bộ với Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Đã đồng bộ với Xiaomi Cloud</string>
     <string name="vip_achievements">Thành tựu</string>
     <string name="vip_sign">Chữ ký:</string>
     <string name="vip_not_login">Chưa đăng nhập</string>

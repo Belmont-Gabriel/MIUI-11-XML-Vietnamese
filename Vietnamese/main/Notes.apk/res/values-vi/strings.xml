@@ -65,14 +65,14 @@
     <string name="alert_message_restore">Không thể mở ghi chú này. Khôi phục để chỉnh sửa nội dung.</string>
     <string name="note_sort_way">Sắp xếp ghi chú</string>
     <string name="trash_folder_reminder">Ghi chú  mà bạn xóa sẽ bị xóa vĩnh viễn trong 30 ngày.</string>
-    <string name="cta_reminder">Ứng dụng này yêu cầu kết nối internet để sao lưu ghi chú vào Mi Cloud, cũng như đọc liên hệ của bạn để gắn nhãn ghi chú khi bạn thực hiện cuộc gọi.</string>
+    <string name="cta_reminder">Ứng dụng này yêu cầu kết nối internet để sao lưu ghi chú vào Xiaomi Cloud, cũng như đọc liên hệ của bạn để gắn nhãn ghi chú khi bạn thực hiện cuộc gọi.</string>
     <string name="menu_add_folder">Thêm vào thư mục</string>
     <string name="dialog_share_title">Chia sẻ ghi chú</string>
     <string name="dialog_share_as_text">Chia sẻ ghi chú như văn bản</string>
     <string name="dialog_share_as_pic">Chia sẻ ghi chú như hình ảnh</string>
     <string name="note_description_title">Giới thiệu về Ghi chú </string>
-    <string name="note_description_content">Ghi chú là công cụ tuyệt vời để ghi lại ý tưởng của bạn. Ghi chú được tích hợp sẵn chức năng nhắc nhở và đồng bộ vào Mi Cloud vì thế bạn có thể truy cập mọi lúc, mọi nơi. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
-    <string name="db_downgrade_clear_date_reminder">Khi bạn chuyển sang phiên bản MIUI khác, cần xóa hết dữ liệu của ứng dụng Ghi chú. Trước khi thực hiện, chắc chắn rằng bạn đã sao lưu ghi chú vào Mi Cloud.</string>
+    <string name="note_description_content">Ghi chú là công cụ tuyệt vời để ghi lại ý tưởng của bạn. Ghi chú được tích hợp sẵn chức năng nhắc nhở và đồng bộ vào Xiaomi Cloud vì thế bạn có thể truy cập mọi lúc, mọi nơi. Chắc chắn rằng bạn có thể thực hiện mà không cần những tính năng này trước khi xóa ứng dụng.</string>
+    <string name="db_downgrade_clear_date_reminder">Khi bạn chuyển sang phiên bản MIUI khác, cần xóa hết dữ liệu của ứng dụng Ghi chú. Trước khi thực hiện, chắc chắn rằng bạn đã sao lưu ghi chú vào Xiaomi Cloud.</string>
     <string name="db_downgrade_clear_button">Xóa dữ liệu ứng dụng</string>
     <string name="app_name">Ghi chú</string>
     <string name="app_widget">Ghi chú</string>
@@ -116,7 +116,7 @@
     <string name="error_widget_exist_for_send_to_desktop">Ghi chú này đã có trên Màn hình chính của bạn</string>
     <string name="error_unsupport_content">Ghi chú này chứa nội dung không được hỗ trợ, chạm vào đây để cập nhật</string>
     <string name="error_contact_not_exist">Liên hệ không tồn tại</string>
-    <string name="sync_tips">Chạm để đồng bộ ghi chú với Mi Cloud.</string>
+    <string name="sync_tips">Chạm để đồng bộ ghi chú với Xiaomi Cloud.</string>
     <string name="pref_title_font_size">Cỡ chữ</string>
     <string name="call_folder_name">Ghi chú cuộc gọi</string>
     <string name="trash_folder_name">Thùng rác</string>
@@ -143,7 +143,7 @@
     <string name="login_sync">Đăng nhập &amp; đồng bộ</string>
     <string name="pref_title_note_style">Phong cách</string>
     <string name="pref_title_common">Cài đặt bổ sung</string>
-    <string name="pref_title_cloud_trash_bin">Xóa ghi chú trên Mi Cloud</string>
+    <string name="pref_title_cloud_trash_bin">Xóa ghi chú trên Xiaomi Cloud</string>
     <string name="dlg_delete_message">Đang xóa…</string>
     <string name="permlab_accessNote">Truy cập ghi chú</string>
     <string name="permdesc_accessNote">Ứng dụng độc hại có thể sử dụng để truy cập thông tin cá nhân của bạn.</string>
@@ -166,12 +166,12 @@
     <string name="sns_choose_quality_high">Cao (%1$s)</string>
     <string name="sns_choose_quality_low">Thấp</string>
     <string name="welcome_note_for_cm">"Và nhiều tính năng tuyệt vời!
- - Đồng bộ với Mi Cloud
+ - Đồng bộ với Xiaomi Cloud
  - Đặt nhắc nhở
 
 Nếu có thắc mắc, hãy truy cập diễn đàn MIUI Việt Nam:
 http://miui.vn/"</string>
-    <string name="cloud_trash_bin_title">Xóa ghi chú trên Mi Cloud</string>
+    <string name="cloud_trash_bin_title">Xóa ghi chú trên Xiaomi Cloud</string>
     <string name="done">Hoàn tất</string>
     <string name="menu_mark_privacy">Ẩn</string>
     <string name="menu_add_description">Thêm ghi chú</string>
@@ -237,7 +237,7 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="audio_toast_file_invalid">File âm thanh không hợp lệ</string>
     <string name="audio_toast_file_undownload">File âm thanh chưa tải xuống đầy đủ hoặc không tìm thấy</string>
     <string name="audio_toast_network_is_not_available">Không thể kết nối mạng</string>
-    <string name="cloud_service_state_open_reminder">Bật đồng bộ Mi Cloud để đồng bộ ghi chú.</string>
+    <string name="cloud_service_state_open_reminder">Bật đồng bộ Xiaomi Cloud để đồng bộ ghi chú.</string>
     <string name="cta_confirm_cancel">Không cho phép</string>
     <string name="cta_confirm_ok">Cho phép</string>
     <string name="cta_dialog_message">Ghi chú cần quyền kết nối mạng, ghi âm và truy cập danh bạ để hoạt động bình thường. Cho phép?</string>
@@ -246,7 +246,7 @@ Chạm vào dấu cộng để tạo thư mục"</string>
     <string name="date_time_picker_dialog_title">Đặt ngày và giờ</string>
     <string name="date_time_picker_has_not_set_alarm">Thông báo chưa được đặt</string>
     <string name="date_time_picker_has_set_alarm">Thông báo đã được đặt</string>
-    <string name="dialog_privacy_revoke_tips">Sau khi bạn thu hồi quyền, ứng dụng sẽ ngừng thu thập thông tin, và tất cả các dữ liệu liên quan sẽ được xóa trên máy chủ. Ứng dụng có thể không sử dụng được. Thu hồi quyền? Để đảm bảo an toàn, hãy đăng nhập vào i.mi.com trước khi thu hồi quyền cho dịch vụ Mi Cloud.</string>
+    <string name="dialog_privacy_revoke_tips">Sau khi bạn thu hồi quyền, ứng dụng sẽ ngừng thu thập thông tin, và tất cả các dữ liệu liên quan sẽ được xóa trên máy chủ. Ứng dụng có thể không sử dụng được. Thu hồi quyền? Để đảm bảo an toàn, hãy đăng nhập vào i.mi.com trước khi thu hồi quyền cho dịch vụ Xiaomi Cloud.</string>
     <string name="dlg_info_save_to_gallery_message">Đang lưu ảnh vào thư viện…</string>
     <string name="edit_header_lock_description">Ghi chú ẩn</string>
     <string name="empty_folder_import_notes">Nhập ghi chú</string>

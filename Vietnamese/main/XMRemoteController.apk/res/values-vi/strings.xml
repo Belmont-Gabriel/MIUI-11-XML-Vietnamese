@@ -499,7 +499,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="rc_add_distance_far">>1000km</string>
     <string name="rc_add_distance_km">%1$skm</string>
     <string name="rc_name">Điều khiển</string>
-    <string name="recover">Khôi phục từ Mi Cloud</string>
+    <string name="recover">Khôi phục từ Xiaomi Cloud</string>
     <string name="recovering">Đang khôi phục…</string>
     <string name="refreshing">Đang làm mới…</string>
     <string name="refreshing_no_point">Đang làm mới…</string>
@@ -871,9 +871,9 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_wrong_password">Mật khẩu không đúng</string>
     <string name="passport_wrong_phone_number_format">Định dạng số điện thoại bạn đã nhập không hợp lệ</string>
     <string name="passport_wrong_vcode">Mã bạn đã nhập không đúng</string>
-    <string name="passport_xiaomi_account_dspt">Sử dụng tài khoản Mi để đăng nhập vào Mi Cloud, cửa hàng chủ đề MIUI, và các dịch vụ Mi khác, từ bất cứ đâu.</string>
-    <string name="passport_xiaomi_account_sec_dspt2">Cần có kết nối internet để đăng nhập vào tài khoản Mi của bạn. Ngoài ra, truy cập vị trí, Mi Cloud, và Mi VIP sẽ được bật tự động.</string>
-    <string name="passport_xiaomi_account_sec_dspt2_vip">Cần có kết nối internet để đăng nhập vào tài khoản Mi của bạn. Ngoài ra, truy cập vị trí, Mi Cloud, và Mi VIP sẽ được bật tự động.</string>
+    <string name="passport_xiaomi_account_dspt">Sử dụng tài khoản Mi để đăng nhập vào Xiaomi Cloud, cửa hàng chủ đề MIUI, và các dịch vụ Mi khác, từ bất cứ đâu.</string>
+    <string name="passport_xiaomi_account_sec_dspt2">Cần có kết nối internet để đăng nhập vào tài khoản Mi của bạn. Ngoài ra, truy cập vị trí, Xiaomi Cloud, và Mi VIP sẽ được bật tự động.</string>
+    <string name="passport_xiaomi_account_sec_dspt2_vip">Cần có kết nối internet để đăng nhập vào tài khoản Mi của bạn. Ngoài ra, truy cập vị trí, Xiaomi Cloud, và Mi VIP sẽ được bật tự động.</string>
     <string name="add_fav_channel">Thêm vào ưa thích</string>
     <string name="add_fav_channel_hint">Thêm nhiều kênh yêu thích hơn, cho phép bạn tìm chương trình yêu thích</string>
     <string name="add_new_tv_power_only">Kết hợp chuyển nguồn điện TV…</string>
@@ -917,7 +917,7 @@ Sau đó trả lời các câu hỏi"</string>
     <string name="passport_captcha">Nhập mã</string>
     <string name="passport_data_keep_in_device">Giữ lại trên điện thoại</string>
     <string name="passport_data_wipe_from_device">Xóa khỏi điện thoại</string>
-    <string name="passport_dspt_provision">"Sử dụng tài khoản Mi của bạn để đăng nhập vào Mi Cloud, cửa hàng chủ đề MIUI, và các dịch vụ Mi khác, từ bất cứ đâu. "</string>
+    <string name="passport_dspt_provision">"Sử dụng tài khoản Mi của bạn để đăng nhập vào Xiaomi Cloud, cửa hàng chủ đề MIUI, và các dịch vụ Mi khác, từ bất cứ đâu. "</string>
     <string name="passport_dspt_provision2">Tìm hiểu thêm</string>
     <string name="passport_input_verify_code_hint">Nhập mã xác minh</string>
     <string name="passport_password">Nhập mật khẩu</string>

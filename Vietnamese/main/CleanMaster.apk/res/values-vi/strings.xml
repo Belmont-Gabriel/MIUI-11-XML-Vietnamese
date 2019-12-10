@@ -270,7 +270,7 @@
     <string name="dialog_content_select_all_confirm">Giữ bản sao của ảnh này?</string>
     <string name="button_text_not_prompt_again">Không hiển thị lại</string>
     <string name="button_text_let_me_select">OK</string>
-    <string name="dialog_content_checkbox_delete_cloud_image">Đồng thời cũng xóa ảnh từ Mi Cloud</string>
+    <string name="dialog_content_checkbox_delete_cloud_image">Đồng thời cũng xóa ảnh từ Xiaomi Cloud</string>
     <string name="button_text_select_all">Chọn</string>
     <string name="button_text_unselect_all">Bỏ chọn</string>
     <string name="button_text_keep_one">Giữ lại một ảnh</string>
@@ -373,8 +373,8 @@
     <string name="tips_of_traffic_notification">Xem thống kê dữ liệu di động trên thanh thông báo</string>
     <string name="title_of_package_set">Cài đặt kế hoạch sử dụng dữ liệu</string>
     <string name="tips_of_package_set">Thiết lập kế hoạch và giám sát dữ liệu sử dụng</string>
-    <string name="title_of_garbage_cloud_scan">Quét Mi Cloud</string>
-    <string name="tips_of_garbage_cloud_scan">Tìm rác được ẩn với Quét Mi Cloud</string>
+    <string name="title_of_garbage_cloud_scan">Quét Xiaomi Cloud</string>
+    <string name="tips_of_garbage_cloud_scan">Tìm rác được ẩn với Quét Xiaomi Cloud</string>
     <string name="title_of_operators_set">Cài đặt nhà mạng</string>
     <string name="tips_of_operators_set">Điều chỉnh thống kê sử dụng dữ liệu tự động</string>
     <string name="set_immediately">Thiết lập</string>
@@ -382,7 +382,7 @@
     <string name="tips_of_network_speed_set">Xem tốc độ mạng trên thanh trạng thái</string>
     <string name="title_of_garbage_data_set">Cập nhật cơ sở dữ liệu Trình dọn dẹp</string>
     <string name="tips_of_garbage_data_set">Cập nhật cơ sở dữ liệu để tìm thêm rác trên thiết bị của bạn</string>
-    <string name="title_of_cloud_service">Dịch vụ Mi Cloud</string>
+    <string name="title_of_cloud_service">Dịch vụ Xiaomi Cloud</string>
     <string name="tips_of_cloud_service">Đăng nhập bằng Tài khoản Mi để sử dụng các dịch vụ Mi khác</string>
     <string name="login_immediately">Đăng nhập</string>
     <string name="button_text_install_now">Cài đặt</string>

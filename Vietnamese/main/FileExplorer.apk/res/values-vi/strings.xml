@@ -886,9 +886,9 @@ Xin lỗi về việc bất tiện này."</string>
     <string name="message_title">Tin nhắn của tôi</string>
     <string name="midrive_network_connect_confirm">Mi Drive cần kết nối Internet để làm việc bình thường.</string>
     <string name="midrive_space_full">Không đủ dung lượng trên Mi Drive</string>
-    <string name="midrive_welcome_message">Tập tin trên KuaiPan của bạn đã được chuyển vào Mi Drive thành công. Chúng tôi tặng bạn ba tháng đặc quyền thành viên Mi Cloud để thuận tiện cho việc sử dụng. Mi Cloud và Mi Drive sẽ dùng chung bộ nhớ. Bạn có thể truy cập tập tin của mình tại i.mi.com.</string>
+    <string name="midrive_welcome_message">Tập tin trên KuaiPan của bạn đã được chuyển vào Mi Drive thành công. Chúng tôi tặng bạn ba tháng đặc quyền thành viên Xiaomi Cloud để thuận tiện cho việc sử dụng. Xiaomi Cloud và Mi Drive sẽ dùng chung bộ nhớ. Bạn có thể truy cập tập tin của mình tại i.mi.com.</string>
     <string name="midrive_welcome_title">Chào mừng sử dụng Mi Drive</string>
-    <string name="migrate_announcement_msg">KuaiPan sẽ dừng hoạt động vào ngày 30 tháng 6 năm 2016. Chúng tôi kiến nghị bạn di chuyển tập tin của mình qua Mi Drive. Không yêu cầu kết nối dữ liệu, việc chuyển dữ liệu sẽ được thực hiện trên máy chủ. Trong quá trình chuyển, tải lên và tải xuống sẽ bị dừng lại. Hãy sử dụng Mi Drive và Mi Cloud để chia sẻ lưu trữ.</string>
+    <string name="migrate_announcement_msg">KuaiPan sẽ dừng hoạt động vào ngày 30 tháng 6 năm 2016. Chúng tôi kiến nghị bạn di chuyển tập tin của mình qua Mi Drive. Không yêu cầu kết nối dữ liệu, việc chuyển dữ liệu sẽ được thực hiện trên máy chủ. Trong quá trình chuyển, tải lên và tải xuống sẽ bị dừng lại. Hãy sử dụng Mi Drive và Xiaomi Cloud để chia sẻ lưu trữ.</string>
     <string name="migrate_announcement_title">KuaiPan đã được thay thế bằng Mi Drive</string>
     <string name="migrate_cancel">Hủy</string>
     <string name="migrate_confirm">Chuyển</string>

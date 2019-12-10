@@ -908,7 +908,7 @@
     <string name="express_install_provider_app_ok">Cài đặt</string>
     <string name="express_install_provider_app_title">Cài đặt %s</string>
     <string name="login_before_use">Bạn cần đăng nhập trước</string>
-    <string name="login_dialog_body">Bật đồng bộ Mi Cloud để truy cập các mục của bạn trên nhiều thiết bị. Đăng nhập và bật đồng bộ?</string>
+    <string name="login_dialog_body">Bật đồng bộ Xiaomi Cloud để truy cập các mục của bạn trên nhiều thiết bị. Đăng nhập và bật đồng bộ?</string>
     <string name="login_dialog_negative">Không phải bây giờ</string>
     <string name="login_dialog_positive">Đăng nhập và bật</string>
     <string name="login_dialog_title">Bật đồng bộ</string>
@@ -1268,7 +1268,7 @@
     <string name="payment_privacy_dialog_title">Chính sách Riêng tư \"Thanh toán của tôi\"</string>
     <string name="payment_privacy_dialog_ok">Đồng ý</string>
 	<string name="payment_privacy_dialog_cancel">Thoát</string>
-    <string name="payment_privacy_dialog_message">\"Thanh toán của tôi\" cho phép bạn thu thập hóa đơn từ nhiều ứng dụng về một chỗ. Mọi thông tin thanh toán của bạn sẽ được mã hóa và lưu trữ an toàn trên thiết bị. Nó không được đồng bộ với Mi Cloud hoặc tải lên bất kỳ máy chủ nào. Bạn có thể tắt \"Thanh toán của tôi\" trong Cài đặt hoặc đơn giản là xóa thẻ này từ App vault nếu không muốn sử dụng. Đồng ý?</string>
+    <string name="payment_privacy_dialog_message">\"Thanh toán của tôi\" cho phép bạn thu thập hóa đơn từ nhiều ứng dụng về một chỗ. Mọi thông tin thanh toán của bạn sẽ được mã hóa và lưu trữ an toàn trên thiết bị. Nó không được đồng bộ với Xiaomi Cloud hoặc tải lên bất kỳ máy chủ nào. Bạn có thể tắt \"Thanh toán của tôi\" trong Cài đặt hoặc đơn giản là xóa thẻ này từ App vault nếu không muốn sử dụng. Đồng ý?</string>
     <string name="payment_pref_source_wechat_summary">Lấy thông tin thanh toán từ WeChat</string>
     <string name="payment_pref_source_mms_summary">Lấy thông tin thanh toán từ tin nhắn văn bản</string>
     <string name="payment_pref_source_category_title">Nguồn thông tin thanh toán</string>

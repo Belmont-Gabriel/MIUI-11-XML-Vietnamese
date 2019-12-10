@@ -63,9 +63,9 @@
     <string name="check_all">Chọn tất cả</string>
     <string name="class_0_message_activity">Loại 0 tin nhắn</string>
     <string name="close">Đóng</string>
-    <string name="cloud_state_disabled">Đồng bộ với Mi Cloud đã tắt</string>
-    <string name="cloud_state_sync_finished">Đã đồng bộ với Mi Cloud</string>
-    <string name="cloud_state_syncing">Đang đồng bộ với Mi Cloud…</string>
+    <string name="cloud_state_disabled">Đồng bộ với Xiaomi Cloud đã tắt</string>
+    <string name="cloud_state_sync_finished">Đã đồng bộ với Xiaomi Cloud</string>
+    <string name="cloud_state_syncing">Đang đồng bộ với Xiaomi Cloud…</string>
     <string name="compressing">Ảnh quá lớn. Đang nén…</string>
     <string name="confirm">OK</string>
     <string name="confirm_add_blacklist_dialog_dspt">Thêm số này vào danh sách chặn của bạn?</string>
@@ -180,10 +180,10 @@
     <string name="forward_prefix">"Fwd: "</string>
     <string name="found_old_messages">Tải lên các tin nhắn từ %1$s đến %2$s?</string>
     <string name="found_old_messages_title">Tải lên các tin nhắn từ thẻ SIM khác của bạn?</string>
-    <string name="found_wild_messages_guide_cloud_desc">Để đồng bộ tin nhắn từ Mi Cloud, đăng nhập vào Tài khoản Mi của bạn và bật đồng bộ tin nhắn SMS.</string>
-    <string name="found_wild_messages_guide_settings_desc">Đồng bộ tin nhắn từ Mi Cloud trong Cài đặt Tin nhắn.</string>
+    <string name="found_wild_messages_guide_cloud_desc">Để đồng bộ tin nhắn từ Xiaomi Cloud, đăng nhập vào Tài khoản Mi của bạn và bật đồng bộ tin nhắn SMS.</string>
+    <string name="found_wild_messages_guide_settings_desc">Đồng bộ tin nhắn từ Xiaomi Cloud trong Cài đặt Tin nhắn.</string>
     <string name="found_wild_messages_guide_sync_not_started">Đồng bộ chưa được bắt đầu</string>
-    <string name="found_wild_messages_title">Đồng bộ tin nhắn từ Mi Cloud</string>
+    <string name="found_wild_messages_title">Đồng bộ tin nhắn từ Xiaomi Cloud</string>
     <string name="from_label">"Từ: "</string>
     <string name="from_pkg_name">Từ ứng dụng:</string>
     <string name="group_message">Tin nhắn nhóm</string>
@@ -706,7 +706,7 @@
     <string name="press_recording">Bấm &amp; giữ biểu tượng Micro để ghi âm</string>
     <string name="hms_uri_param_err">URL không được để trống</string>
     <string name="festival_networking_title">Thông báo</string>
-    <string name="cloud_recommend_msg">Chạm để đồng bộ tin nhắn với Mi Cloud.</string>
+    <string name="cloud_recommend_msg">Chạm để đồng bộ tin nhắn với Xiaomi Cloud.</string>
     <string name="mipub_messaging_entry_title">Tin nhắn Mi</string>
     <string name="mx_and_voip_enable">Tin nhắn Mi &amp; Mi Voice</string>
     <string name="mx_and_voip_enable_popup_msg">Gửi tin nhắn hoặc gọi điện đến thiết bị MIUI khác mà không phát sinh bất kỳ chi phí nào từ nhà mạng. VoIP được hỗ trợ bởi Weihui. Xem Chính sách Riêng tư của Weihui.</string>
@@ -850,7 +850,7 @@
     <string name="rms_audio_file_duration_too_long">Không thể gửi âm thanh dài hơn 180 giây</string>
     <string name="rms_audio_file_length_too_large">Không thể gửi âm thanh lớn hơn %1$dMB</string>
     <string name="rms_card_body">[Card]</string>
-    <string name="rms_cloud_file_body">[Tập tin Mi Cloud]</string>
+    <string name="rms_cloud_file_body">[Tập tin Xiaomi Cloud]</string>
     <string name="rms_emoticon_body">[Biểu tượng cảm xúc]</string>
     <string name="rms_file_body">[Tập tin]</string>
     <string name="rms_file_not_exist">Tập tin không tồn tại</string>
