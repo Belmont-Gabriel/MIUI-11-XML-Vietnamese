@@ -2767,4 +2767,8 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="mobile_advanced_ip_address_title">Địa chỉ IP</string>
 	<string name="mobile_property">Thuộc tính mạng di động</string>
 	<string name="netcheck_title">Chẩn đoán mạng di động</string>
+	<string name="prompt_to_suggest_to_open_volte_from_operator2">"SIM%d không thể thực hiện cuộc gọi. Liên hệ China Telecom để bật dịch vụ VoLTE."</string>
+	<string name="prompt_to_suggest_no_call_service_notification_content2">"Không thể thực hiện và nhận cuộc gọi. Dịch vụ VoLTE đã tắt cho SIM %d (China Telecom)."</string>
+	<string name="prompt_to_suggest_no_call_service_notification_content">"Không thể thực hiện và nhận cuộc gọi. Dịch vụ VoLTE đã tắt cho SIM của bạn (China Telecom)."</string>
+	<string name="prompt_to_suggest_no_call_service_notification_title">"Không thể thực hiện và nhận cuộc gọi"</string>
 </resources>

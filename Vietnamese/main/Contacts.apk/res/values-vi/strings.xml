@@ -1540,4 +1540,9 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="permission_storage">Bộ nhớ</string>
 	<string name="permission_contacts">Liên hệ</string>
 	<string name="cloud_upgrade_recommend">"Không thể đồng bộ danh bạ do không đủ dung lượng lưu trữ đám mây. Nâng cấp gói lưu trữ đám mây của bạn."</string>
+	<string name="bind_simcard_title">SIM mặc định cho cuộc gọi</string>
+	<string name="bind_simcard_default">SIM mặc định cho cuộc gọi</string>
+	<string name="bind_simcard_not_set">Chưa đặt</string>
+	<string name="bind_simcard_no_dual">"Không tìm thấy SIM kép"</string>
+	<string name="bind_simcard_menu">Đặt SIM mặc định cho cuộc gọi</string>
 </resources>
