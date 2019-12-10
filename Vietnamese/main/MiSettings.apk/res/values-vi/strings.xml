@@ -212,4 +212,23 @@
 	<string name="trend_from_yesterday_less">Ít hơn hôm qua %1$s</string>
 	<string name="today_usage_title">Hôm nay</string>
 	<string name="category_other">Khác</string>
+	<string name="preview">Xem trước</string>
+	<string name="restore_default">Khôi phục mặc định</string>
+	<string name="p3_color_region_summary">Hiển thị tất cả nội dung màn hình trong gam màu P3</string>
+	<string name="search_empty">Không tìm thấy ứng dụng</string>
+	<string name="rgb_space_color">Không gian màu RGB</string>
+	<string name="hsv_space_color_saturation">Bão hòa</string>
+	<string name="hsv_space_color_value">Giá trị</string>
+	<string name="primary_color_region">Gốc</string>
+	<string name="advanced_mode">Cài đặt nâng cao</string>
+	<string name="color_gamut">Gam màu</string>
+	<string name="other_parameter">Khác</string>
+	<string name="srgb_color_region_summary">Hiển thị tất cả nội dung màn hình trong gam màu sRGB</string>
+	<string name="primary_color_region_summary">Tự động xác định gam màu thông qua hiệu chuẩn màu</string>
+	<string name="search_app_name">Tìm kiếm ứng dụng</string>
+	<string name="reset_edit">Hủy thay đổi</string>
+	<string name="contrast_ratio">Tương phản</string>
+	<string name="hsv_space_color">Không gian màu HSV</string>
+	<string name="screen_original_gamut">Tăng cường</string>
+	<string name="screen_original_gamut_summary">Hiển thị tất cả nội dung màn hình trong gam màu rộng nhất có thể</string>
 </resources>

@@ -1951,4 +1951,18 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="member_menu_vipname_ultra">Kim cương</string>
 	<string name="member_menu_vipname_mega">Bạch kim</string>
 	<string name="member_menu_vipname_free">Miễn phí</string>
+	<string name="dump_db_info">Kết xuất thông tin cơ sở dữ liệu</string>
+	<string name="photo_portrait_download_sdk_without_wifi_title">Tải bộ lọc</string>
+	<string name="filter_portrait_hint">Chọn màu</string>
+	<string name="photo_portrait_download_sdk_without_wifi_msg">"Có vẻ như thiết bị của bạn không kết nối Wi-Fi. Bạn có thể tải bộ lọc (%1$dMB) bằng dữ liệu di động."</string>
+	<string name="photo_portrait_color_no_face">Chọn màu chỉ hoạt động với ảnh có người</string>
+	<string name="unsupported_media_downloading_tip_format">"Xem ảnh gốc %s không hỗ trợ trên phiên bản Android này. Vẫn tải xuống?"</string>
+	<string name="unsupported_media_view_tip">"Xem ảnh gốc %s không hỗ trợ trên phiên bản Android này"</string>
+	<string name="photo_portrait_color_download_success">Tải xuống bộ lọc thành công</string>
+	<string name="can_not_transfer_when_screening">"Không thể truyền khi đang truyền dữ liệu"</string>
+	<string name="send_heif_title">Chuyển đổi HEIF sang JPG trước khi gửi</string>
+	<string name="unsupported_media_scanned_tip">"%1$s ảnh đã xác định. Xem %2$s ảnh không được hỗ trợ trên phiên bản Android này."</string>
+	<string name="unsupported_media_downloading_tip_common">"Xem ảnh gốc trong định dạng này không hỗ trợ trên phiên bản Android này. Vẫn tải xuống?"</string>
+	<string name="send_heif_summary">Chuyển đổi ảnh trước khi gửi để đảm bảo tương thích</string>
+	<string name="photo_portrait_color_download_fail">"Không thể tải trình cắm. Kết nối mạng và thử lại."</string>
 </resources>

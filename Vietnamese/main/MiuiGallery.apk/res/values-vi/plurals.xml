@@ -318,4 +318,7 @@
 	<plurals name="trash_purge_dialog_message_video">
 		<item quantity="other">"Bạn sẽ không thể khôi phục %d mục đã chọn nếu bạn xóa chúng. Vẫn xóa?"</item>
 	</plurals>
+	<plurals name="photo_remain_hours">
+		<item quantity="other">%d giờ</item>
+	</plurals>
 </resources>

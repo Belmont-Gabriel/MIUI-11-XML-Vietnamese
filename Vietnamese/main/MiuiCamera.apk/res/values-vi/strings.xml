@@ -1390,4 +1390,6 @@ In dễ dàng trên khổ A4"</string>
 	<string name="video_effect_entry_northern_europe">Bắc Âu</string>
 	<string name="video_effect_entry_color_retention">Giữ chân dung màu</string>
 	<string name="video_effect_entry_meet">Gặp gỡ</string>
+	<string name="miservice_notification_content">Nhấn vào đây để tìm hiểu thêm các tính năng của Máy ảnh</string>
+	<string name="miservice_notification_title">Mẹo: Chức năng Máy ảnh mới</string>
 </resources>

@@ -3228,4 +3228,6 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="power_save_mode_close_notification_screenon_summary">Hoạt động khi Tiết kiệm pin được bật</string>
 	<string name="power_save_mode_close_xiaoai_wakeup_summary">Hoạt động khi Tiết kiệm pin được bật</string>
 	<string name="power_center_list_item_haptic_feedback">Tắt phản hồi xúc giác</string>
+	<string name="power_save_ps_close_setting_5g_q">Tắt dịch vụ và tính năng tiêu thụ điện năng cao (đồng bộ, kết nối mạng 5G, phản hồi xúc giác, \"Nhấc để đánh thức\", \"Chạm hai lần để đánh thức hoặc khóa màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\")</string>
+	<string name="power_save_ps_close_setting_q">Tắt dịch vụ và tính năng tiêu thụ điện năng cao (đồng bộ, phản hồi xúc giác, \"Nhấc để đánh thức\", \"Chạm hai lần để đánh thức khoặc khóa màn hình\", \"Hiển thị biểu tượng vân tay khi màn hình tắt\")</string>
 </resources>

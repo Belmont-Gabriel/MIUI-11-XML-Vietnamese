@@ -2186,4 +2186,6 @@ d MMMM"</string>
 	<string name="multi_face_input_enroll">Thêm dữ liệu khuôn mặt</string>
 	<string name="multi_face_input_success_name_title">Tên</string>
 	<string name="multi_face_delete_show_message">Xóa dữ liệu khuôn mặt ngay?</string>
+	<string name="ime_security_warning_global">Phương thức nhập có thể thu thập tất cả văn bản bạn nhập, bao gồm cả dữ liệu cá nhân như mật khẩu và số thẻ tín dụng. Sử dụng %1$s?</string>
+	<string name="ime_security_warning_title_global">Bật bàn phím</string>
 </resources>

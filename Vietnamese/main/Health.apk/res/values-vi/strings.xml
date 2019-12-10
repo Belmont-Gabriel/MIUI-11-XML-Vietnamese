@@ -383,7 +383,7 @@ Kích thước: %2$s"</string>
 	<string name="add_body_weight_button">Thêm dữ liệu cân nặng</string>
 	<string name="goal_daily_exercise">Mục tiêu hoạt động</string>
 	<string name="weight_trend_offset_date">"Từ %1$s đến %2$s: "</string>
-	<string name="manual_page_label_measure_date">Đã đến lúc cân</string>
+	<string name="manual_page_label_measure_date">Thời gian cân</string>
 	<string name="sleep_record_go_open">Gạt nút \"Theo dõi giấc ngủ\" để bắt đầu ghi lại dữ liệu giấc ngủ</string>
 	<string name="label_body_weight_recent">Hiện tại</string>
 	<string name="body_weight_normal">Bình thường</string>

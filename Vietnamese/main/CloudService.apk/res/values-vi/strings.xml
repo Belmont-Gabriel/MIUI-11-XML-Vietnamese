@@ -812,4 +812,5 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="menu_add_short_cut">Tạo một Lối tắt Màn hình chính</string>
 	<string name="tip_short_cut_added_success">Tạo thành công</string>
 	<string name="cloud_lab_title">Phòng thí nghiệm</string>
+	<string name="wipe_data_query_progress_title">Đang kiểm tra…</string>
 </resources>
