@@ -241,7 +241,7 @@ sử dụng %s"</string>
     <string name="data_usage_mobile_limit_title">Đã đạt đến giới hạn dữ liệu di động</string>
     <string name="data_usage_restricted_body">Nhấn để xóa giới hạn.</string>
     <string name="data_usage_restricted_title">Dữ liệu nền bị giới hạn</string>
-    <string name="data_usage_warning_body">Chạm để xem mức sử dụng và cài đặt</string>
+	<string name="data_usage_warning_body">"Bạn đã sử dụng %s dữ liệu"</string>
     <string name="data_usage_warning_title">Cảnh báo dữ liệu</string>
     <string name="data_usage_wifi_limit_snoozed_title">Vượt quá giới hạn dữ liệu Wi-Fi</string>
     <string name="data_usage_wifi_limit_title">Đã đạt tới g.hạn dữ liệu Wi-Fi</string>
@@ -322,7 +322,7 @@ sử dụng %s"</string>
     <string name="expand_button_content_description_collapsed">Mở rộng</string>
     <string name="expand_button_content_description_expanded">Thu gọn</string>
     <string name="expires_on">Hết hạn vào:</string>
-    <string name="ext_media_badremoval_notification_message">Hãy ngắt kết nối %s trước khi tháo để tránh mất nội dung</string>
+	<string name="ext_media_badremoval_notification_message">Ngắt phương tiện trước khi tháo để tránh mất nội dung</string>
     <string name="ext_media_badremoval_notification_title">Đã tháo đột ngột %s</string>
     <string name="ext_media_browse_action">Khám phá</string>
     <string name="ext_media_checking_notification_message">Đang xem lại nội dung hiện tại</string>
@@ -336,8 +336,8 @@ sử dụng %s"</string>
     <string name="ext_media_move_success_message">Đã di chuyển nội dung sang %s</string>
     <string name="ext_media_move_success_title">Đã hoàn tất chuyển nội dung</string>
     <string name="ext_media_move_title">Di chuyển dữ liệu</string>
-    <string name="ext_media_new_notification_message">Đã nhận ra %s mới</string>
-    <string name="ext_media_nomedia_notification_message">%s đã tháo. Hãy lắp bộ nhớ mới.</string>
+	<string name="ext_media_new_notification_message">Chạm để cài đặt</string>
+	<string name="ext_media_nomedia_notification_message">Một vài tính năng có thể không hoạt động đúng. Lắp bộ nhớ mới.</string>
     <string name="ext_media_nomedia_notification_title">Đã xóa %s</string>
     <string name="ext_media_ready_notification_message">Để chuyển ảnh và phương tiện</string>
     <string name="ext_media_status_bad_removal">Đã tháo một cách không an toàn</string>
@@ -352,7 +352,7 @@ sử dụng %s"</string>
     <string name="ext_media_status_unmounted">Đã đẩy ra</string>
     <string name="ext_media_status_unsupported">Không được hỗ trợ</string>
     <string name="ext_media_unmount_action">Tháo</string>
-    <string name="ext_media_unmountable_notification_message">%s đã hỏng. Hãy nhấn để sửa</string>
+	<string name="ext_media_unmountable_notification_message">Chạm để sửa</string>
     <string name="ext_media_unmountable_notification_title">Vấn đề với %s</string>
     <string name="ext_media_unmounting_notification_message">Không tháo</string>
     <string name="ext_media_unmounting_notification_title">Đang ngắt kết nối %s…</string>
@@ -797,7 +797,7 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="network_switch_metered_toast">Đã chuyển từ %1$s sang %2$s</string>
     <string name="network_switch_type_name_unknown">Loại mạng không xác định</string>
     <string name="new_app_action">Mở %1$s</string>
-    <string name="new_app_description">Dừng ứng dụng cũ mà không lưu.</string>
+	<string name="new_app_description">%1$s sẽ đóng mà không lưu</string>
     <string name="new_sms_notification_content">Mở ứng dụng SMS để xem</string>
     <string name="new_sms_notification_title">Bạn có tin nhắn mới</string>
     <string name="next_button_label">Tiếp theo</string>
@@ -1489,7 +1489,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="wifi_connect_alert_message">Ứng dụng %1$s muốn kết nối với Mạng Wifi %2$s</string>
     <string name="wifi_connect_alert_title">Cho phép kết nối?</string>
     <string name="wifi_connect_default_application">Ứng dụng</string>
-    <string name="wifi_no_internet">Wi-Fi không có quyền truy cập Internet</string>
+    <string name="wifi_no_internet">%1$s không có quyền truy cập Internet</string>
     <string name="wifi_no_internet_detailed">Nhấn để biết tùy chọn</string>
     <string name="wifi_p2p_dialog_title">Wi-Fi Direct</string>
     <string name="wifi_p2p_enabled_notification_message">Nhấn để xem cài đặt</string>

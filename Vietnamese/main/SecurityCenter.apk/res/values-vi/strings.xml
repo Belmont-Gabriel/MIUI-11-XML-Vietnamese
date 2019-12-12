@@ -1807,7 +1807,7 @@ thiết bị của bạn"</string>
     <string name="optimize_result_button_consume_power_analysis">Quét pin</string>
     <string name="optimize_result_button_purchase_flow">Xem tất cả</string>
     <string name="optimize_result_button_purchase">Mua</string>
-    <string name="optimize_result_button_cloudspace">Thêm lưu trữ Xiaomi Cloud</string>
+    <string name="optimize_result_button_cloudspace">Thêm không gian lưu trữ đám mây</string>
     <string name="optimize_result_title_system_default_settings">Cài đặt mặc định đã được thay đổi</string>
     <string name="optimize_result_summary_system_default_settings">Sử dụng ứng dụng MIUI mặc định để tăng tính ổn định và bảo mật hệ thống.</string>
     <string name="optimize_result_toast_system_default_settings">Đã khôi phục cài đặt mặc định</string>

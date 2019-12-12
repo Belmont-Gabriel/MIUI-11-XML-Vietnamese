@@ -102,7 +102,7 @@
 	<string name="usagestats_app_category_miui_sport">Thể thao</string>
 	<string name="follow_sim1">Áp dụng cài đặt SIM 1</string>
 	<string name="application_sound">Thông báo ứng dụng</string>
-	<string name="intelligent_recognition_item_summary">Nhận diện cuộc gọi đến bởi các nhà cung cấp dịch vụ (v.d. giao đồ ăn) và sử dụng nhạc chuông riêng biệt</string>
+	<string name="intelligent_recognition_item_summary">Sử dụng nhạc chuông được chỉ định cho các cuộc gọi từ dịch vụ giao hàng và taxi. Tính năng này sẽ hoạt động khi %s được đặt làm nhạc chuông mặc định của bạn.</string>
 	<string name="notification_sound">Âm thanh thông báo</string>
 	<string name="usage_state_time_end">Đã đạt giới hạn thời gian màn hình hôm nay</string>
 	<string name="usage_state_usage_time_weekend_title">Cuối tuần</string>

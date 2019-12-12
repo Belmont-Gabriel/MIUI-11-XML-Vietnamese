@@ -1420,9 +1420,8 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
         <item>Cài đặt</item>
     </string-array>
 	<string-array name="dark_ui_mode_entries">
-        <item>Tự động (dựa trên thời gian trong ngày)</item>
-        <item>Luôn bật</item>
-        <item>Luôn tắt</item>
+        <item>Tối</item>
+        <item>Sáng</item>
     </string-array>
 	<string-array name="bluetooth_max_connected_audio_devices">
         <item>Sử dụng mặc định hệ thống: %1$d</item>

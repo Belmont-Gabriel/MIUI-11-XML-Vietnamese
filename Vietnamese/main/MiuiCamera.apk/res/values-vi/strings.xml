@@ -550,7 +550,7 @@ và tạo ra một ảnh đẹp nhất với độ nhiễu thấp nhất."</stri
     <string name="user_agreement4">Chính sách Riêng tư</string>
     <string name="user_agree">Đồng ý</string>
     <string name="do_not_remind_me">Không hiển thị lại</string>
-    <string name="user_notice_identify_summary_format">Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi. Bạn có đồng ý kết nối mạng?</string>
+	<string name="user_notice_identify_summary_format">Trước khi sử dụng Máy ảnh, Bạn phải đồng ý với &lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi. Máy ảnh cung cần kết nối mạng để hoạt động bình thường. Đồng ý?</string>
     <string name="user_notice_title">Điều khoản và Điều kiện</string>
     <string name="pref_camera_focus_shoot_title">Lấy nét &amp; chụp nhanh</string>
     <string name="pref_camera_focus_shoot_summary">Chạm để lấy nét, sau đó chạm lần nữa để chụp ảnh</string>
@@ -693,8 +693,8 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="accessibility_lighting_panel_off">Đóng bảng điều khiển ánh sáng studio</string>
     <string name="accessibility_lighting_panel_on">Mở bảng điều khiển ánh sáng studio</string>
     <string name="accessibility_record_button">Nút ghi âm</string>
-    <string name="accessibility_ultra_pixel_photography_off">Đã tắt siêu nét %d</string>
-    <string name="accessibility_ultra_pixel_photography_on">Đã bật siêu nét %d</string>
+	<string name="accessibility_ultra_pixel_photography_off">%s Ultra HD đã tắt</string>
+	<string name="accessibility_ultra_pixel_photography_on">%s Ultra HD đã bật</string>
     <string name="accessibility_video_capture_button">Nút chụp ảnh khi quay video</string>
     <string name="accessibility_video_pause_button">Tạm dừng ghi</string>
     <string name="accessibility_video_resume_button">Tiếp tục ghi</string>
@@ -734,8 +734,8 @@ Giữ đối tượng sắc nét trong khi làm mờ bối cảnh."</string>
     <string name="pref_camera_normal_wide_ldc_description">Khắc phục hiện tượng méo mặt ở rìa ảnh</string>
     <string name="pref_camera_ultra_wide_ldc_description">Sửa méo hình ở chế độ góc siêu rộng</string>
     <string name="pref_camera_ultra_wide_mode_title">Chế độ góc siêu rộng</string>
-    <string name="ultra_pixel_photography_close_tip">Chế độ siêu nét %d đã đóng</string>
-    <string name="ultra_pixel_photography_open_tip">Chế độ siêu nét %d đã mở</string>
+	<string name="ultra_pixel_photography_close_tip">%s Ultra HD đã tắt</string>
+	<string name="ultra_pixel_photography_open_tip">%s Ultra HD đã bật</string>
     <string name="ultra_widem_mode_use_hint_text">"Bật chế độ góc siêu rộng để ghi lại ảnh rộng hơn
 Khám phá vẻ đẹp thú vị hơn"</string>
 	<string name="beauty_body_slim_count_tip">Chỉ hỗ trợ chụp ảnh một người</string>
@@ -1278,13 +1278,9 @@ trong ảnh nhìn lớn hơn"</string>
 	<string name="pref_photo_assistance_tips_on">Mở</string>
 	<string name="dirty_tip_toast">Ống kính bị bẩn, vui lòng lau ống kính</string>
 	<string name="hint_subtitle_prompt">Chú thích bằng giọng nói được bật, vui lòng nói trong khi ghi âm</string>
-	<string name="network_access_user_notice_message_voice_caption">"Máy ảnh cần kết nối mạng để cung cấp tính năng xuất giọng nói thành văn bản.
-
-Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng.</string>
+	<string name="network_access_user_notice_message_voice_caption">&lt;Data&gt;"Máy ảnh cần kết nối mạng để cung cấp tính năng xuất giọng nói thành văn bản.&lt;br/&gt;&lt;br/&gt;Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href =%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href =%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng."&lt;/Data&gt;</string>
 	<string name="confirm_reset_manually_parameter_message">Đặt lại tất cả thông số về giá trị mặc định?</string>
-	<string name="network_access_user_notice_message_sticker">"Máy ảnh cần kết nối mạng để cung cấp nhãn dán cho tính năng này.
-
-Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng.</string>
+	<string name="network_access_user_notice_message_sticker">&lt;Data&gt;"Máy ảnh cần kết nối mạng để cung cấp nhãn dán cho tính năng này.&lt;br/&gt;&lt;br/&gt;Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href =%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href =%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng."&lt;/Data&gt;</string>
 	<string name="network_access_user_notice_agree">Đồng ý</string>
 	<string name="accessibility_mimovie_on">Chế độ phim bật</string>
 	<string name="hint_subtitle">Trong khi quay phim, giọng nói sẽ tự động chuyển thành phụ đề</string>
@@ -1293,9 +1289,7 @@ Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a h
 	<string name="color_effect_entry_classic">Cổ điển</string>
 	<string name="pref_video_subtitle">Chú thích bằng giọng nói</string>
 	<string name="ultra_tele_use_hint_text_title">Thu phóng 50 lần</string>
-	<string name="network_access_user_notice_message_live_video">"Máy ảnh cần kết nối mạng để cung cấp hiệu ứng, âm nhạc và các tính năng khác cho video ngắn.
-
-Bằng cách chạm \"Đồng ý\" bên dưới, bạn đồng ý với "&lt;a href="http://www.miui.com/res/doc/eula.html?lang=en_US"&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href="http://www.miui.com/res/doc/privacy.html?lang=en_US"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng.</string>
+	<string name="network_access_user_notice_message_live_video">&lt;Data&gt;"Máy ảnh cần kết nối mạng để cung cấp hiệu ứng, âm nhạc và các tính năng khác cho video ngắn.&lt;br/&gt;&lt;br/&gt;Bằng cách chạm \"Đồng ý\" bên dưới, bạn đang đồng ý với &lt;a href =%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href =%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, và cho phép Máy ảnh kết nối mạng."&lt;/Data&gt;</string>
 	<string name="location_permission_des">Nhớ vị trí cho ảnh và video</string>
 	<string name="reset_manually_parameter_hint">Đặt lại</string>
 	<string name="vv_stability_hint">Trong gương tự động, vui lòng không di chuyển điện thoại</string>

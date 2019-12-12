@@ -22,12 +22,12 @@
     <string name="bluetooth_disconnected">Đã ngắt kết nối</string>
     <string name="bluetooth_disconnecting">Đang ngắt kết nối…</string>
     <string name="bluetooth_connecting">Đang kết nối…</string>
-    <string name="bluetooth_connected">Đã kết nối</string>
+    <string name="bluetooth_connected">Đã kết nối %1$s</string>
     <string name="bluetooth_pairing">Đang ghép nối…</string>
-    <string name="bluetooth_connected_no_headset">Đã kết nối (không có điện thoại)</string>
-    <string name="bluetooth_connected_no_a2dp">Đã kết nối (không có phương tiện)</string>
-    <string name="bluetooth_connected_no_map">Đã kết nối (không có tin nhắn truy cập)</string>
-    <string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (không có phương tiện hoặc điện thoại)</string>
+    <string name="bluetooth_connected_no_headset">Đã kết nối (Không điện thoại) %1$s</string>
+    <string name="bluetooth_connected_no_a2dp">Đã kết nối (Không phương tiện) %1$s</string>
+    <string name="bluetooth_connected_no_map">Đã kết nối (Không truy cập tin nhắn) %1$s</string>
+    <string name="bluetooth_connected_no_headset_no_a2dp">Đã kết nối (Không điện thoại hay phương tiện) %1$s</string>
     <string name="bluetooth_profile_a2dp">Âm thanh phương tiện</string>
     <string name="bluetooth_profile_headset">Âm thanh điện thoại</string>
     <string name="bluetooth_profile_opp">Chuyển tiếp tập tin</string>
@@ -610,8 +610,8 @@ Dường như ở đó không có ngựa hay bất kỳ loài động vật nào
     <string name="bluetooth_broadcasting_explaination">"Khi tính năng này được bật, điện thoại của bạn có thể giao tiếp với các thiết bị lân cận khác.
 
 Phát sóng sử dụng tín hiệu Bluetooth điện năng thấp."</string>
-    <string name="bluetooth_ask_enablement_and_discovery">Một ứng dụng muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác trong %1$d giây.</string>
-    <string name="bluetooth_ask_enablement_and_lasting_discovery">Một ứng dụng muốn bật Bluetooth và đặt điện thoại của bạn ở chế độ hiển thị với các thiết bị khác. Bạn có thể thay đổi cài đặt này sau trong cài đặt Bluetooth.</string>
+    <string name="bluetooth_ask_enablement_and_discovery">%1$s muốn bật Bluetooth và khiến thiết bị của bạn hiển thị với các thiết bị khác trong %2$d giây.</string>
+    <string name="bluetooth_ask_enablement_and_lasting_discovery">%1$s muốn bật Bluetooth và khiến thiết bị của bạn hiển thị với các thiết bị khác. Bạn có thể thay đổi sau trong Cài đặt Bluetooth.</string>
     <string name="bluetooth_turning_on">Đang bật Bluetooth…</string>
     <string name="bluetooth_turning_off">Đang tắt Bluetooth…</string>
     <string name="bluetooth_auto_connect">Tự động kết nối</string>
@@ -1273,7 +1273,7 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_calling_suggestion_summary">Sử dụng Wi-Fi thay vì mạng di động</string>
     <string name="wifi_calling_mode_title">Tùy chọn cuộc gọi</string>
     <string name="wifi_calling_mode_dialog_title">Chế độ gọi qua Wi-Fi</string>
-    <string name="wifi_calling_off_explanation">Khi gọi qua Wi-Fi bật, điện thoại của bạn có thể định tuyến cuộc gọi qua mạng Wi-Fi hoặc mạng của nhà cung cấp dịch vụ, tùy thuộc vào tùy chọn của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, hãy hỏi nhà cung cấp dịch vụ của bạn về phí và các chi tiết khác.</string>
+    <string name="wifi_calling_off_explanation">Khi Gọi Wi-Fi được bật, điện thoại của bạn có thể định tuyến cuộc gọi qua mạng Wi-Fi hoặc mạng di động, tùy thuộc vào cài đặt của bạn và tín hiệu nào mạnh hơn. Trước khi bật tính năng này, kiểm tra với nhà cung cấp dịch vụ của bạn về phí và các chi tiết khác.%1$s</string>
     <string name="home_settings">Trang chủ</string>
     <string name="display_settings_title">Hiển thị</string>
     <string name="sound_settings">Âm thanh</string>
@@ -1380,8 +1380,8 @@ Có thể mã PIN không đúng."</string>
     <string name="sim_enter_cancel">Hủy</string>
     <string name="sim_multi_sims_title">Tìm thấy nhiều SIM</string>
     <string name="sim_multi_sims_summary">Chọn SIM bạn muốn cho dữ liệu di động.</string>
-    <string name="sim_change_data_title">Thay đổi SIM dữ liệu?</string>
-    <string name="sim_change_data_message">Sử dụng %1$s thay cho %2$s đối với dữ liệu di động?</string>
+    <string name="sim_change_data_title">Sử dụng %1$s cho dữ liệu di động?</string>
+    <string name="sim_change_data_message">"Bạn đang sử dụng %2$s cho dữ liệu di động. Nếu bạn chuyển sang %1$s, %2$s sẽ không còn được sử dụng cho dữ liệu di động."</string>
     <string name="sim_preferred_title">Cập nhật thẻ SIM ưu tiên?</string>
     <string name="sim_preferred_message">%1$s là SIM duy nhất trong thiết bị của bạn. Bạn có muốn sử dụng SIM này cho dữ liệu di động, cuộc gọi và tin nhắn SMS không?</string>
     <string name="wrong_pin_code_pukked">Mã PIN của SIM không chính xác, bây giờ bạn phải liên hệ với nhà cung cấp dịch vụ để mở khóa thiết bị của bạn.</string>
@@ -2166,7 +2166,7 @@ Nếu thiết bị có nhiều người dùng, việc sử dụng lối tắt n�
     <string name="capability_title_receiveAccessibilityEvents">Theo dõi tác vụ của bạn</string>
     <string name="capability_desc_receiveAccessibilityEvents">Nhận thông báo khi bạn đang tương tác với một ứng dụng.</string>
     <string name="disable_service_title">Dừng %1$s?</string>
-    <string name="disable_service_message">Nhấn OK sẽ dừng %1$s.</string>
+    <string name="disable_service_message">Chạm %1$s sẽ dừng %2$s.</string>
     <string name="accessibility_no_services_installed">Chưa có dịch vụ nào được cài đặt</string>
     <string name="accessibility_service_default_description">Không có mô tả nào được cung cấp.</string>
     <string name="settings_button">Cài đặt</string>
@@ -3179,7 +3179,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="configure_apps">Định cấu hình ứng dụng</string>
     <string name="unknown_app">Ứng dụng không xác định</string>
     <string name="app_permissions">Giấy phép ứng dụng</string>
-    <string name="app_permissions_summary" formatted="false">Đã cấp quyền truy cập bổ sung cho %d trong số %d ứng dụng</string>
+    <string name="app_permissions_summary">Ứng dụng đang sử dụng %1$s</string>
     <string name="app_permissions_group_summary" formatted="false">Đã cho phép %d trong số %d ứng dụng</string>
     <string name="tap_to_wake">Nhấn để đánh thức</string>
     <string name="tap_to_wake_summary">Nhấn đúp vào vị trí bất kỳ trên màn hình để đánh thức thiết bị</string>
@@ -3232,7 +3232,7 @@ Mọi người dùng đều có thể cập nhật ứng dụng cho tất cả n
     <string name="high_power_prompt_body">"Cho phép %1$s luôn chạy trong nền có thể làm giảm thời lượng pin. 
 
 Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụng và thông báo."</string>
-    <string name="battery_summary">%1$d%% sử dụng kể từ lần sạc đầy cuối cùng</string>
+    <string name="battery_summary">%1$s sử dụng từ lần sạc cuối</string>
     <string name="no_battery_summary">Không sử dụng pin kể từ lần sạc đầy cuối cùng</string>
     <string name="app_notification_preferences">Cài đặt ứng dụng</string>
     <string name="system_ui_settings">Hiện Bộ điều chỉnh SystemUI</string>
@@ -3370,7 +3370,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="condition_hotspot_summary">Điểm phát sóng Wi-Fi di động %1$s đang hoạt động, Wi-Fi của thiết bị này bị tắt.</string>
     <string name="condition_airplane_title">Đang bật chế độ trên máy bay</string>
     <string name="condition_airplane_summary">Mạng Wi-Fi, Bluetooth và mạng di động đều bị tắt. Bạn không thể gọi điện thoại hoặc kết nối với Internet.</string>
-    <string name="condition_zen_title">Đang bật không làm phiền (%1$s)</string>
+    <string name="condition_zen_title">Không làm phiền đang bật</string>
     <string name="condition_battery_title">Trình tiết kiệm pin đang bật</string>
     <string name="condition_battery_summary">Hiệu suất giảm. Dịch vụ vị trí và dữ liệu nền bị tắt.</string>
     <string name="condition_cellular_title">Dữ liệu di động bị tắt</string>
@@ -3423,8 +3423,8 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="lockpattern_settings_require_password_before_startup_summary">Cần có mật khẩu để khởi động thiết bị của bạn. Khi tắt, thiết bị này không thể nhận cuộc gọi, tin nhắn, thông báo hoặc báo thức.</string>
     <string name="suggestion_additional_fingerprints">Thêm một vân tay khác</string>
     <string name="suggestion_additional_fingerprints_summary">Mở khóa bằng vân tay khác</string>
-    <string name="battery_saver_on_summary">Bật / %1$s</string>
-    <string name="battery_saver_off_summary">Tắt / %1$s</string>
+    <string name="battery_saver_on_summary">Bật</string>
+    <string name="battery_saver_off_summary">Tắt</string>
     <string name="battery_saver_desc_turn_on_auto_never">Không bao giờ tự động bật</string>
     <string name="battery_saver_desc_turn_on_auto_pct">Tự động bật ở mức pin %1$s</string>
     <string name="not_battery_optimizing">Hiện không sử dụng tối ưu hóa pin</string>
@@ -6939,7 +6939,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="accessibility_vibration_intensity_medium">Trung bình</string>
     <string name="accessibility_vibration_intensity_off">Tắt</string>
     <string name="accessibility_vibration_settings_title">Rung &amp; cường độ rung</string>
-    <string name="accessibility_vibration_summary">Chuông %1$s, chạm %2$s</string>
+    <string name="accessibility_vibration_summary">Đổ chuông %1$s, thông báo %2$s, chạm %3$s</string>
     <string name="accessibility_vibration_summary_high">Chuông &amp; thông báo đặt mức cao</string>
     <string name="accessibility_vibration_summary_low">Chuông &amp; thông báo đặt mức thấp</string>
     <string name="accessibility_vibration_summary_medium">Chuông &amp; thông báo đặt mức trung bình</string>
@@ -7175,8 +7175,9 @@ Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoả
     <string name="battery_tip_low_battery_title">Dung lượng pin thấp</string>
     <string name="battery_tip_low_battery_summary">Pin không thể cung cấp thời lượng pin tốt</string>
     <string name="battery_tip_dialog_summary_message">Ứng dụng đang sử dụng pin bình thường. Nếu ứng dụng dùng quá nhiều pin, điện thoại của bạn sẽ đề xuất các tác vụ bạn có thể thực hiện. Bạn luôn có thể bật Tiết kiệm pin nếu bạn sắp hết pin.</string>
-    <string name="battery_tip_dialog_message">Điện thoại của bạn sử dụng nhiều hơn bình thường. Pin có thể hết sớm hơn dự kiến.
-    Top %1$d ứng dụng bạn sử dụng gần đây:</string>
+    <string name="battery_tip_dialog_message">"Điện thoại của bạn được sử dụng nhiều hơn bình thường. Pin của bạn có thể hết trước thời gian dự kiến.
+
+Những ứng dụng sử dụng pin hàng đầu:"</string>
     <string name="battery_tip_restrict_app_dialog_ok">Hạn chế</string>
     <string name="battery_tip_restrict_app_dialog_message">Để tiết kiệm pin, ngừng %1$s sử dụng pin trong nền. Ứng dụng có thể hoạt động không bình thường và thông báo có thể bị trì hoãn.</string>
     <string name="battery_tip_smart_battery_title">Cải thiện thời lượng pin của thiết bị</string>

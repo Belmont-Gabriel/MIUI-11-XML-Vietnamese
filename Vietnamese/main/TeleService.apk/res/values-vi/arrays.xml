@@ -371,4 +371,16 @@
 		<item>Tối ưu cho Chất lượng âm thanh (900kbps)</item>
 		<item>Cố gắng nhất (Bit Rate tự động)</item>
 	</string-array>
+	<string-array name="uplmn_prefer_network_mode_td_choices">
+		<item>GSM</item>
+		<item>TD-SCDMA</item>
+		<item>LTE</item>
+		<item>Chế độ ba</item>
+	</string-array>
+	<string-array name="uplmn_prefer_network_mode_w_choices">
+		<item>GSM</item>
+		<item>WCDMA</item>
+		<item>LTE</item>
+		<item>Chế độ ba</item>
+	</string-array>
 </resources>

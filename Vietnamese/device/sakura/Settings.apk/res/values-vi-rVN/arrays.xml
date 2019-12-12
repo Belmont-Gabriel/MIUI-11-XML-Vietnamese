@@ -24,4 +24,9 @@
 		<item>Bật codec tùy chọn</item>
         <item>Tắt codec tùy chọn</item>
 	</string-array>
+	<string-array name="dark_ui_mode_entries">
+		<item>Tự động (Dựa trên thời gian trong ngày)</item>
+		<item>Luôn bật</item>
+		<item>Luôn tắt</item>
+	</string-array>
 </resources>
