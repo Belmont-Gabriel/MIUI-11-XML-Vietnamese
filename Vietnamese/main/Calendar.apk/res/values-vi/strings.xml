@@ -1056,4 +1056,7 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="subscribe_failed">Đăng ký không thành công. Lỗi mạng, vui lòng thử lại sau</string>
 	<string name="menstruation_title">Trợ lý kinh nguyệt</string>
 	<string name="miuishare_app_name">Chia sẻ Mi</string>
+	<string name="notification_channel_name_no_sound">Nhắc nhở yên lặng</string>
+	<string name="notification_channel_name_no_vibration">Nhắc nhở không rung</string>
+	<string name="notification_channel_name_silent">Nhắc nhở Không làm phiền</string>
 </resources>

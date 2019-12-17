@@ -3253,7 +3253,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="vb_ve_settings_display_style_tips">*Các hiệu ứng này được áp dụng cho toàn bộ màn hình</string>
 	<string name="vb_video_effects_settings_liquid">Trong trẻo</string>
 	<string name="videobox_settings_line_location_desc">Hiển thị lối tắt ở cạnh màn hình</string>
-	<string name="gb_audition_instruction">Nhấn và giữ để ghi (0-10giây)</string>
+	<string name="gb_audition_instruction">Nhấn và giữ để ghi (%1$s-%2$s giây)</string>
 	<string name="vb_settings">Cài đặt</string>
 	<string name="alert_back_milink_hangup_tips_content_vb">"Truyền sẽ không bị ngắt khi màn hình tắt và ứng dụng chạy dưới nền. Bạn có thể nhấn nút Nguồn để bật lại màn hình."</string>
 	<string name="videobox_settings_line_location_right">Phải</string>

@@ -1341,7 +1341,7 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="parameter_lens_marco">, MACRO(Ống kính Macro)</string>
 	<string name="parameter_description_pro_capture_title">Giới thiệu chức năng Máy ảnh chuyên nghiệp</string>
 	<string name="parameter_peak_raw_title">Định dạng RAW</string>
-	<string name="parameter_lens_w">WIDE(Ống kính góc rộng)</string>
+	<string name="parameter_lens_w">" WIDE(Ống kính góc rộng)"</string>
 	<string name="parameter_lens_tele_2x">, TELE-2X(Ống kính Tele)</string>
 	<string name="parameter_lens_description">Hỗ trợ chuyển đổi ống kính bằng tay, bao gồm</string>
 	<string name="parameter_et_title">Tốc độ màn trập</string>
