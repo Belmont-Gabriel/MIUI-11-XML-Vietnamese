@@ -719,7 +719,7 @@ d MMM"</string>
     <string name="accessibility_desc_app_unallow_block">Thông báo của %1$s không thể ẩn</string>
     <string name="accessibility_desc_check_block_notification">Chọn thông báo của %1$s</string>
     <string name="accessibility_desc_uncheck_block_notification">Bỏ chọn thông báo của %1$s</string>
-    <string name="screenshot_long_screenshot">Chụp ảnh màn hình kéo dài</string>
+    <string name="screenshot_long_screenshot">Cuộn</string>
     <string name="screenshot_edit">Sửa</string>
     <string name="screenshot_send">Gửi</string>
     <string name="screenshot_delete">Xóa</string>

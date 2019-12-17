@@ -558,7 +558,7 @@ Trung tâm dịch vụ khách hàng: 400-100-5678"</string>
     <string name="abc_shareactionprovider_share_with">Chia sẻ với</string>
     <string name="abc_shareactionprovider_share_with_application">Chia sẻ với %s</string>
     <string name="abc_toolbar_collapse_description">Thu gọn</string>
-    <string name="mibi_all_license_message">Bạn sắp sử dụng Mi Credit, một dịch vụ được cung cấp bởi Xiaomi Inc. Trước khi bạn có thể sử dụng dịch vụ này, bạn cần đồng ý với Điều khoản Dịch vụ. Chạm OK nếu bạn đồng ý với các điều khoản và điều kiện được mô tả trong %1$s và %2$s. Bạn cần có kết nối mạng, định vị để có thể sử dụng Mi Credit.</string>
+    <string name="mibi_all_license_message">Bạn sắp sử dụng Mi Credit, một dịch vụ được cung cấp bởi Xiaomi Inc. Trước khi bạn có thể sử dụng dịch vụ này, bạn cần đồng ý với Điều khoản Dịch vụ. Chạm Đồng ý nếu bạn đồng ý với các điều khoản và điều kiện được mô tả trong %1$s và %2$s. Bạn cần có kết nối mạng, định vị để có thể sử dụng Mi Credit.</string>
     <string name="mibi_applock_config">Không thể đặt Khóa ứng dụng khi đang dùng Chia màn hình.</string>
     <string name="mibi_bill_record">Giao dịch</string>
     <string name="mibi_business_title">Dịch vụ khác</string>

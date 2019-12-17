@@ -9831,4 +9831,6 @@ Dưới đây là một số nguyên nhân:
 	<string name="haptic_feedback_progress">Mức phản hồi xúc giác</string>
 	<string name="display_advanced_mode_summary">Tùy chọn gam màu</string>
 	<string name="open_haptic_feedback">Phản hồi xúc giác</string>
+	<string name="close_slave_wifi_hint">Ngắt kết nối khỏi Wi-Fi phụ trước khi truyền</string>
+	<string name="close_hotspot_hint">Tắt điểm phát di động trước khi truyền</string>
 </resources>

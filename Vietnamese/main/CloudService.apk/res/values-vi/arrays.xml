@@ -142,4 +142,12 @@
 		<item>Để nhận dạng thiết bị của bạn</item>
 		<item>Để định vị thiết bị của bạn và chuyển sang Chế độ đánh mất</item>
 	</string-array>
+	<string-array name="privacy_dialog_sync_runtime_perm_desc">
+		<item>Để đồng bộ sự kiện</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ tin nhắn</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để đồng bộ liên hệ</item>
+		<item>Để lưu các mục vào thiết bị (v.d. ảnh, video, bài hát)</item>
+	</string-array>
 </resources>

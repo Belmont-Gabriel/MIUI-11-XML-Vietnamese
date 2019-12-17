@@ -727,7 +727,7 @@
 	<string name="sst_subscripted2">Danh mục khả dụng</string>
 	<string name="mode_cw_desc_selected">Sử dụng ảnh của bạn trong trình chiếu</string>
 	<string name="enable_toast_subscribe">Bật Tạp chí Khóa màn hình và kích hoạt đăng ký.</string>
-	<string name="show_wallpaper_loop_entry_title">Trình chiếu Màn hình chính</string>
+	<string name="show_wallpaper_loop_entry_title">Cài đặt trình chiếu</string>
 	<string name="mode_auto_desc_selected">Tự động nhận ảnh mới</string>
 	<string name="wp_lockscreen_enable_title">Trình chiếu Màn hình khóa</string>
 	<string name="add_first_cw_toast3">Thêm hình nền thành công. Bật Tạp chí Khóa màn hình và bắt đầu trình chiếu.</string>
@@ -740,4 +740,10 @@
 	<string name="mode_cw_desc">Bật Tạp chí Khóa màn hình để tùy chỉnh trình chiếu của bạn</string>
 	<string name="local_default_category">Danh mục cục bộ đặt sẵn</string>
 	<string name="toast_load_failed_tip">"Không thể tải mục"</string>
+	<string name="minutes_5">Mỗi 5 phút</string>
+	<string name="delete_pic">Xóa ảnh</string>
+	<string name="toast_has_close_gallery">Đã tắt Tạp chí Khóa màn hình</string>
+	<string name="select_photo_album">Chọn album</string>
+	<string name="subscribe_success_content_per_5_minutes">Đổi hình nên mỗi 5 phút</string>
+	<string name="toast_has_open_gallery">Đã bật Tạp chí Khóa màn hình</string>
 </resources>
