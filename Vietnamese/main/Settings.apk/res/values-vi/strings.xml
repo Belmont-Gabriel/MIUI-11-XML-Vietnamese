@@ -4894,7 +4894,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="bootloader_status_locked_summary">Điện thoại an toàn</string>
     <string name="bootloader_status_unlocked_info">Thiết bị này đã mở khóa</string>
     <string name="bootloader_locked_question_1">Tại sao nên khóa thiết bị?</string>
-    <string name="bootloader_locked_answer_1">Chúng tôi khóa thiết bị để đảm bảo thiết bị an toàn và thông tin cá nhân của bạn không được tiết lộ cho bên thứ ba. Nếu bạn cần truy cập Fastboot và flash thiết bị, bạn có thể mở khóa.</string>
+    <string name="bootloader_locked_answer_1">Chúng tôi khóa thiết bị để đảm bảo thiết bị an toàn và thông tin cá nhân của bạn không được tiết lộ cho bên thứ ba. Nếu bạn cần truy cập Fastboot và flash thiết bị, mở khóa nó trước.</string>
     <string name="bootloader_locked_answer_1_warning">Chú ý: Bạn không thể sử dụng \"Tìm thiết bị\" sau khi điện thoại mở khóa.</string>
     <string name="bootloader_locked_question_2">Tôi hiểu các nguy cơ, nhưng vẫn muốn mở khóa thiết bị.</string>
     <string name="bootloader_locked_answer_2">Chạm phím bên dưới để liên kết Tài khoản Mi với thiết bị này. Sau đó truy cập trang web MIUI để tải xuống công cụ mở khóa và cài đặt trên máy tính. Địa chỉ dưới đây:</string>

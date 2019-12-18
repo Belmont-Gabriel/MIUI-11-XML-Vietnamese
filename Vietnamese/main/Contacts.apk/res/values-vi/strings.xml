@@ -772,7 +772,7 @@ Nguyên nhân: \"%s\""</string>
     <string name="option_send_to_others">Chuyển tiếp</string>
     <string name="option_view_contact">Xem</string>
     <string name="option_view_group">Xem</string>
-    <string name="organizationLabelsGroup">Tổ chức</string>
+    <string name="organizationLabelsGroup">Vị trí</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Liên hệ khác</string>
     <string name="other_phone">Điện thoại khác</string>

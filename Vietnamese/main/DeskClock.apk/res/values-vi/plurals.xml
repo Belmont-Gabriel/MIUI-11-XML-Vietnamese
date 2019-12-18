@@ -74,12 +74,12 @@
 		<item quantity="other">%1$s phút</item>
 	</plurals>
 	<plurals name="sleep_duration_hour">
-		<item quantity="other">%1s giờ</item>
+		<item quantity="other">%1$s giờ</item>
 	</plurals>
 	<plurals name="sleep_duration_min_avg">
 		<item quantity="other">%1$s phút</item>
 	</plurals>
 	<plurals name="sleep_duration_hour_avg">
-		<item quantity="other">%1s giờ</item>
+		<item quantity="other">%1$s giờ</item>
 	</plurals>
 </resources>

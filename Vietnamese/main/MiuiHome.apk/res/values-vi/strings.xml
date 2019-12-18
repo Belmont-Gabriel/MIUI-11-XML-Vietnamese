@@ -489,4 +489,6 @@
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="user_query_notification_title">Trang chủ MIUI mời bạn tham gia khảo sát sử dụng</string>
+	<string name="user_query_notification_text">Trang chủ có tiện dụng không? Các hiệu ứng có mượt mà? Tham gia khảo sát và cho chúng tôi biết!</string>
 </resources>

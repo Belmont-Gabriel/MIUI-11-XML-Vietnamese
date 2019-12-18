@@ -2663,7 +2663,7 @@ Bạn có muốn thử và kết nối lại với mạng Wi-Fi để kết thú
 	<string name="emergency_information_owner_hint">Chủ nhân</string>
 	<string name="enhanced_4g_lte_mode_summary_o2">Sử dụng dịch vụ 4G để cải thiện giọng nói và các giao tiếp khác (đề xuất)</string>
 	<string name="fire_type_description">Lửa</string>
-	<string name="incall_error_outgoing_call_failed">Cuộc gọi đi thất bại.</string>
+	<string name="incall_error_outgoing_call_failed">Không thể gọi điện.</string>
 	<string name="incall_error_supp_service_resume">"Không thể tiếp tục cuộc gọi."</string>
 	<string name="labelCommonMore">Cài đặt cuộc gọi</string>
 	<string name="labelCommonMore_with_label">Cài đặt cuộc gọi (%s)</string>

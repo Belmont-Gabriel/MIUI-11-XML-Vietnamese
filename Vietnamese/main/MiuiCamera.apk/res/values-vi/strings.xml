@@ -892,7 +892,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="portrait_india_effect_entry_pink">Hồng</string>
     <string name="portrait_india_effect_entry_portrait">Chân dung</string>
     <string name="portrait_india_effect_entry_romantic">Lãng mạn</string>
-    <string name="portrait_india_effect_entry_strong">Khỏe khoắn</string>
+    <string name="portrait_india_effect_entry_strong">Cường độ cao</string>
     <string name="portrait_india_effect_entry_sunny">Nắng</string>
     <string name="portrait_india_effect_entry_sweet">Ngọt ngào</string>
     <string name="portrait_india_effect_entry_warm">Ấm</string>
@@ -1264,11 +1264,11 @@ Chạm &amp; giữ để thêm tùy chọn"</string>
 	<string name="live_music_author">Video ngắn Xiaomi</string>
 	<string name="macro_mode_use_hint_text_body">"Sử dụng chế độ Macro để khiến đối tượng nhỏ
 trong ảnh nhìn lớn hơn"</string>
-	<string name="pic_flaw_blink_more">Chụp ảnh đang nhấp nháy</string>
+	<string name="pic_flaw_blink_more">Có vẻ như vài người trong ảnh đang nhắm mắt</string>
 	<string name="pref_camera_flashmode_entry_back_soft_light">Ánh sáng mềm</string>
-	<string name="pic_flaw_blink_one">Chụp ảnh một lần nháy mắt</string>
-	<string name="pref_pic_flaw_tip_title">Nhắc chụp ảnh</string>
-	<string name="pic_flaw_cover">Chụp ảnh bị che</string>
+	<string name="pic_flaw_blink_one">Có vẻ như ai đó trong ảnh đang nhắm mắt</string>
+	<string name="pref_pic_flaw_tip_title">Thông báo những sai sót</string>
+	<string name="pic_flaw_cover">Có vẻ như ống kính bị che mất</string>
 	<string name="pref_lens_dirty_detect_title">Mẹo bẩn ống kính</string>
 	<string name="super_eis_disabled_hint">Siêu chống rung đã tắt</string>
 	<string name="pref_photo_assistance_tips_off">Tắt</string>
@@ -1324,8 +1324,8 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="pref_camera_quick_settings">Cài đặt nhanh</string>
 	<string name="camera_settings_category_development">Tính năng thử nghiệm</string>
 	<string name="pref_camera_common_settings">Cài đặt chung</string>
-	<string name="pref_camera_heic_image_format_title">Định dạng HEIC</string>
-	<string name="pref_camera_heic_image_format_description">Chụp ảnh ở định dạng HEIF hiệu quả cao</string>
+	<string name="pref_camera_heic_image_format_title">Định dạng HEIF</string>
+	<string name="pref_camera_heic_image_format_description">Ảnh ở định dạng tệp hình ảnh hiệu quả cao chiếm ít dung lượng lưu trữ hơn, nhưng không được một số ứng dụng hỗ trợ</string>
 	<string name="id_card_mode_hint_back">Vui lòng chụp ảnh mặt sau thẻ ID</string>
 	<string name="document_blackwhite">Đen &amp; trắng</string>
 	<string name="pref_document_mode">Tài liệu</string>
@@ -1359,7 +1359,7 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="parameter_iso_title">Độ nhạy sáng</string>
 	<string name="parameter_log_format_title">Chế độ LOG</string>
 	<string name="parameter_lens_uw">, UW(Ống kính góc siêu rộng)</string>
-	<string name="parameter_ef_split_description">Điểm lấy nét và điểm đo sáng có thể được điều chỉnh riêng, gọi là "tách điểm đo". Kéo vòng lấy nét để tách riêng nó và điều chỉnh các vùng đo sáng và lấy nét riêng.</string>
+	<string name="parameter_ef_split_description">Trong khu vực xem trước, kéo vòng đo sáng lấy nét để tách nó và bạn có thể điều chỉnh riêng khu vực lấy nét và đo sáng.</string>
 	<string name="parameter_et_description">Chứa tốc độ màn trập tự động và tốc độ màn trập thủ công. Khi Tự động được chọn, Máy ảnh sẽ tự chọn ra một tốc độ màn trập hợp lý dựa trên kết quả đo sáng. Về lý thuyết, nếu tốc độ màn trập ngắn thì ảnh sẽ tối hơn và ngược lại.</string>
 	<string name="parameter_exposure_description">Để điều chỉnh giá trị bù sáng làm ảnh sáng hơn hoặc tối hơn</string>
 	<string name="parameter_exposure_feecback_description">Hiển thị thời gian thực các vùng sáng nhất (vùng màu đỏ) và vùng tối nhất (vùng màu xanh) để hỗ trợ điều chỉnh giá trị phơi sáng</string>
@@ -1373,7 +1373,7 @@ ghi và sửa video khi đang di chuyển"</string>
 	<string name="parameter_peak_raw_description">Ghi lại dữ liệu thô của ảnh, phù hợp để xử lý hậu kỳ</string>
 	<string name="parameter_wb_description">Bao gồm tự động, cài sẵn (đèn sợi đốt, ánh sáng ban ngày, đèn huỳnh quang, mây) và do người dùng tùy chỉnh (Có thể đặt nhiệt độ màu trong khoảng 2000-8000K)</string>
 	<string name="parameter_zoom_slider_description">Kéo thanh thu phóng để đạt được bố cục ảnh mong muốn</string>
-	<string name="pref_pic_flaw_tip_summary">Khi bạn chụp ảnh một người nhắm mắt hoặc các cạnh của ảnh bị chặn, một lời nhắc sẽ được đưa ra trên màn hình trong thời gian thực</string>
+	<string name="pref_pic_flaw_tip_summary">Nhận thông báo khi có người trong ảnh nhắm mắt hoặc ống kính bị che khuất khi đang chụp</string>
 	<string name="id_card_mode_use_hint_text_body">"Gộp chung hai mặt thẻ ID vào một ảnh
 In dễ dàng trên khổ A4"</string>
 	<string name="video_effect_entry_wind_sing">Gió hát</string>
@@ -1384,8 +1384,8 @@ In dễ dàng trên khổ A4"</string>
 	<string name="video_effect_entry_northern_europe">Bắc Âu</string>
 	<string name="video_effect_entry_color_retention">Giữ chân dung màu</string>
 	<string name="video_effect_entry_meet">Gặp gỡ</string>
-	<string name="miservice_notification_content">Nhấn vào đây để tìm hiểu thêm các tính năng của Máy ảnh</string>
-	<string name="miservice_notification_title">Mẹo: Chức năng Máy ảnh mới</string>
+	<string name="miservice_notification_content">Chạm để tìm hiểu thêm</string>
+	<string name="miservice_notification_title">Tìm hiểu về các tính năng mới của Máy ảnh</string>
 	<string name="ultra_pixel_portrait_hint">Chân dung thiếu sáng</string>
 	<string name="pref_camera_focusmode_entry_auto_abbr">TỰ ĐỘNG</string>
 	<string name="pref_camera_exposuretime_entry_auto_abbr">TỰ ĐỘNG</string>

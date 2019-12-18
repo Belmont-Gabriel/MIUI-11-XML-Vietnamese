@@ -3292,4 +3292,12 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="applock_guide_tip2">Thêm Tài khoản Mi để có thể khôi phục mật khẩu.</string>
 	<string name="vb_video_effects_display_style">Phong cách</string>
 	<string name="applock_guide_tip1_global_without_finger_face">Nhiều tùy chọn mật khẩu khả dụng.</string>
+	<string name="notification_garbage_cleanup_summary">Xóa rác (%s) để tăng tốc thiết bị của bạn</string>
+	<string name="appcleaner_wechat_notification_garbage_cleanup_title">Đừng quên xóa bộ đệm</string>
+	<string name="appcleaner_wechat_notification_garbage_cleanup_summary">Xóa %s bộ đệm WeChat để giải phóng dung lượng bộ nhớ</string>
+	<string name="notification_garbage_cleanup_title">Dọn dẹp tệp rác</string>
+	<string name="gb_operat_frequently">Đừng nhanh quá!</string>
+	<string name="global_wa_setting_alert_dialog_content">Bạn có thể giải phóng %s</string>
+	<string name="global_wa_setting_alert_dialog_title">Dọn dẹp WhatsApp</string>
+	<string name="net_boostering">Đang tăng tốc độ mạng</string>
 </resources>
