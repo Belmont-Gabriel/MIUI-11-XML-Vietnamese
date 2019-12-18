@@ -1386,4 +1386,9 @@ In dễ dàng trên khổ A4"</string>
 	<string name="video_effect_entry_meet">Gặp gỡ</string>
 	<string name="miservice_notification_content">Nhấn vào đây để tìm hiểu thêm các tính năng của Máy ảnh</string>
 	<string name="miservice_notification_title">Mẹo: Chức năng Máy ảnh mới</string>
+	<string name="ultra_pixel_portrait_hint">Chân dung thiếu sáng</string>
+	<string name="pref_camera_focusmode_entry_auto_abbr">TỰ ĐỘNG</string>
+	<string name="pref_camera_exposuretime_entry_auto_abbr">TỰ ĐỘNG</string>
+	<string name="pref_camera_whitebalance_entry_auto_abbr">TỰ ĐỘNG</string>
+	<string name="pref_camera_iso_entry_auto_abbr">TỰ ĐỘNG</string>
 </resources>

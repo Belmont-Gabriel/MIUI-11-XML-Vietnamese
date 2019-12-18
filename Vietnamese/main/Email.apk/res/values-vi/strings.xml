@@ -1274,4 +1274,5 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="account_smime_install_cert">Cài đặt chứng chỉ</string>
 	<string name="certificate_alias_prompt_w">Trùng tên chứng chỉ, vui lòng đổi tên chứng chỉ và thử lại</string>
 	<string name="account_smime_sign">Chữ ký S/MIME</string>
+	<string name="account_settings_smime_title">S/MIME(Trình mở rộng Email Bảo mật/Đa mục đích)</string>
 </resources>
