@@ -2,7 +2,7 @@
 <resources>
     <string name="app_name">Máy quét</string>
     <string name="impunity_declaration_title">Điều khoản Dịch vụ</string>
-	<string name="impunity_declaration_content">Máy quét cần sử dụng máy ảnh của bạn và xử lý ảnh bạn chụp khi sử dụng ứng dụng. Không sử dụng Máy quét để chụp đối tượng có chứa thông tin cá nhân của bạn. Khi nhấn vào \"Đồng ý\", bạn đang chấp nhận &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"http://privacy.mi.com/all/%1$s\" style=\"color:#ff32b4ff;\"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi và cho phép Máy quét kết nối mạng.</string>
+	<string name="impunity_declaration_content">Máy quét cần sử dụng máy ảnh của bạn và xử lý ảnh bạn chụp khi sử dụng ứng dụng. Không sử dụng Máy quét để chụp đối tượng có chứa thông tin cá nhân của bạn. Khi nhấn vào \"Đồng ý\", bạn đang chấp nhận &lt;font color=\"#ff32b4ff\"&gt;&lt;a href=\"%1$s\" style=\"color:#ff32b4ff;\"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi và cho phép Máy quét kết nối mạng.</string>
     <string name="impunity_declaration_positive_text">Cho phép</string>
     <string name="impunity_declaration_negative_text">Thoát</string>
     <string name="accessibility_shutter_button">Màn trập</string>
@@ -389,4 +389,26 @@
 	<string name="store_location_fail">"Không thể lấy thông tin vị trí"</string>
 	<string name="store_feedback_prompt">Nhập phản hồi của bạn trước</string>
 	<string name="store_module_title">Cửa hàng</string>
+	<string name="carshome_data">Hỗ trợ kỹ thuật được cung cấp bởi Autohome Inc.</string>
+	<string name="kuaidi100_data">Cung cấp bởi Kuaidi 100</string>
+	<string name="please_try_again_later">Chờ một vài phút rồi thử lại</string>
+	<string name="see_details">Chạm để xem chi tiết</string>
+	<string name="queryNum">Kiểm tra đơn hàng</string>
+	<string name="logistics">Chuyển phát nhanh</string>
+	<string name="carsHome_title">Xe hơi</string>
+	<string name="cars_suitability">"Khớp: "</string>
+	<string name="mishop">Cửa hàng Mi</string>
+	<string name="cars_title">Quét xe hoặc một phần của xe</string>
+	<string name="query_inai">Hãy để Mi AI giúp bạn</string>
+	<string name="query_faile">"Trạng thái đơn hàng và chi tiết chưa được đồng bộ. Kiểm tra đơn hàng của bạn thủ công."</string>
+	<string name="copy_tracknum">Sao chép mã vận đơn</string>
+	<string name="cars_is_public">Đã ra mắt</string>
+	<string name="query_tracknum">Kiểm tra đơn hàng chuyển phát nhanh</string>
+	<string name="cars_solution">"Giải pháp: "</string>
+	<string name="waybill_num">"Đơn hàng: "</string>
+	<string name="xiaoai_dialog">"Thử nói
+bạn muốn quét gì với Mi AI"</string>
+	<string name="query_more">Thêm thông tin</string>
+	<string name="cars_no_public">Chưa ra mắt</string>
+	<string name="now_state">"Trạng thái hiện tại: "</string>
 </resources>

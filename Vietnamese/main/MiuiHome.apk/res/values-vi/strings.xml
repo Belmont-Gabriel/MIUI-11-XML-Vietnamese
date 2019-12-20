@@ -491,4 +491,5 @@
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
 	<string name="user_query_notification_title">Trang chủ MIUI mời bạn tham gia khảo sát sử dụng</string>
 	<string name="user_query_notification_text">Trang chủ có tiện dụng không? Các hiệu ứng có mượt mà? Tham gia khảo sát và cho chúng tôi biết!</string>
+	<string name="default_folder_title_other_apps">Ứng dụng khác</string>
 </resources>
