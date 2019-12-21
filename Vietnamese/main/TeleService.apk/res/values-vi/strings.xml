@@ -2774,4 +2774,10 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="fiveg_sa_switch_open_dialog_content">Kết nối 5G có thể không ổn định ở Chế độ độc lập, điều này có thể ảnh hưởng đến các dịch vụ điện thoại. Vẫn bật Chế độ độc lập?</string>
 	<string name="fiveg_sa_switch_open_dialog_title">Chú ý</string>
 	<string name="fiveg_sa_switch_summary">Cho phép kết nối với mạng 5G ở Chế độ độc lập</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Độ trễ"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Chất lượng phát"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
 </resources>

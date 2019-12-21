@@ -231,4 +231,30 @@
 	<string name="hsv_space_color">Không gian màu HSV</string>
 	<string name="screen_original_gamut">Tăng cường</string>
 	<string name="screen_original_gamut_summary">Hiển thị tất cả nội dung màn hình trong gam màu rộng nhất có thể</string>
+	<string name="create">Tạo</string>
+	<string name="lock_summary">Bảo vệ thông tin cá nhân của bạn</string>
+	<string name="shortcut_created">Lối tắt này đã tồn tại</string>
+	<string name="usage_home_permission_account_summary">Để đăng nhập vào Tài khoản Mi và đồng bộ thống kê Thời gian màn hình</string>
+	<string name="usage_home_premission_main_summary_new">"Chào mừng đến với Thời gian màn hình!
+Để có thể hoạt động bình thường, ứng dụng này cần thu thập thông tin thời gian màn hình: số lần bạn mở khóa điện thoại, tên ứng dụng, và thời lượng sử dụng ứng dụng để khởi tạo thống kê Thời gian màn hình; Cần cài đặt Chế độ Tập trung để khởi tạo thống kê Chế độ tập trung.
+Ứng dụng này cũng cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"</string>
+	<string name="usage_home_permission_account_title">Truy cập thông tin tài khoản</string>
+	<string name="more_settings">Cài đặt</string>
+	<string name="stop_summary">Tất cả thống kê thời gian màn hình sẽ bị xóa nếu bạn tắt tính năng này</string>
+	<string name="created">Đã tạo</string>
+	<string name="suggestion">Phản hồi</string>
+	<string name="usage_agree">Đồng ý</string>
+	<string name="created_successfully">Tạo thành công</string>
+	<string name="no_matching">"Không thể tìm thấy ứng dụng để mở đường dẫn này"</string>
+	<string name="screen_time_lock">Khóa Thời gian màn hình</string>
+	<string name="create_failed">"Không thể tạo"</string>
+	<string name="privacy_policy">Chính sách Riêng tư</string>
+	<string name="usage_exit">Thoát</string>
+	<string name="usage_home_permission_phone_title">Truy cập thông tin thiết bị</string>
+	<string name="create_shortcut">Lối tắt Màn hình chính</string>
+	<string name="usage_home_premission_main_summary_new_o">"Chào mừng đến với Thời gian màn hình!
+Để có thể hoạt động bình thường, ứng dụng này cần thu thập thông tin thời gian màn hình: số lần bạn mở khóa điện thoại, tên ứng dụng, và thời lượng sử dụng ứng dụng để khởi tạo thống kê Thời gian màn hình.
+Ứng dụng này cũng cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"</string>
+	<string name="usage_home_permission_phone_summary">Để nhận diện thiết bị của bạn bằng VAID</string>
+	<string name="usage_home_premission_second_summary_new">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền trong Thời gian màn hình &gt; Cài đặt &gt; Tắt Thời gian màn hình. Nếu bạn có câu hỏi nào về riêng tư, bạn có thể liên hệ với chúng tôi qua privacy@xiaomi.com."</string>
 </resources>

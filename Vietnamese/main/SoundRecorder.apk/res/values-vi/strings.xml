@@ -310,4 +310,7 @@
 	<string name="search_hint">Tìm kiếm</string>
 	<string name="cancel_rename">Hủy</string>
 	<string name="loading_more">Chỉ vài giây…</string>
+	<string name="preference_record_desktop_indicator_title">Chỉ báo Màn hình chính</string>
+	<string name="delete_cloud_data_at_same_time">Cũng xóa từ đám mây</string>
+	<string name="preference_record_desktop_indicator_summary">Hiển thị chỉ báo màu xanh trên Màn hình chính khi Ghi âm đang chạy dưới nền</string>
 </resources>

@@ -699,4 +699,10 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 	<string name="tap_to_sign_up">Chạm để đăng ký</string>
 	<string name="wifi_limited_connection">Đã hạn chế kết nối</string>
 	<string name="zen_mode_forever">Cho đến khi bạn tắt</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Độ trễ"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Chất lượng phát"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
 </resources>

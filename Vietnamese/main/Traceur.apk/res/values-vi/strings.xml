@@ -590,4 +590,10 @@ Lưu trữ thông tin xác thực có thể không bật</string>
 	<string name="trace_is_being_recorded">Đang ghi dấu vết</string>
 	<string name="keywords">systrace, nhật ký hoạt động, hiệu suất</string>
 	<string name="speed_label_okay">Khá tốt</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Độ trễ"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality_dialog_title">"Chọn Codec Âm thanh Bluetooth LHDC:
+Chất lượng phát"</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
+	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
 </resources>

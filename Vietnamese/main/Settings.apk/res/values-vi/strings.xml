@@ -9834,4 +9834,12 @@ Dưới đây là một số nguyên nhân:
 	<string name="close_slave_wifi_hint">Ngắt kết nối khỏi Wi-Fi phụ trước khi truyền</string>
 	<string name="close_hotspot_hint">Tắt điểm phát di động trước khi truyền</string>
 	<string name="video_tool_box_title">Công cụ video</string>
+	<string name="dialog_speaker_auto_clean_title">Chú ý</string>
+	<string name="auto_clean_title">Làm sạch loa</string>
+	<string name="auto_clean_description">"Thông tin về tính năng này
+1. Chạy tính năng này một hoặc hai lần nếu bạn thấy loa bị che bởi bụi bẩn.
+2. Nếu loa bị che quá nhiều, chạy tính năng này 2-5 lần trong khi lắc điện thoại của bạn với loa úp xuống dưới."</string>
+	<string name="dialog_speaker_auto_clean_content">"Làm sạch mất 30 giây. Đừng rời khỏi trang này. Âm lượng lớn nhất cho hiệu quả tốt nhất."</string>
+	<string name="dialog_speaker_auto_clean_button">Đã hiểu</string>
+	<string name="auto_clean_summary">Phát một đoạn âm thanh 30 giây để làm sạch loa</string>
 </resources>
