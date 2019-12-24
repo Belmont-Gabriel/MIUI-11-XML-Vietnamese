@@ -84,4 +84,7 @@
 	<string name="default_open_channel_msg">Mở kênh?</string>
 	<string name="default_tone_dialog_msg">Đang phát âm…</string>
 	<string name="sim_switch">Dịch vụ này chỉ khả dụng với SIM China Unicom. Đặt &lt;%s&gt; làm SIM dữ liệu mặc định?</string>
+	<string name="default_receive_data_msg">Đang nhận Dữ liệu</string>
+	<string name="default_send_data_msg">Đang gửi Dữ liệu</string>
+	<string name="default_close_channel_msg">Kênh đã đóng</string>
 </resources>

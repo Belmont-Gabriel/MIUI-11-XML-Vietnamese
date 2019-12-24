@@ -678,7 +678,7 @@ tài khoản Mi của bạn để kích hoạt lại Xiaomi Cloud."</string>
     <string name="warning_bar_action_close">Đóng</string>
     <string name="warning_bar_action_turn_on_master_sync">Bật</string>
     <string name="warning_bar_action_turn_on_sync">Bật</string>
-    <string name="warning_bar_action_upgrade_vip">Nâng cấp gói Xiaomi Cloud</string>
+    <string name="warning_bar_action_upgrade_vip">Nâng cấp</string>
     <string name="warning_bar_add_short_cut_success">Đã thêm thành công</string>
     <string name="warning_bar_title_cloud_space_already_full">Lưu trữ Xiaomi Cloud đang hết. Ảnh của bạn có thể không được đồng bộ.</string>
     <string name="warning_bar_title_cloud_space_full">Lưu trữ Xiaomi Cloud đã đầy. Đồng bộ đã tạm dừng.</string>
