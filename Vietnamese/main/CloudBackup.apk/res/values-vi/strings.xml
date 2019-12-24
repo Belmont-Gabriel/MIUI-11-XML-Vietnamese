@@ -244,4 +244,5 @@ Kiểm tra cài đặt mạng và thử lại."</string>
 	<string name="restoring_data">Đang khôi phục dữ liệu…</string>
 	<string name="restoring_home_screen_apps">Đang khôi phục từ Xiaomi Cloud…</string>
 	<string name="loading_progress_num">Đã tải %s%%</string>
+	<string name="restore_from_mimover">Chuyển từ thiết bị cũ của bạn bằng Mi Mover</string>
 </resources>

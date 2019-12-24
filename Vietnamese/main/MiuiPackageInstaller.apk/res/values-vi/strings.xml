@@ -29,7 +29,7 @@
 	<string name="no_apps">Không có ứng dụng</string>
 	<string name="dlg_app_replacement_title">Thay thế ứng dụng?</string>
 	<string name="permdesc_togglePermissions">Cho phép chủ sở hữu khởi chạy UI để chuyển đổi quyền ứng dụng. Thường không cần thiết cho ứng dụng thông thường .</string>
-	<string name="untrusted_external_source_warning_summary">Điện thoại và dữ liệu cá nhân của bạn dễ bị tấn công bởi những nguồn không xác định. Bằng cách chấp nhận cài đặt ứng dụng từ nguồn này, bạn đồng ý chịu trách nhiệm cho bất kỳ thiệt hại hoặc mất mát dữ liệu nào gây ra bởi ứng dụng này.</string>
+	<string name="untrusted_external_source_warning_summary">Thiết bị và dữ liệu cá nhân của bạn dễ bị tấn công bởi ứng dụng được cài đặt từ những nguồn không xác định. Bằng cách chấp nhận cài đặt ứng dụng từ nguồn này, bạn đồng ý chịu trách nhiệm cho bất kỳ thiệt hại hoặc mất mát dữ liệu nào có thể gây ra bởi ứng dụng này.</string>
 	<string name="uninstall_update_text_multiuser">Thay thế ứng dụng này bằng phiên bản cài sẵn? Tất cả dữ liệu sẽ bị xóa. Điều này sẽ ảnh hưởng tới tất cả người dùng của thiết bị này, bao gồm những cả người dùng trong hồ sơ công việc.</string>
 	<string name="uninstall_application_text_all_users">Bạn có muốn gỡ ứng dụng này cho &lt;b&gt;tất cả&lt;/b&gt; người dùng? Ứng dụng và dữ liệu của nó sẽ được xóa khỏi &lt;b&gt;tất cả&lt;/b&gt; người dùng trên thiết bị.</string>
 	<string name="miui_failed_solution_3">Thử lưu lại gói cài đặt vào vị trí khác.</string>
@@ -37,13 +37,13 @@
 	<string name="miui_install_fail_notify">"Không thể cài đặt"</string>
 	<string name="miui_failed_miui_system_incompatible">"Gói cài đặt không tương thích với MIUI"</string>
 	<string name="miui_failed_solution_5">Thử sử dụng một gói cài đặt tương thích.</string>
-	<string name="install_finished_notification_title">%1$s đã cài thành công, dọn dẹp %2$s ngay</string>
+	<string name="install_finished_notification_title">%1$s đã cài thành công. Bạn có thể giải phóng %2$s dung lượng lưu trữ.</string>
 	<string name="miui_failed_solution_6">Gỡ cài đặt ứng dụng này trong Không gian thứ hai và thử lại.</string>
 	<string name="miui_failed_solution_7">Tải phiên bản mới nhất của ứng dụng trong GetApps.</string>
 	<string name="auto_startup_dialog_msg">Ứng dụng này có thể khởi chạy mà không cần quyền của bạn.</string>
 	<string name="message_full_scanning">Quét toàn bộ…</string>
 	<string name="miui_failed_conflicting_provider">Xung đột nhà cung cấp dịch vụ</string>
-	<string name="replace_app_des_text">Bạn có muốn cập nhật ứng dụng này?</string>
+	<string name="replace_app_des_text">Thay thế ứng dụng có sẵn bằng phiên bản này?</string>
 	<string name="game_center_lunch_error">Cài đặt Mi Games trước</string>
 	<string name="uninstall_all_blocked_profile_owner">Ứng dụng này được một số người dùng hoặc hồ sơ yêu cầu và đã được gỡ cài đặt cho một số người khác</string>
 	<string name="uninstall_update_text">Thay thế ứng dụng này bằng phiên bản cài sẵn? Tất cả dữ liệu sẽ bị xóa.</string>
@@ -100,7 +100,7 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
 	<string name="perm_action_reject">Từ chối</string>
 	<string name="permlab_togglePermissions">Chuyển đổi quyền</string>
 	<string name="install_failed_invalid_apk">Dường như gói này bị hỏng.</string>
-	<string name="application_detail_tips">Thông tin ứng dụng và cài đặt quyền</string>
+	<string name="application_detail_tips">Chi tiết ứng dụng và quyền yêu cầu</string>
 	<string name="miui_install_source">Từ \"%s\"</string>
 	<string name="miui_please_clear">Xóa vi-rút</string>
 	<string name="install_from_appstore_hint">Chúng tôi khuyên bạn nên bạn cài đặt ứng dụng từ &lt;u&gt;&lt;font color=#91c727&gt;AppStore&lt;/font&gt;&lt;/u&gt;</string>
@@ -155,7 +155,7 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
 	<string name="miui_installing2">Đang cài đặt…</string>
 	<string name="miui_recommend_clean_msg">"Dữ liệu ứng dụng có thể chứa tải xuống của ứng dụng, tệp tin, v.v..."</string>
 	<string name="uninstall_application_title">Gỡ cài đặt ứng dụng</string>
-	<string name="install_finished_notification_summary">Chạm để dọn dẹp ngay</string>
+	<string name="install_finished_notification_summary">Chạm để giải phóng bộ nhớ</string>
 	<string name="miui_virus_scanning_3">Đang quét...</string>
 	<string name="unknown_apps_dlg_text">Vì lý do bảo mật, điện thoại của bạn được đặt chặn cài đặt ứng dụng từ nguồn không xác định.</string>
 	<string name="miui_virus_scanning_2">Đang quét...</string>

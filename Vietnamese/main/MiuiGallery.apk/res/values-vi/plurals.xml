@@ -321,4 +321,7 @@
 	<plurals name="photo_remain_hours">
 		<item quantity="other">%d giờ</item>
 	</plurals>
+	<plurals name="album_item_msg_format_new">
+		<item quantity="other">%d album</item>
+	</plurals>
 </resources>

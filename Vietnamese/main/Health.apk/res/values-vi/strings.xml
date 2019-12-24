@@ -79,7 +79,7 @@ Sức khỏe Mi sẽ chỉ thông báo cho bạn các mục quan trọng."</stri
     <string name="dialog_permission_loading_msg">Đang kiểm tra…</string>
     <string name="dialog_privacy_policy_statement">Tuyên bố Chính sách Riêng tư</string>
     <string name="dialog_privacy_title">Điều khoản và Điều kiện</string>
-    <string name="dialog_read_phone_perm_desc">Truy cập ID thiết bị để nhận dạng thiết bị.</string>
+    <string name="dialog_read_phone_perm_desc">Để nhận dạng thiết bị của bạn.</string>
     <string name="drink_water">Uống một ít nước và đi lại.</string>
     <string name="edit_basic_info_desc">Thông tin cơ bản</string>
     <string name="exercise">Hoạt động</string>
@@ -390,7 +390,7 @@ Kích thước: %2$s"</string>
 	<string name="date_format_y_m_d_h_m">dd/MM/yyyy HH:mm</string>
 	<string name="update_notify_dialog_msg2">Có cập nhật khả dụng: %1$s. Cập nhật ngay?</string>
 	<string name="date_format_y_m_d_2">dd MMM, yyyy</string>
-	<string name="dialog_user_agreement_purpose">Chào mừng tới Sức khỏe Mi! Bạn có thể sử dụng ứng dụng này để đếm bước, theo dõi giấc ngủ, chu kỳ kinh nguyệt, và cân nặng, cũng như nhận lời khuyên sức khỏe.</string>
+	<string name="dialog_user_agreement_purpose">Chào mừng tới Sức khỏe Mi! Bạn có thể sử dụng ứng dụng này để đếm bước, theo dõi giấc ngủ, chu kỳ kinh nguyệt, và cân nặng, cũng như đồng bộ thống kê với đám mây.</string>
 	<string name="sleep_record_content">Sức khỏe Mi sẽ tự động ghi lại giấc ngủ của bạn dựa trên mức sử dụng điện thoại, thống kê hoạt động, cũng như giờ ngủ và giờ dậy bạn đặt.</string>
 	<string name="title_select_birthday">Chọn ngày sinh</string>
 	<string name="body_weight_descripe_content">Chỉ số khối cơ thể (BMI) là tỉ lệ khối lượng cơ thể chia cho bình phương chiều cao (kg/㎡).</string>

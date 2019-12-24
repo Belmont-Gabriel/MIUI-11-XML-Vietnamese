@@ -9842,4 +9842,15 @@ Dưới đây là một số nguyên nhân:
 	<string name="dialog_speaker_auto_clean_content">"Làm sạch mất 30 giây. Đừng rời khỏi trang này. Âm lượng lớn nhất cho hiệu quả tốt nhất."</string>
 	<string name="dialog_speaker_auto_clean_button">Đã hiểu</string>
 	<string name="auto_clean_summary">Phát một đoạn âm thanh 30 giây để làm sạch loa</string>
+	<string name="diy_suppression_summary">Điều chỉnh kích thước của khu vực chống chạm nhầm khi cần thiết</string>
+	<string name="strong_suppression_summary">Khu vực chống chạm nhầm lớn, hiệu ứng tốt hơn nhưng sẽ hy sinh một số trải nghiệm cạnh</string>
+	<string name="edge_mode_state_title">Chống chạm nhầm</string>
+	<string name="edge_mode_state_summary">Đặt cạnh của màn hình cong để tránh chạm nhầm. Các hành động cầm và chạm trong khu vực này sẽ không được phản hồi</string>
+	<string name="wake_suppression_summary">Vùng chống chạm nhầm nhỏ hơn, cảm ứng nhạy hơn nhưng tăng xác suất chạm sai</string>
+	<string name="default_suppression_title">Mặc định (Được khuyến nghị)</string>
+	<string name="strong_suppression_title">Mạnh</string>
+	<string name="diy_suppression_title">Tùy chỉnh</string>
+	<string name="wake_suppression_title">Yếu</string>
+	<string name="seek_bar_info">Điều chỉnh kích thước của vùng chống chạm nhầm</string>
+	<string name="gps_description">Nhiều hệ thống định vị vệ tinh (GPS, BeiDou, GLONASS, Galileo) được hỗ trợ</string>
 </resources>

@@ -1137,7 +1137,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="user_agreement2">Điều khoản Dịch vụ</string>
     <string name="user_agreement4">Chính sách Riêng tư</string>
     <string name="user_alias_self">Tôi</string>
-    <string name="user_notice_identify_summary_format">Bằng cách sử dụng dịch vụ này, bạn đồng ý với %1$s và %2$s của Xiaomi.</string>
+    <string name="user_notice_identify_summary_format">&lt;Data&gt;"Bằng cách sử dụng dịch vụ này, bạn đồng ý với &lt;a href=\"%1$s\"&gt;\"Điều khoản Dịch vụ\"&lt;/a&gt; và &lt;a href=\"%2$s\"&gt;\"Chính sách Riêng tư\"&lt;/a&gt; của Xiaomi."&lt;/Data&gt;</string>
     <string name="user_notice_title">Điều khoản và Điều kiện</string>
     <string name="video_edit_file_not_exits_tip">Tải xuống video trước</string>
     <string name="video_editor_abandon_changes_tip_message">Hủy tất cả thay đổi?</string>
@@ -1965,4 +1965,18 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="unsupported_media_downloading_tip_common">"Xem ảnh gốc trong định dạng này không hỗ trợ trên phiên bản Android này. Vẫn tải xuống?"</string>
 	<string name="send_heif_summary">Chuyển đổi ảnh trước khi gửi để đảm bảo tương thích</string>
 	<string name="photo_portrait_color_download_fail">"Không thể tải trình cắm. Kết nối mạng và thử lại."</string>
+	<string name="filter_sky_clear_sky">Trời quang</string>
+	<string name="risk_control_deleted_date">dd/MM</string>
+	<string name="delete_album_msg_format_cloud">Xóa %1$s %2$s khỏi Xiaomi Cloud và tất cả thiết bị đã đồng bộ?</string>
+	<string name="trash_bin_summary_local">Xem ảnh và video vừa xóa</string>
+	<string name="filter_sky_stratus">Mây tầng</string>
+	<string name="risk_control_deleted_message">Ai đó đã xóa các mục trong Thư viện của bạn bằng %3$s trên %1$s lúc %2$s. Đó có phải là bạn không?</string>
+	<string name="filter_sky_cumulus">Mây tích</string>
+	<string name="delete_album_msg_format_local">Delete %1$s %2$s?</string>
+	<string name="filter_sky_nimbus">Mây dông</string>
+	<string name="filter_sky_double_rainbow">Cầu vồng kép</string>
+	<string name="filter_sky_twilight">Chạng vạng</string>
+	<string name="filter_sky_dawn">Rạng đông</string>
+	<string name="risk_control_deleted_title">Cảnh báo bảo mật</string>
+	<string name="filter_sky_snowy">Tuyết</string>
 </resources>

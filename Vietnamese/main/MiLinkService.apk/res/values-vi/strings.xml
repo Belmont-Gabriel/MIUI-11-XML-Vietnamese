@@ -28,7 +28,7 @@ Vui lòng xem phần trợ giúp cho các câu hỏi khác."</string>
 	<string name="dialog_retry">Thử lại</string>
 	<string name="dialog_scanning_device">Đang tìm thiết bị lân cận…</string>
 	<string name="dialog_scanning_precondition">Bật Wi-Fi và Bluetooth trên điện thoại để sử dụng Hiển thị Không dây.</string>
-	<string name="dialog_select_tv">Chọn thiết bị để kết nối</string>
+	<string name="dialog_select_tv">Chọn thiết bị (%d)</string>
 	<string name="dialog_show_help">Trợ giúp</string>
 	<string name="hang_up">Truyền khi màn hình tắt</string>
 	<string name="hang_up_alert_dialog_content">"Không gián đoạn truyền khi màn hình điện thoại tắt. Nhấn nút Nguồn trên điện thoại để bật lại màn hình."</string>
@@ -69,7 +69,7 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
 	<string name="help_page_text_32">Hỗ trợ khách hàng Hisense: 400-611-1111</string>
 	<string name="help_page_text_34">Trước hết, đảm bảo thiết bị của bạn có tính năng Miracast. Trên một vài mẫu, bạn có thể chọn Ứng dụng &gt; Truyền &gt; Thiết bị Android &gt; Miracast.</string>
 	<string name="help_page_text_35">Hỗ trợ khách hàng Skyworth: 95105555</string>
-	<string name="help_page_text_37">Trước hết, đảm bảo thiết bị của bạn có tính năng Miracast. Trên một vài mẫu, bạn có thể nhấn nút [SOURCE] trên điều khiển và chọn \"Phản chiếu Màn hình\"; Một vài mẫu có thể chọn bởi cài đặt Mạng &gt; Wi-Fi trực tiếp; Tính năng này có thể mặc định bật trên một vài mẫu khác nhau.</string>
+	<string name="help_page_text_37">Trước hết, đảm bảo thiết bị của bạn có tính năng Miracast. Trên một vài mẫu, bạn có thể nhấn nút [SOURCE] trên điều khiển và chọn \"Phản chiếu Màn hình\"; Trên một vài mẫu, bạn có thể bật tính năng này trong Mạng &gt; Wi-Fi trực tiếp; Tính năng này có thể mặc định bật trên một vài mẫu khác nhau.</string>
 	<string name="help_page_text_38">Hỗ trợ khách hàng Sony: 400-810-9000</string>
 	<string name="help_page_text_40">Trước hết, đảm bảo thiết bị của bạn có tính năng Miracast. Trên một vài mẫu, bạn có thể chọn Ứng dụng &gt; Phản chiếu Màn hình.</string>
 	<string name="help_page_text_41">Hỗ trợ khách hàng Panasonic: 400-881-1315</string>
@@ -78,14 +78,17 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
 	<string name="help_page_text_46">Trước hết, đảm bảo thiết bị của bạn có tính năng Miracast. Trên một vài mẫu, bạn có thể chọn Ứng dụng &gt; Hiển thị Không dây.</string>
 	<string name="help_page_text_47">Hỗ trợ khách hàng TCL: 400-812-3456</string>
 	<string name="help_page_text_49">Trước hết, đảm bảo thiết bị của bạn có tính năng Miracast. Để bật tính năng này, vào Ứng dụng của tôi &gt; Hiển thị Wi-Fi.</string>
-	<string name="help_page_text_50">Hỗ trợ khách hàng AODIN:400-810-5858</string>
+	<string name="help_page_text_50">Hỗ trợ khách hàng AODIN: 400-810-5858</string>
 	<string name="help_page_text_52">Vui lòng đảm bảo màn hình lớn của bạn hỗ trợ giao thức Miracast. Trên một vài mẫu, chọn Cài đặt &gt; Mạng &gt; Tương tác Đa màn hình &gt; Hiển thị Không dây.</string>
 	<string name="help_page_text_53">Hỗ trợ khách hàng LeTV: 10109000</string>
 	<string name="help_page_text_end">"Nếu thương hiệu của bạn không được liệt kê ở đây, liên hệ nhà sản xuất để tìm hiểu thêm về tính năng truyền."</string>
 	<string name="notification_show_more">Xem thêm tính năng</string>
 	<string name="privacy_agree">Đồng ý</string>
-	<string name="privacy_text_1">　　Chào mừng đến với tính năng Truyền màn hình. Dịch vụ Truyền màn hình được cung caaos bởi Milian, và một vài tính năng Truyền màn hình được hỗ trợ bởi công ty màn hình bên thứ ba. Để đảm bảo quyền riêng tư của bạn, chắc chắn bạn đã đọc &lt;a href="http://cdn.hpplay.com.cn/xm/privacy.html "&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt;&amp;#21644;&lt;a href="http://cdn.hpplay.com.cn/xm/lawer.html"&gt;&amp;#12298;&amp;#20048;&amp;#25773;&amp;#25237;&amp;#23631;&amp;#27861;&amp;#24459;&amp;#22768;&amp;#26126;&amp;#12299;&lt;/a&gt;&amp;#12290;</string>
-	<string name="privacy_text_2">　　Bằng cách nhấn Đồng ý, bạn đồng ý với &lt;a href="http://www.miui.com/res/doc/eula/cn.html"&gt;&amp;#12298;&amp;#29992;&amp;#25143;&amp;#21327;&amp;#35758;&amp;#12299;&lt;/a&gt;&amp;#12289;&lt;a href="http://www.miui.com/res/doc/privacy/cn.html"&gt;&amp;#12298;&amp;#38544;&amp;#31169;&amp;#25919;&amp;#31574;&amp;#12299;&lt;/a&gt; nội dung và quyền được cấp.</string>
+	<string name="privacy_text_1">&lt;Data&gt;"Chào mừng tới Truyền! Truyền cho phép bạn chiếu các mục từ màn hình điện thoại tới màn hình mở rộng lớn hơn.
+Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Một vài tính năng được cung cấp bởi dịch vụ bên thứ ba HappyCast. Trước khi sử dụng tính năng này, đọc và đồng ý với &lt;a href=%2$s&gt;Tuyên bố Pháp lý HappyCast&lt;/a&gt; và &lt;a href=%1$s&gt;Chính sách Riêng tư HappyCast&lt;/a&gt;.
+Để có thể hoạt động bình thường, ứng dụng này cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"&lt;/Data&gt;</string>
+	<string name="privacy_text_2">&lt;Data&gt;"Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt ứng dụng, đăng xuất, hoặc hạn chế quyền trong Cài đặt với những trường hợp như vậy.
+Đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng tính năng này."&lt;/Data&gt;</string>
 	<string name="privacy_text_pemission">"　　• Quyền kết nối Wi-Fi được sử dụng để tìm kiếm và kết nối thiết bị.
 　　•Bluetooth được sử dụng để tìm kiếm và kết nối thiết bị.
 　　•Đọc bộ nhớ điện thoại. Sau khi đọc nội dung, truyền nội dung lên màn hình lớn.
@@ -103,7 +106,7 @@ Nếu bạn cần mở tính năng Miracast thủ công, bạn có thể nhấn 
 	<string name="toast_title_for_small_window">Vui lòng sử dụng cửa sổ nhỏ để truyền màn hình trong ứng dụng.</string>
 	<string name="help_page_text_55">"Nếu không có mạng Wi-Fi nào khả dụng, đảm bảo thiết bị mở rộng của bạn (v.d. TV) hỗ trợ tính năng Miracast. Tên của tính năng truyền trên thiết bị mở rộng của bạn có thể khác nhau tùy theo từng hãng. Tham khảo thông tin bên dưới để tìm hiểu thêm về tính năng Miracast trên các thiết bị khác nhau.
 4. Trong trường hợp có vấn đề xảy ra, bạn có thể gửi câu hỏi và gợi ý qua ứng dụng Phản hồi."</string>
-<string name="san_wait_msg_1">Thiết bị đích cần bật truyền màn hình không dây</string>
+<string name="san_wait_msg_1">Bật truyền màn hình không dây trên thiết bị đích</string>
 	<string name="san_wait_msg_2">Tìm kiếm thiết bị có thể mất một lúc…</string>
 	<string name="san_wait_msg_3">"Thiết bị mở rộng sẽ dễ tìm hơn khi nó được kết nối chung một mạng với điện thoại"</string>
 	<string name="san_wait_msg_4">"Xem \"Trợ giúp\" nếu bạn không thể tìm thấy thiết bị"</string>
@@ -114,4 +117,5 @@ Kết nối cả điện thoại của bạn và màn hình mở rộng (v.d. TV
 2. Nếu bạn đang chiếu trên thiết bị của Xiaomi lần đầu, bạn cần hoàn tất xác thực.
 3. Nếu bạn muốn sử dụng thiết bị không phải của Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
 Kết nối cả điện thoại của bạn và màn hình mở rộng (v.d. TV của bạn) vào cùng mạng Wi-Fi, hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
+	<string name="actionbar_button_up_description">Quay lại</string>
 </resources>
