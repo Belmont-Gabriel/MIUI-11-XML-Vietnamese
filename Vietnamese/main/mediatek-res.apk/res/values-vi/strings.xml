@@ -246,4 +246,11 @@ Vui lòng thử lại sau %d giây."</string>
 	<string name="permdesc_bindTerminal">"Một ứng dụng có quyền này có thể liên kết với Thiết bị đầu cuối OMAPI của Hệ thống. Chỉ SmartcardService nên sử dụng nó."</string>
 	<string name="permgroupdesc_bt">"Bật Bluetooth"</string>
 	<string name="ct_name">Viễn thông Trung Quốc</string>
+	<string name="permdesc_mount_service_wipe">Cho phép ứng dụng gửi phát sóng để định dạng bộ nhớ điện thoại và thẻ SD.</string>
+	<string name="cu_3gnet_name_in_lte">Người dùng băng thông rộng kết nối mạng</string>
+	<string name="cu_3gwap_name_in_lte">Người dùng broadband kết nối mạng</string>
+	<string name="permdesc_cta_call_forward">Cho phép ứng dụng gọi chuyển tiếp.</string>
+	<string name="cu_3gnet_name">3G đã kết nối mạng</string>
+	<string name="cu_3gwap_name">3G đã kết nối mạng</string>
+	<string name="permlab_cta_call_forward">Chuyển tiếp cuộc gọi</string>
 </resources>

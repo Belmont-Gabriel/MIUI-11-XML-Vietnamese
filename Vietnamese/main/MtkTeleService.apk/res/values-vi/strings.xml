@@ -103,9 +103,9 @@
     <string name="audio_mode_wired_headset">Tai nghe có dây</string>
     <string name="auth_username_summary">Tên người dùng được sử dụng để xác thực</string>
     <string name="auth_username_title">Xác thực tên người dùng</string>
-    <string name="auto_answer_delay_entries_delay_10s">10 giây</string>
-    <string name="auto_answer_delay_entries_delay_3s">3 giây</string>
-    <string name="auto_answer_delay_entries_delay_5s">5 giây</string>
+    <string name="auto_answer_delay_entries_delay_10s">%d giây</string>
+    <string name="auto_answer_delay_entries_delay_3s">%d giây</string>
+    <string name="auto_answer_delay_entries_delay_5s">%d giây</string>
     <string name="auto_answer_delay_entries_immediately">Không hoãn</string>
     <string name="auto_answer_delay_title">Hoãn tự động trả lời</string>
     <string name="auto_answer_pref_summary">Tự động trả lời cuộc gọi đến</string>
@@ -413,13 +413,10 @@
     <string name="cfb_title">Chuyển tiếp khi bận</string>
     <string name="cfnrc_title">Chuyển tiếp khi không thể kết nối</string>
     <string name="cfnrc_title_cta">Chuyển tiếp khi không thể kết nối</string>
-    <string name="cfnry_time_fifteen_sec">15 giây</string>
-    <string name="cfnry_time_five_sec">5 giây</string>
+    <string name="cfnry_time_five_sec">%d giây</string>
     <string name="cfnry_time_setting_title">Đặt thời gian chờ</string>
-    <string name="cfnry_time_ten_sec">10 giây</string>
-    <string name="cfnry_time_thirty_sec">30 giây</string>
-    <string name="cfnry_time_twenty_five_sec">25 giây</string>
-    <string name="cfnry_time_twenty_sec">20 giây</string>
+    <string name="cfnry_time_ten_sec">%d giây</string>
+    <string name="cfnry_time_twenty_sec">%d giây</string>
     <string name="cfnry_title">Chuyển tiếp khi không trả lời</string>
     <string name="cfu_title">Luôn chuyển tiếp cuộc gọi</string>
     <string name="change_data_preference_4g_only_prompt">Dường như thẻ SIM chỉ hỗ trợ 4G. Để hoạt động bình thường, hãy đặt làm thẻ dữ liệu di động mặc định. Đặt ngay?</string>
@@ -738,8 +735,8 @@
     <string name="enhanced_4g_lte_mode_summary">Sử dụng dịch vụ LTE để cải thiện giọng nói và tính năng truyền thông khác (kiến nghị)</string>
     <string name="enhanced_4g_lte_mode_title">Chế độ LTE 4G tăng cường</string>
     <string name="enhanced_4g_lte_mode_title_variant">Cuộc gọi nâng cao</string>
-    <string name="enter_callbarring_password">Nhập mật khẩu chặn cuộc gọi (4 chữ số)</string>
-    <string name="enter_input" formatted="false">Tin nhắn USSD phải có độ dài trong khoảng từ %d đến %d ký tự. Hãy thử lại.</string>
+    <string name="enter_callbarring_password">Nhập mật khẩu chặn cuộc gọi (%d chữ số)</string>
+    <string name="enter_input">Tin nhắn USSD phải có độ dài trong khoảng từ %1$d đến %2$d ký tự. Hãy thử lại.</string>
     <string name="enter_ip_prefix_number">Nhập mã số đầu</string>
     <string name="enter_pin2_text">Mã PIN2</string>
     <string name="enter_pin_text">Mã PIN của SIM:</string>
@@ -773,7 +770,7 @@
     <string name="fdn_errorcode_unknown_info">Bị lỗi, đã xảy ra lỗi không x.định, hãy thử lại sau.</string>
     <string name="fdn_failed">Thao tác FDN thất bại.</string>
     <string name="fdn_full">FDN không được cập nhật bởi vì danh sách đã đầy.</string>
-    <string name="fdn_invalid_number">FDN không được cập nhật do số bị trống hoặc vượt quá 20 chữ số.</string>
+    <string name="fdn_invalid_number">FDN không được cập nhật do số bị trống hoặc vượt quá %d chữ số.</string>
     <string name="fdn_list_with_label">Danh sách FDN (%s)</string>
     <string name="fdn_phone_book_busy">Danh bạ hiện đang bận, hãy thử lại sau.</string>
     <string name="fdn_puk_need_tips">Đã chặn mã PIN2. Hãy đổi mã PIN2 và thử lại!</string>
@@ -862,11 +859,11 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="invalidPin">Nhập mã PIN từ 4 đến 8 số.</string>
     <string name="invalidPin2">Nhập mã PIN2 từ 4 đến 8 số.</string>
     <string name="invalidPuk2">Nhập mã PUK2 với 8 số.</string>
-    <string name="invalid_password">Nhập mật khẩu dài 4 số</string>
-    <string name="invalid_pin">Nhập mã PIN từ 4 đến 8 số.</string>
-    <string name="invalid_pin2">Nhập mã PIN2 từ 4 đến 8 số.</string>
-    <string name="invalid_puk">Nhập mã PUK từ 4 đến 8 số.</string>
-    <string name="invalid_puk2">Nhập mã PUK2 với 8 số.</string>
+    <string name="invalid_password">Nhập mật khẩu dài %d số</string>
+    <string name="invalid_pin">Nhập mã PIN từ %1$d đến %2$d số.</string>
+    <string name="invalid_pin2">Nhập mã PIN2 từ %1$d đến %2$d số.</string>
+    <string name="invalid_puk">Nhập mã PUK từ %1$d đến %2$d số.</string>
+    <string name="invalid_puk2">Nhập mã PUK2 với %d số.</string>
     <string name="ip_dial_error_toast_for_no_ip_prefix_number">Hãy nhập mã số đầu IP trong cài đặt Cuộc gọi thoại.</string>
     <string name="ip_dial_error_toast_for_sip_call_selected">Chức năng gọi IP sẽ không áp dụng cho cuộc gọi qua internet.</string>
     <string name="ip_prefix_edit_default_sum">Nhập số mã đầu để gọi IP</string>
@@ -971,14 +968,14 @@ Bạn vẫn muốn chuyển sang nhà cung cấp mới?"</string>
     <string name="mismatch_password">Mật khẩu bạn nhập không khớp</string>
     <string name="mismatch_pin">Mã PIN không khớp.</string>
     <string name="mismatch_pin2">Mã PIN2 không khớp. Hãy thử lại.</string>
-    <string name="missed_call_notify_five_times">5 lần</string>
+    <string name="missed_call_notify_five_times">%d lần</string>
     <string name="missed_call_notify_none">Không nhắc nhở</string>
-    <string name="missed_call_notify_once">1 lần</string>
-    <string name="missed_call_notify_ten_times">10 lần</string>
-    <string name="missed_call_notify_thrice">3 lần</string>
-    <string name="missed_call_notify_times_summary">Nhắc nhở sau mỗi 5 phút</string>
+    <string name="missed_call_notify_once">%d lần</string>
+    <string name="missed_call_notify_ten_times">%d lần</string>
+    <string name="missed_call_notify_thrice">%d lần</string>
+    <string name="missed_call_notify_times_summary">Nhắc nhở sau mỗi %d phút</string>
     <string name="missed_call_notify_times_title">Nhắc cuộc gọi nhỡ</string>
-    <string name="missed_call_notify_twice">2 lần</string>
+    <string name="missed_call_notify_twice">%d lần</string>
     <string name="miui_network_selection_reset_text">Đặt lại</string>
     <string name="miui_notification_network_selection_title">Thẻ SIM không có dịch vụ</string>
     <string name="miui_notification_network_selection_title_by_sim">Thẻ SIM %s không có dịch vụ</string>
@@ -1085,7 +1082,7 @@ Dùng mạng ưu tiên thay thế."</string>
     <string name="networks_title">Mạng di động</string>
     <string name="newPin2Label">Mã PIN2 Mới</string>
     <string name="newPinLabel">Mã PIN mới</string>
-    <string name="new_password_label">Mật khẩu 4 chữ số mới</string>
+    <string name="new_password_label">Mật khẩu %d chữ số mới</string>
     <string name="new_pin2_label">Mã PIN2 Mới</string>
     <string name="new_pin_label">Mã PIN mới</string>
     <string name="no_application">Không có ứng dụng</string>
@@ -1097,7 +1094,7 @@ Dùng mạng ưu tiên thay thế."</string>
     <string name="no_vm_number_msg">Không có số thư thoại nào được lưu trữ trên thẻ SIM.</string>
     <string name="no_voip">Cuộc gọi SIP không được hỗ trợ</string>
     <string name="no_wifi_available">Bạn cần phải kết nối Wi-Fi cho các cuộc gọi SIP(sử dụng cài đặt Không dây &amp; Mạng).</string>
-    <string name="not_a_valid_port">Số cổng phải trong khoảng từ 1000 đến 65534.</string>
+    <string name="not_a_valid_port">Số cổng phải trong khoảng từ %1$d đến %2$d.</string>
     <string name="not_allowed">Thẻ SIM của bạn không cho phép kết nối với mạng này.</string>
     <string name="not_voice_capable">Không hỗ trợ tính năng gọi thoại</string>
     <string name="notification_network_selection_text">Mạng được chọn (%s) không khả dụng</string>
@@ -1115,7 +1112,7 @@ Dùng mạng ưu tiên thay thế."</string>
     <string name="okay">OK</string>
     <string name="oldPin2Label">Mã PIN2 cũ</string>
     <string name="oldPinLabel">Mã PIN cũ</string>
-    <string name="old_password_label">Mật khẩu 4 chữ số hiện tại</string>
+    <string name="old_password_label">Mật khẩu %d chữ số hiện tại</string>
     <string name="old_pin2_label">Mã PIN2</string>
     <string name="old_pin_label">Mã PIN cũ</string>
     <string name="onHold">Giữ</string>
@@ -1521,7 +1518,7 @@ Thẻ SIM của bạn sẽ bị khóa sau lần thử không thành công."</str
     <string name="sip_connection_service_label">Cuộc gọi SIP tích hợp sẵn</string>
     <string name="sip_edit_new_title">Chi tiết tài khoản SIP</string>
     <string name="sip_edit_title">Chi tiết tài khoản SIP</string>
-    <string name="sip_menu_discard">Hủy</string>
+    <string name="sip_menu_discard">Hủy bỏ</string>
     <string name="sip_menu_save">Lưu</string>
     <string name="sip_profile_create_error">Không thể tạo hồ sơ SIP mới</string>
     <string name="sip_receive_call_disable">Không thể chấp nhận cuộc gọi. Cho phép chấp nhận cuộc gọi trước.</string>
@@ -2074,4 +2071,7 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 	<string name="location">Vị trí</string>
 	<string name="china_mobile_palm_category">Dịch vụ Nhà mạng</string>
 	<string name="osu_sign_up_complete">Đăng ký hoàn tất. Đang kết nối…</string>
+	<string name="cfnry_time_fifteen_sec">%d giây</string>
+	<string name="cfnry_time_thirty_sec">%d giây</string>
+	<string name="cfnry_time_twenty_five_sec">%d giây</string>
 </resources>

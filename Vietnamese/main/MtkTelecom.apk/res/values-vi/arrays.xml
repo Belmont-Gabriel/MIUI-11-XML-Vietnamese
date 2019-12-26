@@ -262,4 +262,9 @@
         <item>Tỷ lệ hình động 5x</item>
         <item>Tỷ lệ hình động 10x</item>
     </string-array>
+	<string-array name="bt_hci_snoop_log_entries">
+		<item>Tắt</item>
+		<item>Bật Đã lọc</item>
+		<item>Bật</item>
+	</string-array>
 </resources>

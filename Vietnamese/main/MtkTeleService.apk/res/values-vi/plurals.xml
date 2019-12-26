@@ -7,7 +7,7 @@
         <item quantity="other">Tác vụ đã chọn không sẵn có trong khi ở chế độ Gọi lại Khẩn cấp. Điện thoại sẽ ở chế độ này trong vòng %s phút. Bạn có muốn thoát ngay bây giờ không?</item>
     </plurals>
     <plurals name="auto_answer_summary_delay">
-        <item quantity="other">trễ: %s giây</item>
+        <item quantity="other">trễ: %d giây</item>
     </plurals>
     <plurals name="call_record_add_white_list_over_reminder">
         <item quantity="other">Bạn có thể thêm đến %s người, hãy chọn lại.</item>

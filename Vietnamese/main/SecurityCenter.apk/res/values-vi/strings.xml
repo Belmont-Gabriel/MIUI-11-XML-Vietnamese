@@ -3300,4 +3300,37 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="global_wa_setting_alert_dialog_content">Bạn có thể giải phóng %s</string>
 	<string name="global_wa_setting_alert_dialog_title">Dọn dẹp WhatsApp</string>
 	<string name="net_boostering">Đang tăng tốc độ mạng</string>
+	<string name="gb_manual_record_dialog_del_video_message">Xóa vĩnh viễn video đã chọn?</string>
+	<string name="game_manual_record_setting_peace">An bình</string>
+	<string name="gs_game_manual_record">Ghi thủ công</string>
+	<string name="gb_game_video_page_null">Ghi lại những khoảnh khắc quan trọng trong những phiên trò chơi của bạn</string>
+	<string name="gb_wonderful_video_save_suc">Lưu thành công</string>
+	<string name="gb_dialog_record_way_title">Chọn phương thức ghi</string>
+	<string name="gb_game_video_page_delete_success">Xóa thành công</string>
+	<string name="gb_wonderful_video_header_title">Hôm nay</string>
+	<string name="gb_game_video_type_manual">Thủ công</string>
+	<string name="game_manual_record_setting_title">Khoảnh khắc quan trọng</string>
+	<string name="gb_game_video_bottom_tips">Xem bản ghi các phiên của bạn trong gamebox. Video được lưu trữ ở đây 7 ngày theo mặc định.</string>
+	<string name="gs_game_manual_record_subtitle_child_conflict">Tính năng ghi màn hình khác có thể hoạt động không chính xác.</string>
+	<string name="gb_game_end_toast">Xem lại những khoảnh khắc quan trọng trong trò chơi của bạn</string>
+	<string name="gs_game_ai_record">Ghi bằng AI</string>
+	<string name="gb_wonderful_video_cancel">Hủy</string>
+	<string name="gs_game_manual_record_subtitle_child">Bạn có thể gặp phải một số vấn đề khi sử dụng tính năng này:</string>
+	<string name="gs_game_manual_record_subtitle_child_carton">Ghi lại phiên chơi game của bạn cần mức tiêu thụ năng lượng cao hơn, có thể gây lag.</string>
+	<string name="gb_game_video_record_finish_tips">Lưu video thành công</string>
+	<string name="gb_dialog_record_way_ai">Ghi bằng AI được lưu trong gamebox và được lưu trữ trong 7 ngày.</string>
+	<string name="gs_game_record_intro_tips">*Ghi phiên chơi game chỉ khả dụng cho những trò chơi tương thích đã chọn</string>
+	<string name="gs_game_ai_record_subtitle">"Bạn có thể bắt đầu ghi trong hộp công cụ khi đang chơi. Video với khoảnh khắc quan trọng sẽ tự động được tạo và xóa sau 7 ngày theo mặc định. Bạn cũng có thể chọn lưu video vĩnh viễn."</string>
+	<string name="gb_game_video_item_tag">Khoảnh khắc quan trọng</string>
+	<string name="gb_wonderful_video_checkall">Chọn tất cả</string>
+	<string name="gb_game_video_save">Lưu</string>
+	<string name="gamebox_manual_record">Ghi thủ công</string>
+	<string name="gb_dialog_record_way_finish">Xong</string>
+	<string name="game_manual_record_setting_setting">Thông tin về tính năng này</string>
+	<string name="gb_wonderful_video_delete">Xóa</string>
+	<string name="gs_game_manual_record_subtitle">"Bạn có thẻ bắt đầu ghi trong hộp công cụ khi đang chơi. Có thể ghi lên đến 30 giây sau khi bạn chạm nút \"Ghi\".
+Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan trọng."</string>
+	<string name="gb_dialog_record_way_setting_tips">Ghi chú: Ghi lại phiên chơi game của bạn cần mức tiêu thụ năng lượng cao hơn, có thể gây lag.</string>
+	<string name="gb_dialog_record_way_manual">Ghi video thủ công lên đến 30 giây</string>
+	<string name="game_manual_record_setting_king">King of Glory</string>
 </resources>
