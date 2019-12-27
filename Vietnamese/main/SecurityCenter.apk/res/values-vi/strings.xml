@@ -3324,7 +3324,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="gb_game_video_item_tag">Khoảnh khắc quan trọng</string>
 	<string name="gb_wonderful_video_checkall">Chọn tất cả</string>
 	<string name="gb_game_video_save">Lưu</string>
-	<string name="gamebox_manual_record">Ghi thủ công</string>
+	<string name="gamebox_manual_record">Ghi</string>
 	<string name="gb_dialog_record_way_finish">Xong</string>
 	<string name="game_manual_record_setting_setting">Thông tin về tính năng này</string>
 	<string name="gb_wonderful_video_delete">Xóa</string>

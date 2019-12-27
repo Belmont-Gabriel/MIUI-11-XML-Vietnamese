@@ -235,7 +235,7 @@
     <string name="local_backup_password_summary_change">Chạm để thay đổi hoặc xóa mật khẩu sao lưu toàn bộ máy tính</string>
     <string name="local_backup_password_toast_success">Thiết lập mật khẩu sao lưu mới</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Mật khẩu không khớp</string>
-    <string name="local_backup_password_toast_validation_failure">Không thể đặt sao lưu mật khẩu</string>
+    <string name="local_backup_password_toast_validation_failure">Không thể đặt mật khẩu sao lưu</string>
     <string name="inactive_apps_title">Ứng dụng chưa kích hoạt</string>
     <string name="inactive_app_inactive_summary">Chưa kích hoạt. Chạm để chuyển.</string>
     <string name="inactive_app_active_summary">Đã kích hoạt. Chạm để chuyển.</string>
@@ -1016,7 +1016,7 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="bluetooth_menu_advanced">Nâng cao</string>
     <string name="bluetooth_advanced_titlebar">Bluetooth nâng cao</string>
     <string name="bluetooth_empty_list_bluetooth_off">Khi Bluetooth bật, thiết bị của bạn có thể kết nối với thiết bị Bluetooth khác ở gần.</string>
-    <string name="ble_scan_notify_text">Để nâng cao độ chính xác về vị trí, các ứng dụng và dịch vụ hệ thống có thể vẫn phát hiện thấy các thiết bị Bluetooth. Bạn có thể thay đổi tùy chọn này trong LINK_BEGINcài đặt quétLINK_END.</string>
+    <string name="ble_scan_notify_text">Để nâng cao độ chính xác về vị trí, các ứng dụng và dịch vụ hệ thống có thể vẫn phát hiện thấy các thiết bị Bluetooth. Bạn có thể thay đổi tùy chọn này trong LINK_BEGIN cài đặt quét LINK_END.</string>
     <string name="bluetooth_connect_specific_profiles_title">Kết nối với…</string>
     <string name="bluetooth_disconnect_a2dp_profile">%1$s sẽ bị ngắt kết nối khỏi âm thanh phương tiện.</string>
     <string name="bluetooth_disconnect_headset_profile">%1$s sẽ bị ngắt kết nối khỏi âm thanh thiết bị rảnh tay.</string>
@@ -1088,7 +1088,7 @@ Vân tay đã lưu của bạn cũng sẽ bị xóa khỏi hồ sơ này và b�
     <string name="wifi_automatically_connect_summary">Cho phép Trợ lý Wi‑Fi tự động kết nối với mạng mở được xác định là có chất lượng cao</string>
     <string name="wifi_select_assistant_dialog_title">Chọn trợ lý</string>
     <string name="wifi_install_credentials">Cài đặt chứng chỉ</string>
-    <string name="wifi_scan_notify_text">Để nâng cao độ chính xác về vị trí, các ứng dụng và dịch vụ hệ thống có thể vẫn quét để tìm mạng Wi‑Fi. Bạn có thể thay đổi tùy chọn này trong LINK_BEGINcài đặt quétLINK_END.</string>
+    <string name="wifi_scan_notify_text">Để nâng cao độ chính xác về vị trí, các ứng dụng và dịch vụ hệ thống có thể vẫn quét để tìm mạng Wi‑Fi. Bạn có thể thay đổi tùy chọn này trong LINK_BEGIN cài đặt quét LINK_END.</string>
     <string name="wifi_scan_notify_remember_choice">Không hiển thị nữa</string>
     <string name="wifi_setting_sleep_policy_title">Bật Wi-Fi khi ngủ</string>
     <string name="wifi_setting_on_during_sleep_title">Bật Wi-Fi khi ở chế độ ngủ</string>
@@ -1239,7 +1239,6 @@ Cho phép cài đặt này đối với tất cả ứng dụng muốn quét?"</
     <string name="wifi_hotspot_configure_ap_text">Thiết lập điểm phát sóng Wi‑Fi</string>
     <string name="wifi_hotspot_configure_ap_text_summary">Điểm phát sóng Wi‑Fi DĐ AndroidAP WPA2 PSK</string>
     <string name="wifi_tether_configure_subtext">Điểm phát sóng %1$s %2$s</string>
-    <string name="wifi_tether_configure_ssid_default">AndroidHotspot</string>
     <string name="testing_wifi_info">Thông tin Wi-Fi</string>
     <string name="disableNetwork">Tắt</string>
     <string name="enableNetwork">Bật</string>
@@ -1713,7 +1712,7 @@ Có người dùng khác trên thiết bị này.
     <string name="location_mode_battery_saving_description">Sử dụng Wi-Fi và mạng di động để xác định vị trí</string>
     <string name="location_mode_sensors_only_description">Sử dụng GPS để xác định vị trí</string>
     <string name="location_menu_scanning">Đang quét</string>
-    <string name="location_scanning_screen_title">Đang quét</string>
+    <string name="location_scanning_screen_title">Quét Wi-Fi và Bluetooth</string>
     <string name="location_scanning_wifi_always_scanning_title">Quét Wi‑Fi</string>
     <string name="location_scanning_wifi_always_scanning_description">Cải thiện thông tin vị trí bằng cách cho phép các ứng dụng và dịch vụ hệ thống phát hiện mạng Wi‑Fi bất cứ lúc nào.</string>
     <string name="location_scanning_bluetooth_always_scanning_title">Quét Bluetooth</string>
@@ -5797,7 +5796,7 @@ Lưu ý: Bạn không thể sử dụng vân tay của mình để mở khóa th
     <string name="wifi_disabled_by_recommendation_provider">Không được kết nối do mạng chất lượng kém</string>
     <string name="wifi_hotspot_off_subtext">Không chia sẻ kết nối Internet của điện thoại này qua điểm phát sóng</string>
     <string name="wifi_no_internet_no_reconnect">Sẽ không tự động kết nối</string>
-    <string name="wifi_scan_notify_text_scanning_off">Để nâng cao độ chính xác về vị trí, hãy bật quét tìm Wi-Fi trong LINK_BEGINcài đặt quétLINK_END.</string>
+    <string name="wifi_scan_notify_text_scanning_off">Để nâng cao độ chính xác về vị trí, hãy bật quét tìm Wi-Fi trong LINK_BEGIN cài đặt quét LINK_END.</string>
     <string name="wifi_wakeup">Tự động bật Wi-Fi</string>
     <string name="wifi_wakeup_summary">Wi-Fi sẽ bật lại khi ở gần các mạng đã lưu chất lượng cao, chẳng hạn như mạng gia đình của bạn</string>
     <string name="wifi_wakeup_summary_scanning_disabled">Không khả dụng vì tính năng quét tìm Wi‑Fi đang tắt</string>
@@ -6387,8 +6386,8 @@ Quản trị viên của bạn có thể giám sát hoạt động mạng của 
     <string name="suspend_gesture_enabled">Lật điện thoại để tắt màn hình</string>
     <string name="recents_config_title">Gần đây</string>
     <string name="show_mem_info_title">Hiển thị trạng thái bộ nhớ</string>
-    <string name="start_vip_mode">bật chế độ VIP</string>
-    <string name="vip_mode_info">In the Silent mode, VIP list of contacts in the call or SMS will still ring Ling reminders</string>
+    <string name="start_vip_mode">Bật chế độ VIP</string>
+    <string name="vip_mode_info">Trong Chế độ Im lặng, danh sách liên hệ VIP trong cuộc gọi hoặc tin nhắn vẫn đổ chuông nhắc nhở</string>
     <string name="wifi_eap_info_reconnect">Xác thực thất bại, vui lòng kiểm lại!</string>
     <string name="setup_choose_unlock_mixed_password_color_normal"><Data>&lt;font color=#000000>Mật khẩu&lt;/font></Data></string>
     <string name="setup_choose_unlock_mixed_password_color_pressed"><Data>&lt;font color=#009dff>Mật khẩu&lt;/font></Data></string>
@@ -6536,7 +6535,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
      <string name="flash_drive_backup_restore">Sao lưu hoặc khôi phục qua USB</string>
      <string name="flash_drive_backup_restore_summary">Kết nối USB</string>
      <string name="following_us_title">Theo dõi chúng tôi</string>
-     <string name="font_setting_title">kiá»ƒu chá»¯</string>
+     <string name="font_setting_title">Kiểu chữ</string>
      <string name="forget_password_dialog_button_text">Quay lại</string>
      <string name="forget_password_dialog_content_four"><Data>2. Chọn &lt;font color=#e6e6e6>[Wipe data]&lt;/font>, và chờ đến khi thiết bị khởi động lại.</Data></string>
      <string name="forget_password_dialog_content_one"><Data>Nếu bạn quên mật khẩu, bạn sẽ không thể khôi phục. Tuy nhiên, bạn có thể đặt lại mật khẩu sau khi bạn &lt;font color=#ec2700>xóa tất cả dữ liệu trên thiết bị&lt;/font> (bao gồm ảnh, liên hệ v.v...). Sao lưu tất cả dữ liệu quan trọng trước khi thực hiện điều này.</Data></string>
@@ -6599,7 +6598,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="miui_lab_install_drive_mode_title">Cài đặt Chế độ lái xe</string>
      <string name="miui_lab_super_resolution_desc">Làm cho ảnh rõ nét hơn</string>
      <string name="miui_lab_super_resolution_title">Siêu phân giải</string>
-     <string name="mota_system_update_summary">Kiểm tra cập nhật hệ thống trên máy chủCheck system update on server</string>
+     <string name="mota_system_update_summary">Kiểm tra cập nhật hệ thống trên máy chủ</string>
      <string name="mqs_privacy_automatically_upload">Tải lên tự động lần tới</string>
      <string name="mqs_privacy_dialog_cancel">Hủy</string>
      <string name="mqs_privacy_dialog_confirm">Tải lên</string>
@@ -6624,8 +6623,8 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="nfc_service_overflow">Quá giới hạn cho phép</string>
      <string name="nfc_service_status_summary">%1$d/%2$d đang bật</string>
      <string name="nfc_service_status_title">Miễn phí dịch vụ</string>
-     <string name="nfc_service_summary_disabled">Đãvôhiệuhoá</string>
-     <string name="nfc_service_summary_enabled">Đãbật</string>
+     <string name="nfc_service_summary_disabled">Đã vô hiệu hoá</string>
+     <string name="nfc_service_summary_enabled">Đã bật</string>
      <string name="nfc_tag_mode_category">C.độ nhãn</string>
      <string name="notch_force_black_desc">Bật vùng tối xung quanh tai thỏ</string>
      <string name="notch_force_black_title">Ẩn tai thỏ</string>
@@ -6781,7 +6780,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_assistant_summary">Chuyển đổi giữa mạng Wi-Fi và dữ liệu di động một cách thông minh khi kết nối Wi-Fi yếu</string>
      <string name="wifi_assistant_switch_data">Sử dụng dữ liệu di động</string>
      <string name="wifi_assistant_switch_wifi">Chuyển đổi mạng</string>
-     <string name="wifi_calling_disabled">Đãvôhiệuhoá</string>
+     <string name="wifi_calling_disabled">Đã vô hiệu hoá</string>
      <string name="wifi_click_login_wlan">Yêu cầu đăng nhập/ủy quyền</string>
      <string name="wifi_connection_management">Quản lý kết nối Wi-Fi</string>
      <string name="wifi_eap_options_advanced">Tùy chọn nâng cao</string>
@@ -6984,7 +6983,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
     <string name="battery_abnormal_wakeup_alarm_summary">Đánh thức thiết bị từ trong nền</string>
     <string name="battery_active_for">Kích hoạt cho ^1</string>
     <string name="battery_auto_restriction_summary">Xác định khi nào ứng dụng tiêu hao pin</string>
-    <string name="battery_auto_restriction_title">Sử dụng Trình quản lí pin</string>
+    <string name="battery_auto_restriction_title">Sử dụng Trình quản lý pin</string>
     <string name="battery_full_charge_last">Sạc đầy</string>
     <string name="battery_manager_off">Tắt</string>
     <string name="battery_manager_on">Bật / Xác định khi nào ứng dụng tiêu hao pin</string>
@@ -7064,8 +7063,8 @@ Nếu bạn thực hiện bất kì thao tác nào kể trên, thêm Tài khoả
     <string name="condition_device_muted_summary">Cuộc gọi và thông báo sẽ bị tắt tiếng</string>
     <string name="condition_device_muted_title">Điện thoại đã tắt âm</string>
     <string name="condition_device_vibrate_summary">Cuộc gọi và thông báo sẽ rung điệ thoại</string>
-    <string name="condition_device_vibrate_title">Điệnt thoại đã đặt sang rung</string>
-    <string name="config_charging_function_name">đang sạc</string>
+    <string name="condition_device_vibrate_title">Điện thoại đã đặt sang rung</string>
+    <string name="config_charging_function_name">Đang sạc</string>
     <string name="connected_device_add_device_summary">Bluetooth sẽ được bật để ghép nối</string>
     <string name="connected_device_add_device_title">Thêm thiết bị</string>
     <string name="connected_device_available_call_title">Thiết bị gọi khả dụng</string>
@@ -7749,7 +7748,7 @@ Bạn có thể xem nhật ký được tạo trong Quản lý Tập tin."</stri
 	<string name="set_jeejen_prompt_title">Xác nhận thay đổi</string>
 	<string name="work_sound_permission_dialog_button_text_known">Đã hiểu</string>
 	<string name="work_sound_permission_dialog_message">"Bạn không thể sử dụng Chủ đề trong chế độ Doanh nghiệp. Liên hệ với giám sát của bạn để có được quyền truy cập."</string>
-	<string name="work_sound_permission_dialog_title">Hạn chế chế độ Doạnh nghiệp</string>
+	<string name="work_sound_permission_dialog_title">Hạn chế chế độ Doanh nghiệp</string>
 	<string name="dump_log_title">Về tính năng này</string>
     <string name="firewall_wifi">Wi-Fi</string>
 	<string name="status_bar_settings_qs_layout">Bố trí Cài đặt nhanh</string>
@@ -7858,7 +7857,7 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="game_mode_cta_dialog_cancel">Hủy</string>
     <string name="game_mode_cta_dialog_message">Chế độ chơi game cần kết nối mạng để hoạt động bình thường. Đồng ý?</string>
     <string name="game_mode_cta_dialog_title">Yêu cầu quyền</string>
-    <string name="game_mode_summary">Cải thiện hiệu năng cho game khi gới hạn đông bộ và kết nối mạng dưới nền cho ứng dụng khác.</string>
+    <string name="game_mode_summary">Cải thiện hiệu năng cho game khi giới hạn đông bộ và kết nối mạng dưới nền cho ứng dụng khác.</string>
     <string name="gxzw_aod_show_summary">Biểu tượng vân tay sẽ hiển thị khi màn ình tắt. Tính năng này sẽ gây hao pin hơn.</string>
     <string name="gxzw_aod_show_tittle">Hiển thị biểu tượng vân tay khi tắt màn hình</string>
     <string name="importance_default">Mặc định</string>
@@ -7872,7 +7871,7 @@ OTG tự động tắt sau 10 phút không hoạt động."</string>
     <string name="lte_4g_settings_4gdisable_summary">Tắt 4G</string>
     <string name="lte_4g_settings_4genable_summary">Bật 4G</string>
     <string name="lte_4g_settings_disable">Chế độ máy bay hoặc thẻ SIM chưa sẵn sàng</string>
-    <string name="lte_4g_switch_prompt">Điện thoại sẽ chuyển từ 3G/2G sang 4G, môt vài hoạt động đang chạy sẽ bị dừng</string>
+    <string name="lte_4g_switch_prompt">Điện thoại sẽ chuyển từ 3G/2G sang 4G, một vài hoạt động đang chạy sẽ bị dừng</string>
     <string name="manage_notification_title">Thông báo ứng dụng</string>
     <string name="mbn_version">Phiên bản MBN</string>
     <string name="music_dirac_mode_india_earphones_basic">Tai nghe Mi cơ bản</string>
@@ -8971,7 +8970,7 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
 	<string name="accessibility_content_timeout_preference_summary">"Chọn thời gian hiển thị tin nhắn bạn cần để đọc, nhưng chúng chỉ hiện tạm thời.
 
 Không phải tất cả ứng dụng đều hỗ trợ cài đặt này."</string>
-	<string name="accessibility_content_timeout_preference_title">Time to read</string>
+	<string name="accessibility_content_timeout_preference_title">Đã đến lúc đọc</string>
 	<string name="accessibility_control_timeout_preference_summary">"Chọn thời gian tin nhắn chờ bạn thực hiện hành động, nhưng chúng chỉ hiện tạm thời.
 
 Không phải tất cả ứng dụng đều hỗ trợ cài đặt này."</string>
@@ -9034,7 +9033,7 @@ Không phải tất cả ứng dụng đều hỗ trợ cài đặt này."</stri
 	<string name="bluetooth_middle_name">Vỏ</string>
 	<string name="bluetooth_right_name">Phải</string>
 	<string name="bluetooth_show_files_received_via_bluetooth">Tệp đã nhận qua Bluetooth</string>
-	<string name="bubbles_app_toggle_summary">Cho phép %1$s hienr thị vài thông báo dạng bong bóng</string>
+	<string name="bubbles_app_toggle_summary">Cho phép %1$s hiển thị vài thông báo dạng bong bóng</string>
 	<string name="bubbles_app_toggle_title">Bong bóng</string>
 	<string name="bubbles_feature_disabled_button_approve">Tắt cho thiết bị</string>
 	<string name="bubbles_feature_disabled_button_cancel">Hủy</string>
@@ -9203,13 +9202,13 @@ Chuyển sang %1$s sẽ không hủy dịch vụ %2$s của bạn."</string>
 	<string name="mobile_network_inactive_sim">Không kích hoạt / SIM</string>
 	<string name="mobile_network_list_add_more">Thêm</string>
 	<string name="mobile_network_mode_error">Chế độ Mạng không hợp lệ %1$d. Bỏ qua.</string>
-	<string name="mobile_network_not_in_range">Không tròn vùng phủ sóng</string>
+	<string name="mobile_network_not_in_range">Không trong vùng phủ sóng</string>
 	<string name="mobile_network_sim_name">Tên SIM</string>
 	<string name="mobile_network_sim_name_rename">Đổi tên</string>
 	<string name="mobile_network_summary_add_a_network">Thêm mạng</string>
 	<string name="mobile_network_use_sim_off">Tắt</string>
 	<string name="mobile_network_use_sim_on">Sử dụng SIM</string>
-	<string name="model_hardware_summary">Kiểu:%1$s; Phần cứng:%2$s</string>
+	<string name="model_hardware_summary">Kiểu: %1$s; Phần cứng: %2$s</string>
 	<string name="module_version">Cập nhật phần mềm chính</string>
 	<string name="network_connection_connect_successful">Kết nối thành công</string>
 	<string name="network_connection_errorstate_dialog_message">Có gì đó đã xảy ra. Ứng dụng đã hủy yêu cầu chọn thiết bị.</string>
@@ -9256,11 +9255,11 @@ Nó cũng cho ứng dụng có thể tắt hoặc mở Chế độ Không làm p
 	<string name="roles_title">Vai trò</string>
 	<string name="rom_total_size">Tổng kích thước ROM</string>
 	<string name="rx_link_speed_label">Tốc độ liên kết nhận:</string>
-	<string name="rx_wifi_speed">Tốc độ liên kết nhânj</string>
+	<string name="rx_wifi_speed">Tốc độ liên kết nhận</string>
 	<string name="scanning_status_text_wifi_off_ble_off">Cả quét Wi-Fi và Bluetooth đã tắt</string>
 	<string name="scanning_status_text_wifi_off_ble_on">Quét Bluetooth bật, quét Wi-Fi tắt</string>
 	<string name="scanning_status_text_wifi_on_ble_off">Quét Wi-Fi bật, quét Bluetooth tắt</string>
-	<string name="scanning_status_text_wifi_on_ble_on">Cả quét Wi-Fi và Bluetooth bật</string>
+	<string name="scanning_status_text_wifi_on_ble_on">Cả quét Wi-Fi và Bluetooth đã bật</string>
 	<string name="screen_dark_mode_advanced_title">Nâng cao</string>
 	<string name="screen_dark_mode_select_time_error_summary">"Thời gian bắt đầu và kết thúc không thể giống nhau"</string>
 	<string name="screen_dark_mode_smart_dark_summary">Cũng áp dụng chế độ tối cho ứng dụng bên thứ ba. Một vài ứng dụng có thể hiển thị không chính xác</string>
@@ -9415,7 +9414,7 @@ Vui lòng xem lại Chính sách Riêng tư của nhà cung cấp dịch vụ."<
 	<string name="zen_mode_schedule_title">Lịch</string>
 	<string name="zen_mode_settings_dnd_custom_settings_footer">Không làm phiền bật cho %s với cài đặt tùy chỉnh.</string>
 	<string name="zen_mode_settings_dnd_custom_settings_footer_link">&lt;annotation id="link"&gt; Xem cài đặt tùy chỉnh&lt;/annotation&gt;</string>
-	<string name="zen_mode_system_list">Âm thanh chạn</string>
+	<string name="zen_mode_system_list">Âm thanh chạm</string>
 	<string name="zone_auto_title">Sử dụng múi giờ mạng cung cấp</string>
 	<string name="add">Thêm</string>
 	<string name="bluetooth_active_battery_level_untethered">Kích hoạt, L: %1$s pin, R: %2$s pin</string>

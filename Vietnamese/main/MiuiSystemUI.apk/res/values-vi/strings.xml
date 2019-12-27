@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wifi_fail_to_scan">Không thể quét mạng</string>
-    <string name="wifi_security_short_wep">WEP</string>
-    <string name="wifi_security_short_wpa">WPA</string>
-    <string name="wifi_security_short_wpa2">WPA2</string>
-    <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_eap">802.1x</string>
-    <string name="wifi_security_none">Không</string>
-    <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA PSK</string>
-    <string name="wifi_security_wpa2">WPA2 PSK</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_eap">802.1x EAP</string>
-    <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_WAPI_PSK">WAPI PSK</string>
-    <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
-    <string name="wifi_security_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_remembered">Đã lưu</string>
     <string name="wifi_disabled_generic">Đã tắt</string>
     <string name="wifi_disabled_network_failure">Không thể cấu hình IP</string>
@@ -245,7 +229,7 @@
     <string name="local_backup_password_summary_change">Chạm để thay đổi hoặc xóa mật khẩu sao lưu toàn bộ máy tính</string>
     <string name="local_backup_password_toast_success">Thiết lập mật khẩu sao lưu mới</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Mật khẩu không khớp</string>
-    <string name="local_backup_password_toast_validation_failure">Không thể đặt sao lưu mật khẩu</string>
+    <string name="local_backup_password_toast_validation_failure">Không thể đặt mật khẩu sao lưu</string>
     <string name="inactive_apps_title">Ứng dụng chưa kích hoạt</string>
     <string name="inactive_app_inactive_summary">Chưa kích hoạt. Chạm để chuyển.</string>
     <string name="inactive_app_active_summary">Đã kích hoạt. Chạm để chuyển.</string>
@@ -606,7 +590,7 @@ d MMM"</string>
     <string name="usb_storage_stop_notification_title">Tắt lưu trữ USB</string>
     <string name="usb_storage_stop_notification_message">Chọn để tắt lưu trữ USB.</string>
     <string name="usb_storage_stop_title">Lưu trữ USB đang sử dụng</string>
-    <string name="usb_storage_stop_message">Trước khi tắt lưu trữ USB, chắc chắn bạn đã ngắt kết nối („jected”) thẻ SD Android‘s từ máy tính của bạn.</string>
+    <string name="usb_storage_stop_message">Trước khi tắt lưu trữ USB, chắc chắn bạn đã ngắt kết nối („ejected”) thẻ SD Android từ máy tính của bạn.</string>
     <string name="dlg_confirm_kill_storage_users_title">Bật lưu trữ USB</string>
     <string name="dlg_confirm_kill_storage_users_text">Nếu bạn bật lưu trữ USB, một số ứng dụng bạn đang sử dụng sẽ dừng lại và có thể không khả dụng cho đến khi bạn tắt lưu trữ USB.</string>
     <string name="dlg_error_title">USB hoạt động không thành công</string>
@@ -819,7 +803,7 @@ Bạn cũng được kết nối với VPN. Dịch vụ này có thể giám sá
     <string name="monitoring_description_app_personal">Bạn đang kết nối với %1$s. Ứng dụng này có thể giám sát hoạt động mạng cá nhân của bạn bao gồm email, ứng dụng và trang web.</string>
     <string name="active_input_method_subtypes">Phương pháp nhập liệu hoạt động</string>
     <string name="battery_info_status_charging_lower">Đang sạc</string>
-    <string name="bluetooth_enable_inband_ringing">Bật đổ chuông trong dải</string>
+    <string name="bluetooth_enable_inband_ringing">Bật đổ chuông trên thiết bị đeo</string>
     <string name="bluetooth_enable_inband_ringing_summary">Cho phép nhạc chuông trên điện thoại được phát trên tai nghe Bluetooth</string>
     <string name="bluetooth_profile_a2dp_high_quality">Sử dụng âm thanh chất lượng cao: %1$s</string>
     <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">Sử dụng âm thanh chất lượng cao</string>
@@ -1152,7 +1136,7 @@ Tốc độ lấy mẫu"</string>
      <string name="face_data_manage_unlock_msg">Mở khóa thiết bị bằng dữ liệu khuôn mặt</string>
      <string name="face_data_manage_unlock_title">Mở khóa bằng dữ liệu khuôn mặt</string>
      <string name="face_data_siggesstion_next">Tiếp theo</string>
-     <string name="face_data_siggesstion_next_time">Tiếp theo (%dgiây)</string>
+     <string name="face_data_siggesstion_next_time">Tiếp theo (%d giây)</string>
      <string name="face_data_suggesstion_first">Vấn đề bảo mật: Mở khóa bằng khuôn mặt kém an toàn hơn PIN, mật khẩu hoặc hình mở khóa. Thiết bị có thể được mở khóa bằng ảnh của bạn, cũng như bằng người hoặc đối tượng có diện mạo tương tự.</string>
      <string name="face_data_suggesstion_second">Chắc chắn rằng toàn bộ khuôn mặt của bạn không bị che khuất và được hiển thị rõ. Ngoài ra, khuôn mặt của bạn cần phải đủ sáng.</string>
      <string name="face_unlock_adjust_distance">Chắc chắn rằng khoảng cách giữa khuôn mặt và màn hình là phù hợp.</string>
@@ -1485,14 +1469,14 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
 - Không bao giờ tạo âm thanh hoặc rung 
 
 "<b>Cấp 1</b>" 
-- Không cho phép gián đoạn toàn màn hìnhn 
+- Không cho phép gián đoạn toàn màn hình
 - Không bao giờ hiển thị 
 - Không bao giờ tạo âm thanh hoặc rung 
 - Ẩn khỏi màn hình khóa và thanh thông báo 
 - Hiển thị ở dưới cùng của danh sách thông báo 
 
 "<b>Cấp 0</b>" 
-- Chặn toan fbooj thông báo từ ứng dụng"</string>
+- Chặn toàn bộ thông báo từ ứng dụng"</string>
      <string name="profile_owned_footer">Hồ sơ có thể được giám sát</string>
      <string name="qs_customize_title">Sửa</string>
      <string name="qs_dnd_keep">Giữ</string>
