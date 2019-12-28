@@ -260,7 +260,7 @@ trong Chế độ chân dung"</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">Đo điểm sáng</string>
     <string name="pref_camera_audio_capture_title">Nói để chụp</string>
     <string name="simple_mode_button_text_audio_capture">Tắt chụp bằng âm thanh</string>
-    <string name="pref_camera_video_duration_entry_mms">30 giây(MMS)</string>
+    <string name="pref_camera_video_duration_entry_mms">30 giây (MMS)</string>
     <string name="pref_camera_video_duration_entry_10">10 phút</string>
     <string name="pref_camera_video_duration_entry_30">30 phút</string>
     <string name="pref_camera_video_duration_entry_120">Không giới hạn</string>
@@ -369,7 +369,7 @@ trong Chế độ chân dung"</string>
     <string name="pref_front_mirror_entry_off">Tắt</string>
     <string name="pref_burst_shoot_title">Chụp liên tiếp</string>
     <string name="burst_shoot_exit_button_text">Tắt Chụp Liên tiếp</string>
-    <string name="pref_camera_long_pressing_shutter_title">Bấm &amp;giữ phím Chụp để khóa AE/AF/AWB</string>
+    <string name="pref_camera_long_pressing_shutter_title">Bấm &amp; giữ phím Chụp để khóa AE/AF/AWB</string>
     <string name="simple_mode_button_asd_flash">Tắt chế độ chụp có đèn Flash</string>
     <string name="simple_mode_button_asd_hdr">Tắt chế độ chụp HDR</string>
     <string name="pref_audio_focus_title">Lấy nét bằng âm thanh</string>
@@ -796,7 +796,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="accessibility_skin_beautify_opened">Làm nổi bật tông màu da đã bật</string>
     <string name="accessibility_zoom_control">Điều khiển thu phóng</string>
     <string name="aperture">Khẩu độ</string>
-    <string name="bg_replacement_message">Đặt điện thoạilên một mặt phẳng ổn định và rời khỏi tầm nhìn một lát.</string>
+    <string name="bg_replacement_message">Đặt điện thoại lên một mặt phẳng ổn định và rời khỏi tầm nhìn một lát.</string>
     <string name="camera_hdr_auto">Tự động</string>
     <string name="camera_hdr_off">Tắt</string>
     <string name="camera_hdr_on">Bật</string>
@@ -878,7 +878,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="no_save">Không lưu</string>
     <string name="no_thumbnail">Không có ảnh thu nhỏ</string>
     <string name="not_selectable_in_scene_mode">Không thể chọn trong chế độ cảnh</string>
-    <string name="out_line_error_prompt">Vui lòng không che khuất mătặt</string>
+    <string name="out_line_error_prompt">Vui lòng không che khuất mặt</string>
     <string name="out_line_face_occlusion">Khuôn mặt bị che khuất</string>
     <string name="out_line_left_eyes_occlusion">Mắt trái bị che khuất</string>
     <string name="out_line_mouth_occlusion">Miệng bị che khuất</string>
@@ -959,7 +959,7 @@ Khám phá vẻ đẹp thú vị hơn"</string>
     <string name="raw_data_exit_button_text">Thoát chế độ RAW</string>
     <string name="recapture_dialog_message">Xác nhận chụp lại?</string>
     <string name="recapture_dialog_title">Chụp lại sẽ xóa ảnh hiện tại</string>
-    <string name="resume_playing_message">Tếp tục phát từ %s?</string>
+    <string name="resume_playing_message">Tiếp tục phát từ %s?</string>
     <string name="resume_playing_restart">Bắt đầu lại</string>
     <string name="resume_playing_resume">Tiếp tục phát</string>
     <string name="resume_playing_title">Tiếp tục video</string>
@@ -1393,4 +1393,5 @@ In dễ dàng trên khổ A4"</string>
 	<string name="pref_camera_iso_entry_auto_abbr">TỰ ĐỘNG</string>
 	<string name="location_access_allow">Cho phép</string>
 	<string name="zoom_no_support_tip">Không hỗ trợ thu phóng trong chế độ %1$s</string>
+	<string name="kaleidoscope_fragment_tab_name">Kính vạn hoa</string>
 </resources>

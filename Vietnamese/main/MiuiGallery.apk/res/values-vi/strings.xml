@@ -150,7 +150,7 @@ khả dụng"</string>
     <string name="album_page_empty">Trống</string>
     <string name="album_page_label">Album</string>
     <string name="album_pano_name">Chụp toàn cảnh</string>
-    <string name="album_quota_fulfiled">Quá nhiều album. Xoá một số album và thử lại.</string>
+    <string name="album_quota_fulfiled">Quá nhiều album. Xóa một số album và thử lại.</string>
     <string name="album_scanner">Máy quét</string>
     <string name="album_screen_recorder">Quay phim màn hình</string>
     <string name="album_screenshot_name">Ảnh chụp màn hình</string>
@@ -174,7 +174,7 @@ khả dụng"</string>
     <string name="album_wallpaper">Hình nền</string>
     <string name="alert_secret_album_enter">Tôi biết</string>
     <string name="alert_secret_album_message">Trượt xuống trong trang Album để xem album ẩn.</string>
-    <string name="alert_secret_album_message_lower_case">kéo xuống trong Album để xem</string>
+    <string name="alert_secret_album_message_lower_case">Kéo xuống trong Album để xem</string>
     <string name="alert_secret_album_title">Làm thế nào để xem album ẩn</string>
     <string name="all_faces">Ảnh với người này</string>
     <string name="all_items_synced">Tất cả album đã được đồng bộ với đám mây</string>
@@ -667,7 +667,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="loading_gif_thumbnail">Đang tải ảnh GIF…</string>
     <string name="loading_image">Đang tải ảnh…</string>
     <string name="loading_image_thumbnail">Đang tải hình thu nhỏ…</string>
-    <string name="loading_members">Đang tải thành viên026</string>
+    <string name="loading_members">Đang tải thành viên 2026</string>
     <string name="loading_suspend">Tải xuống tạm dừng: Sẽ tiếp tục khi có kết nối Wi-Fi</string>
     <string name="loading_video">Đang tải video…</string>
     <string name="loading_video_fail_sync_without_network">Kết nối mạng để tải xuống siêu dữ liệu</string>
@@ -1471,7 +1471,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
     <string name="operation_set_video_wallpaper">Đặt làm video nền</string>
     <string name="photo_editor_font_default">Mi Lanting (Mặc định)</string>
     <string name="recommend_category_title">Chọn ảnh</string>
-    <string name="set_as_video_wallpaper_description">Tải xuống mục này và đặtlàm video nền?</string>
+    <string name="set_as_video_wallpaper_description">Tải xuống mục này và đặt làm video nền?</string>
     <string name="set_as_video_wallpaper_title">Đặt làm video nền</string>
     <string name="set_video_wallpaper_failed">Không thể đặt làm video nền</string>
 	<string name="agreement_agree">Đồng ý</string>
@@ -1972,7 +1972,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="filter_sky_stratus">Mây tầng</string>
 	<string name="risk_control_deleted_message">Ai đó đã xóa các mục trong Thư viện của bạn bằng %3$s trên %1$s lúc %2$s. Đó có phải là bạn không?</string>
 	<string name="filter_sky_cumulus">Mây tích</string>
-	<string name="delete_album_msg_format_local">Delete %1$s %2$s?</string>
+	<string name="delete_album_msg_format_local">Xóa %1$s %2$s?</string>
 	<string name="filter_sky_nimbus">Mây dông</string>
 	<string name="filter_sky_double_rainbow">Cầu vồng kép</string>
 	<string name="filter_sky_twilight">Chạng vạng</string>

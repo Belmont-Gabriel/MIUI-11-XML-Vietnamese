@@ -23,7 +23,7 @@ Xem Chính sách Riêng tư của bàn phím đã chọn."</string>
     <string name="other_settings_location_summary">Cho phép các ứng dụng truy cập vào vị trí của bạn.</string>
     <string name="other_settings_user_experience">Chương trình Trải nghiệm Người dùng</string>
     <string name="other_settings_user_experience_summary">Giúp cải thiện sản phẩm và dịch vụ của chúng tôi bằng cách gửi dữ liệu sử dụng ẩn danh.</string>
-    <string name="other_settings_upload_debug_log_title">Gửi dữ liệu chuẩn đoán tự động</string>
+    <string name="other_settings_upload_debug_log_title">Gửi dữ liệu chẩn đoán tự động</string>
     <string name="other_settings_upload_debug_log_summary">Thông tin mà chúng tôi thu thập sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và có thể chứa thông tin cá nhân. Không có dữ liệu nào được sử dụng để nhận dạng cá nhân bạn.</string>
     <string name="other_settings_auto_update">Cài đặt tự động</string>
     <string name="other_settings_auto_update_summary">MIUI sẽ chọn thời gian thích hợp để cài đặt cập nhật.</string>

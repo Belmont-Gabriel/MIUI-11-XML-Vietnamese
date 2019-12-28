@@ -191,8 +191,8 @@
     <string name="passport_user_id_notice">ID Tài khoản Mi của bạn là %s.</string>
     <string name="passport_user_reg_region_warning">Bạn sẽ không thể thay đổi vị trí quốc gia/khu vực sau khi tạo tài khoản.</string>
     <string name="passport_sync_account_data">Đang đồng bộ thông tin tài khoản…</string>
-    <string name="passport_sync_account_data_failed_warning">Thông tin tài khoảng của bạn đang được đồng bộ, bạn có thể đăng nhập bằng ID Tài khoản Mi. Nếu bạn muốn đăng nhập bằng số điện thoại hoặc email, chờ đến khi thông tin đã được đồng bộ hoàn tất.</string>
-    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Dường như&lt;/font> số điện thoại %s đã được nhà mạng tái sử dụng, và liên kết với Tài khoản Mi. Đó là tài khoản của bạn?</string>
+    <string name="passport_sync_account_data_failed_warning">Thông tin tài khoản của bạn đang được đồng bộ, bạn có thể đăng nhập bằng ID Tài khoản Mi. Nếu bạn muốn đăng nhập bằng số điện thoại hoặc email, chờ đến khi thông tin đã được đồng bộ hoàn tất.</string>
+    <string name="passport_confirm_recycle_account_msg">&lt;font color=Red>Có vẻ như&lt;/font> số điện thoại %s đã được nhà mạng tái sử dụng, và liên kết với Tài khoản Mi. Đó là tài khoản của bạn?</string>
     <string name="passport_login_recycle_account_yes">Có</string>
     <string name="passport_login_recycle_account_no">Không</string>
     <string name="passport_reg_recycle_account_yes">Có</string>
@@ -570,7 +570,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
     <string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
     <string name="diagnosis_log_sent_format">Nhật ký chẩn đoán đã gửi. ID:%s Hãy gửi mã này cho kỹ thuật viên.</string>
-    <string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chuẩn đoán.</string>
+    <string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chẩn đoán.</string>
     <string name="passport_Resend">Gửi lại</string>
     <string name="passport_btn_change_account">Đổi tài khoản</string>
     <string name="passport_error_empty_voice_code">Nhập mã captcha</string>
@@ -586,7 +586,7 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
     <string name="passport_talkback_switch_voice_captcha">Chuyển sang mã xác nhận âm thanh</string>
     <string name="passport_talkback_voice_captcha">Phát mã xác nhận âm thanh</string>
     <string name="passport_wrong_voice">Mã bạn nhập không chính xác</string>
-    <string name="send_diagnosis_log">Gửi nhật ký chuẩn đoán</string>
+    <string name="send_diagnosis_log">Gửi nhật ký chẩn đoán</string>
     <string name="sending">Đang gửi</string>
     <string name="temporary_not_available">Tạm thời không khả dụng</string>
 	<string name="passport_input_phone_password">Nhập mật khẩu cho %s</string>

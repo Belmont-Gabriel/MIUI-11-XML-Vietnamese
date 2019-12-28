@@ -1548,4 +1548,6 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="confirm_delete_cloud_all_call_logs">Xóa tất cả lịch sử cuộc gọi liên quan đến %s trên cả đám mây và thiết bị này?</string>
 	<string name="no_phone_no_shortcut">"Không thể tạo lối tắt cho liên hệ không có số điện thoại"</string>
 	<string name="deleteCloudConfirmationDetail">Xóa tất cả thông tin liên hệ của %s trên cả đám mây và thiết bị này?</string>
+	<string name="delete_conference_call_log_title">Xóa ghi âm cuộc gọi hội nghị</string>
+	<string name="delete_conference_call_log_message">Xóa tất cả ghi âm cuộc gọi hội nghị liên kết với liên hệ này?</string>
 </resources>

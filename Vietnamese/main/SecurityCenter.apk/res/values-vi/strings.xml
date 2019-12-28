@@ -335,7 +335,7 @@ Chúng sẽ được thêm vào danh sách ngoại lệ, nhưng các mục bị 
  1. Nhà mạng phản hồi chậm vào đầu hoặc cuối tháng. Hãy thử lại sau vài ngày.
  2. Khi bạn hiệu chỉnh lần đầu, bạn cần kết nối mạng để có mẫu hiệu chỉnh. Kết nối mạng và thử lại.
  3. Nhà cung cấp có thể không hỗ trợ gửi tin nhắn văn bản bao gồm thông tin số dư tài khoản và dữ liệu còn lại. Liên hệ với nhà cung cấp để biết thêm thông tin.
- 4. Dữ liệu nhà cung cấp bị lỗi. Thử chuẩn đoán nhà cung cấp để giải quyết vấn đề này.
+ 4. Dữ liệu nhà cung cấp bị lỗi. Thử chẩn đoán nhà cung cấp để giải quyết vấn đề này.
  5. Vẫn chưa giải quyết được vấn đề? Chạm “Báo qua SMS” để gửi phản hồi đến Xiaomi."</string>
     <string name="card_sms_report">Báo cáo qua SMS</string>
     <string name="main_normal_data_usage">Đã sử dụng dữ liệu di động</string>
@@ -756,7 +756,7 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
 2. Bạn có thể thoát khỏi trang này trong khi chẩn đoán, hệ thống sẽ tự động chẩn đoán trong nền."</string>
     <string name="sim_location_diagnostic">Chẩn đoán vị trí</string>
     <string name="operator_diagnostic">Chẩn đoán nhà mạng</string>
-    <string name="brand_diagnostic">Chuẩn đoán thương hiệu nhà mạng</string>
+    <string name="brand_diagnostic">Chẩn đoán thương hiệu nhà mạng</string>
     <string name="tc_diagnostic_status_updating">Đang kiểm tra…</string>
     <string name="tc_diagnostic_status_success">"&lt;font color='#3EC234'>Chính xác&lt;/font>"</string>
     <string name="tc_diagnostic_status_failure">"&lt;font color='#CC0000'>Lỗi&lt;/font>"</string>
@@ -768,10 +768,10 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Kết quả: Sai vị trí&lt;br/>&lt;br/>Cài đặt vị trí: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Vị trí thực: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng sai&lt;br/>&lt;br/>Cài đặt nhà mạng: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Nhà mạng thực: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Kết quả: Thương hiệu nhà mạng sai&lt;br/>&lt;br/>Cài đặt thương hiệu: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Thương hiệu thực: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
-    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chuẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chuẩn đoán&lt;/font>"</string>
-    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng và thương hiệu chính xác&lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh:&lt;br/>1. Số liệu thống kê nhà mạng có thể không chính xác vào đầu hoặc cuối tháng.&lt;br/>2. Tính năng ứng dụng bảo mật chưa được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để MIUI cải thiện công cụ chuẩn đoán&lt;/font>"</string>
+    <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Kết quả: Không thể hoàn tất chẩn đoán&lt;br/>&lt;br/>Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chẩn đoán&lt;/font>"</string>
+    <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Kết quả: Nhà mạng và thương hiệu chính xác&lt;br/>&lt;br/>Không thể hoàn tất điều chỉnh:&lt;br/>1. Số liệu thống kê nhà mạng có thể không chính xác vào đầu hoặc cuối tháng.&lt;br/>2. Tính năng ứng dụng bảo mật chưa được cập nhật.&lt;br/>&lt;br/>Báo cáo vấn đề này để MIUI cải thiện công cụ chẩn đoán&lt;/font>"</string>
     <string name="tc_diagnostic_notification_title">Chẩn đoán nhà mạng</string>
-    <string name="tc_diagnostic_notification_summary">Không thể điều chỉnh liên tục 5 lần. Chạm để bắt đầu chuẩn đoán.</string>
+    <string name="tc_diagnostic_notification_summary">Không thể điều chỉnh liên tục 5 lần. Chạm để bắt đầu chẩn đoán.</string>
     <string name="tc_diagnostic_upload_success">Cảm ơn phản hồi của bạn!</string>
     <string name="tc_diagnostic_upload_no_network">Cảm ơn phản hồi của bạn! Báo cáo của bạn sẽ được gửi khi có kết nối mạng.</string>
     <string name="tc_diagnostic_location_error_notification_title">Vị trí sai</string>
@@ -780,16 +780,16 @@ Thử sử dụng cáp Ethernet để kết nối bộ định tuyến của b�
     <string name="tc_diagnostic_operator_error_notification_summary">Chạm để thay đổi cài đặt nhà mạng</string>
     <string name="tc_diagnostic_brand_error_notification_title">Loại mạng sai</string>
     <string name="tc_diagnostic_brand_error_notification_summary">Chạm để điều chỉnh loại mạng</string>
-    <string name="tc_diagnostic_all_error_notification_title">Không thể hoàn tất chuẩn đoán</string>
+    <string name="tc_diagnostic_all_error_notification_title">Không thể hoàn tất chẩn đoán</string>
     <string name="tc_diagnostic_all_error_notification_summary">Chạm để báo cáo vấn đề</string>
     <string name="tc_diagnostic_success_notification_title">Nhà mạng và thương hiệu chính xác</string>
-    <string name="tc_diagnostic_success_notification_summary">Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chuẩn đoán</string>
+    <string name="tc_diagnostic_success_notification_summary">Báo cáo vấn đề này để giúp MIUI cải thiện công cụ chẩn đoán</string>
     <string name="tc_diagnostic_repair_success_toast">Đã thay đổi thành công</string>
     <string name="tc_diagnostic_complete">Hoàn tất</string>
     <string name="tc_diagnostic_notification_sumarry">Chạm để xem kết quả</string>
-    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, vấn đề vị trí đã được sửa.&lt;/font>"</string>
-    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Chuẩn đoán hoàn tất, vấn đề vị trí và nhà mạng đã được sửa.&lt;/font>"</string>
-    <string name="diagnostic_attention_dialog_message">Đang tiến hành chuẩn đoán nhà mạng %1$s. Đợi đến khi quá trình kết thúc và thử lại.</string>
+    <string name="tc_diagnostic_repair_location">"&lt;font color='#3EC234'>Chẩn đoán hoàn tất, vấn đề vị trí đã được sửa.&lt;/font>"</string>
+    <string name="tc_diagnostic_repair_location_and_operator">"&lt;font color='#3EC234'>Chẩn đoán hoàn tất, vấn đề vị trí và nhà mạng đã được sửa.&lt;/font>"</string>
+    <string name="diagnostic_attention_dialog_message">Đang tiến hành chẩn đoán nhà mạng %1$s. Đợi đến khi quá trình kết thúc và thử lại.</string>
     <string name="correction_attention_dialog_message">Đang điều chỉnh cài đặt. Hãy chờ quá trình kết thúc và thử lại.</string>
     <string name="text_button">Tôi biết</string>
     <string name="btn_back">Quay lại</string>
@@ -1627,7 +1627,7 @@ thiết bị của bạn"</string>
     <string name="card_main_netcheck_summary">Kiểm tra tốc độ kết nối đối với vấn đề mạng</string>
     <string name="card_main_netcheck_action">Kiểm tra</string>
     <string name="card_main_hbassistant_title">Cập nhật</string>
-    <string name="card_main_hbassistant_summary">Copyright NXT - TEAM MIUI.VN</string>
+    <string name="card_main_hbassistant_summary">Sử dụng công cụ này để chụp lì xì nhanh hơn</string>
     <string name="card_main_deepclean_qq_title">Trình dọn dẹp QQ</string>
     <string name="action_button_text_100">Tối ưu</string>
     <string name="action_button_text_80_100">Tối ưu</string>
@@ -1967,7 +1967,7 @@ thiết bị của bạn"</string>
     <string name="game_booster">Tăng tốc trò chơi</string>
     <string name="game_booster_title">Tăng tốc</string>
     <string name="top_game">Trò chơi hàng đầu</string>
-    <string name="game_booster_tab_top">Top</string>
+    <string name="game_booster_tab_top">Hàng đầu</string>
     <string name="game_bootser_tab_settings">Cài đặt tăng tốc</string>
     <string name="game_booster_jump_webview">Vui lòng chờ…</string>
     <string name="game_setting">Cài đặt trò chơi</string>
@@ -2765,8 +2765,8 @@ Không bao giờ bỏ lỡ phong bao lì xì nào"</string>
 	<string name="app_permission_use_no_neccesary">Quyền tùy chọn</string>
 	<string name="app_permission_use_title">Quyền</string>
 	<string name="cta_dialog_msg">&lt;Data&gt;Bạn cần đồng ý với &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;amp;lang=%2$s\"&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi trước khi sử dụng Bảo mật. Bảo mật cũng cần kết nối mạng và truy cập vị trí của bạn để hoạt động bình thường và giữ cho nhận dạng quét virus được cập nhật. Đồng ý?&lt;/Data&gt;</string>
-	<string name="cta_dialog_negative">Exit</string>
-	<string name="cta_dialog_positive">Agree</string>
+	<string name="cta_dialog_negative">Thoát</string>
+	<string name="cta_dialog_positive">Đồng ý</string>
 	<string name="alert_back_diving_mode_summary">Tắt chế độ Nhập vai ngay?</string>
     <string name="alert_back_diving_mode_title">Chế độ Nhập vai</string>
     <string name="applock_toast_tip">Xác nhận Khóa ứng dụng thành công</string>

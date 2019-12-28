@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="wifi_fail_to_scan">Không thể quét mạng</string>
+    <string name="wifi_security_none">Không</string>
     <string name="wifi_remembered">Đã lưu</string>
     <string name="wifi_disabled_generic">Đã tắt</string>
     <string name="wifi_disabled_network_failure">Không thể cấu hình IP</string>

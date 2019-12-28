@@ -356,4 +356,9 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="news_load_more_no_data">Chỉ hiển thị 48 giờ gần nhất</string>
 	<string name="news_load_more_default">Kéo lên để tải thêm</string>
 	<string name="widget_cta_not_agree">Chạm để lấy thông tin thời tiết</string>
+	<string name="manager_city_option_add_city_back_search">Quay lại tìm kiếm</string>
+	<string name="manager_city_option_add_home">Thêm vào trang bắt đầu</string>
+	<string name="manager_city_option_add_city_content">Thêm thành phố vào trang bắt đầu thành công</string>
+	<string name="manager_city_option_add_city_title">Đã thêm thành công</string>
+	<string name="manager_city_option_view_on_home">Xem trên trang bắt đầu</string>
 </resources>

@@ -3728,7 +3728,7 @@ Bạn có thể thay đổi điều này sau đó từ Cài đặt > Ứng dụn
     <string name="user_experience_program">Chương trình Trải nghiệm Người dùng</string>
     <string name="user_experience_program_title">Chương trình Trải nghiệm Người dùng</string>
     <string name="user_experience_program_summary">Giúp cải thiện MIUI bằng cách gửi dữ liệu ẩn danh</string>
-    <string name="upload_debug_log_title">Gửi dữ liệu chuẩn đoán tự động</string>
+    <string name="upload_debug_log_title">Gửi dữ liệu chẩn đoán tự động</string>
     <string name="upload_debug_log_summary">Thông tin mà chúng tôi thu thập có thể chứa dữ liệu cá nhân của bạn. Nó sẽ được sử dụng để định vị và phân tích vấn đề trên hệ thống và sẽ không bao giờ sử dụng để xác định cá nhân bạn.</string>
     <string name="sound_vibrate_settings">Âm thanh &amp; rung</string>
     <string name="settings_notify_phone_recycled">Số điện thoại của bạn đã bị thu hồi. Chạm để thêm số điện thoại khác.</string>

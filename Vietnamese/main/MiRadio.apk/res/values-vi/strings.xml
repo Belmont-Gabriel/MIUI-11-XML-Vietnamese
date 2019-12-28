@@ -1036,22 +1036,22 @@ Truy cập lưu trữ để truy cập và lưu các ảnh bìa và tệp đã t
 	<string name="music">Nhạc &amp; FM</string>
 	<string name="passport_captcha_title">Mã xác thực</string>
 	<string name="sending">Đang gửi</string>
-	<string name="send_diagnosis_log">Gửi nhật ký chuẩn đoán</string>
+	<string name="send_diagnosis_log">Gửi nhật ký chẩn đoán</string>
 	<string name="charge_success">Nạp tiền thành công</string>
 	<string name="album_pay_refresh">Tải mới không thành công</string>
-	<string name="for_diagnosis_usage_only">Chỉ sử dụng để chuẩn đoán.</string>
+	<string name="for_diagnosis_usage_only">Chỉ sử dụng để chẩn đoán.</string>
 	<string name="buy_now">Mua ngay</string>
-	<string name="diagnosis_log_send_failed">Gửi nhật ký chuẩn đoán thất bại.</string>
+	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
 	<string name="normal_question">Câu hỏi</string>
 	<string name="my_paid">Đã mua</string>
-	<string name="diagnosis_log_sent_format">"Đã gửi nhật ký chuẩn đoán.
+	<string name="diagnosis_log_sent_format">"Đã gửi nhật ký chẩn đoán.
 ID:%s
 Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="my_balance_discount">Giảm giá</string>
 	<string name="purchased_empty_hint">Chưa có mục nào ở đây.</string>
 	<string name="temporary_not_available">Tạm thời không khả dụng</string>
 	<string name="passport_oauth_actionbar_title">Tài khoản Mi</string>
-	<string name="collect_diagnosis_log">Thu thập nhật ký chuẩn đoán</string>
+	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
 	<string name="my_balance_normal">Nạp tiền</string>
 	<string name="my_wallet">Ví</string>
 	<string name="back_reward_for_charge">Hoàn tiền</string>

@@ -389,7 +389,7 @@ Hãy liên hệ với quản trị viên của tổ chức nếu bạn có thắ
     <string name="fingerprint_error_timeout">Đã hết thời gian chờ vân tay. Hãy thử lại.</string>
     <string name="fingerprint_error_unable_to_process">Thử lại.</string>
     <string name="fingerprint_name_template">Ngón tay %d</string>
-    <string name="fingerprints">Vân tay: </string>
+    <string name="fingerprints">"Vân tay: "</string>
     <string name="floating_toolbar_close_overflow_description">Đóng tràn</string>
     <string name="floating_toolbar_open_overflow_description">Tùy chọn khác</string>
     <string name="force_close">OK</string>
@@ -403,7 +403,7 @@ Hãy liên hệ với quản trị viên của tổ chức nếu bạn có thắ
     <string name="global_action_assist">Hỗ trợ</string>
     <string name="global_action_bug_report">Báo cáo lỗi</string>
     <string name="global_action_emergency">Khẩn cấp</string>
-    <string name="global_action_lock">Khoá màn hình</string>
+    <string name="global_action_lock">Khóa màn hình</string>
     <string name="global_action_lockdown">Khóa ngay</string>
     <string name="global_action_power_off">Tắt nguồn</string>
     <string name="global_action_settings">Cài đặt</string>
@@ -1097,7 +1097,7 @@ Hãy thử lại sau %2$d giây."</string>
     <string name="permlab_writeGeolocationPermissions">Sửa đổi các quyền về vị trí địa lý của Trình duyệt</string>
     <string name="permlab_writeHistoryBookmarks">Viết lịch sử và dấu trang web của bạn</string>
     <string name="permlab_writeSettings">Sửa đổi cài đặt hệ thống</string>
-    <string name="permlab_writeSyncSettings">Shuyển đổi bật và tắt đồng bộ hóa</string>
+    <string name="permlab_writeSyncSettings">Chuyển đổi bật và tắt đồng bộ hóa</string>
     <string name="perms_description_app">Được cung cấp bởi %1$s.</string>
     <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">MỚI: </font></string>
     <string name="petabyteShort">PB</string>
@@ -1239,7 +1239,7 @@ Việc nghe ở mức âm lượng cao trong thời gian dài có thể gây t�
     <string name="screen_compat_mode_hint">Bật lại chế độ này trong cài đặt Hệ thống > Ứng dụng > Đã tải xuống.</string>
     <string name="screen_compat_mode_scale">Tỷ lệ</string>
     <string name="screen_compat_mode_show">Luôn hiển thị</string>
-    <string name="screen_lock">Khoá màn hình</string>
+    <string name="screen_lock">Khóa màn hình</string>
     <string name="search_hint">Tìm kiếm…</string>
     <string name="search_language_hint">Nhập tên ngôn ngữ</string>
     <string name="searchview_description_clear">Xóa truy vấn</string>
@@ -2184,7 +2184,7 @@ Bạn có muốn đóng trang không?"</string>
     <string name="permdesc_deleteCacheFiles">Cho phép ứng dụng xóa tệp cache.</string>
     <string name="permdesc_deletePackages">Cho phép ứng dụng xóa gói Android. Ứng dụng độc hại có thể lợi dụng để xóa ứng dụng quan trọng.</string>
     <string name="permdesc_devicePower">Cho phép ứng dụng tắt hoặc bật điện thoại.</string>
-    <string name="permdesc_diagnostic">Cho phép ứng dụng đọc và ghi vào bất kỳ tài nguyên nào của nhóm diagl ví dụ tệp trong /dev. Điều này có khả năng ảnh hưởng đến bảo mật và độ ổn định hệ thống. CHỈ nên sử dụng cho chuẩn đoán phần cứng cụ thể bởi nhà sản xuất hoặc nhà điều hành.</string>
+    <string name="permdesc_diagnostic">Cho phép ứng dụng đọc và ghi vào bất kỳ tài nguyên nào của nhóm diagl ví dụ tệp trong /dev. Điều này có khả năng ảnh hưởng đến bảo mật và độ ổn định hệ thống. CHỈ nên sử dụng cho chẩn đoán phần cứng cụ thể bởi nhà sản xuất hoặc nhà điều hành.</string>
     <string name="permdesc_dump">Cho phép ứng dụng truy xuất trạng thái nội bộ của hệ thống. Ứng dụng độc hại có thể trích xuất nhiều thông tin riêng tư và bảo mật mà bình thường chúng không cần.</string>
     <string name="permdesc_fm">Cho phép ứng dụng truy cập đài FM để nghe chương trình.</string>
     <string name="permdesc_forceBack">Cho phép ứng dụng buộc bất kỳ activity nào ở foreground đóng và quay lại. Không bao giờ cần cho ứng dụng thông thường.</string>
