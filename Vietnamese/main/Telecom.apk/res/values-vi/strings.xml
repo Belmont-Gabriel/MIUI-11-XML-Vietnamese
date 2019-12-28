@@ -215,7 +215,7 @@
     <string name="immediately_destroy_activities_summary">Hủy mọi hoạt động ngay khi người dùng rời khỏi</string>
     <string name="app_process_limit_title">Giới hạn quá trình nền</string>
     <string name="show_all_anrs">Hiển thị tất cả ANR</string>
-    <string name="show_all_anrs_summary">Hiện hộp thoại Ứng dụng ko đáp ứng cho ứng dụng nền</string>
+    <string name="show_all_anrs_summary">Hiện hộp thoại Ứng dụng không đáp ứng cho ứng dụng nền</string>
     <string name="force_allow_on_external">Buộc cho phép các ứng dụng trên bộ nhớ ngoài</string>
     <string name="force_allow_on_external_summary">Giúp mọi ứng dụng đủ điều kiện để được ghi vào bộ nhớ ngoài, bất kể giá trị tệp kê khai là gì</string>
     <string name="force_resizable_activities">Buộc các hoạt động có thể thay đổi kích thước</string>
@@ -612,7 +612,7 @@ Chứng chỉ bộ nhớ có thể không bật</string>
     <string name="mt_code_call_retrieved">Cuộc gọi đã khôi phục</string>
     <string name="mt_code_cug_call">Nhóm người dùng đóng</string>
     <string name="mt_code_deflected_call">Đó là cuộc gọi bị chệch hướng</string>
-    <string name="mt_code_forward_check_received">Chuyê tiếp kiểm tra tin nhắn SS đã nhận</string>
+    <string name="mt_code_forward_check_received">Chuyển tiếp kiểm tra tin nhắn SS đã nhận</string>
     <string name="mt_code_forwarded_call">Đó là cuộc gọi đã chuyển tiếp</string>
     <string name="mt_code_forwarded_cf">Đã chuyển tiếp cuộc gọi</string>
     <string name="mt_code_forwarded_cf_busy">Đã chuyển tiếp cuộc gọi bận</string>

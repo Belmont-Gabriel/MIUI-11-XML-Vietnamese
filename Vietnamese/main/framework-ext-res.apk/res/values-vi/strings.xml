@@ -241,10 +241,10 @@
 	<string name="file_sending">Gửi tệp</string>
 	<string name="file_type_detail_count">%1$d tài liệu</string>
 	<string name="functions_are_being_developed">Tính năng đang được phát triển, hãy theo dõi</string>
-	<string name="input_method_edit_phrase_text">Chỉnh sửa cụm từ thường xuyên</string>
+	<string name="input_method_edit_phrase_text">Chỉnh sửa cụm từ thường dùng</string>
 	<string name="input_method_no_content_text">Chưa có mục nào ở đây</string>
 	<string name="input_method_switch_settings_text">Cài đặt bàn phím</string>
-	<string name="input_method_tab_phrase_text">Cụm từ thường xuyên</string>
+	<string name="input_method_tab_phrase_text">Cụm từ thường dùng</string>
 	<string name="mi_drop">Xiaomi Mi Drop</string>
 	<string name="pc_device_model_name">Máy tính xách tay</string>
 	<string name="send_files_to">Gửi tệp đến</string>

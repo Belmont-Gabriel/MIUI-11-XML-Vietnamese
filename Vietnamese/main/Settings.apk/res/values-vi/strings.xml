@@ -8949,8 +8949,8 @@ Tính năng này có thể tắt trong [Cài đặt]"</string>
 	<string name="color_led_special_scene_title">Hiệu ứng đặc biệt</string>
 	<string name="color_led_summary">Không hoạt động ở chế độ Không làm phiền</string>
 	<string name="full_screen_keyboard_optimization">Bàn phím nâng cao</string>
-	<string name="input_method_function_clipboard">Clipboard và cụm từ thường xuyên</string>
-	<string name="input_method_function_clipboard_des">Chạm để xem nội dung clipboard và cụm từ thường xuyên</string>
+	<string name="input_method_function_clipboard">Clipboard và cụm từ thường dùng</string>
+	<string name="input_method_function_clipboard_des">Chạm để xem nội dung clipboard và cụm từ thường dùng</string>
 	<string name="input_method_function_no_function">Không</string>
 	<string name="input_method_function_no_function_des">"Không hiển thị lối tắt"</string>
 	<string name="input_method_function_switch">Chuyển giữa các bàn phím</string>

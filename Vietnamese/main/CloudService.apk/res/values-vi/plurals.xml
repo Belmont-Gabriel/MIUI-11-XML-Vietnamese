@@ -67,6 +67,6 @@
         <item quantity="other">%s dịch vụ sẽ được đồng bộ với Xiaomi Cloud</item>
     </plurals>
 	<plurals name="dirty_phrase_count">
-        <item quantity="other">%d cụm từ thường xuyên</item>
+        <item quantity="other">%d cụm từ thường dùng</item>
     </plurals>
 </resources>

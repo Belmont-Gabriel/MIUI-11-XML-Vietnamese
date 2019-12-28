@@ -1494,7 +1494,7 @@
     <string name="alipay_title_back">Trở về</string>
     <string name="alipay_tryAgain">Thử lại</string>
     <string name="alipay_use_follow_service">Các dịch vụ sau đây trực tiếp có sẵn</string>
-    <string name="alipay_used_other_account">Thay đổi tài khoản đăng nhâpk</string>
+    <string name="alipay_used_other_account">Thay đổi tài khoản đăng nhập</string>
     <string name="alipay_verify_identity_fail">Xác minh thất bại, vui lòng thử lại</string>
     <string name="alipay_wait">Đợi thêm chút nữa</string>
     <string name="alipay_want_to_register">Tôi muốn đăng ký</string>
@@ -1720,7 +1720,7 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="all_function_title">Tất cả lối tắt</string>
 	<string name="app_suggest_detail_setting_summary">Gợi ý ứng dụng sẽ dựa trên dữ liệu sử dụng của bạn</string>
 	<string name="app_suggest_detail_setting_title">Cho phép truy cập trạng thái ứng dụng</string>
-	<string name="app_suggest_setting_brief_detail">App suggestions will be based on your usage data</string>
+	<string name="app_suggest_setting_brief_detail">Gợi ý ứng dụng sẽ dựa trên dữ liệu mức sử dụng của bạn</string>
 	<string name="app_suggest_setting_brief">Hiển thị ứng dụng sử dụng gần đây</string>
 	<string name="app_suggest_setting_title">Gợi ý ứng dụng</string>
 	<string name="cta_dialog_text_new_user">Đọc và đồng ý với %1$sThỏa thuận Người dùng%2$s và %3$sChính sách Riêng tư%4$s của chúng tôi.</string>
