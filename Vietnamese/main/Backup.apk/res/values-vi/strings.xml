@@ -655,4 +655,5 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="dialog_backup_password_restore_tips">"Không thể khôi phục các mục khi mật khẩu sao lưu được bật. Tắt mật khẩu sao lưu trước."</string>
 	<string name="iCloud_ID_verification_tip">"Nhập mã xác minh SMS được gửi tới số điện thoại liên kết với tài khoản Apple của bạn. Bỏ qua màn hình hiện mã bật lên trên màn hình iPhone của bạn."</string>
 	<string name="trans_complete_restoring">Truyền thành công. Đang khôi phục dữ liệu ứng dụng…</string>
+	<string name="camera_summary_for_cta">Cài đặt Máy ảnh</string>
 </resources>

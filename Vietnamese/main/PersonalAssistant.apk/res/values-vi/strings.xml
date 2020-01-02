@@ -1833,4 +1833,5 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="express_setting_comfirm_delete_phone">Xóa</string>
 	<string name="miot_auth_content">Sử dụng App vault để điều khiển thiết bị nhà thông minh của bạn</string>
 	<string name="setting_taxi_brief">Chạm để gọi taxi và xem chi tiết đơn hàng của bạn</string>
+	<string name="card_expand_note_toast_share_null">Ghi chú trống</string>
 </resources>

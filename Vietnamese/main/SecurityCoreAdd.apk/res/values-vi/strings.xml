@@ -479,4 +479,8 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="xspace_notification_error">Đăng nhập WeChat kép và thử lại</string>
 	<string name="xspace_settins">Đặt</string>
 	<string name="xspace_notification">Thông báo ứng dụng kép</string>
+	<string name="greenguard_install_cancle">Không, cảm ơn</string>
+	<string name="greenguard_install_title">Cài đặt Bảo vệ Gia đình</string>
+	<string name="greenguard_install_message">"Bảo vệ Gia đình là một ứng dụng hệ thống. Bạn không cần mạng để cài đặt."</string>
+	<string name="greenguard_install_confirm">Cài đặt</string>
 </resources>

@@ -418,4 +418,21 @@ sau khi Sức khỏe Mi phân tích đủ dữ liệu"</string>
 	<string name="bedtime">Thời gian ngủ</string>
 	<string name="open_sleep_record">Bật</string>
 	<string name="sleep_record_desc">Bật để bắt đầu ghi dữ liệu giấc ngủ</string>
+	<string name="edit_label">Sửa nhãn báo thức</string>
+	<string name="net_permission_ok">Đồng ý</string>
+	<string name="normal_settings">Cài đặt chung</string>
+	<string name="net_permission_cancel">"Không đồng ý"</string>
+	<string name="ringtone_digital_timer">Đếm giờ</string>
+	<string name="auto_silence_summary">Đặt thời gian mà đếm giờ và báo thức sẽ im lặng</string>
+	<string name="timer_ringtone">Chuông đếm giờ</string>
+	<string name="label_input_desc">Nhãn này sẽ hiển thị trên màn hình khi báo thức kêu</string>
+	<string name="time_settings">Cài đặt đồng hồ</string>
+	<string name="new_label">Thêm nhãn báo thức</string>
+	<string name="more_alert_setting">Cài đặt báo thức bổ sung</string>
+	<string name="alert_volume_summary">Đặt âm lượng chuông cho báo thức và đếm giờ</string>
+	<string name="label_input_hint">Nhập nhãn</string>
+	<string name="alert_ringtone">Chuông báo thức</string>
+	<string name="other_settings">Cài đặt bổ sung</string>
+	<string name="holiday_update_title">Cập nhật thông tin về ngày lễ</string>
+	<string name="alert_volume">Âm lượng chuông</string>
 </resources>

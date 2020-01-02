@@ -9852,4 +9852,9 @@ Dưới đây là một số nguyên nhân:
 	<string name="wake_suppression_title">Yếu</string>
 	<string name="seek_bar_info">Điều chỉnh kích thước của vùng chống chạm nhầm</string>
 	<string name="gps_description">Nhiều hệ thống định vị vệ tinh (GPS, BeiDou, GLONASS, Galileo) được hỗ trợ</string>
+	<string name="privacy_failed_need_to_unlock_nofingerprint">Nhập mật khẩu trước khi sử dụng vân tay mới</string>
+	<string name="wifi_direct_close_hotspot_hint">Tắt điểm phát di động trước khi sử dụng Wi-Fi trực tiếp</string>
+	<string name="codec_low_latency_summary">Cung cấp trải nghiệm độ trễ thấp cho đồng bộ Âm thanh/Video</string>
+	<string name="wifi_direct_close_slave_wifi_hint">Ngắt kết nối mạng Wi-Fi phụ trước khi sử dụng Wi-Fi trực tiếp</string>
+	<string name="codec_low_latency_title">Độ trễ thấp</string>
 </resources>

@@ -111,4 +111,8 @@
 	<plurals name="vo_wei_bo_publish_time_minute">
 		<item quantity="other">· %s phút trước</item>
 	</plurals>
+	<plurals name="video_playback_error">
+		<item quantity="other">"Không thể tải video.
+Sẽ phát video kế tiếp trong %d giây…"</item>
+	</plurals>
 </resources>

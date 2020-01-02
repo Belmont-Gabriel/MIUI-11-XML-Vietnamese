@@ -492,4 +492,8 @@
 	<string name="user_query_notification_title">Trang chủ MIUI mời bạn tham gia khảo sát sử dụng</string>
 	<string name="user_query_notification_text">Trang chủ có tiện dụng không? Các hiệu ứng có mượt mà? Tham gia khảo sát và cho chúng tôi biết!</string>
 	<string name="default_folder_title_other_apps">Ứng dụng khác</string>
+	<string name="category_edit_back_confirm_dialog_negative_button">"Không lưu"</string>
+	<string name="auto_add_app_shortcut">Thêm ứng dụng mới cài đặt vào màn hình chính</string>
+	<string name="category_edit_back_confirm_dialog_content">Lưu thay đổi?</string>
+	<string name="category_edit_back_confirm_dialog_positive_button">Lưu</string>
 </resources>

@@ -336,4 +336,22 @@ An toàn và bảo mật"</string>
 	<string name="app_control_desc">Quản lý ứng dụng của bé trong Không gian của trẻ</string>
 	<string name="set_password_dialog_message">Bạn nên đặt mật khẩu màn hình khóa không gian chính. Sau khi cài đặt, mật khẩu màn hình khóa sẽ được yêu cầu khi thoát khỏi chế độ của trẻ. Trẻ em không thể vào không gian chính của bạn theo ý muốn</string>
 	<string name="time_manager_dialog_msg">Để cho phép quản lý thời gian, trước tiên bạn cần đặt mật khẩu khóa màn hình chính để phụ huynh mở khóa.</string>
+	<string name="ew_detail_earthquake_feel_little">Rung lắc nhẹ</string>
+	<string name="ew_detail_earthquake_feel_max">Rất mạnh</string>
+	<string name="ew_detail_receive_distance_message2">%s km (Tâm chấn ở xa bạn. Có thể bạn không cảm nhận được động đất.)</string>
+	<string name="ew_share_logo_title">Cảnh báo động đất</string>
+	<string name="ew_detail_earthquake_feel_title">Cường độ ước tính</string>
+	<string name="ew_share_title">Chia sẻ</string>
+	<string name="ew_detail_receive_time_title">Thời gian bắt đầu</string>
+	<string name="ew_share_save_tips">Đã lưu vào %s</string>
+	<string name="ew_detail_receive_distance_title">Khoảng cách tới tâm chấn</string>
+	<string name="ew_detail_earthquake_feel_middle">Khỏe</string>
+	<string name="ew_detail_earthquake_feel_normal">Vừa phải</string>
+	<string name="ew_detail_receive_alert_from">Dữ liệu cung cấp bởi Viện Giảm nhẹ Thiên tai Công nghệ cao Chengdu</string>
+	<string name="ew_detail_earthquake_feel_none">Không cảm nhận được</string>
+	<string name="ew_warning_detail">Chi tiết cảnh báo</string>
+	<string name="ew_detail_earthquake_level_title">Độ lớn ước tính</string>
+	<string name="ew_detail_receive_location_title">Vị trí</string>
+	<string name="ew_detail_receive_warn_time_title">Thời gian trước khi bắt đầu</string>
+	<string name="ew_detail_earthquake_center_title">Tâm chấn</string>
 </resources>

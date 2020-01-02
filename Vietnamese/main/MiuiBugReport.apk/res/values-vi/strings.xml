@@ -582,4 +582,26 @@
 	<string name="feedback_hint_optional">Chọn</string>
 	<string name="feedback_title_occurrence_time">Chọn thời gian</string>
 	<string name="feedback_choose_occurrence_time">Thời gian</string>
+	<string name="update_dialog_title">Có cập nhật khả dụng</string>
+	<string name="service_unavailiable">"Không thể lấy thông tin, vui lòng thử lại sau"</string>
+	<string name="failed_to_fetch_fql">"Không thể lấy thông tin FAQ, kiểm tra kết nối mạng"</string>
+	<string name="update_dialog_cancel">Hủy</string>
+	<string name="update_dialog_content_log">"Có gì mới:
+%1$s
+Size: %2$s"</string>
+	<string name="jump_full_log_dialog_cancel">Hủy</string>
+	<string name="update_dialog_confirm">Cập nhật</string>
+	<string name="jump_full_log_dialog_title">Tạo nhật ký</string>
+	<string name="net_error_info">Không có kết nối mạng, chạm vào đây để mở Cài đặt</string>
+	<string name="update_dialog_content_version">Bạn có thể cập nhật lên phiên bản %1$s ngay.</string>
+	<string name="toast_file_format_not_support">"Định dạng tệp tin này không được hỗ trợ. Thử chọn một tệp khác."</string>
+	<string name="jump_full_log_dialog_confirm">Tạo</string>
+	<string name="jump_full_log_dialog_content">"Nhật ký sẽ giúp chúng tôi xác định và sửa vấn đề bạn đang báo cáo nhanh hơn. Tạo nhật ký và đính kèm vào phản hồi của bạn."</string>
+	<string name="xiaomi_update_sdk_dialog_message_diff">"Giới thiệu phiên bản %1$s
+Kích thước cập nhật Delta: %2$s"</string>
+	<string name="xiaomi_update_sdk_connect_download_manager_fail">Kết nối Trình quản lý tải xuống thất bại, vui lòng kiểm tra trạng thái Trình quản lý tải xuống trong Quản lý ứng dụng.</string>
+	<string name="xiaomi_update_sdk_external_storage_unavailable">Bộ nhớ không khả dụng, vui lòng kiểm tra thẻ SD.</string>
+	<string name="xiaomi_update_sdk_dialog_title">%1$s cập nhật!</string>
+	<string name="xiaomi_update_sdk_dialog_message">"Giới thiệu phiên bản %1$s
+Kích thước: %2$s"</string>
 </resources>

@@ -1060,4 +1060,19 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
     <string name="system_permission_perm_send_mms">Gửi MMS</string>
 	<string name="mx_main_purpose_short">Tin nhắn Mi cho phép người dùng MIUI gửi và nhận SMS và MMS miễn phí.</string>
 	<string name="contact_card_unknown_contact">Liên hệ chưa biết</string>
+	<string name="recommend_mx_dialog_title">Chào mừng tới Tin nhắn Mi!</string>
+	<string name="yulore_term">Chính sách Riêng tư</string>
+	<string name="privacy_term">Chính sách Riêng tư</string>
+	<string name="recommend_both_dialog_title">Chào mừng tới Tin nhắn!</string>
+	<string name="feature_smart_sms_summary">&lt;b&gt;Tin nhắn Thông minh cung cấp tính năng nhận diện ID Người gửi và menu thông minh&lt;/b&gt;". Tin nhắn thông minh được cung cấp một phần bởi Yulore. Đọc và đồng ý với "&lt;font color="#B3000000"&gt;&lt;a href="http://url3"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của Yulore trước khi sử dụng tính năng này.</string>
+	<string name="recommend_dialog_message">Bạn có thể bật Tin nhắn Mi và Tin nhắn Thông minh để sử dụng các tính năng bổ sung.</string>
+	<string name="recommend_mx_setting_summary">Tin nhắn Mi cho phép bạn gửi tin nhắn tới người dùng Tin nhắn Mi khác qua mạng mà không phát sinh phí.</string>
+	<string name="feature_mx_summary">&lt;b&gt;Tin nhắn Mi cho phép bạn gửi tin nhắn tới người dùng Tin nhắn Mi khác qua mạng mà không phát sinh phí&lt;/b&gt;. Cần một tin nhắn gửi đi để kích hoạt dịch vụ này. Nhà mạng có thể tính phí tin nhắn này. Đọc và đồng ý với &lt;font color="#B3000000"&gt;&lt;a href="http://url1"&gt;Thỏa thuận Người dùng&lt;/a&gt;&lt;/font&gt; và &lt;font color="#B3000000"&gt;&lt;a href="http://url2"&gt;Chính sách Riêng tư&lt;/a&gt;&lt;/font&gt; của chúng tôi trước khi sử dụng tính năng này.</string>
+	<string name="feature_mx">Tin nhắn Mi</string>
+	<string name="turn_on">Bật</string>
+	<string name="feature_smart_sms">Tin nhắn Thông minh</string>
+	<string name="ignore">Không phải bây giờ</string>
+	<string name="recommend_smart_sms_setting_summary">Tin nhắn Thông minh cung cấp tính năng nhận diện ID Người gửi và menu thông minh.</string>
+	<string name="recommend_smart_sms_dialog_title">Chào mừng tới Tin nhắn Thông minh!</string>
+	<string name="user_term">Thỏa thuận Người dùng</string>
 </resources>
