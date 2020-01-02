@@ -2780,4 +2780,6 @@ Nếu bạn chọn ưu tiên mạng di động, nó sẽ được dùng mặc đ
 Chất lượng phát"</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
+	<string name="notification_demo_version_text">"Không thể thực hiện cuộc gọi hoặc sử dụng dữ liệu di động"</string>
+	<string name="notification_demo_version_title">Đây là một thiết bị demo</string>
 </resources>

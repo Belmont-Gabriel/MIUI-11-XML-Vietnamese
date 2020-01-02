@@ -361,4 +361,5 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="manager_city_option_add_city_content">Thêm thành phố vào trang bắt đầu thành công</string>
 	<string name="manager_city_option_add_city_title">Đã thêm thành công</string>
 	<string name="manager_city_option_view_on_home">Xem trên trang bắt đầu</string>
+	<string name="more_expanded">Thêm</string>
 </resources>

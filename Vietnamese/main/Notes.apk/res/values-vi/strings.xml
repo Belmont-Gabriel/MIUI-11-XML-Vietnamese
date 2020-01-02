@@ -373,4 +373,27 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="new_audio_create_talkback_des">Chạm để tạo ghi chú văn bản. Nhấn và giữ để tạo ghi chú giọng nói. Thả nút để dừng ghi âm và tạo ghi chú, hoặc vuốt lên để hủy.</string>
 	<string name="audio_create_normal_state">Thả ra để tạo. Vuốt lên để hủy.</string>
 	<string name="audio_create_will_cancel_state">Thả ra để hủy</string>
+	<string name="todo_schedule_time_repeat_week">, hàng tuần</string>
+	<string name="repeat_mode_day">Hàng ngày</string>
+	<string name="repeat_mode_default">Không bao giờ</string>
+	<string name="repeat_mode_set_item_none">Không bao giờ</string>
+	<string name="repeat_mode_set_item_week">Hàng tuần (%s)</string>
+	<string name="repeat_mode_set_item_week_detail">Hàng tuần (%s)</string>
+	<string name="todo_schedule_time_repeat_year">, hàng năm</string>
+	<string name="repeat_mode_year">Hàng năm</string>
+	<string name="repeat_mode_set_item_month_detail_lastday">Ngày cuối cùng mỗi tháng</string>
+	<string name="repeat_mode_normal_workday">Thứ Hai đến Thứ Sáu</string>
+	<string name="todo_schedule_time_repeat_month">, hàng tháng</string>
+	<string name="repeat_mode_set_title">Lặp lại</string>
+	<string name="todo_schedule_time_repeat_normal_workday">, Thứ Hai đến Thứ Sáu</string>
+	<string name="repeat_mode_dialog_title">Lặp lại</string>
+	<string name="repeat_mode_set_item_day">Hàng ngày</string>
+	<string name="repeat_mode_set_item_year_detail_day">dd/MM</string>
+	<string name="repeat_mode_month">Hàng tháng</string>
+	<string name="todo_schedule_time_repeat_day">, hàng ngày</string>
+	<string name="repeat_mode_set_item_year">Hàng năm (%s)</string>
+	<string name="repeat_mode_set_item_normal_workday">Thứ Hai đến Thứ Sáu</string>
+	<string name="repeat_mode_week">Hàng tuần</string>
+	<string name="repeat_mode_set_item_month_global">Hàng tháng (cùng ngày)</string>
+	<string name="repeat_mode_set_item_year_detail">Hàng năm (%s)</string>
 </resources>
