@@ -3299,7 +3299,7 @@ Kết nối cả điện thoại và màn hình mở rộng của bạn (v.d. TV
 	<string name="gb_operat_frequently">Đừng nhanh quá!</string>
 	<string name="global_wa_setting_alert_dialog_content">Bạn có thể giải phóng %s</string>
 	<string name="global_wa_setting_alert_dialog_title">Dọn dẹp WhatsApp</string>
-	<string name="net_boostering">Đang tăng tốc độ mạng</string>
+	<string name="net_boostering">Đang tăng tốc độ mạng…</string>
 	<string name="gb_manual_record_dialog_del_video_message">Xóa vĩnh viễn video đã chọn?</string>
 	<string name="game_manual_record_setting_peace">An bình</string>
 	<string name="gs_game_manual_record">Ghi thủ công</string>

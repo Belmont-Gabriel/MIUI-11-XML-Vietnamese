@@ -34,8 +34,8 @@
      <string name="accessibility_protrait">Chân dung</string>
      <string name="accessibility_selected">Các mục đã chọn</string>
      <string name="accessibility_setting">Cài đặt</string>
-     <string name="ai_scene_mode_use_hint_text">"Máy ảnh AI tự động phát hiện bối cảnh tự động
-và tối ưu ảnh của bạn dựa vào thông tin này"</string>
+     <string name="ai_scene_mode_use_hint_text">"Nhận diện cảnh bằng AI
+và tự điều chỉnh cài đặt"</string>
      <string name="back_bokeh_use_hint">Đảm bảo rằng khoảng cách máy ảnh và đối tượng không xa hơn 1.5 mét.</string>
      <string name="beauty_fragment_tab_name_3d_beauty">Làm đẹp</string>
      <string name="beauty_fragment_tab_name_3d_makeup">Trang điểm</string>

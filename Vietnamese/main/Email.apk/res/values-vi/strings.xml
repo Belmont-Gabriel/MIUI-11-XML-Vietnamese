@@ -36,7 +36,7 @@
     <string name="account_settings_incoming_summary">Cài đặt tên người dùng, mật khẩu và máy chủ khác</string>
     <string name="account_settings_login_dialog_content_fmt">"Tên người dùng hoặc mật khẩu tài khoản %s không chính xác.
  Cập nhật ngay?"</string>
-    <string name="account_settings_login_dialog_reason_fmt">Không thể đăng nhập vào tài khoản %1$s. Phản hồi máy chủ: %2$s</string>
+    <string name="account_settings_login_dialog_reason_fmt">Không thể đăng nhập vào tài khoản %1$s. Phản hồi máy chủ: %2$s. Cập nhật tên đăng nhập hoặc mật khẩu?</string>
     <string name="account_settings_login_dialog_title">Không thể đăng nhập</string>
     <string name="account_settings_mail_check_frequency_dialog_title">Bạn cần phải làm mới Mail thủ công để đồng bộ</string>
     <string name="account_settings_mail_check_frequency_dialog_title_eas">Bạn cần phải đồng bộ Mail thủ công để có thể đồng bộ tin nhắn và sự kiện lịch.</string>
@@ -1200,7 +1200,7 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="search_remote_again">Không có mạng, thử lại</string>
 	<string name="sync_failed_mi_authority_view_detail">Xem chi tiết</string>
 	<string name="login_failed_tip">Không thể đăng nhập, thử lại sau</string>
-	<string name="email_sync_failed">Đồng bộ thất bại</string>
+	<string name="email_sync_failed">Không thể đồng bộ thư</string>
 	<string name="mail_login_help">Trợ giúp đăng nhập</string>
 	<string name="mail_login_help_bottom_tip">Nếu bạn cần khôi phục mật khẩu hoặc kiểm tra trạng thái cài đặt, truy cập https://email.163.com/ để thấy tùy chọn khả dụng cho bạn:</string>
 	<string name="mail_login_help_details1">1.Mật khẩu email: Nếu bạn chưa cài đặt xác thực máy khách và đã mở giao thức POP3/IMAP/SMTP, bạn có thể dùng mật khẩu email để đăng nhập.</string>
@@ -1239,30 +1239,30 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="setting_kids_subtitle">Xác nhận tuổi người dùng</string>
 	<string name="sync_calendra_fail_per_title">Không thể đồng bộ lịch</string>
 	<string name="under_sixteen">Tôi dưới 16 tuổi</string>
-	<string name="account_options_actionbar_title">Cài đặt chung</string>
+	<string name="account_options_actionbar_title">Cài đặt Tài khoản</string>
 	<string name="user_privacy_settings_summary">Chúng tôi sẽ thu thập ID Android của bạn (đã được mã hóa dưới dạng ID người dùng duy nhất của bạn bằng Mi Mail) hoặc nhật ký hoạt động. Bạn có quyền rút lại sự đồng ý của bạn bất cứ lúc nào thông qua Cài đặt quyền riêng tư của người dùng</string>
 	<string name="user_privacy_settings">Cài đặt Riêng tư</string>
 	<string name="permission_des_detail">Nếu bạn không đồng ý cấp quyền hoặc chia sẻ và tải lên thông tin cá nhân của bạn, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể chọn gỡ cài đặt, đăng xuất hoặc hạn chế quyền trong Cài đặt trong hầu hết các trường hợp.</string>
-	<string name="account_add_title">Chọn một dịch vụ email</string>
+	<string name="account_add_title">Chọn dịch vụ email</string>
 	<string name="account_setup_options_mail_check_frequency_15min">Mỗi 15 phút</string>
 	<string name="user_privacy_settings_path">Mẹo: Bạn có thể rút lại sự đồng ý của bạn trong Cài đặt Quyền riêng tư người dùng, Cài đặt - Cài đặt quyền riêng tư của người dùng.</string>
 	<string name="login_err_sina_message">%1$sBạn cũng có thể cần mã xác thực để đăng nhập. Nếu bạn cần khôi phục mật khẩu, truy cập https://mail.sina.com.cn/ để thấy các tùy chọn khả dụng cho bạn.</string>
 	<string name="certificate_password_prompt_title">Giải nén chứng chỉ</string>
 	<string name="certificate_added">Đã thêm \"%s\" chứng chỉ.</string>
 	<string name="conversation_cert_info_title">Đã ký</string>
-	<string name="conversation_message_encrypt_tips">Tin nhắn này đã được mã hóa. Vui lòng cài đặt tệp tin chứng chỉ chứa nhận dạng mã hóa của bạn để giải mã tin nhắn này.</string>
-	<string name="conversation_cert_distrust">Hủy tin tưởng</string>
+	<string name="conversation_message_encrypt_tips">Tin nhắn này đã được mã hóa. Vui lòng thêm chứng chỉ được yêu cầu để giải mã.</string>
+	<string name="conversation_cert_distrust">Không tin tưởng</string>
 	<string name="certificate_password_tips">Nhập mật khẩu để giải nén chứng chỉ</string>
 	<string name="xiaomi_auth_toastbar">Điện thoại của bạn chưa được ủy quyền, vui lòng nhấn vào đây để đăng nhập ủy quyền</string>
 	<string name="qq_changepw_dialog_tips">Vui lòng lấy mã xác minh mới nhất từ %s và đăng nhập lại.</string>
 	<string name="send_encrypt_dialog_fail_content">Email này không thể mã hóa vì người nhận không có chứng chỉ chữ ký được tin tưởng. Có phải email này được gửi không mã hóa?</string>
-	<string name="conversation_cert_info_tips">Người gửi đã ký tin nhắn này với một chứng chỉ tin tưởng</string>
+	<string name="conversation_cert_info_tips">Email này được ký với một chứng chỉ tin tưởng</string>
 	<string name="user_new_auth_code">Đăng nhập bằng mã xác minh mới</string>
 	<string name="certificate_password_tips_w">Vui lòng nhập mật khẩu chính xác</string>
 	<string name="account_smime_cert_title">Chứng chỉ</string>
 	<string name="xiaomi_under_certification">Đang ủy quyền</string>
 	<string name="certificate_password_hit">Vui lòng nhập mật khẩu của bạn</string>
-	<string name="conversation_cert_trust">Tin tưởng chữ ký</string>
+	<string name="conversation_cert_trust">Tin tưởng</string>
 	<string name="certificate_alias_prompt_certificate_name">Tên chứng chỉ</string>
 	<string name="xiaomi_email">Thư điện tử</string>
 	<string name="no_open_smime_toast">Vui lòng cài đặt chứng chỉ S/MIME trước</string>
@@ -1271,9 +1271,9 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="certificate_add_failed">Chứng chỉ \"%s\" không thể cài đặt.</string>
 	<string name="account_smime_encrypt">Mã hóa S/MIME</string>
 	<string name="send_encrypt_dialog_fail_title">Không thể gửi email đã mã hóa</string>
-	<string name="account_smime_install_cert">Cài đặt chứng chỉ</string>
+	<string name="account_smime_install_cert">Thêm chứng chỉ</string>
 	<string name="certificate_alias_prompt_w">Trùng tên chứng chỉ, vui lòng đổi tên chứng chỉ và thử lại</string>
 	<string name="account_smime_sign">Chữ ký S/MIME</string>
-	<string name="account_settings_smime_title">S/MIME(Trình mở rộng Email Bảo mật/Đa mục đích)</string>
+	<string name="account_settings_smime_title">S/MIME (Trình mở rộng Email Bảo mật/Đa mục đích)</string>
 	<string name="certificate_alias_prompt_hit">Vui lòng nhập alias của chứng chỉ</string>
 </resources>

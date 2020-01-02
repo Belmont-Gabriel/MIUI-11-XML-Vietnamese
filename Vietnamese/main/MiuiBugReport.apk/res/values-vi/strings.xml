@@ -326,7 +326,7 @@
     <string name="catch_full_log_item_title_gps">Dịch vụ vị trí</string>
     <string name="catch_full_log_item_title_sensor">Cảm biến</string>
     <string name="catch_full_log_item_title_signal">Điện thoại, tín hiệu và mạng di động</string>
-    <string name="catch_full_log_item_title_wifi">Wi-Fi và Mi Drop</string>
+    <string name="catch_full_log_item_title_wifi">Wi-Fi và ShareMe</string>
     <string name="catch_full_log_notification_content">Chạm để quay lại nhật ký</string>
     <string name="catch_full_log_notification_title">Đang tạo nhật ký…</string>
     <string name="catch_full_log_start_dump_hprof">Tạo nhật ký treo máy</string>

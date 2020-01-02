@@ -1720,9 +1720,9 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="all_function_title">Tất cả lối tắt</string>
 	<string name="app_suggest_detail_setting_summary">Gợi ý ứng dụng sẽ dựa trên dữ liệu sử dụng của bạn</string>
 	<string name="app_suggest_detail_setting_title">Cho phép truy cập trạng thái ứng dụng</string>
-	<string name="app_suggest_setting_brief_detail">Gợi ý ứng dụng sẽ dựa trên dữ liệu mức sử dụng của bạn</string>
-	<string name="app_suggest_setting_brief">Hiển thị ứng dụng sử dụng gần đây</string>
-	<string name="app_suggest_setting_title">Gợi ý ứng dụng</string>
+	<string name="app_suggest_setting_brief_detail">Hiển thị gợi ý ứng dụng hoặc tính năng bạn thường dùng</string>
+	<string name="app_suggest_setting_brief">Hiển thị gợi ý ứng dụng hoặc tính năng bạn thường dùng</string>
+	<string name="app_suggest_setting_title">Gợi ý thông minh</string>
 	<string name="cta_dialog_text_new_user">Đọc và đồng ý với %1$sThỏa thuận Người dùng%2$s và %3$sChính sách Riêng tư%4$s của chúng tôi.</string>
 	<string name="cta_dialog_text_old_user">Trước khi sử dụng App vault, bạn cần đồng ý với %1$s\"Chính sách Riêng tư App vault\"%2$s. Chạm \"Bắt đầu\" để đồng ý.</string>
 	<string name="cta_not_now">Không phải bây giờ</string>
