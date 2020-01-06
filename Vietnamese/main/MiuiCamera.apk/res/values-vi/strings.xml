@@ -1394,9 +1394,28 @@ In dễ dàng trên khổ A4"</string>
 	<string name="location_access_allow">Cho phép</string>
 	<string name="zoom_no_support_tip">Không hỗ trợ thu phóng trong chế độ %1$s</string>
 	<string name="kaleidoscope_fragment_tab_name">Kính vạn hoa</string>
-	<string name="document_mode_use_hint_text_body">"Bật chế độ chụp tài liệu, chỉnh sửa nâng cao thông minh
-Quét tài liệu bằng một lần chạm"</string>
+	<string name="document_mode_use_hint_text_body">"Tự động làm nét
+và tăng cường tài liệu"</string>
 	<string name="camcorder_tip_8k_max_video_duration">Bạn có thể quay đến 6 phút ở độ phân giải 8K</string>
 	<string name="video_beauty_tip_filter">Bộ lọc</string>
-	<string name="document_mode_use_hint_text_title">Chế độ tài liệu</string>
+	<string name="document_mode_use_hint_text_title">Quét tài liệu</string>
+	<string name="video_beauty_tip_beautification">Làm đẹp</string>
+	<string name="mimoji_save_finish">Hoàn thành</string>
+	<string name="mimoji_create_emoticon">Tạo biểu tượng cảm xúc bằng một lần chạm</string>
+	<string name="ai_watermark_toast_off">Dấu chìm AI đã tắt</string>
+	<string name="preview_back_pressed_hint">Nhấn lần nữa để quay lại xem trước</string>
+	<string name="mimoji_gif_edit_hint">Nhấn vào đây để thêm văn bản</string>
+	<string name="module_name_mimoji2">Ảnh chụp dễ thương 2</string>
+	<string name="mimoji_gif_reverse">Đảo ngược</string>
+	<string name="ai_watermark_toast_on">Dấu chìm AI bật</string>
+	<string name="ai_watermark_title">Dấu chìm AI</string>
+	<string name="mimoji_gif_accelerate">Tăng tốc</string>
+	<string name="color_enhance">Tăng cường màu sắc</string>
+	<string name="watermark_tab_spots">Điểm</string>
+	<string name="watermark_tab_general">Chung</string>
+	<string name="watermark_tab_scene">Cảnh</string>
+	<string name="watermark_tab_festival">Lễ hội</string>
+	<string name="mimoji_gif_edit_title">Chỉnh sửa GIF</string>
+	<string name="mimoji_gif_clear_bg">Xóa nền</string>
+	<string name="watermark_tab_city">Thành phố</string>
 </resources>

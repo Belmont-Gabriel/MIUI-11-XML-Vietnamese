@@ -1100,4 +1100,23 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="please_login_first">Tệp tiếp theo là chương trình trả phí, vui lòng đăng nhập trước khi mua</string>
 	<string name="album_pay_explain">"1．1 coin = 1NDT
 2．Âm thanh không thể trả lại khi đã mua"</string>
+	<string name="local_operation_album_title_3">Bình luận vòng</string>
+	<string name="content_offline">Xin lỗi, nội dung này tạm thời ngoại tuyến, chúng tôi đang cố gắng khắc phục</string>
+	<string name="local_operation_album_title_4">Vòng tròn Mi</string>
+	<string name="local_operation_album_title_5">Tập tin tuyệt mật</string>
+	<string name="local_operation_album_title_6">Zhao Benshan</string>
+	<string name="local_operation_album_title_7">100 bài giảng</string>
+	<string name="play_mode_circle_hint">Chuyển chế độ phát thành vòng lặp đơn</string>
+	<string name="local_operation_album_title_8">Du Yuesheng</string>
+	<string name="play_mode_circle_title">Vòng lặp đơn</string>
+	<string name="local_operation_album_title_9">Tin tức</string>
+	<string name="play_mode_normal_hint">Chuyển chế độ phát thành tuần tự</string>
+	<string name="local_operation_album_title_12">Phổ biến nhanh</string>
+	<string name="local_operation_album_title_13">Tiếng nói Trung Quốc</string>
+	<string name="local_operation_album_title_10">Quan sát quân sự</string>
+	<string name="local_operation_album_title_11">Nhạc hoài cổ</string>
+	<string name="menu_exit_radio">Thoát</string>
+	<string name="play_mode_normal_title">Phát theo thứ tự</string>
+	<string name="local_operation_album_title_1">Lương Trí</string>
+	<string name="local_operation_album_title_2">Guo Degang</string>
 </resources>

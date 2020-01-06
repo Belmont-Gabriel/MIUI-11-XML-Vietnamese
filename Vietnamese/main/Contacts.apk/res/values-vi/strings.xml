@@ -526,7 +526,6 @@ Nguyên nhân: \"%s\""</string>
     <string name="import_multiple_vcard_string">Nhập nhiều tập tin vCard</string>
     <string name="import_name">Tên</string>
     <string name="import_one_vcard_string">Nhập 1 tập tin vCard</string>
-    <string name="import_percent">0%</string>
     <string name="import_selected_sim_entries_miui">Nhập liên hệ đã chọn</string>
     <string name="import_sim_entries_finish">Liên hệ đã được nhập từ thẻ SIM</string>
     <string name="import_sim_entry_miui">Nhập</string>

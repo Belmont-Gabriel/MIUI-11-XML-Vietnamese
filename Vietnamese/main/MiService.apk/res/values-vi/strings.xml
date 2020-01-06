@@ -157,4 +157,10 @@
 	<string name="abc_action_bar_home_description">Điều hướng về trang chủ</string>
 	<string name="abc_activity_chooser_view_see_all">Xem tất cả</string>
 	<string name="miui_feedback_main_frequent_question_title">Câu hỏi thường gặp</string>
+	<string name="miservice_notification_huanji_title">Có những thứ quan trọng trên điện thoại cũ của bạn?</string>
+	<string name="miservice_notification_scan_title">Dịch trong tích tắc</string>
+	<string name="miservice_notification_boot_sub_title">Giới thiệu các tính năng, niềm vui của MIUI</string>
+	<string name="miservice_notification_huanji_content">Chuyển chúng bằng Mi Mover</string>
+	<string name="miservice_notification_boot_title">Chuyển sang điện thoại mới một cách nhanh chóng</string>
+	<string name="miservice_notification_scan_content">Sử dụng Máy quét để dịch từ và cụm từ</string>
 </resources>

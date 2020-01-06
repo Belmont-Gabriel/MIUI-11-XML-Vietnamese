@@ -340,7 +340,7 @@
 	<string name="agree_storage_permission">Để truy cập ảnh và tệp tin lưu trữ trên thiết bị của bạn</string>
 	<string name="toinstall">Tải xuống</string>
 	<string name="setting_function_sort">Sắp xếp lại tính năng</string>
-	<string name="agree_app_use">Quét mã QR và nhận diện chúng trên ảnh khác</string>
+	<string name="agree_app_use">Quét mã QR và các ảnh khác (một vài tính năng có thể yêu cầu truy cập vị trí của bạn)</string>
 	<string name="once">Chỉ một lần</string>
 	<string name="choose_open_code_app">Chọn một ứng dụng</string>
 	<string name="agree_camera_permission">Để chụp ảnh và quay phim</string>

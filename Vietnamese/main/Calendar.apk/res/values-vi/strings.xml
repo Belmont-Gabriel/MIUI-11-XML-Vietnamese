@@ -1059,4 +1059,13 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="notification_channel_name_no_sound">Nhắc nhở yên lặng</string>
 	<string name="notification_channel_name_no_vibration">Nhắc nhở không rung</string>
 	<string name="notification_channel_name_silent">Nhắc nhở Không làm phiền</string>
+	<string name="class_schedule_off_secondary">Nhanh chóng tạo và xem lịch trình, được cung cấp bởi XiaoAI</string>
+	<string name="class_schedule_no_data_primary">Không có lịch trình</string>
+	<string name="class_schedule_no_data_secondary">Nhấn vào đây để xem và chỉnh sửa lịch trình</string>
+	<string name="class_schedule_dialog_tips">Chức năng lịch biểu được cung cấp bởi Xiao Ai. Nhấp vào Tiếp tục để sử dụng lịch sẽ tải xuống hoặc cập nhật Xiao Ai.</string>
+	<string name="class_schedule_title">Lịch trình</string>
+	<string name="class_schedule_use_button">Tiếp tục sử dụng</string>
+	<string name="class_schedule_on_card_title">Trước %1$d tuần %2$s</string>
+	<string name="class_schedule_card_title">Lịch trình</string>
+	<string name="class_schedule_off_primary">Bắt đầu với lịch trình</string>
 </resources>

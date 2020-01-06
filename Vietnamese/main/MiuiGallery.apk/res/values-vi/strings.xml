@@ -1979,4 +1979,5 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="filter_sky_dawn">Rạng đông</string>
 	<string name="risk_control_deleted_title">Cảnh báo bảo mật</string>
 	<string name="filter_sky_snowy">Tuyết</string>
+	<string name="video_editor_not_support_8k_tips">"Không thể sửa video 8K"</string>
 </resources>

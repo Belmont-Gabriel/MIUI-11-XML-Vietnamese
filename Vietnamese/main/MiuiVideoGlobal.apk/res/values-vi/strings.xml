@@ -1759,4 +1759,13 @@ Gửi mã này cho người giám sát."</string>
 	<string name="comment_model_comment">Bình luận</string>
 	<string name="comment_model_report">Báo cáo</string>
 	<string name="comment_model_send_forbid_tips">Tài khoản đã bị khóa</string>
+	<string name="lp_play_mode_list_loop">Lặp tất cả</string>
+	<string name="lv_cast">Truyền</string>
+	<string name="lp_play_mode_single_loop">Lặp một lần</string>
+	<string name="lp_play_mode_pause">Phát một lần</string>
+	<string name="no_more_content">"Đó là tất cả"</string>
+	<string name="gallery_view_tags">Hiển thị đánh dấu</string>
+	<string name="local_push_title">Phổ biến hôm nay</string>
+	<string name="gallery_fold_tags">Ẩn đánh dấu</string>
+	<string name="lp_play_mode_title">Chế độ phát</string>
 </resources>

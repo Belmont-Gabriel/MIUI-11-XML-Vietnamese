@@ -9857,4 +9857,8 @@ Dưới đây là một số nguyên nhân:
 	<string name="codec_low_latency_summary">Cung cấp trải nghiệm độ trễ thấp cho đồng bộ Âm thanh/Video</string>
 	<string name="wifi_direct_close_slave_wifi_hint">Ngắt kết nối mạng Wi-Fi phụ trước khi sử dụng Wi-Fi trực tiếp</string>
 	<string name="codec_low_latency_title">Độ trễ thấp</string>
+	<string name="use_otg_charge_only_summary">Sạc 1A nhanh hơn</string>
+	<string name="use_otg_charge_only">Sạc ngược</string>
+	<string name="use_otg_file_transfers">Sạc ngược &amp; truyền tệp</string>
+	<string name="use_otg_file_transfers_summary">Sạc chậm hơn 500mA và truyền tệp</string>
 </resources>

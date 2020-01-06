@@ -33,7 +33,7 @@
 	<string name="usage_state_friday">Th 6</string>
 	<string name="usage_state_go_more">Thêm ứng dụng</string>
 	<string name="usage_state_hour_minute">%1$d giờ %2$d phút</string>
-	<string name="usage_state_less_one_minute">Ít hơn 1 phút</string>
+	<string name="usage_state_less_one_minute">&lt; 1 phút</string>
 	<string name="usage_state_monday">Th 2</string>
 	<string name="usage_state_mourth_day">Thời gian màn hình trong %s</string>
 	<string name="usage_state_noti_mourth_day">Thông báo trong %s</string>
@@ -257,4 +257,13 @@
 Ứng dụng này cũng cần kết nối mạng và yêu cầu các quyền dưới đây để thu thập thông tin cá nhân của bạn:"</string>
 	<string name="usage_home_permission_phone_summary">Để nhận diện thiết bị của bạn bằng VAID</string>
 	<string name="usage_home_premission_second_summary_new">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền trong Thời gian màn hình &gt; Cài đặt &gt; Tắt Thời gian màn hình. Nếu bạn có câu hỏi nào về riêng tư, bạn có thể liên hệ với chúng tôi qua privacy@xiaomi.com."</string>
+	<string name="usage_special_feature">Tính năng đặc biệt</string>
+	<string name="usage_creating_weekly_report">Đang tạo báo cáo hàng tuần…</string>
+	<string name="usage_request_timeout_summary">Yêu cầu quá thời gian</string>
+	<string name="usage_weekly_report_summary">Tìm hiểu cách bạn dành thời gian với thiết bị của mình</string>
+	<string name="usage_request_error_summary">Có lỗi không xác định</string>
+	<string name="usage_refresh">Thử lại</string>
+	<string name="usage_weekly_report_title">Báo cáo hàng tuần</string>
+	<string name="usage_no_net_summary">Kiểm tra cài đặt mạng của bạn và thử lại</string>
+	<string name="usage_focus_new_summary">Trở nên chú tâm và tập trung hơn</string>
 </resources>
