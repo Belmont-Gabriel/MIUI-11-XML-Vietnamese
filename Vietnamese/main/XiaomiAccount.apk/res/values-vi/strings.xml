@@ -59,9 +59,7 @@
     <string name="passport_register_by_email"><u>Tạo một tài khoản bằng cách sử dụng địa chỉ email</u></string>
     <string name="passport_account_not_actived">Tài khoản của bạn chưa được kích hoạt</string>
     <string name="passport_active_email_visit">Kiểm tra hộp thư đến của bạn tại %s</string>
-    <string name="passport_click_email_to_valid">"
-
-Để kích hoạt tài khoản, chạm vào liên kết chúng tôi gửi đến hộp thư của bạn."</string>
+    <string name="passport_click_email_to_valid">"Để kích hoạt tài khoản, chạm vào liên kết chúng tôi gửi đến hộp thư của bạn."</string>
     <string name="passport_resend_active_email">Gửi lại email</string>
     <string name="passport_failed_to_send_activate_email">Không thể gửi email kích hoạt</string>
     <string name="passport_reg_success">Tài khoản đã được tạo</string>

@@ -2039,7 +2039,7 @@ Chạm "%2$s" để tiếp tục tải xuống nội dung này vào lần tiếp
 	<string name="tt_video_continue_play">Tiếp tục</string>
 	<string name="appdownloader_notification_download_complete_open">Tải xuống hoàn tất, chạm để mở</string>
 	<string name="tt_splash_skip_tv_text">3s | Bỏ qua</string>
-	<string name="vo_mi_ad_detail">Mở ứng dụng %s để xem</string>
+	<string name="vo_mi_ad_detail">Mở trong %s</string>
 	<string name="tt_video_retry_des_txt">Tải không thành công, chạm để thử lại</string>
 	<string name="tt_video_without_wifi_tips">Phát sẽ tiêu tốn lưu lượng</string>
 	<string name="appdownloader_button_cancel_download">Hủy</string>

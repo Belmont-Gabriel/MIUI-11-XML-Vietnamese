@@ -1387,7 +1387,7 @@ Bạn cũng được kết nối với %3$s, ứng dụng này có thể giám s
      <string name="nav_bar">Thanh điều hướng</string>
      <string name="nav_bar_default">(mặc định)</string>
      <string name="nav_bar_layout">Bố trí</string>
-     <string name="notification_all_categories">Tất cả mục</string>
+     <string name="notification_all_categories">Tất cả danh mục</string>
      <string name="notification_app_settings">Tùy chỉnh: %1$s</string>
      <string name="notification_channel_alerts">Cảnh báo</string>
      <string name="notification_channel_battery">Pin</string>

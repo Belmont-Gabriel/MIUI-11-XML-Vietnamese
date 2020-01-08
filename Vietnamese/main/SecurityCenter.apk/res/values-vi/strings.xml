@@ -3382,4 +3382,10 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="ew_main_setting_show_desc">Giới thiệu</string>
 	<string name="ew_main_warning_list_title">Lịch sử cảnh báo</string>
 	<string name="ew_list_title">Cảnh báo</string>
+	<string name="gtb_exit_game_to_home">Quay về Màn hình chính</string>
+	<string name="gb_voice_changer_permission_dlg_msg">Thay đổi giọng nói cần ghi âm để hoạt động bình thường.</string>
+	<string name="gb_voice_changer_dlg_button_agree">Cho phép</string>
+	<string name="gb_voice_changer_dlg_button_refuse">Từ chối</string>
+	<string name="gb_voice_changer_permission_dlg_title">Yêu cầu quyền</string>
+	<string name="gtb_exit_game_to_gtb">Mở gamebox</string>
 </resources>
