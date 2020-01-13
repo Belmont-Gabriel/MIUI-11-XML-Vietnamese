@@ -76,7 +76,7 @@ Tất cả dữ liệu trước đó của bạn sẽ được giữ lại."</st
 	<string name="ads_install_button_installed">Mở</string>
 	<string name="install_failed_conflict">Gói này xung đột với một gói khác trùng tên.</string>
 	<string name="mobil_net_work_warning_ok">Vẫn cài đặt</string>
-	<string name="perm_sysopt_boost_auto_start_summary">This app can start automatically</string>
+	<string name="perm_sysopt_boost_auto_start_summary">Ứng dụng này có thể tự khởi chạy</string>
 	<string name="install_confirm_question_no_perms">"Bạn có muốn cài đặt ứng dụng này? Nó không yêu cầu quyền gì đặc biệt."</string>
 	<string name="no_new_perms">"Cập nhật này không yêu cầu quyền mới."</string>
 	<string name="miui_delete">Xóa</string>

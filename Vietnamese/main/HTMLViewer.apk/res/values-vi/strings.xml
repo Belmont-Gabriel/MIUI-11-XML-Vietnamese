@@ -26,4 +26,6 @@
 	<string name="open_wifi_connect_and_use_data_summary">Đang sử dụng dữ liệu di động. Chạm để chuyển sang Wi-Fi.</string>
     <string name="poco_privacy_policy">Chính sách Riêng tư Trình khởi chạy POCO &amp; Thỏa thuận Người dùng Trình khởi chạy POCO</string>
 	<string name="legal_written_offer">Ưu đãi bằng văn bản</string>
+	<string name="poco_launcher_user_agreement">Thỏa thuận Người dùng Trình khởi chạy POCO</string>
+	<string name="poco_launcher_privacy_policy">Chính sách Riêng tư Trình khởi chạy POCO</string>
 </resources>

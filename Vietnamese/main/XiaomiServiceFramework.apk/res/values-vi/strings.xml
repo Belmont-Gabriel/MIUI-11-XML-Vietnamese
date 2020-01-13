@@ -4,9 +4,8 @@
     <string name="xmsf_activate_info">Thông tin kích hoạt Khung dịch vụ Mi</string>
     <string name="error_device_id_title">Không nhận ID Thiết bị hợp lệ</string>
     <string name="error_device_id_message">"ID thiết bị không hợp lệ: %s
-ID thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không có ID thiết bị, một số tính năng của Tài khoản Mi và Mi Cloud sẽ không khả dụng."</string>
-    <string name="accept">OK</string>
-    <string name="xiaomi_cloud_service">Mi Cloud</string>
+ID thiết bị phải có IMEI hoặc địa chỉ MAC hợp lệ. Nếu không có ID thiết bị, một số tính năng của Tài khoản Mi và Xiaomi Cloud sẽ không khả dụng."</string>
+    <string name="xiaomi_cloud_service">Xiaomi Cloud</string>
     <string name="sync_notification_title_format">Mục đồng bộ hiện tại: %1$s</string>
     <string name="explain_send_sms_permission_title">Xác minh số điện thoại của bạn</string>
     <string name="explain_send_sms_permission_msg">Để bật %s, Khung Dịch vụ Xiaomi sẽ gửi SMS để xác minh số điện thoại của bạn. Bạn sẽ bị tính phí SMS thông thường bởi nhà mạng.</string>

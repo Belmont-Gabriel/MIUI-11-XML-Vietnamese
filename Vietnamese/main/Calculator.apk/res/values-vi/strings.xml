@@ -291,8 +291,8 @@
     <string name="unit_data_display_time_yr">Năm</string>
     <string name="network_confirm_title">Yêu cầu quyền</string>
     <string name="network_confirm_content">Đổi ngoại tệ, tính toán thuế và lãi suất thế chấp cần kết nối mạng và dịch vụ định vị của thiết bị để hoạt động bình thường.</string>
-    <string name="word_figure_zheng">整</string>
-    <string name="word_figure_yuan">元</string>
+    <string name="word_figure_zheng">Chỉnh</string>
+    <string name="word_figure_yuan">Yuan</string>
     <string name="word_figure_number_0">0</string>
     <string name="word_figure_number_1">1</string>
     <string name="word_figure_number_2">2</string>
@@ -309,7 +309,7 @@
     <string name="word_figure_big_unit_wan">Vạn</string>
     <string name="word_figure_big_unit_yi">Tỷ</string>
     <string name="word_figure_big_unit_zhao">Triệu</string>
-    <string name="word_figure_big_unit_jiao">角</string>
+    <string name="word_figure_big_unit_jiao">Góc</string>
     <string name="word_figure_big_unit_fen">phần trăm</string>
     <string name="city">Thành phố</string>
     <string name="combine_loan">Vay kết hợp</string>
@@ -922,7 +922,7 @@ LPR một năm và năm năm sẽ được trích dẫn vào ngày 20 mỗi thá
 	<string name="permission_phone">Truy cập trạng thái và ID thiết bị</string>
 	<string name="disallow">"Không đồng ý"</string>
 	<string name="permission_remove_desc">Bạn có thể chọn gỡ cài đặt ứng dụng, hoặc hạn chế quyền và thu hồi ủy quyền trong Cài đặt.</string>
-	<string name="permission_phone_desc">For identifying different devices</string>
+	<string name="permission_phone_desc">Để nhận diện các thiết bị khác nhau</string>
 	<string name="permission_privacy_link">&lt;Data&gt;Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
 	<string name="permission_location">Truy cập vị trí</string>
 	<string name="permission_purpose">"Chào mừng tới Máy tính! Bên cạnh các tính năng cơ bản, Máy tính cho phép bạn chuyển đổi tiền tệ và đơn vị đo, tính toán nợ thế chấp, và hơn thế nữa. Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.

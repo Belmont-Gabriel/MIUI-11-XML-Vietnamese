@@ -101,4 +101,7 @@
 	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để tiết kiệm pin"</string>
 	<string name="aod_lock_screen_date_12_signature">d/M</string>
 	<string name="aod_lock_screen_date_signature">d/M</string>
+	<string name="theme_cate_title">Chủ đề</string>
+	<string name="my_style_title">Phong cách của tôi</string>
+	<string name="delete">Xóa</string>
 </resources>
