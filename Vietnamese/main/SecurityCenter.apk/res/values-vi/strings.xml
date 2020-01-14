@@ -3388,4 +3388,15 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="gb_voice_changer_dlg_button_refuse">Từ chối</string>
 	<string name="gb_voice_changer_permission_dlg_title">Yêu cầu quyền</string>
 	<string name="gtb_exit_game_to_gtb">Mở gamebox</string>
+	<string name="power_save_ps_close_setting_7">Tắt dịch vụ và tính năng tiêu thụ nhiều năng lượng (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s, %7$s)</string>
+	<string name="power_save_ps_close_setting_6">Tắt dịch vụ và tính năng tiêu thụ nhiều năng lượng (%1$s, %2$s, %3$s, %4$s, %5$s, %6$s)</string>
+	<string name="power_save_ps_close_setting_fingeraod">\"Hiển thị biểu tượng vân tay khi tắt màn hình\"</string>
+	<string name="power_save_ps_close_setting_3">Tắt dịch vụ và tính năng tiêu thụ nhiều năng lượng (%1$s, %2$s, %3$s)</string>
+	<string name="power_save_ps_close_setting_sync">Đồng bộ</string>
+	<string name="power_save_ps_close_setting_pickupwakeup">\"Nhấc để đánh thức\"</string>
+	<string name="power_save_ps_close_setting_5">Tắt dịch vụ và tính năng tiêu thụ nhiều năng lượng (%1$s, %2$s, %3$s, %4$s, %5$s)</string>
+	<string name="power_save_ps_close_setting_dclickwakeup">\"Chạm hai lần để mở hoặc khóa màn hình\"</string>
+	<string name="power_save_ps_close_setting_4">Tắt dịch vụ và tính năng tiêu thụ nhiều năng lượng (%1$s, %2$s, %3$s, %4$s)</string>
+	<string name="power_save_ps_close_setting_haptic">Phản hồi xúc giác</string>
+	<string name="power_save_ps_close_setting_5gnet">Kết nối mạng 5G</string>
 </resources>

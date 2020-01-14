@@ -1249,4 +1249,5 @@ Gia nhập cùng 170 triệu Mi Fan!"</string>
 	<string name="list_mode">Xem danh sách</string>
 	<string name="grid_mode">Xem lưới</string>
 	<string name="app_all_purpose">Chào mừng bạn đến với Tập tin. Bạn có thể sử dụng ứng dụng này để quản lý các tập tin trong điện thoại của bạn.</string>
+	<string name="error_hint_copy_folder_to_self_or_sub">Không thể di chuyển thư mục vào chính nó hoặc vào thư mục con của nó</string>
 </resources>

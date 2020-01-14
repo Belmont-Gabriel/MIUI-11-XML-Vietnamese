@@ -2184,4 +2184,8 @@ d MMMM"</string>
 	<string name="accessibility_status_bar_no_slave_wifi">Wi-Fi phụ đã ngắt kết nối.</string>
 	<string name="accessibility_status_bar_slave_wifi_three_bars">Wi-Fi phụ ba vạch.</string>
 	<string name="accessibility_status_bar_slave_wifi_four_bars">Wi-Fi phụ bốn vạch.</string>
+	<string name="how_to_use_app_quick_hide_line_summary">Vuốt từ phía dưới màn hình, sau đó vuốt sang trái hoặc phải</string>
+	<string name="how_to_use_app_quick">Làm thế nào để chuyển giữa các ứng dụng</string>
+	<string name="accessibility_status_bar_micphone">Micro đã kết nối</string>
+	<string name="how_to_use_app_quick_summary">Vuốt sang trái hoặc phải từ chỉ báo màn hình tràn cạnh hoặc từ cạnh dưới màn hình</string>
 </resources>

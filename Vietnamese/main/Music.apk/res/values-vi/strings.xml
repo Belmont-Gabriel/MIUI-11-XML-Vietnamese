@@ -1522,4 +1522,8 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="middle_sound_quality">Tiêu chuẩn</string>
 	<string name="auto_sound_quality">Tự động</string>
 	<string name="save_image">Lưu ảnh</string>
+	<string name="periodic_dump_memory_profile">Ghi Nhật ký định kỳ</string>
+	<string name="create_playlist_input_hint">Nhập tên danh sách phát</string>
+	<string name="cannot_download_to_sdcard_hint">Không thể tải vào thẻ SD vì hạn chế bản quyền. Các mục sẽ được lưu vào bộ nhớ trong.</string>
+	<string name="online_apk_install_tips">"Bạn cần tải xuống trình cắm của nhà cung cấp dịch vụ này. Bạn sẽ có thể truy cập nhạc trực tiếp trong lần tới."</string>
 </resources>

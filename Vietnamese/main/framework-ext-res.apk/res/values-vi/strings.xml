@@ -274,4 +274,6 @@
 	<string name="input_method_clipboard_tips">Mục đã sao chép sẽ bị xóa khỏi khay nhớ tạm sau 48 giờ</string>
 	<string name="data_usage_context">Nếu Wi-Fi chưa được bật, thiết bị của bạn sẽ kết nối tới mạng di động, có thể tính thêm phí tùy thuộc vào gói cước của bạn. Cảm ơn!</string>
 	<string name="slatoast">Sử dụng dữ liệu di động để tăng tốc, có thể tiêu tốn dữ liệu di động</string>
+	<string name="help">Xem trợ giúp</string>
+	<string name="help_content">Nếu bạn không thể tìm thấy thiết bị bạn cần, yêu cầu người khác bật Mi Share.</string>
 </resources>
