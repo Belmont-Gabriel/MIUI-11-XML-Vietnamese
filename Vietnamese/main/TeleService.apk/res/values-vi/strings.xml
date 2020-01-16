@@ -2782,4 +2782,12 @@ Chất lượng phát"</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
 	<string name="notification_demo_version_text">"Không thể thực hiện cuộc gọi hoặc sử dụng dữ liệu di động"</string>
 	<string name="notification_demo_version_title">Đây là một thiết bị demo</string>
+	<string name="nr_usaged_first_used_time">Đã đăng ký trong mạng 5G</string>
+	<string name="mobile_advanced_nr_network_title">Loại mạng 5G</string>
+	<string name="nr_usaged_operator">Nhà mạng</string>
+	<string name="nr_network_info">Thông tin sử dụng mạng 5G</string>
+	<string name="nr_usaged_used_time">Thời lượng sử dụng</string>
+	<string name="nr_usaged_module">Kiểu thiết bị</string>
+	<string name="nr_usaged_network_usaged">"Dữ liệu hôm nay"</string>
+	<string name="nr_usaged_network_rate">Tốc độ cao nhất</string>
 </resources>

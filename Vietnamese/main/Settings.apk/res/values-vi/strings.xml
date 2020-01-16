@@ -9871,4 +9871,8 @@ Dưới đây là một số nguyên nhân:
 	<string name="navigation_guide_gesture_line_dialog_summary">Cử chỉ mới để chuyển giữa các ứng dụng sẽ được sử dụng sau khi bạn ẩn chỉ báo màn hình tràn cạnh. Tìm hiểu cử chỉ này?</string>
 	<string name="navigation_guide_app_quick_switch_title">Chuyển giữa các ứng dụng</string>
 	<string name="navigation_guide_app_quick_switch_summary">Vuốt sang trái hoặc phải từ chỉ báo màn hình tràn cạnh hoặc từ cạnh dưới</string>
+	<string name="corner_assistant_gesture_summary">Vuốt từ góc dưới trái hoặc dưới phải để đánh thức Trợ lý Google</string>
+	<string name="power_monitor_title">Giám sát năng lượng</string>
+	<string name="corner_assistant_gesture_title">Vuốt lên từ góc để mở Trợ lý Google</string>
+	<string name="power_monitor_summary">Công cụ dùng để giám sát năng lượng.</string>
 </resources>

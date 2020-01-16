@@ -249,4 +249,5 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="adaptive_battery_title">Sử dụng Pin Thích nghi</string>
 	<string name="permstep_description">"Cho phép ứng dụng đọc thông tin các bước điện thoại của bạn"</string>
 	<string name="permstep_label">Đọc các bước</string>
+	<string name="power_tools_current">Hiện tại</string>
 </resources>

@@ -2098,4 +2098,5 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="tt_video_mobile_go_detail">Xem chi tiết</string>
 	<string name="appdownloader_button_start_now">Bắt đầu ngay</string>
 	<string name="tt_request_permission_descript_read_phone_state">Gọi điện</string>
+	<string name="tt_video_bytesize">Luồng</string>
 </resources>
