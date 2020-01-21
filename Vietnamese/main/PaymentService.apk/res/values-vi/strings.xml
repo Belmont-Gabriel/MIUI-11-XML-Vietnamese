@@ -123,7 +123,7 @@ Hãy liên hệ với dịch vụ khách hàng Xiaomi."</string>
     <string name="mibi_is_what">Bạn có thể mua những gì với Mi Credit?</string>
     <string name="mibi_label_balance">Số dư</string>
     <string name="mibi_label_giftcard">Phiếu quà tặng</string>
-    <string name="mibi_label_pay_remain">Số dư: %1$s Mi Credit</string>
+    <string name="mibi_label_pay_remain">Số tiền: %1$s Mi Credit</string>
     <string name="mibi_license_message">"Bạn đang sử dụng Mi Credit, một dịch vụ cung cấp bởi  Xiaomi Inc. Trước khi bạn có thể sử dụng dịch vụ này, bạn phải đồng ý các Điều khoản Dịch vụ được nêu trong %1$s. Chạm vào OK nếu bạn đồng ý với các điều khoản và điều kiện được mô tả trong %1$s. Bạn cần kết nối với internet, xác định vị trí điện thoại của bạn để sử dụng Mi Credit."</string>
     <string name="mibi_license_message_span">Thỏa thuận người dùng Mi Credit</string>
     <string name="mibi_license_title">Điều khoản và điều kiện</string>

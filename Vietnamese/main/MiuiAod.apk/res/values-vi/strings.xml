@@ -90,12 +90,12 @@
 	<string name="show_notificaton">Hiển thị thông báo</string>
 	<string name="select_notification_notify_style">Chọn hiệu ứng thông báo</string>
 	<string name="signature">Chữ ký</string>
-	<string name="above_image">Lên</string>
+	<string name="above_image">Trên</string>
 	<string name="aod_show_date_and_time">Hiện ngày và giờ</string>
 	<string name="custom_image">Tùy chỉnh ảnh</string>
-	<string name="shownone_arround_image">Không</string>
+	<string name="shownone_arround_image">Ẩn</string>
 	<string name="time_location">Vị trí đồng hồ</string>
-	<string name="below_image">Xuống</string>
+	<string name="below_image">Dưới</string>
 	<string name="photo_editor_saving">Đang lưu…</string>
 	<string name="disable_aod_in_power_save_mode">Tắt khi bật Tiết kiệm pin</string>
 	<string name="disable_aod_in_power_save_mode_summary">"Không hiển thị các mục để tiết kiệm pin"</string>
