@@ -1075,4 +1075,6 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="recommend_smart_sms_setting_summary">Tin nhắn Thông minh cung cấp tính năng nhận diện ID Người gửi và menu thông minh.</string>
 	<string name="recommend_smart_sms_dialog_title">Chào mừng tới Tin nhắn Thông minh!</string>
 	<string name="user_term">Thỏa thuận Người dùng</string>
+	<string name="notification_add_todo_content">Mã nhận: %s</string>
+	<string name="notification_add_todo">Nhắc tôi</string>
 </resources>

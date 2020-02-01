@@ -115,4 +115,19 @@
 		<item quantity="other">"Không thể tải video.
 Sẽ phát video kế tiếp trong %d giây…"</item>
 	</plurals>
+	<plurals name="comment_detail_title">
+		<item quantity="other">%d phản hồi</item>
+	</plurals>
+	<plurals name="comment_look_all">
+		<item quantity="other">Xem %d bình luận</item>
+	</plurals>
+	<plurals name="comment_selected">
+		<item quantity="other">Đã chọn %d lý do</item>
+	</plurals>
+	<plurals name="comment_hour_ago">
+		<item quantity="other">%d giờ trước</item>
+	</plurals>
+	<plurals name="comment_minute_ago">
+		<item quantity="other">%d phút trước</item>
+	</plurals>
 </resources>

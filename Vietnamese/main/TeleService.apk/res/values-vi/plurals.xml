@@ -32,4 +32,10 @@ Còn lại %d lần thử."</item>
         <item quantity="other">%1$d thiết bị được kết nối</item>
         <item quantity="one">%1$d thiết bị được kết nối</item>
     </plurals>
+	<plurals name="hour">
+		<item quantity="other">%s giờ</item>
+	</plurals>
+	<plurals name="day">
+		<item quantity="other">%s ngày</item>
+	</plurals>
 </resources>

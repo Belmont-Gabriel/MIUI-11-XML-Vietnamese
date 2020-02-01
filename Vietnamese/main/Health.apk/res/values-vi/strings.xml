@@ -500,4 +500,17 @@ Sức khỏe Mi hỗ trợ thiết bị bạn đã thêm vào Mi Home trước �
 	<string name="my_data_source">Nguồn dữ liệu</string>
 	<string name="guide_other_data_sync_subtitle">Điện thoại, vòng đeo tay, cân, và các thiết bị khác</string>
 	<string name="backtrack">Quay lại</string>
+	<string name="passport_oauth_sucess_tip">Xác thực thành công</string>
+	<string name="sending">Đang gửi</string>
+	<string name="send_diagnosis_log">Gửi nhật ký chẩn đoán</string>
+	<string name="diagnosis_log_sent_format">"Nhật ký chẩn đoán đã được gửi.
+ID:%s
+Vui lòng gửi mã này cho nhân viên kỹ thuật."</string>
+	<string name="for_diagnosis_usage_only">Chỉ sử dụng thông tin này để chẩn đoán.</string>
+	<string name="temporary_not_available">Tạm thời không khả dụng</string>
+	<string name="delete_all_data_sources_description">Xóa tất cả nguồn dữ liệu đã thêm?</string>
+	<string name="diagnosis_log_send_failed">Gửi nhật ký chẩn đoán thất bại.</string>
+	<string name="delete_all_data_sources">Xóa tất cả nguồn dữ liệu</string>
+	<string name="collect_diagnosis_log">Thu thập nhật ký chẩn đoán</string>
+	<string name="passport_oauth_actionbar_title">Tài khoản Mi</string>
 </resources>

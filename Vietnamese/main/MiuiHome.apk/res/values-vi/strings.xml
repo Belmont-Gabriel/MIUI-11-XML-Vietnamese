@@ -523,4 +523,5 @@
 	<string name="recent_menu_item_lock">Khóa</string>
 	<string name="launcher_search_bar_value_enable">Bật</string>
 	<string name="launcher_search_bar_value_disable">Tắt</string>
+	<string name="hide_apps_title">Ẩn biểu tượng ứng dụng</string>
 </resources>
