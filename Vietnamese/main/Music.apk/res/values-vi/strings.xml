@@ -1526,4 +1526,11 @@ Bạn có thể tìm thấy tất cả các bài hát của bạn ở một nơi
 	<string name="create_playlist_input_hint">Nhập tên danh sách phát</string>
 	<string name="cannot_download_to_sdcard_hint">Không thể tải vào thẻ SD vì hạn chế bản quyền. Các mục sẽ được lưu vào bộ nhớ trong.</string>
 	<string name="online_apk_install_tips">"Bạn cần tải xuống trình cắm của nhà cung cấp dịch vụ này. Bạn sẽ có thể truy cập nhạc trực tiếp trong lần tới."</string>
+	<string name="click_and_watch_video_tip">Chạm để phát video nhạc</string>
+	<string name="home_tab_recommend">Trực tuyến</string>
+	<string name="action_item_play_video">Phát video nhạc</string>
+	<string name="youtube_play_history">Lịch sử phát</string>
+	<string name="set_online_home_title">Hiển thị đề xuất trực tuyến khi khởi chạy</string>
+	<string name="filter_by_MP4">Hiển thị thư mục với tệp tin MP4</string>
+	<string name="set_online_home_subtitle">Mở đề xuất trực tuyến khi ứng dụng khởi chạy</string>
 </resources>

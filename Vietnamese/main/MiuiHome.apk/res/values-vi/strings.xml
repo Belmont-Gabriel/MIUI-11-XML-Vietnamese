@@ -524,4 +524,10 @@
 	<string name="launcher_search_bar_value_enable">Bật</string>
 	<string name="launcher_search_bar_value_disable">Tắt</string>
 	<string name="hide_apps_title">Ẩn biểu tượng ứng dụng</string>
+	<string name="recents_forbid_dock_when_screening_toast_text">"Không thể chia màn hình khi đang sử dụng Chia sẻ màn hình"</string>
+	<string name="task_access_locked_app_msg">Đã mở khóa ứng dụng</string>
+	<string name="recents_task_screening">Chia sẻ màn hình</string>
+	<string name="switch_personal_assistant_google">Khám phá Google</string>
+	<string name="home_switch_personal_assistant">Màn hình -1</string>
+	<string name="switch_personal_assistant_none">Không</string>
 </resources>

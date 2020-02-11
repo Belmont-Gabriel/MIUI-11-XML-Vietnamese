@@ -34,4 +34,14 @@
         <item>us</item>
         <item>ps</item>
     </string-array>
+	<string-array name="height_array">
+		<item>cm</item>
+		<item>m</item>
+		<item>Feet</item>
+		<item>Inch</item>
+	</string-array>
+	<string-array name="weight_array">
+		<item>Kilôgam</item>
+		<item>Pound</item>
+	</string-array>
 </resources>

@@ -63,4 +63,16 @@
     <plurals name="loan_repayment_detail_unit">
         <item quantity="other">Chi tiết trả nợ (%d năm), CNY</item>
     </plurals>
+	<plurals name="age_label_yrs">
+		<item quantity="other">năm</item>
+	</plurals>
+	<plurals name="tenure_months">
+		<item quantity="other">%d tháng</item>
+	</plurals>
+	<plurals name="age_label_months">
+		<item quantity="other">%d tháng</item>
+	</plurals>
+	<plurals name="age_label_days">
+		<item quantity="other">%d ngày</item>
+	</plurals>
 </resources>
