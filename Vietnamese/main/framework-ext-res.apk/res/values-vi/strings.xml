@@ -276,4 +276,6 @@
 	<string name="slatoast">Sử dụng dữ liệu di động để tăng tốc, có thể tiêu tốn dữ liệu di động</string>
 	<string name="help">Xem trợ giúp</string>
 	<string name="help_content">Nếu bạn không thể tìm thấy thiết bị bạn cần, yêu cầu người khác bật Mi Share.</string>
+	<string name="sunlight_notification_title">Bật chế độ Ánh sáng mặt trời</string>
+	<string name="sunlight_notification_content">Tự động điều chỉnh độ sáng trong điều kiện ánh sáng mạnh</string>
 </resources>

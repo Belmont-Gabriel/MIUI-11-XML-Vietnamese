@@ -411,4 +411,6 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="query_more">Thêm thông tin</string>
 	<string name="cars_no_public">Chưa ra mắt</string>
 	<string name="now_state">"Trạng thái hiện tại: "</string>
+	<string name="calories_request_interface_text">Hỗ trợ AI</string>
+	<string name="calories_logo_text">Hỗ trợ AI cung cấp bởi Health Hope</string>
 </resources>

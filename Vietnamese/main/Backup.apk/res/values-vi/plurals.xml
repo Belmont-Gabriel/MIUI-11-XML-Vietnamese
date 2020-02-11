@@ -45,4 +45,7 @@
 	<plurals name="trans_item_failed_summary">
         <item quantity="other">"Không thể chuyển %d mục."</item>
     </plurals>
+	<plurals name="local_main_backup_manage_summary">
+		<item quantity="other">%1$s sao lưu (%2$s)</item>
+	</plurals>
 </resources>

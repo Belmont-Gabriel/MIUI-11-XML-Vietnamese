@@ -9875,4 +9875,74 @@ Dưới đây là một số nguyên nhân:
 	<string name="power_monitor_title">Giám sát năng lượng</string>
 	<string name="corner_assistant_gesture_title">Vuốt lên từ góc để mở Trợ lý Google</string>
 	<string name="power_monitor_summary">Công cụ dùng để giám sát năng lượng.</string>
+	<string name="reset_title">Đặt lại</string>
+	<string name="how_encrypt_content">"Bạn chỉ có thể mã hóa sao lưu trên máy. Có 2 cách:
+a) Mở trang sao lưu trên máy, chạm nút để bật mã hóa, và đăng nhập vào Tài khoản Mi của bạn. Sao lưu sẽ tự động được mã hóa sau đó. Nhớ rằng bạn sẽ cần đăng nhập Tài khoản Mi để khôi phục từ sao lưu đã mã hóa.
+b) Nếu bạn sử dụng Mi PC Suite để sao lưu, bạn có thể sử dụng tùy chọn mã hóa ở đó.
+
+Ghi chú:
+Nhớ mật khẩu bạn đặt cho sao lưu mã hóa! Bạn sẽ không thể giải mã nếu bạn quên mật khẩu.
+"</string>
+	<string name="datasize_decrease_content">"Liên hệ, tin nhắn và dữ liệu hệ thống được nén khi nó sao lưu, để tạo tệp tin dung lượng nhỏ hơn.
+"</string>
+	<string name="wifi_link_turbo_customize">Tùy chỉnh ứng dụng</string>
+	<string name="contact_data">Liên hệ</string>
+	<string name="how_backup_content">"Có 3 loại sao lưu bạn có thể tạo: trên máy, đám mây, và USB.
+
+Sao lưu trên máy:
+Sao lưu trên máy cho phép bạn lưu cài đặt hệ thống, tài khoản, dữ liệu ứng dụng và các mục khác trong các tệp tin riêng biệt lưu trong thiết bị của bạn (MIUI-backup-AllBackup). Sau khi tệp tin sao lưu được tạo, bạn có thể chuyển nó vào máy tính qua cáp USB.
+Ghi chú:
+Bạn có thể sử dụng Mi PC Suite để sao lưu và khôi phục các mục.
+
+Sao lưu đám mây:
+Bạn có thể sao lưu cài đặt hệ thống, bố cục Màn hình chính, ứng dụng, và các mục khác vào Xiaomi Cloud không dây.
+
+Sao lưu USB:
+Phương thức này cho phép bạn lưu cài đặt hệ thống, tài khoản, dữ liệu ứng dụng và các mục khác vào thiết bị USB mở rộng.
+"</string>
+	<string name="wifi_link_turbo_list">Ứng dụng</string>
+	<string name="how_restore_backup_title">2. Làm cách nào để khôi phục mục đã sao lưu?</string>
+	<string name="acount_data">Tài khoản</string>
+	<string name="how_encrypt_title">3. Làm cách nào để mã hóa sao lưu?</string>
+	<string name="backup_difference_title">4. Sao lưu trên máy khác gì với sao lưu đám mây?</string>
+	<string name="privacy_settings_new">Sao lưu, khôi phục, hoặc đặt lại</string>
+	<string name="wifi_assist">Trợ lý Wi-Fi</string>
+	<string name="backup_restore_data_content">"Sao lưu của bạn có thể chứa liên hệ, tin nhắn (SMS và MMS), lịch sử cuộc gọi, sự kiện lịch, ảnh, tệp âm thanh, video, tài liệu, ứng dụng, dữ liệu ứng dụng và bố cục Màn hình chính.
+"</string>
+	<string name="backup_restore_data_title">5. Tôi có thể sao lưu và khôi phục những mục nào?</string>
+	<string name="photo_data">Ảnh và video</string>
+	<string name="sd_data">Dữ liệu thẻ SD</string>
+	<string name="wifi_link_turbo_customize_summary">Chọn ứng dụng sẽ hoạt động với Trợ lý Wi-Fi theo cài đặt của bạn</string>
+	<string name="other_data">Các mục khác trên thiết bị</string>
+	<string name="datasize_decrease_title">6. Tại sao một vài tệp sao lưu nhỏ hơn kích thước thực tế?</string>
+	<string name="clear_phone_data_category">Xóa các mục dưới đây</string>
+	<string name="system_backup_section_title_new">Sao lưu hoặc khôi phục</string>
+	<string name="how_backup_title">1. Làm cách nào để sao lưu?</string>
+	<string name="clear_all_data">Xóa tất cả dữ liệu</string>
+	<string name="local_backup_section_summary_new">Sao lưu tài khoản, dữ liệu ứng dụng, cài đặt hệ thống, và nhiều hơn nữa</string>
+	<string name="master_clear_title_new">Xóa tất cả dữ liệu (khôi phục cài đặt gốc)</string>
+	<string name="cloud_restore_section_title_new">Trong Xiaomi Cloud</string>
+	<string name="wifi_link_turbo_recommendation">Ứng dụng đề xuất</string>
+	<string name="wifi_link_turbo_recommendation_summary">Nhận đề xuất dựa trên thống kê sử dụng của bạn</string>
+	<string name="backup_difference_content">"Sao lưu trên máy:
+Sao lưu trên máy có thể chứa dữ liệu ứng dụng và thường chứa nhiều mục hơn. Tệp tin sao lưu được lưu ở MIUI-backup-AllBackup và cần được sao chép vào máy tính khi sao lưu hoàn tất.
+
+Sao lưu đám mây:
+Sao lưu được lưu tại Xiaomi Cloud và có thể truy cập không dây. Phương thức này nhanh hơn và dễ dàng hơn sao lưu trên máy, nhưng bạn không thể sao lưu dữ liệu ứng dụng vào Xiaomi Cloud.
+"</string>
+	<string name="how_restore_backup_content">"Đây là cách để khôi phục các mục đã sao lưu bằng các cách khác nhau:
+
+Sao lưu trên máy:
+Sao chép tệp tin sao lưu từ máy tính của bạn vào thiết bị (MIUI-backup-AllBackup). Vào cài đặt &gt; Sao lưu, khôi phục hoặc đặt lại &gt; Trên thiết bị, và chọn tệp tin sao lưu.
+
+Sao lưu đám mây:
+Đăng nhập vào Tài khoản Mi của bạn, vào Cài đặt &gt; Sao lưu, khôi phục hoặc đặt lại &gt; Trong Xiaomi Cloud, và chọn tệp tin sao lưu.
+
+Sao lưu USB:
+Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBackup). Vào cài đặt &gt; Sao lưu, khôi phục hoặc đặt lại &gt; Trên thiết bị, và chọn tệp tin sao lưu.
+"</string>
+	<string name="local_backup_section_title_new">Trên thiết bị</string>
+	<string name="tip_remove_data">Khôi phục cài đặt gốc sẽ xóa các mục dưới đây trên thiết bị của bạn</string>
+	<string name="application_data">Ứng dụng</string>
+	<string name="cloud_restore_section_summary_new">Sao lưu bố cục Màn hình chính, ứng dụng, cài đặt hệ thống và hơn thế</string>
 </resources>

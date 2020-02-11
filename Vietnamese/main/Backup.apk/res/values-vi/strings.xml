@@ -656,4 +656,31 @@ Dữ liệu chưa được nhập phải được nhập lại."</string>
 	<string name="iCloud_ID_verification_tip">"Nhập mã xác minh SMS được gửi tới số điện thoại liên kết với tài khoản Apple của bạn. Bỏ qua màn hình hiện mã bật lên trên màn hình iPhone của bạn."</string>
 	<string name="trans_complete_restoring">Truyền thành công. Đang khôi phục dữ liệu ứng dụng…</string>
 	<string name="camera_summary_for_cta">Cài đặt Máy ảnh</string>
+	<string name="local_main_backup_detail_title">Cài đặt hệ thống, tài khoản, và dữ liệu ứng dụng</string>
+	<string name="local_main_auto_backup_title">Tự động sao lưu</string>
+	<string name="local_main_backup">Sao lưu trên máy</string>
+	<string name="local_button_restore_now">Khôi phục</string>
+	<string name="local_main_encrypt_backup_summary">Mã hóa các mục bạn sao lưu bằng Tài khoản Mi</string>
+	<string name="local_main_backup_manager">Quản lý sao lưu trên máy</string>
+	<string name="local_main_backup_settings">Cài đặt sao lưu trên máy</string>
+	<string name="local_button_backup_now">Sao lưu</string>
+	<string name="local_restore_select_data_activity">Khôi phục từ bản sao lưu</string>
+	<string name="local_main_encrypt_backup_title">Mã hóa sao lưu</string>
+	<string name="local_backup_select_activity">Tạo bản sao lưu</string>
+	<string name="local_main_latest_backup_time_loading">Chỉ vài giây…</string>
+	<string name="local_main_date_format">HH:mm dd/MM/yyyy</string>
+	<string name="local_button_restore_data">Khôi phục vào thiết bị này</string>
+	<string name="local_main_backup_manager_title">Quản lý sao lưu</string>
+	<string name="local_back_up_detail_description">"Ghi chú:
+1. Để tránh mất dữ liệu, sao chép bản sao lưu trên máy vào máy tính của bạn.
+2. Luôn sao chép bản sao lưu trên máy vào máy tính trước khi thực hiện khôi phục cài đặt gốc; nếu không, bản sao lưu trên máy sẽ bị mất.
+3. Bản sao lưu trên máy được lưu ở đâu? %1$s"</string>
+	<string name="local_config_on">Bật</string>
+	<string name="local_config_off">Tắt</string>
+	<string name="local_restore_select_activity">Quản lý sao lưu</string>
+	<string name="local_click_to_jump">Chạm để xem</string>
+	<string name="local_main_backup_time">Lần sao lưu cuối: %1$s</string>
+	<string name="local_no_backup_data">Chưa có bản sao lưu</string>
+	<string name="local_button_backup_data">Sao lưu</string>
+	<string name="local_main_backup_and_restore">Trên thiết bị này</string>
 </resources>

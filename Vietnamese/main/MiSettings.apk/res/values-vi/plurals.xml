@@ -72,4 +72,16 @@
 	<plurals name="trend_from_last_several_day_equal">
 		<item quantity="other">Thời gian màn hình hôm nay bằng với trung bình %d-ngày của bạn</item>
 	</plurals>
+	<plurals name="usage_remain_about_miunte">
+		<item quantity="other">≈%s phút</item>
+	</plurals>
+	<plurals name="usage_remain_about_hour">
+		<item quantity="other">≈%s giờ</item>
+	</plurals>
+	<plurals name="usage_stats_remain_hour">
+		<item quantity="other">%s giờ</item>
+	</plurals>
+	<plurals name="usage_stats_remain_miunte">
+		<item quantity="other">%s phút</item>
+	</plurals>
 </resources>

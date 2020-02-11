@@ -1420,4 +1420,6 @@ và tăng cường tài liệu"</string>
 	<string name="watermark_tab_city">Thành phố</string>
 	<string name="color_enhance_mode">Chế độ sắc màu</string>
 	<string name="emoticon">Biểu tượng cảm xúc</string>
+	<string name="pref_camera_video_sat_enable_title">Bật thu phóng video mượt mà</string>
+	<string name="pref_camera_debug_info_as_watermark_title">Bật gỡ lỗi dấu chìm ảnh</string>
 </resources>

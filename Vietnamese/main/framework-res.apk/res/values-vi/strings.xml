@@ -2445,4 +2445,6 @@ Bạn có muốn đóng trang không?"</string>
 	<string name="handset_title_usb_handset_insert">Thẻ âm thanh USB đang xuất âm thanh</string>
 	<string name="app_running_notification_tip_text">Điều này có thể làm chậm thiết bị của bạn và hao pin. Chạm để thoát ứng dụng</string>
 	<string name="fingerprint_repeat_area">Di chuyển ngón tay của bạn để ghi lại tất cả các phần của vân tay</string>
+	<string name="miaudiovisual_notification_summary">Bật để hiển thị hiệu ứng trên Màn hình khóa</string>
+	<string name="miaudiovisual_notification_title">Âm thanh và hiệu ứng hình ảnh</string>
 </resources>

@@ -266,4 +266,26 @@
 	<string name="usage_weekly_report_title">Báo cáo hàng tuần</string>
 	<string name="usage_no_net_summary">Kiểm tra cài đặt mạng của bạn và thử lại</string>
 	<string name="usage_focus_new_summary">Trở nên chú tâm và tập trung hơn</string>
+	<string name="usage_stats_device_limit">Giới hạn thời gian màn hình hàng ngày</string>
+	<string name="usage_reach_device_limit_warning_text">"Bạn đã đạt đến giới hạn thời gian màn hình hôm nay"</string>
+	<string name="usage_stats_limit_time_warn_summary">Hiển thị thời gian màn hình còn lại trên Bảng thông báo</string>
+	<string name="usage_stats_limit_time_warn">Cảnh báo thời gian màn hình</string>
+	<string name="usage_device_limit_time_over">"Bạn đã đạt giới hạn hôm nay (%1$s)"</string>
+	<string name="usage_device_limit_notifation_summary_start">"Bạn sẽ đạt giới hạn trong %1$s"</string>
+	<string name="usage_reach_device_limit">"Hết giờ! Bạn đã đạt giới hạn."</string>
+	<string name="usage_stats_limit_time_low_accuracy_summary">Hiển thị thời gian còn lại chính xác đến phút trong 2 giờ còn lại để tiết kiệm pin</string>
+	<string name="usage_device_limit_app_prolong">Thêm thời gian</string>
+	<string name="usage_stats_limit_time_high_accuracy_summary">Hiển thị thời gian còn lại chính xác đến phút. Điều này làm tăng sử dụng pin.</string>
+	<string name="usage_device_limit_app_prolong_time1">Thêm 20 phút</string>
+	<string name="usage_stats_device_limit_summary">Đặt giới hạn sử dụng hàng ngày</string>
+	<string name="usage_device_limit_app_prolong_time2">Thêm 40 phút</string>
+	<string name="usage_device_limit_app_prolong_time3">Thêm 60 phút</string>
+	<string name="usage_device_limit_app_prolong_time4">"Không giới hạn hôm nay"</string>
+	<string name="usage_stats_limit_time_low_accuracy_title">Thấp</string>
+	<string name="usage_stats_limit_time_high_accuracy_title">Cao</string>
+	<string name="usage_device_limit_notifation_title">Thời gian còn lại hôm nay</string>
+	<string name="usage_stats_limit_time_accuracy_title">Ước tính chính xác thời gian còn lại</string>
+	<string name="usage_stats_no_limit">Thêm ngoại lệ</string>
+	<string name="usage_current_week_usage">%s trung bình trong 7 ngày qua</string>
+	<string name="usage_stats_limit_time_warn_title">Cảnh báo về thời gian màn hình còn lại</string>
 </resources>

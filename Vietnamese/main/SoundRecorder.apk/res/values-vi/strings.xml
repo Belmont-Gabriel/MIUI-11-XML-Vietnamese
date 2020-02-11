@@ -313,4 +313,14 @@
 	<string name="preference_record_desktop_indicator_title">Chỉ báo Màn hình chính</string>
 	<string name="delete_cloud_data_at_same_time">Cũng xóa từ đám mây</string>
 	<string name="preference_record_desktop_indicator_summary">Hiển thị chỉ báo màu xanh trên Màn hình chính khi Ghi âm đang chạy dưới nền</string>
+	<string name="recognition_button_start">Phiên dịch</string>
+	<string name="recognition_stop_current">Dừng tác vụ đang chạy</string>
+	<string name="recognition_notification_running">Đang phiên dịch \"%s\"…</string>
+	<string name="recognition_notification_channel">Đang phiên dịch</string>
+	<string name="recognition_button_add_to_queue">Thêm vào hàng đợi</string>
+	<string name="recognition_confirm_dialog_body">"Phiên dịch có thể mất một lúc. Bạn sẽ nhận được thông báo khi tác vụ hoàn tất. Phiên dịch ngay?"</string>
+	<string name="recognition_notification_complete_success">Phiên dịch \"%s\" thành công. Chạm để xem.</string>
+	<string name="recognition_interrupt_current_dialog_body">"Phiên dịch có thể mất một lúc. Bạn sẽ nhận được thông báo khi tác vụ hoàn tất. \"%s\" sẽ được phiên dịch bây giờ. Thêm tác vụ này vào hàng đợi phiên dịch?"</string>
+	<string name="recognition_button_cancel">Không phải bây giờ</string>
+	<string name="recognition_notification_error">"Không thể phiên dịch \"%s\""</string>
 </resources>

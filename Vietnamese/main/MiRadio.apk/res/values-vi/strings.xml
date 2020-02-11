@@ -1119,4 +1119,11 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="play_mode_normal_title">Phát theo thứ tự</string>
 	<string name="local_operation_album_title_1">Lương Trí</string>
 	<string name="local_operation_album_title_2">Guo Degang</string>
+	<string name="individuation_recommend_setting_title">Đề xuất cá nhân hóa</string>
+	<string name="balance_insufficiently">Không đủ tiền, vui lòng nạp thêm</string>
+	<string name="individuation_recommend_switch_message">"Bạn sẽ không nhận đề xuất dựa trên sở thích cá nhân nếu bạn tắt tính năng này. Vẫn tắt?"</string>
+	<string name="day_mode">Chế độ ngày</string>
+	<string name="individuation_service_switch">Đề xuất cá nhân hóa</string>
+	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>
