@@ -120,7 +120,7 @@ trong Chế độ chân dung"</string>
     <string name="confirm_restore_title">Khôi phục cài đặt mặc định</string>
     <string name="confirm_restore_message">Khôi phục Máy ảnh về cài đặt mặc định?</string>
     <string name="confirm_location_title">Nhớ vị trí bức ảnh?</string>
-    <string name="confirm_location_message">&lt;Data&gt;Chào mừng tới Máy ảnh! Gắn thẻ ảnh và video của bạn bằng vị trí nó được chụp sẽ khiến Thư viện quản lý tốt hơn và giúp bạn tìm kiếm nhanh hơn. Một vài tính năng có thể không khả dụng nếu bạn hạn chế thêm thông tin vị trí.&amp;lt;br/&amp;gt;&amp;lt;br/&amp;gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.&lt;/Data&gt;</string>
+    <string name="confirm_location_message">&lt;Data&gt;Chào mừng tới Máy ảnh! Gắn thẻ ảnh và video của bạn bằng vị trí nó được chụp sẽ khiến Thư viện quản lý tốt hơn và giúp bạn tìm kiếm nhanh hơn. Một vài tính năng có thể không khả dụng nếu bạn hạn chế thêm thông tin vị trí.&lt;br/&gt;&lt;br/&gt;Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan.&lt;/Data&gt;</string>
     <string name="confirm_location_alert">Nhớ vị trí bức ảnh</string>
     <string name="pref_camera_recordlocation_title">Lưu thông tin vị trí</string>
     <string name="pref_camera_recordlocation_entry_off">Tắt</string>
@@ -1422,4 +1422,5 @@ và tăng cường tài liệu"</string>
 	<string name="emoticon">Biểu tượng cảm xúc</string>
 	<string name="pref_camera_video_sat_enable_title">Bật thu phóng video mượt mà</string>
 	<string name="pref_camera_debug_info_as_watermark_title">Bật gỡ lỗi dấu chìm ảnh</string>
+	<string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Chào mừng tới video ngắn! Dịch vụ của chúng tôi cần kết nối mạng để cung cấp nhạc và các tính năng khác cho bạn. &lt;br/&gt;&lt;br/&gt;Trước khi sử dụng dịch vụ của chúng tôi, bạn cần đọc và đồng ý với &lt;a href =%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href =%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, cũng như cho phép ứng dụng kết nối mạng.&lt;/Data&gt;</string>
 </resources>

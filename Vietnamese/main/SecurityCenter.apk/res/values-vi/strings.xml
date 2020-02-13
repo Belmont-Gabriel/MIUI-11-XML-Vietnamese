@@ -3401,4 +3401,5 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="power_save_ps_close_setting_5gnet">Kết nối mạng 5G</string>
 	<string name="antispam_mms_text">Đặt Tin nhắn làm ứng dụng nhắn tin mặc định để có thể xem tin nhắn bị chặn</string>
 	<string name="antispam_mms_text_setting">Đặt Tin nhắn làm ứng dụng nhắn tin mặc định để có thể xem danh sách chặn</string>
+	<string name="st_hint_operatelist">Có vẻ như quy tắc này đã có sẵn</string>
 </resources>

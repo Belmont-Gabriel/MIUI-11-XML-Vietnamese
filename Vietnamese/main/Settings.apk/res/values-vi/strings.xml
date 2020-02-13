@@ -6765,7 +6765,7 @@ Bạn chắc chắn sử dụng giờ được cấp bởi GPS?"</string>
      <string name="wifi_assistant_confirm_always">Không hiển thị lại</string>
      <string name="wifi_assistant_confirm_connection_title">Xác nhận</string>
      <string name="wifi_assistant_data_prompt">Hiển thị cảnh báo sử dụng dữ liệu</string>
-     <string name="wifi_assistant_data_prompt_summary">Hiển thị cảnh báo sử dụng dữ liệu khi trợ lý Wi-Fi chuyển sang dữ liệu di động</string>
+     <string name="wifi_assistant_data_prompt_summary">Hiển thị cảnh báo sử dụng dữ liệu khi chuyển sang dữ liệu di động</string>
      <string name="wifi_assistant_description">"Dưới đây là cách hoạt động của trợ lý Wi-Fi:
 1. Khi kết nối Wi-Fi yếu, trợ lý Wi-Fi sẽ cố gắng kết nối thiết bị của bạn với các mạng Wi-Fi khả dụng khác.
 2. Nếu tất cả kết nối Wi-Fi có sẵn đều yếu và dữ liệu di động sẽ được bật, trợ lý Wi-Fi tự lựa chọn mạng tốt nhất một cách thông minh."</string>
@@ -9842,10 +9842,10 @@ Dưới đây là một số nguyên nhân:
 	<string name="dialog_speaker_auto_clean_button">Đã hiểu</string>
 	<string name="auto_clean_summary">Phát một đoạn âm thanh 30 giây để làm sạch loa</string>
 	<string name="diy_suppression_summary">Điều chỉnh kích thước của khu vực chống chạm nhầm khi cần thiết</string>
-	<string name="strong_suppression_summary">Khu vực chống chạm nhầm lớn, hiệu ứng tốt hơn nhưng sẽ hy sinh một số trải nghiệm cạnh</string>
+	<string name="strong_suppression_summary">Thiết bị sẽ ít phản ứng với chạm nhầm hơn, một vài cử chỉ điều khiển có thể không hoạt động ở cạnh</string>
 	<string name="edge_mode_state_title">Chống chạm nhầm</string>
 	<string name="edge_mode_state_summary">Đặt cạnh của màn hình cong để tránh chạm nhầm. Các hành động cầm và chạm trong khu vực này sẽ không được phản hồi</string>
-	<string name="wake_suppression_summary">Vùng chống chạm nhầm nhỏ hơn, cảm ứng nhạy hơn nhưng tăng xác suất chạm sai</string>
+	<string name="wake_suppression_summary">Thiết bị sẽ phản ứng nhiều hơn với các chạm nhầm, nhưng phản ứng với hầu hết các cử chỉ điều khiển ở cạnh</string>
 	<string name="default_suppression_title">Mặc định (Được khuyến nghị)</string>
 	<string name="strong_suppression_title">Vùng lớn</string>
 	<string name="diy_suppression_title">Tùy chỉnh</string>
@@ -9854,7 +9854,7 @@ Dưới đây là một số nguyên nhân:
 	<string name="gps_description">Nhiều hệ thống định vị vệ tinh (GPS, BeiDou, GLONASS, Galileo) được hỗ trợ</string>
 	<string name="privacy_failed_need_to_unlock_nofingerprint">Nhập mật khẩu trước khi sử dụng vân tay mới</string>
 	<string name="wifi_direct_close_hotspot_hint">Tắt điểm phát di động trước khi sử dụng Wi-Fi trực tiếp</string>
-	<string name="codec_low_latency_summary">Cung cấp trải nghiệm độ trễ thấp cho đồng bộ Âm thanh/Video</string>
+	<string name="codec_low_latency_summary">Cung cấp trải nghiệm độ trễ thấp cho đồng bộ Âm thanh/Video trò chơi</string>
 	<string name="wifi_direct_close_slave_wifi_hint">Ngắt kết nối mạng Wi-Fi phụ trước khi sử dụng Wi-Fi trực tiếp</string>
 	<string name="codec_low_latency_title">Độ trễ thấp</string>
 	<string name="use_otg_charge_only_summary">Sạc 1A nhanh hơn</string>
