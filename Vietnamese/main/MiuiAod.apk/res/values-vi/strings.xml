@@ -104,4 +104,10 @@
 	<string name="theme_cate_title">Chủ đề</string>
 	<string name="my_style_title">Phong cách của tôi</string>
 	<string name="delete">Xóa</string>
+	<string name="minimalist_clock">Đồng hồ đơn giản</string>
+	<string name="aod_lock_screen_date_smartcover_b">EE d/M</string>
+	<string name="aod_lock_screen_date_12_smartcover">"EE
+d/M"</string>
+	<string name="aod_lock_screen_date_smartcover">"EE
+d/M"</string>
 </resources>
