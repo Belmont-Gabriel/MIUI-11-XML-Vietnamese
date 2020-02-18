@@ -313,4 +313,11 @@ Tất cả dữ liệu người dùng trước đó sẽ được lưu lại."</
 	<string name="install_done">Ứng dụng đã được cài đặt.</string>
 	<string name="pref_ads">Đề xuất</string>
 	<string name="app_name">Trình cài đặt gói</string>
+	<string name="install_control_lite_mode_solution_des">"Bạn có thể chọn vẫn cài đặt ứng dụng này.
+Ngoài ra, bạn có thể tắt Chế độ đơn giản và thử lại."</string>
+	<string name="install_control_cancel_install">"Không cài đặt"</string>
+	<string name="install_control_normal_mode_explain_des">"Không thể cài đặt ứng dụng này do hạn chế pháp lý"</string>
+	<string name="install_app_progress_clear_apk">Xóa APK</string>
+	<string name="install_control_lite_mode_explain_des">Ứng dụng này đến từ một nguồn không xác định và có thể không hoạt động trong Chế độ đơn giản.</string>
+	<string name="install_control_continue_install">Vẫn cài đặt</string>
 </resources>

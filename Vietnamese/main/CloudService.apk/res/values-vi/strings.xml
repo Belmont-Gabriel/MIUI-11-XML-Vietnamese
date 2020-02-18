@@ -841,4 +841,5 @@ Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải
 	<string name="picker_list_empty">Không có liên hệ ở đây</string>
 	<string name="picker_search_empty">Không tìm thấy liên hệ</string>
 	<string name="choose_contact_title">Liên hệ</string>
+	<string name="data_merge_dialog_title">Hợp nhất các mục</string>
 </resources>

@@ -2188,4 +2188,5 @@ d MMMM"</string>
 	<string name="how_to_use_app_quick">Làm thế nào để chuyển giữa các ứng dụng</string>
 	<string name="accessibility_status_bar_micphone">Micro đã kết nối</string>
 	<string name="how_to_use_app_quick_summary">Vuốt sang trái hoặc phải từ chỉ báo màn hình tràn cạnh hoặc từ cạnh dưới màn hình</string>
+	<string name="screenshot_failed_in_landscape_mode">"Không thể chụp ảnh màn hình kéo dài trong chế độ ngang"</string>
 </resources>
