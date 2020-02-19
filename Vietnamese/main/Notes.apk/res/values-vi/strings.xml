@@ -396,4 +396,5 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="repeat_mode_week">Hàng tuần</string>
 	<string name="repeat_mode_set_item_month_global">Hàng tháng (cùng ngày)</string>
 	<string name="repeat_mode_set_item_year_detail">Hàng năm (%s)</string>
+	<string name="notification_content_add_todo_from_other_app">Bạn đã thêm tác vụ mới. Chạm để xem.</string>
 </resources>
