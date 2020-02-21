@@ -441,4 +441,5 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="msg_operation_canceled">Hủy bỏ</string>
 	<string name="crop__saving">Đang lưu ảnh…</string>
 	<string name="select_from_album">Chọn từ album</string>
+	<string name="submitting">Đang gửi</string>
 </resources>

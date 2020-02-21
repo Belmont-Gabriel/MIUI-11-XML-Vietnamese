@@ -2791,4 +2791,5 @@ Chất lượng phát"</string>
 	<string name="nr_usaged_network_usaged">"Dữ liệu hôm nay"</string>
 	<string name="nr_usaged_network_rate">Tốc độ cao nhất</string>
 	<string name="notification_channel_demo">Thiết bị thử nghiệm</string>
+	<string name="preferred_network_type_pref_entries_only_4g">Chỉ LTE</string>
 </resources>

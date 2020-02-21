@@ -167,4 +167,7 @@ Lưu ý: Các tập tin cũng sẽ bị xóa khỏi thiết bị này."</item>
 	<plurals name="days_ago">
 		<item quantity="other">%d ngày trước</item>
 	</plurals>
+	<plurals name="sound_fade_duration_in_seconds">
+		<item quantity="other">Chuyển giữa các bài: %d giây</item>
+	</plurals>
 </resources>

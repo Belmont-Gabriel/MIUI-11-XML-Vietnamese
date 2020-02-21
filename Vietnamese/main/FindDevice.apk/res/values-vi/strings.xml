@@ -88,4 +88,5 @@ Liên hệ với đại lý bán hàng để biết thêm chi tiết."</string>
     <string name="find_device_notice">Truy cập &lt;b&gt;&lt;font color=#0099FF&gt;i.mi.com&lt;/font&gt;&lt;/b&gt; để định vị, khóa hoặc khôi phục thiết bị của bạn.</string>
     <string name="open_wifi_settings">Mở cài đặt Wi-Fi</string>
     <string name="return_to_call">Quay trở lại cuộc gọi</string>
+	<string name="unlock_number">Mã mở khóa: %s</string>
 </resources>
