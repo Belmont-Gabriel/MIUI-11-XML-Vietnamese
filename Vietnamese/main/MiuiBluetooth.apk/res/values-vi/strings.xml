@@ -89,4 +89,17 @@
 	<string name="fast_connect_device_battery">Pin</string>
 	<string name="fast_connect_nzbt_reset">Nhấn và giữ nút bên trên trong %1$s khi tắt nguồn</string>
 	<string name="fast_connect_wbs_reset">Nhấn và giữ nút bên trên trong %1$s giây khi tắt nguồn</string>
+	<string name="mihome_app_update">Cập nhật ngay</string>
+	<string name="mihome_app_download">Cài đặt ngay</string>
+	<string name="mihome_update_tips">Cập nhật ứng dụng Mi Home và giữ điện thoại gần thiết bị.</string>
+	<string name="mi_home_device_ignore">Bỏ qua</string>
+	<string name="mihome_ignore">Hủy</string>
+	<string name="mihome_download_title">Cài đặt Mi Home</string>
+	<string name="mihome_ignore_query">Bỏ qua</string>
+	<string name="mihome_ignore_tips">"Nếu bạn bỏ qua thiết bị này, bạn có thể thêm thủ công trong ứng dụng Mi Home."</string>
+	<string name="mi_home_device_start_binding">Ghép đôi ngay</string>
+	<string name="mihome_ignore_title">Bỏ qua thiết bị này?</string>
+	<string name="mi_home_device_find">Phát hiện thiết bị</string>
+	<string name="mihome_update_title">Cập nhật Mi Home</string>
+	<string name="mihome_download_tips">Cài đặt ứng dụng Mi Home, đăng nhập, và giữ điện thoại gần thiết bị của bạn.</string>
 </resources>

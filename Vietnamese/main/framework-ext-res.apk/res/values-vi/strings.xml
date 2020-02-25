@@ -278,4 +278,10 @@
 	<string name="help_content">Nếu bạn không thể tìm thấy thiết bị bạn cần, yêu cầu người khác bật Mi Share.</string>
 	<string name="sunlight_notification_title">Bật chế độ Ánh sáng mặt trời</string>
 	<string name="sunlight_notification_content">Tự động điều chỉnh độ sáng trong điều kiện ánh sáng mạnh</string>
+	<string name="handset_text_usb_handset_insert">Chạm để mở cài đặt bổ sung</string>
+	<string name="miaudiovisual_notification_summary">Bật để hiển thị hiệu ứng trên Màn hình khóa</string>
+	<string name="handset_title_unsupported_handset_insert">"Bộ chuyển tai nghe USB không được hỗ trợ"</string>
+	<string name="handset_text_unsupported_handset_insert">Chạm để xem chi tiết</string>
+	<string name="miaudiovisual_notification_title">Âm thanh và hiệu ứng hình ảnh</string>
+	<string name="handset_title_usb_handset_insert">Phát âm thanh qua USB</string>
 </resources>

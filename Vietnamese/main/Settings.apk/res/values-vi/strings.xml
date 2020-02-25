@@ -9945,4 +9945,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="tip_remove_data">Khôi phục cài đặt gốc sẽ xóa các mục dưới đây trên thiết bị của bạn</string>
 	<string name="application_data">Ứng dụng</string>
 	<string name="cloud_restore_section_summary_new">Sao lưu bố cục Màn hình chính, ứng dụng, cài đặt hệ thống và hơn thế</string>
+	<string name="dark_wallpaper_mode">Điều chỉnh hình nền cho Chế độ tối</string>
+	<string name="tether_use_wifi6_summary">Một vài thiết bị có thể tương thích với chuẩn 802.11ax. Tắt tính năng này nếu bạn gặp vấn đề.</string>
+	<string name="tether_use_wifi6_title">Hỗ trợ chuẩn thế hệ thứ sáu</string>
 </resources>

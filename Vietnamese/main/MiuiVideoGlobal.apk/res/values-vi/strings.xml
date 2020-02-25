@@ -1768,4 +1768,24 @@ Gửi mã này cho người giám sát."</string>
 	<string name="local_push_title">Phổ biến hôm nay</string>
 	<string name="gallery_fold_tags">Ẩn đánh dấu</string>
 	<string name="lp_play_mode_title">Chế độ phát</string>
+	<string name="ad_download">Tải xuống</string>
+	<string name="hot">Phổ biến</string>
+	<string name="reveal">Xoay</string>
+	<string name="explore">Khám phá</string>
+	<string name="comment_model_close">"Bình luận hiện không khả dụng!"</string>
+	<string name="cloud_online_switch_open_time">Hiển thị đề xuất nội dung cá nhân hóa</string>
+	<string name="ad_join">Tham gia cộng đồng</string>
+	<string name="cloud_online_switch_close_time">Bạn có thể bật đề xuất nội dung cá nhân hóa trong %s</string>
+	<string name="toast_no_data">"Mục này hiện chưa khả dụng. Quay lại sau."</string>
+	<string name="reveal_tip">Xoay thiết bị của bạn để có trải nghiệm xem tốt hơn</string>
+	<string name="screenshot_8k_saving">Đang lưu ảnh chụp màn hình 8K…</string>
+	<string name="screenshot_8k_share">Gửi tệp cho</string>
+	<string name="screenshot_8k">Ảnh chụp màn hình 8K</string>
+	<string name="error_details">Lỗi không xác định</string>
+	<string name="new_channel_tip">Xem qua kênh mới!</string>
+	<string name="ad_buy">Mua</string>
+	<string name="screenshot_8k_save_toast">Đã lưu ảnh chụp màn hình 8K vào %s</string>
+	<string name="not_support_share">"Không thể chia sẻ mục hiện tại"</string>
+	<string name="cloud_online_switch">Đề xuất cá nhân hóa</string>
+	<string name="ad_more">Thêm</string>
 </resources>

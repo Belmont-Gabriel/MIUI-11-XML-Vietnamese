@@ -2153,4 +2153,8 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="debug_address_title">Chế độ chuyển đổi siêu địa chỉ</string>
 	<string name="debug_browser_switch">Thay đổi môi trường kiểm thử với một cú nhấp chuột</string>
 	<string name="debug_browser_warning">Môi trường tùy chỉnh vui lòng đóng sau lần nhấp chuột đầu tiên!</string>
+	<string name="dark_mode_setting_light">Chế độ ban ngày (sáng)</string>
+	<string name="dark_mode_setting_follow">Theo hệ thống</string>
+	<string name="dark_mode_setting_title">Chế độ ban đêm</string>
+	<string name="dark_mode_setting_dark">Chế độ ban đêm (tối)</string>
 </resources>
