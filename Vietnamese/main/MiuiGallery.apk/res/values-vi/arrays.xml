@@ -203,4 +203,21 @@
 		<item>Sao chép</item>
 		<item>Hủy</item>
 	</string-array>
+	<string-array name="last_year_group_people">
+		<item>Bạn mới và bạn cũ</item>
+		<item>"Những cuộc gặp gỡ năm ngoái"</item>
+	</string-array>
+	<string-array name="recent_group_people">
+		<item>Cùng nhau</item>
+		<item>Sự ràng buộc</item>
+	</string-array>
+	<string-array name="last_week_baby_title">
+		<item>Thời gian để chơi</item>
+		<item>"Cuối tuần của Kiddo"</item>
+		<item>Con nhỏ</item>
+	</string-array>
+	<string-array name="three_month_baby_title">
+		<item>Chúng lớn nhanh quá</item>
+		<item>"Ảnh của Kiddo"</item>
+	</string-array>
 </resources>

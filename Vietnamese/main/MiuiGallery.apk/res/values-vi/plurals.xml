@@ -324,4 +324,7 @@
 	<plurals name="album_item_msg_format_new">
 		<item quantity="other">%d album</item>
 	</plurals>
+	<plurals name="picker_origin_need_to_download">
+		<item quantity="other">"%1$d tệp (%2$dMB) chưa được tải xuống. Tải xuống bằng dữ liệu di động?"</item>
+	</plurals>
 </resources>
