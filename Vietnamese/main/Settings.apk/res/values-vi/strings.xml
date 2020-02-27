@@ -9948,4 +9948,8 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="dark_wallpaper_mode">Điều chỉnh hình nền cho Chế độ tối</string>
 	<string name="tether_use_wifi6_summary">Một vài thiết bị có thể tương thích với chuẩn 802.11ax. Tắt tính năng này nếu bạn gặp vấn đề.</string>
 	<string name="tether_use_wifi6_title">Hỗ trợ chuẩn thế hệ thứ sáu</string>
+	<string name="bluetooth_mi_fast_connect_summary">Kết nối tới thiết bị Bluetooth lân cận</string>
+	<string name="bluetooth_connect_settings">Cài đặt kết nối Bluetooth</string>
+	<string name="bluetooth_display_settings">Cài đặt hiển thị Bluetooth</string>
+	<string name="bluetooth_mi_fast_connect">Liên kết Mi</string>
 </resources>

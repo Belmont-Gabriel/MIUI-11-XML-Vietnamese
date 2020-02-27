@@ -49,4 +49,9 @@ Bạn có muốn bật cho Dịch vụ NFC"</string>
 	<string name="beam_requires_external_storage_permission">Ứng dụng khong có quyền Bộ nhớ mở rộng. Điều này cần để Truyền tệp tin này</string>
 	<string name="permgrouplab_NFC">NFC-Kết nối trường gần</string>
 	<string name="permgroupdesc_NFC">Truy cập các tính năng NFC khác nhau</string>
+	<string name="tag_dispatch_failed">Không có ứng dụng hỗ trợ cho Thẻ NFC này</string>
+	<string name="action_confirm_url_open">Mở đường dẫn</string>
+	<string name="summary_confirm_url_open">Điện thoại của bạn nhận một đường dẫn qua NFC:</string>
+	<string name="tag_read_error">Lỗi đọc NFC. Thử lại.</string>
+	<string name="title_confirm_url_open">Mở đường dẫn?</string>
 </resources>

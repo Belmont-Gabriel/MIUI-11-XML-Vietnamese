@@ -1425,4 +1425,12 @@ và tăng cường tài liệu"</string>
 	<string name="network_access_user_notice_message_mi_live_video">&lt;Data&gt;Chào mừng tới video ngắn! Dịch vụ của chúng tôi cần kết nối mạng để cung cấp nhạc và các tính năng khác cho bạn. &lt;br/&gt;&lt;br/&gt;Trước khi sử dụng dịch vụ của chúng tôi, bạn cần đọc và đồng ý với &lt;a href =%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href =%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi, cũng như cho phép ứng dụng kết nối mạng.&lt;/Data&gt;</string>
 	<string name="pro_color_mode">Màu chuyên nghiệp</string>
 	<string name="super_night_se_tip">Chế độ ban đêm</string>
+	<string name="timbre">Thay đổi giọng nói</string>
+	<string name="mimoji_create_emoticon_progress">Tạo biểu tượng cảm xúc</string>
+	<string name="mimoji_emoticon_save">Lưu biểu tượng cảm xúc</string>
+	<string name="unknow_error">Lỗi không xác định</string>
+	<string name="mimoji_select_number_error">Vui lòng chọn ít nhất một mặt cười</string>
+	<string name="background">Hình nền</string>
+	<string name="mimoji_create_emoticon_error">Tạo biểu tượng cảm xúc thất bại</string>
+	<string name="mimoji_emoticon_with_jpeg_save">Lưu dưới dạng hình ảnh</string>
 </resources>

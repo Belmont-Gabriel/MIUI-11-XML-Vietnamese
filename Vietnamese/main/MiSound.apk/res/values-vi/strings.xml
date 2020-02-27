@@ -155,4 +155,6 @@
 	<string name="music_headset_scenario_music">Âm nhạc</string>
 	<string name="music_headset_open">Cho phép dịch vụ</string>
 	<string name="music_headset_not_open">Đóng</string>
+	<string name="music_audio_visual_wake_lock_summary">"Không tắt màn hình khi hiệu ứng hình ảnh được hiển thị"</string>
+	<string name="music_audio_visual_wake_lock">Giữ màn hình bật</string>
 </resources>

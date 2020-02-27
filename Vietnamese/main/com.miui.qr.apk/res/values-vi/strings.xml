@@ -26,4 +26,5 @@
 	<string name="qualitative_title">Thông tin nhất quán</string>
 	<string name="ration_title">Thông tin lớp ID</string>
 	<string name="close">Đóng</string>
+	<string name="close_hit_again">Chạm lần nữa để thoát màn hình</string>
 </resources>

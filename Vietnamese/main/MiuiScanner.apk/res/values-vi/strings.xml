@@ -442,4 +442,16 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="crop__saving">Đang lưu ảnh…</string>
 	<string name="select_from_album">Chọn từ album</string>
 	<string name="submitting">Đang gửi</string>
+	<string name="classesNameNull_toast">"Tên lớp không thể trống"</string>
+	<string name="classes_fail">"Không thể nhận diện. Thử lại."</string>
+	<string name="classes_dealalert">Ghi chú: Lớp đã nhập sẽ ghi đè dữ liệu trước đó.</string>
+	<string name="classes_edit_name">Nhập tên lớp</string>
+	<string name="classes_canfirmTitle">Xác nhận kết quả và bắt đầu nhập</string>
+	<string name="classes_delete">Xóa lớp</string>
+	<string name="classes_deleteMessage">Xóa vĩnh viễn lớp này?</string>
+	<string name="classes_isNull">"Bạn chưa thêm lớp nào"</string>
+	<string name="classes_topTitle">Quét lịch học của lớp</string>
+	<string name="classes_titlt">Lịch học</string>
+	<string name="classes_edit_dialog_title">Tên lớp</string>
+	<string name="classes_company">Nhập</string>
 </resources>

@@ -58,4 +58,13 @@
 	<string name="motion_photo_save_video_ing">Đang lưu video…</string>
 	<string name="motion_photo_save_image_ing">Đang lưu ảnh đẹp nhất…</string>
 	<string name="extra_photo_common_save_fail">Lưu thất bại</string>
+	<string name="doc_photo_adjust_section_title">Kéo thả để điều chỉnh</string>
+	<string name="doc_photo_idcard_portrait">Trước</string>
+	<string name="doc_photo_idcard_emblem">Sau</string>
+	<string name="doc_photo_enhance_color">Tăng cường</string>
+	<string name="doc_photo_idcard_mode_title">Thẻ ID</string>
+	<string name="doc_photo_enhance_none">Gốc</string>
+	<string name="doc_photo_view_effect">Xem trước</string>
+	<string name="doc_photo_not_support">"Không thể sửa ảnh này dưới dạng tài liệu"</string>
+	<string name="doc_photo_doc_photo_title">Sửa tài liệu</string>
 </resources>
