@@ -2153,4 +2153,26 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="vlog_caption_add">Thêm</string>
 	<string name="vlog_template_summer">Mùa hè</string>
 	<string name="vlog_photo_not_support">"Không thể sửa hình ảnh"</string>
+	<string name="filter_sky_dynamic_unavailable">"Không thể áp dụng bộ lọc này"</string>
+	<string name="album_name_all_photos">Tất cả ảnh</string>
+	<string name="album_sort_type">Thứ tự sắp xếp</string>
+	<string name="remove_single_manual_hide_album_from_rubbish_page_tip">Khôi phục album đã chọn và xóa tệp tin \".nomedia\"?</string>
+	<string name="album_name_all_photos_shortcut">Tất cả</string>
+	<string name="album_sort_type_name_desc">Từ Z đến A</string>
+	<string name="sort">Sắp xếp</string>
+	<string name="filter_sky_dynamic_note">Các mục với bộ lọc được lưu thành video</string>
+	<string name="rubbish_nomedia_manager_button_text">Quản lý album với tệp tin \".nomedia\"</string>
+	<string name="filter_sky_dynamic_snow">Tuyết</string>
+	<string name="album_sort_type_create_time_asc">Từ cũ đến mới</string>
+	<string name="manual_hide_manage">Thêm tệp tin \".nomedia\"</string>
+	<string name="album_sort_type_custom">Tùy chỉnh</string>
+	<string name="filter_sky_dynamic_rain">Mưa</string>
+	<string name="filter_sky_dynamic_saving">Đang tạo video</string>
+	<string name="slideshow_loop_title">Lặp lại tất cả trang</string>
+	<string name="manual_hide_state">Thêm tệp tin \".nomedia\" thành công</string>
+	<string name="add_nomedia_with_move_to_rubbish">Thêm tệp tin \".nomedia\" vào album đã chọn để ẩn nó với các ứng dụng khác</string>
+	<string name="filter_sky_dynamic_stop_saving">Chạm lại để hủy lưu</string>
+	<string name="album_sort_type_create_time_desc">Từ mới đến cũ</string>
+	<string name="vlog_mi_clip_cn">Trình biên tập video</string>
+	<string name="add_remove_nomedia_dialog_message">"Thêm tệp tin \".nomedia\" vào album đã chọn? Ứng dụng khác không thể thấy các album này."</string>
 </resources>

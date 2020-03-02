@@ -1010,4 +1010,11 @@ Lưu ý rằng ứng dụng này cần kết nối với mạng và yêu cầu c
 	<string name="name_is">Kết quả</string>
 	<string name="unit_meter">Mét</string>
 	<string name="label_total_payment">Tổng thanh toán</string>
+	<string name="history_delete_confirmation">Xóa lịch sử ngay?</string>
+	<string name="label_history">Lịch sử</string>
+	<string name="label_about">Thông tin</string>
+	<string name="label_clear_history">Xóa tất cả</string>
+	<string name="label_delete">Xóa</string>
+	<string name="dob_selection_error">"Ngày sinh phải sớm hơn hôm nay"</string>
+	<string name="label_no_history">Chưa có mục nào ở đây</string>
 </resources>

@@ -17,4 +17,8 @@
 		<item>Tháng Mười Một</item>
 		<item>Tháng Mười Hai</item>
 	</string-array>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
 </resources>
