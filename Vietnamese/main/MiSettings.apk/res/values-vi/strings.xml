@@ -288,4 +288,15 @@
 	<string name="usage_stats_no_limit">Thêm ngoại lệ</string>
 	<string name="usage_current_week_usage">%s trung bình trong 7 ngày qua</string>
 	<string name="usage_stats_limit_time_warn_title">Cảnh báo về thời gian màn hình còn lại</string>
+	<string name="title_activity_easy_mode">Chế độ đơn giản</string>
+	<string name="display_description">Biển tượng lớn hơn, chữ lớn, ít hiệu ứng</string>
+	<string name="start_easymode">Bật Chế độ đơn giản</string>
+	<string name="touch_title">Tăng cường điều khiển cảm ứng</string>
+	<string name="usage_home_premission_second_summary_double_link_prefix">"Chúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền của mình trong Thời gian trên màn hìnhChúng tôi sẽ bảo vệ thông tin cá nhân của bạn theo luật pháp, quy định và chính sách bảo mật có liên quan. Nếu bạn không đồng ý cấp các quyền đó hoặc chia sẻ và tải lên thông tin cá nhân của mình, bạn sẽ không thể sử dụng ứng dụng này. Bạn có thể thu hồi ủy quyền của mình trong Thời gian màn hình &gt; Cài đặt &gt; Tắt Thời gian màn hình."</string>
+	<string name="display_title">Các mục lớn hơn</string>
+	<string name="exit_easymode">Tắt Chế độ đơn giản</string>
+	<string name="touch_description">Tối ưu nút và lối tắt sẽ khiến bạn tránh chạm nhầm</string>
+	<string name="contact_title">Lối tắt liên hệ</string>
+	<string formatted="false" name="usage_home_premission_second_summary_double_link_suffix">&lt;Data&gt;"Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href='%1s'&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href='%2s'&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi."&lt;/Data&gt;</string>
+	<string name="contact_description">Đặt lối tắt liên hệ trên Màn hình chính và chạm để gọi</string>
 </resources>

@@ -577,7 +577,7 @@
     <string name="dialog_rating_title">Đánh giá ứng dụng của chúng tôi</string>
     <string name="dialog_rating_desc_less">Bạn có thể gửi phản hồi cho chúng tôi không?</string>
     <string name="dialog_rating_desc_perfect">Tuyệt! Đánh giá Máy tính trong App Store chứ?</string>
-    <string name="dialog_privacy_content">Bên cạnh các tính năng cơ bản, Máy tính cho phép bạn chuyển đổi tiền tệ và đơn vị đo, tính toán nợ thế chấp, và hơn thế nữa. Một vài tính năng cần kết nối mạng để hoạt động bình thường. &lt;Data&gt;Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.&lt;/Data&gt;</string>
+    <string name="dialog_privacy_content">Bên cạnh các tính năng cơ bản, Máy tính cho phép bạn chuyển đổi tiền tệ và đơn vị đo, tính toán nợ thế chấp, và hơn thế nữa. Một vài tính năng cần kết nối mạng để hoạt động bình thường. Trước khi sử dụng ứng dụng này, đọc và đồng ý với &lt;a href=%1$s&gt;Thỏa thuận Người dùng&lt;/a&gt; và &lt;a href=%2$s&gt;Chính sách Riêng tư&lt;/a&gt; của chúng tôi.</string>
     <string name="earthly_branches_zi">Tý</string>
     <string name="earthly_branches_chou">Sửu</string>
     <string name="earthly_branches_yin">Dần</string>

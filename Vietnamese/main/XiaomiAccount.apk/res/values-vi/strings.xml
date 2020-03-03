@@ -701,4 +701,12 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">Nội địa: Kích hoạt thẻ SIM (Thành công %s)</string>
 	<string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">Nội địa: Kích hoạt thẻ SIM thất bại, nhà cung cấp dịch vụ đã nhận được số (Thành công %s)</string>
 	<string name="passport_can_not_receive_verification_code">"Không nhận được mã xác thực?"</string>
+	<string name="find_device">Tìm Thiết bị</string>
+	<string name="find_device_clear_data">Xóa dữ liệu</string>
+	<string name="find_device_title">Tìm thiết bị</string>
+	<string name="find_device_close">Tắt</string>
+	<string name="find_device_open">Bật</string>
+	<string name="find_device_set_lost_model">Chế độ đánh mất</string>
+	<string name="find_device_location">Định vị</string>
+	<string name="find_device_play_sound">Phát âm thanh</string>
 </resources>

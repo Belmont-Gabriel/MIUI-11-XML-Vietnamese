@@ -9952,4 +9952,6 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="bluetooth_connect_settings">Cài đặt kết nối Bluetooth</string>
 	<string name="bluetooth_display_settings">Cài đặt hiển thị Bluetooth</string>
 	<string name="bluetooth_mi_fast_connect">Liên kết Mi</string>
+	<string name="easymode_hint">Chạm để tắt Chế độ đơn giản</string>
+	<string name="oldman_mode_settings">Chế độ đơn giản</string>
 </resources>

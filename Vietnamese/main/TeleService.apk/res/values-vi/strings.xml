@@ -2796,4 +2796,99 @@ Chất lượng phát"</string>
 	<string name="report_method_entries_item3">Tắt</string>
 	<string name="report_method_entries_item1">Chỉ khi tai nghe được kết nối</string>
 	<string name="report_method_entries_item2">Luôn luôn</string>
+	<string name="lgu_emm_cause_8">"Không thể đăng ký mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="kt_lte_emm_cause_3">"Không thể xác thực người dùng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề này sau đó, đến gặp trung tâm dịch vụ khách hàng."</string>
+	<string name="lgu_emm_cause_6">"Không thể xác thực thiết bị. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="reset_roaming_tip">Đang đặt lại chuyển vùng…</string>
+	<string name="data_enable_always_warn">Hỏi khi sử dụng dữ liệu di động</string>
+	<string name="lgu_emm_cause_others">"Không thể kết nối mạng. Đến gặp Trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="single_fiveg_dual_sim_dialog_btn_deactivate_sim">Hủy kích hoạt thẻ SIM</string>
+	<string name="kt_lte_emm_cause_6">"Không thể xác thực thiết bị. Khởi động lại thiết bị 2 đến 3 lần sau khi cài đặt thẻ USIM mới. Nếu bạn vẫn gặp vấn đề này, đến gặp trung tâm dịch vụ khách hàng."</string>
+	<string name="kt_lte_msim_emm_cause_others">"SIM %d không thể đăng ký mạng"</string>
+	<string name="emm_cause_2">"Không thể đăng ký số điện thoại. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="emm_cause_3">"Không thể xác thực người dùng. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="data_disable_warning_no_mms">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động (WCDMA/LTE). Để sử dụng mạng, kết nối Wi-Fi."</string>
+	<string name="network_state_display_title">Cài đặt trạng thái mạng</string>
+	<string name="emm_cause_6">"Không thể xác thực thiết bị. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="roaming_user_package_summary_kr">"Mua, hủy và chỉnh sửa gói chuyển vùng của bạn. Bạn sẽ không bị tính phí khi sử dụng menu này trong khi chuyển vùng."</string>
+	<string name="data_enable_warning_lgu">"Trừ khi có quy định khác trong gói nhà cung cấp dịch vụ của bạn, sử dụng dữ liệu di động có thể tạo thêm phí vận chuyển.
+
+Vẫn sử dụng dữ liệu di động?"</string>
+	<string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Hủy kích hoạt</string>
+	<string name="messageCFNRc_kr_kt">"Dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định khi bạn không thể trả lời cuộc gọi (ví dụ: khi bạn ở trên điện thoại hoặc thiết bị của bạn tắt). Bạn phải đăng ký dịch vụ này. Liên hệ với trung tâm khách hàng (114+ [Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập * 72 + [số để chuyển tiếp cuộc gọi đến] [Gửi] để bật hoặc * 720 [Gửi] để tắt.
+
+Số khi không gọi được"</string>
+	<string name="messageCW_kr_kt">Dịch vụ mạng miễn phí cho phép bạn trả lời cuộc gọi thứ hai trong khi gọi, tạm dừng cuộc gọi đầu tiên. Nhập * 40 + [Gửi] để bật hoặc * 400 + [Gửi] để tắt.</string>
+	<string name="single_fiveg_disable_fiveg_dialog_msg_disable_fiveg">Chỉ một thẻ SIM có thể kích hoạt mạng 5G. Chọn một loại mạng khác cho SIM dữ liệu của bạn trước.</string>
+	<string name="skt_emm_cause_7_8_15">"Không thể đăng ký mạng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề này, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="international_roaming_setting_kr">Chuyển vùng quốc tế</string>
+	<string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">Chọn thẻ SIM để hủy kích hoạt</string>
+	<string name="kt_lte_emm_cause_8">Yêu cầu kích hoạt. Đến gặp trung tâm dịch vụ khách hàng.</string>
+	<string name="data_disable_warning_with_mms_lgu">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động. Để sử dụng mạng, kết nối Wi-Fi.
+
+Tắt dữ liệu di động?"</string>
+	<string name="msim_emm_cause_7_8_12_13_15_16_17_22">"SIM %d không thể sử dụng chuyển vùng bây giờ. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (SKT: +82-2-6346-9000)."</string>
+	<string name="lgu_emm_cause_7_14">"Mạng không cung cấp dịch vụ dữ liệu di động"</string>
+	<string name="skt_msim_emm_cause_12_13_16_17_22">"SIM %d không thể đăng ký mạng. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="kt_lte_emm_cause_19_22">Đang đăng ký mạng… Chờ một vài phút rồi thử lại.</string>
+	<string name="skt_msim_emm_cause_7_8_15">"SIM %d không thể đăng ký mạng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="data_enable_warning">Cho phép luôn sử dụng dữ liệu di động có thể tạo ra chi phí ngoài gói dữ liệu của bạn. Vẫn kết nối?</string>
+	<string name="msim_emm_cause_3">"SIM %d không thể xác thực người dùng. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="roaming_customer_service_title_kr">Hỗ trợ khách hàng chuyển vùng</string>
+	<string name="msim_emm_cause_2">"SIM %d không thể đăng ký số điện thoại. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="msim_emm_cause_6">"SIM %d không thể xác thực thiết bị. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="skt_emm_cause_6">"Không thể xác thực thiết bị. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="lgu_msim_emm_cause_7_14">"SIM %d mạng không cung cấp dịch vụ dữ liệu di động"</string>
+	<string name="notification_switch_auto_title">Mạng di động</string>
+	<string name="single_fiveg_dual_sim_dialog_title_important_prompt">Chú ý</string>
+	<string name="reset_roaming_title">Đặt lại chuyển vùng</string>
+	<string name="skt_emm_cause_3">"Không thể xác thực người dùng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="kt_lte_msim_emm_cause_8">SIM %d yêu cầu kích hoạt. Đến gặp trung tâm dịch vụ khách hàng.</string>
+	<string name="reset_roaming_message">Thiết bị sẽ khởi động lại để đặt lại chuyển vùng.</string>
+	<string name="kt_lte_msim_emm_cause_6">"SIM %d không thể xác thực thiết bị. Nếu bạn vẫn gặp vấn đề đó, đến gặp trung tâm dịch vụ khách hàng."</string>
+	<string name="single_fiveg_dialog_title_prompt">Chú ý</string>
+	<string name="msim_emm_cause_11">"SIM %d nhà mạng không hỗ trợ dịch vụ này."</string>
+	<string name="roaming_user_package_title_kr">Sử dụng gói chuyển vùng</string>
+	<string name="skt_emm_cause_2">"Không thể đăng ký số điện thoại. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="roaming_customer_service_summary_kr">Gọi miễn phí ở nước ngoài</string>
+	<string name="msim_emm_cause_14">"SIM %d nhà mạng không hỗ trợ dịch vụ dữ liệu di động."</string>
+	<string name="kt_lte_msim_emm_cause_3">"SIM %d không thể xác thực người dùng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, đến gặp trung tâm dịch vụ khách hàng."</string>
+	<string name="lgu_msim_emm_cause_16_17_22">SIM %d đang đăng ký mạng… Chờ một vài phút rồi thử lại.</string>
+	<string name="data_disable_warning_with_mms">"Bạn sẽ vẫn có thể gửi và nhận MMS nếu bạn tắt dữ liệu di động (WCDMA/LTE). Để sử dụng mạng, kết nối Wi-Fi."</string>
+	<string name="single_fiveg_dialog_title_remind">Chú ý</string>
+	<string name="single_fiveg_enable_fiveg_dialog_msg_enable_fiveg">Chỉ một thẻ SIM có thể được kích hoạt cho mạng 5G. Chạm \"Kích hoạt\" bên dưới sẽ hủy kích hoạt các thẻ SIM khác.</string>
+	<string name="lgu_msim_emm_cause_11_12_13_15">"SIM %d không thể đăng ký mạng"</string>
+	<string name="single_fivegg_enable_fiveg_dialog_btn_enable_sim">Kích hoạt</string>
+	<string name="international_roaming_setting_kr_skt">Chuyển vùng T</string>
+	<string name="lgu_emm_16_17_22">Đang đăng ký mạng… Chờ một vài phút rồi thử lại.</string>
+	<string name="roaming_customer_service_message_kr">Chạm để liên hệ hỗ trợ khách hàng chuyển vùng (+82-2-2190-0901). Cuộc gọi này được miễn phí ở nước ngoài.</string>
+	<string name="notification_switch_auto_text">"Dường như bạn đã quay lại. Đã chuyển sang mạng địa phương."</string>
+	<string name="skt_emm_cause_12_13_16_17_22">"Không thể đăng ký mạng. Tắt thiết bị, bật lại rồi thử lại."</string>
+	<string name="skt_msim_emm_cause_2">"SIM %d không thể đăng ký số điện thoại. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="skt_msim_emm_cause_3">"SIM %d không thể xác thực người dùng. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="single_fiveg_dual_sim_dialog_btn_enable_dual_sims">Sử dụng SIM kép</string>
+	<string name="skt_msim_emm_cause_6">"SIM %d không thể xác thực thiết bị. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề đó, liên hệ hỗ trợ khách hàng (1599-0011)."</string>
+	<string name="lgu_emm_cause_11_12_13_15">"Không thể đăng ký mạng"</string>
+	<string name="roaming_disable_kr">Chuyển vùng dữ liệu và cài đặt chuyển vùng quốc tế</string>
+	<string name="network_available">Mạng khả dụng</string>
+	<string name="single_fiveg_disable_fiveg_dialog_btn_getit">Đã hiểu</string>
+	<string name="emm_cause_11">"Nhà mạng hiện tại không hỗ trợ dịch vụ này."</string>
+	<string name="network_active">Kích hoạt mạng</string>
+	<string name="emm_cause_14">"Nhà mạng hiện tại không hỗ trợ dịch vụ dữ liệu di động."</string>
+	<string name="lgu_msim_emm_cause_8">"SIM %d không thể đăng ký mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="messageCFU_kr_kt">"Một dịch vụ mạng chuyển hướng tất cả các cuộc gọi đến và tin nhắn văn bản đến một số được chỉ định. Bạn phải đăng ký dịch vụ này. Bạn sẽ phải trả phí hàng tháng. Liên hệ với trung tâm khách hàng (114+ [Gửi]) để đăng ký hoặc hủy đăng ký dịch vụ này. Nhập * 71 + [số để chuyển tiếp cuộc gọi đến] [Gửi] để bật hoặc * 710 [Gửi] để tắt.
+
+Luôn sử dụng số này"</string>
+	<string name="network_state_display">Hiển thị trạng thái mạng</string>
+	<string name="emm_cause_7_8_12_13_15_16_17_22">"Bạn không thể sử dụng chuyển vùng bây giờ. Tắt thiết bị, bật lại rồi thử lại. Nếu bạn vẫn gặp vấn đề này sau đó, liên hệ hỗ trợ khách hàng (SKT: +82-2-6346-9000)."</string>
+	<string name="kt_lte_emm_cause_others">"Không thể đăng ký mạng"</string>
+	<string name="lgu_msim_emm_cause_3">"SIM %d không thể xác thực người dùng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="single_fiveg_dual_sim_dialog_msg_dual_sim">Sử dụng mạng 5G yêu cầu hủy kích hoạt một trong số các thẻ SIM. Nếu bạn muốn tiếp tục sử dụng SIM kép, chọn một loại mạng khác.</string>
+	<string name="lgu_msim_emm_cause_2">SIM %d yêu cầu kích hoạt. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010).</string>
+	<string name="reset_roaming_not_support">"Thẻ SIM này không thể khởi tạo chuyển vùng."</string>
+	<string name="lgu_emm_cause_3">"Không thể xác thực người dùng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="lgu_msim_emm_cause_6">"SIM %d không thể xác thực thiết bị. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
+	<string name="kt_lte_msim_emm_cause_19_22">SIM %d đang đăng ký mạng… Chờ một vài phút rồi thử lại.</string>
+	<string name="lgu_emm_cause_2">Yêu cầu kích hoạt. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010).</string>
+	<string name="lgu_msim_emm_cause_others">"SIM %d không thể kết nối mạng. Đến gặp trung tâm dịch vụ khách hàng (+82-2-3416-7010)."</string>
 </resources>
