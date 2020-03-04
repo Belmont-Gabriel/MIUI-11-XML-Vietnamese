@@ -118,4 +118,11 @@ Kết nối cả điện thoại của bạn và màn hình mở rộng (v.d. TV
 3. Nếu bạn muốn sử dụng thiết bị không phải của Xiaomi, nhưng không thể tìm thấy nó trong danh sách thiết bị khả dụng, thử cách dưới đây:
 Kết nối cả điện thoại của bạn và màn hình mở rộng (v.d. TV của bạn) vào cùng mạng Wi-Fi, hoặc kết nối màn hình mở rộng vào điểm phát của điện thoại."</string>
 	<string name="actionbar_button_up_description">Quay lại</string>
+	<string name="small_window_not_supported">"Không thể thu nhỏ ứng dụng này khi nó đang được chiếu"</string>
+	<string name="nfc_connect_failed_toast">"Không thể chiếu. Thử lại."</string>
+	<string name="help_page_text_06_global">"1. Mi TV, Mi Box, và Máy chiếu Mi:
+Kết nối cả điện thoại của bạn và màn hình mở rộng vào cùng mạng Wi-Fi để đạt hiệu quả tốt nhất. Nếu chúng kết nối tới các mạng khác nhau, có thể mất nhiều thời gian hơn để tìm màn hình mở rộng và kết nối.
+Ghi chú: Các TV Mi cũ có thể không hỗ trợ chiếu qua mạng khác nhau.
+2. Nếu bạn đang sử dụng TV, set-top boxe, hoặc máy chiếu của các hãng khác, kết nối cả điện thoại và màn hình mở rộng vào cùng mạng Wi-Fi.
+Nếu cả hai thiết bị không thể kết nối tới cùng một mạng, bật Miracast trên màn hình mở rộng của bạn. Tên của tính năng Miracast có thể khác nhau tùy hãng."</string>
 </resources>

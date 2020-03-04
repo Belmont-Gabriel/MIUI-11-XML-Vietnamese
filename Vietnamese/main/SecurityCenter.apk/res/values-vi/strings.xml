@@ -3473,4 +3473,5 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_door">Hồ sơ hành vi ứng dụng</string>
 	<string name="gb_add_game_loading_tips">Chỉ vài giây…</string>
 	<string name="app_behavior_clipboard_bg">%1s cố truy cập hoặc lưu các mục vào bộ nhớ tạm dưới nền</string>
+	<string name="antivirus_monitored_app_empty">"Không tìm thấy ứng dụng thanh toán tương thích"</string>
 </resources>

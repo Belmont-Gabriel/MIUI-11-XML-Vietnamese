@@ -709,4 +709,5 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="find_device_set_lost_model">Chế độ đánh mất</string>
 	<string name="find_device_location">Định vị</string>
 	<string name="find_device_play_sound">Phát âm thanh</string>
+	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
 </resources>
