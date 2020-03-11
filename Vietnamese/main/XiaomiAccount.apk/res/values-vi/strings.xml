@@ -710,4 +710,6 @@ Hãy chắc chắn bạn nhớ tất cả câu trả lời."</string>
 	<string name="find_device_location">Định vị</string>
 	<string name="find_device_play_sound">Phát âm thanh</string>
 	<string name="password_toggle_content_description">Chuyển đổi hiển thị mật khẩu</string>
+	<string name="character_counter_content_description">Giới hạn ký tự đã đạt %1$d trên %2$d</string>
+	<string name="mtrl_chip_close_icon_content_description">Xóa %1$s</string>
 </resources>

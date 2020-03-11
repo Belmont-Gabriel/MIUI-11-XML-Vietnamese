@@ -2157,4 +2157,10 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="dark_mode_setting_follow">Theo hệ thống</string>
 	<string name="dark_mode_setting_title">Chế độ ban đêm</string>
 	<string name="dark_mode_setting_dark">Chế độ ban đêm (tối)</string>
+	<string name="aqi_excellent">Rất tốt</string>
+	<string name="aqi_very_polluted">Ô nhiễm nghiêm trọng</string>
+	<string name="aqi_good">Tốt</string>
+	<string name="aqi_severe_pollution">Ô nhiễm nặng</string>
+	<string name="aqi_moderately_polluted">Ô nhiễm vừa phải</string>
+	<string name="aqi_light_pollution">Ô nhiễm nhẹ</string>
 </resources>

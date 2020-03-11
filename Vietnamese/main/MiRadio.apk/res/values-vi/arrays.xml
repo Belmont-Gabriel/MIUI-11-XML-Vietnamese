@@ -185,4 +185,8 @@
         <item>Tìm kiếm "Tương lai khó quên"</item>
         <item>Phát nhạc cục bộ</item>
     </string-array>
+	<string-array name="account_user_gender_name">
+		<item>Nam</item>
+		<item>Nữ</item>
+	</string-array>
 </resources>

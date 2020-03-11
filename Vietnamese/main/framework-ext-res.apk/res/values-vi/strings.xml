@@ -284,4 +284,18 @@
 	<string name="handset_text_unsupported_handset_insert">Chạm để xem chi tiết</string>
 	<string name="miaudiovisual_notification_title">Âm thanh và hiệu ứng hình ảnh</string>
 	<string name="handset_title_usb_handset_insert">Phát âm thanh qua USB</string>
+	<string name="input_method_clipboard_participle">Tách từ</string>
+	<string name="input_method_clipboard_clear_all_button">Xóa tất cả</string>
+	<string name="input_method_clipboard_clear_all_phrase_title">Xóa clipboard</string>
+	<string name="input_method_clipboard_copy_success">Sao chép thành công</string>
+	<string name="input_method_clipboard_check_more_delete">Xóa</string>
+	<string name="input_method_phrase_edit">Sửa</string>
+	<string name="input_method_clipboard_check_more_copy">Sao chép</string>
+	<string name="input_method_clipboard_clear_all_phrase_des">Xóa tất cả các mục khỏi clipboard?</string>
+	<string name="input_method_clipboard_delete_success">Xóa thành công</string>
+	<string name="input_method_phrase_top">Ghim</string>
+	<string name="input_method_clipboard_settings_button">Cài đặt</string>
+	<string name="input_method_clipboard_check_more_add_to_phrase">Thêm cụm từ thường xuyên</string>
+	<string name="input_method_clipboard_checkbox_cancle">Hủy</string>
+	<string name="input_method_clipboard_checkbox_confirm">Xóa</string>
 </resources>

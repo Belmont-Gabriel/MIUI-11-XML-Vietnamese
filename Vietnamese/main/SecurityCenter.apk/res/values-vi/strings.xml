@@ -3474,4 +3474,16 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="gb_add_game_loading_tips">Chỉ vài giây…</string>
 	<string name="app_behavior_clipboard_bg">%1s cố truy cập hoặc lưu các mục vào bộ nhớ tạm dưới nền</string>
 	<string name="antivirus_monitored_app_empty">"Không tìm thấy ứng dụng thanh toán tương thích"</string>
+	<string name="google_base_app_timeout">Phiên hết hạn. Chờ một vài phút và thử lại.</string>
+	<string name="google_base_app_installing">Đang cài đặt…</string>
+	<string name="google_base_app_fail">"Không thể tải xuống. Kiểm tra xem Bảo mật đã được cấp quyền kết nối mạng chưa."</string>
+	<string name="google_base_app_network_anomaly">"Không thể kết nối mạng. Kiểm tra cài đặt mạng của bạn và thử lại."</string>
+	<string name="google_base_app_installed">Cài đặt thành công</string>
+	<string name="google_base_app_toast">Khung dịch vụ Google đang được cài đặt dưới nền. Chờ một vài phút rồi thử lại.</string>
+	<string name="google_base_app_title">Đang cài đặt Dịch vụ Google</string>
+	<string name="wifi_danger_dialog_title">"Mạng Wi-Fi không an toàn"</string>
+	<string name="button_text_trust">Tin tưởng mạng này</string>
+	<string name="wifi_danger_dialog_tips">Bạn có thể quản lý bảo mật Wi-Fi trong Bảo mật &gt; Quét bảo mật &gt; Cài đặt &gt; Wi-Fi.</string>
+	<string name="sp_background_risk_dialog_summary_new">Môi trường thanh toán hiện tại có thể gây ra rủi ro bảo mật. Giành một chút thời gian để giải quyết các vấn đề hiện có.</string>
+	<string name="wifi_danger_dialog_messgae">Mạng Wi-Fi hiện tại có thể gây ra rủi ro bảo mật. Chú ý khi sử dụng.</string>
 </resources>

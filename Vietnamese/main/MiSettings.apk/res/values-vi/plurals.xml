@@ -84,4 +84,10 @@
 	<plurals name="usage_stats_remain_miunte">
 		<item quantity="other">%s phút</item>
 	</plurals>
+	<plurals name="steady_on_screen_time_pick">
+		<item quantity="other">%d phút</item>
+	</plurals>
+	<plurals name="steady_on_screen_notification_summary">
+		<item quantity="other">"Bạn đã sử dụng thiết bị trong %d phút không bị gián đoạn"</item>
+	</plurals>
 </resources>

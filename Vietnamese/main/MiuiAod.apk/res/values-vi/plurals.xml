@@ -6,4 +6,7 @@
 	<plurals name="count_selected">
 		<item quantity="other">Đã chọn %d mục</item>
 	</plurals>
+	<plurals name="mtrl_badge_content_description">
+		<item quantity="other">%d thông báo mới</item>
+	</plurals>
 </resources>

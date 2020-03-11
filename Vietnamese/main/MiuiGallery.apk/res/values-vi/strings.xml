@@ -2175,4 +2175,7 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="album_sort_type_create_time_desc">Từ mới đến cũ</string>
 	<string name="vlog_mi_clip_cn">Trình biên tập video</string>
 	<string name="add_remove_nomedia_dialog_message">"Thêm tệp tin \".nomedia\" vào album đã chọn? Ứng dụng khác không thể thấy các album này."</string>
+	<string name="drag_view_tip_sub_title">Nhấn và giữ một album để sắp xếp</string>
+	<string name="vlog_clip_cut_fail_min_time">Clip phải dài ít nhất %1$s giây</string>
+	<string name="drag_view_tip_title">Sắp xếp album</string>
 </resources>

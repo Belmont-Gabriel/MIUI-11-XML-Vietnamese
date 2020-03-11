@@ -97,7 +97,7 @@
         <item quantity="other">%1$d người từ %2$s</item>
     </plurals>
     <plurals name="num_groups_in_account">
-        <item quantity="other">%0$d nhóm</item>
+        <item quantity="other">%d nhóm</item>
     </plurals>
     <plurals name="number_of_items_available">
         <item quantity="other">Còn lại %1$d mục</item>

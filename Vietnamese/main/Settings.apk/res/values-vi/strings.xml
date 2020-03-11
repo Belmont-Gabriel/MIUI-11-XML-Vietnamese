@@ -9954,4 +9954,22 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="bluetooth_mi_fast_connect">Liên kết Mi</string>
 	<string name="easymode_hint">Chạm để tắt Chế độ đơn giản</string>
 	<string name="oldman_mode_settings">Chế độ đơn giản</string>
+	<string name="input_method_quick_access">Truy cập nhanh</string>
+	<string name="input_method_quick_paste_summary">Xem các mục đã sao chép bằng cách chạm biểu tượng clipboard</string>
+	<string name="input_method_cloud_paste_mode_bubble_title">Bong bóng</string>
+	<string name="input_method_cloud_paste_mode_no_des">"Bạn sẽ không thấy thông báo khi nội dung mới xuất hiện trong clipboard đám mây. Tuy nhiên, bạn sẽ vẫn có thể sử dụng clipboard của bạn bằng cách chạm vào biểu tượng."</string>
+	<string name="input_method_quick_cloud_summary">Sao chép mục từ máy tính tương thích và dán vào thiết bị của bạn</string>
+	<string name="input_method_quick_url_title">Trang web</string>
+	<string name="input_method_quick_cloud_mode_title">Thông báo về nội dung clipboard mới</string>
+	<string name="input_method_quick_cloud_title">Clipboard đám mây</string>
+	<string name="input_method_cloud_paste_mode_no_title">Không</string>
+	<string name="input_method_quick_url_summary">Mở URL đã sao chép bằng cách chạm biểu tượng clipboard</string>
+	<string name="input_method_cloud_paste_mode_red_point_title">Chấm đỏ</string>
+	<string name="input_method_clipboard_settings">Cài đặt clipboard</string>
+	<string name="input_method_cloud_paste_mode_red_point_des">"Bạn sẽ thấy một chấm đỏ bên dưới bàn phím khi có nội dung mới xuất hiện trong clipboard đám mây. Chạm biểu tượng để mở clipboard và sử dụng nội dung đã sao chép."</string>
+	<string name="input_method_cloud_paste_mode_bubble_des">"Bạn sẽ thấy một bong bóng nổi khi nội dung mới xuất hiện trong clipboard đám mây. Chạm vào bong bóng để nhập văn bản đã sao chép."</string>
+	<string name="input_method_quick_paste_title">Dán nhanh</string>
+	<string name="input_method_quick_taobao_title">Đường dẫn Taobao</string>
+	<string name="input_method_quick_taobao_summary">Mở đường dẫn Taobao đã sao chép bằng cách chạm biểu tượng clipboard</string>
+	<string name="input_method_cloud_data_title">Clipboard đám mây</string>
 </resources>

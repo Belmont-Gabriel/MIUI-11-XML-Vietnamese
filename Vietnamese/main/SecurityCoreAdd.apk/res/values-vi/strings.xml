@@ -483,4 +483,5 @@ Hãy chắc chắn tên của cơ quan bạn chính xác. Đọc và đồng ý 
 	<string name="greenguard_install_title">Cài đặt Bảo vệ Gia đình</string>
 	<string name="greenguard_install_message">"Bảo vệ Gia đình là một ứng dụng hệ thống. Bạn không cần mạng để cài đặt."</string>
 	<string name="greenguard_install_confirm">Cài đặt</string>
+	<string name="master_clear_not_available_ep">"Bạn không được phép thực hiện khôi phục cài đặt gốc hoặc thu hồi ủy quyền của mình ngay bây giờ. Liên lạc với người giám sát của bạn."</string>
 </resources>

@@ -1436,4 +1436,22 @@ và tăng cường tài liệu"</string>
 	<string name="mimoji_gif_record_time_short">Video đã ghi quá ngắn</string>
 	<string name="music_hint_tt">Nguồn cấp dịch vụ</string>
 	<string name="only_mimoji_multi_window_mode_not_supported">"Tính năng này không thể được sử dụng trong chế độ đa cửa sổ"</string>
+	<string name="speech_shutter_open_tip">Nói "Chụp ảnh" để chụp ảnh</string>
+	<string name="clone_photo_mode_start_hint">Vui lòng nhấn vào nút chụp để bắt đầu chụp ảnh</string>
+	<string name="timbre_baby">Trẻ</string>
+	<string name="speech_shutter_tip">Chụp bằng giọng nói</string>
+	<string name="timbre_normal">Gốc</string>
+	<string name="clone_offset_is_too_large">Bù điện thoại quá lớn, vui lòng chụp lại</string>
+	<string name="timbre_lady">Quý bà</string>
+	<string name="clone_put_phone_back_in_place">Vui lòng đặt điện thoại về vị trí ban đầu</string>
+	<string name="timbre_gentlemen">Quý ông</string>
+	<string name="clone_photo_mode">Chế độ ảnh</string>
+	<string name="clone_no_person_found_in_viewfinder">Không nhận ra người trong khung ảnh</string>
+	<string name="clone_video_mode_start_hint">Vui lòng nhấn vào nút chụp để bắt đầu ghi</string>
+	<string name="clone_landscape_hint">Chỉ hỗ trợ chế độ chụp phong cảnh</string>
+	<string name="clone_don_not_move_phone">Vui lòng không di chuyển điện thoại</string>
+	<string name="clone_video_mode">Chế độ video</string>
+	<string name="clone_start_capture">Bắt đầu chụp</string>
+	<string name="clone_preview_no_person">Không nhận ra người, có thể không chụp</string>
+	<string name="timbre_girl">Cô gái</string>
 </resources>
