@@ -1683,4 +1683,14 @@ Ghi chú: Chỉ cho phiên bản Ubuntu 8.04!"</item>
 		<item>Español (América)</item>
 		<item>Português (Brasil)</item>
 	</string-array>
+	<string-array name="aggregate_summaries">
+		<item>MIUI sẽ quyết định thông báo nào nên hiển thị trực tiếp</item>
+		<item>Thông báo sẽ hiển thị trong Bảng thông báo</item>
+		<item>Thông báo sẽ hiển thị trong thư mục riêng biệt</item>
+	</string-array>
+	<string-array name="aggregate_entries">
+		<item>Đề xuất</item>
+		<item>Quan trọng</item>
+		<item>Không quan trọng</item>
+	</string-array>
 </resources>

@@ -250,4 +250,5 @@ Tiết kiệm pin sẽ xử lý ứng dụng quan trọng một cách có chọn
 	<string name="permstep_description">"Cho phép ứng dụng đọc thông tin các bước điện thoại của bạn"</string>
 	<string name="permstep_label">Đọc các bước</string>
 	<string name="power_tools_current">Hiện tại</string>
+	<string name="cloud_russion_addr">Cập nhật dữ liệu máy chủ của Russion</string>
 </resources>
