@@ -351,4 +351,6 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="permdesc_in_calls">Giám sát cuộc gọi đến</string>
 	<string name="permdesc_camera">Chụp ảnh và quay phim.</string>
 	<string name="permdesc_location_background">Truy cập vị trí dưới nền</string>
+	<string name="grant_dialog_button_allow_onetime">Cho phép lần này</string>
+	<string name="HIPS_Perm_clipboard_Desc">Truy cập và sửa đổi nội dung clipboard</string>
 </resources>

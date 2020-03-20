@@ -1454,4 +1454,20 @@ và tăng cường tài liệu"</string>
 	<string name="clone_start_capture">Bắt đầu chụp</string>
 	<string name="clone_preview_no_person">Không nhận ra người, có thể không chụp</string>
 	<string name="timbre_girl">Cô gái</string>
+	<string name="accessibility_eis_normal">EIS bật</string>
+	<string name="super_eis_pro_disabled_hint">Ổn định video Pro tắt</string>
+	<string name="mimoji_tab_cartoon">Ảnh hoạt hình</string>
+	<string name="accessibility_eis_off">EIS tắt</string>
+	<string name="accessibility_eis_pro">EIS Pro bật</string>
+	<string name="pref_camera_eis_entry_off">Tắt</string>
+	<string name="mimoji_tab_human">Ảnh nhân học</string>
+	<string name="super_eis_pro">Ổn định video Pro</string>
+	<string name="clone_guide_title4">Chỉ ra hiệu ứng</string>
+	<string name="clone_guide_tip3">Chỉ hỗ trợ chân dung</string>
+	<string name="clone_guide_tip2">Tránh di chuyển các vật thể và nền cứng</string>
+	<string name="clone_guide_video_title2">Hướng dẫn bằng video</string>
+	<string name="clone_guide_tip4">Hỗ trợ tối đa 4 ảnh đại diện</string>
+	<string name="clone_guide_title2">Ảnh hướng dẫn</string>
+	<string name="clone_guide_tip1">Hãy giữ cho điện thoại cố định và đủ sáng</string>
+	<string name="clone_guide_video_tip4">Hỗ trợ tối đa 2 ảnh đại diện</string>
 </resources>

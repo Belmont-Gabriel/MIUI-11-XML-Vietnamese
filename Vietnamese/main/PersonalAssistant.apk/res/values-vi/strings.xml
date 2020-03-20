@@ -1834,4 +1834,15 @@ Nếu không có dự phòng, số điện thoại bị quên hoặc bị khóa,
 	<string name="miot_auth_content">Sử dụng App vault để điều khiển thiết bị nhà thông minh của bạn</string>
 	<string name="setting_taxi_brief">Chạm để gọi taxi và xem chi tiết đơn hàng của bạn</string>
 	<string name="card_expand_note_toast_share_null">Ghi chú trống</string>
+	<string name="debug_card_detail">Cài đặt gỡ lỗi và công cụ</string>
+	<string name="miot_device_opening">Thiết bị đang bật</string>
+	<string name="debug_card_title">Gỡ lỗi</string>
+	<string name="miot_device_closed">Thiết bị đang tắt</string>
+	<string name="miot_device_disabled">"Không thể điều khiển thiết bị"</string>
+	<string name="access_deselected">Đã bỏ chọn %s</string>
+	<string name="access_selected">Đã chọn %s</string>
+	<string name="debug_card_brief">Cài đặt gỡ lỗi và công cụ</string>
+	<string name="access_deselect">Đã bỏ chọn %s</string>
+	<string name="trip_required_info">Bắt buộc</string>
+	<string name="app_version_name">"Phiên bản App vault: "</string>
 </resources>

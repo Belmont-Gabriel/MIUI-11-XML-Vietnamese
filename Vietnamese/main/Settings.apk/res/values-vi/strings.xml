@@ -9973,4 +9973,6 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="input_method_quick_taobao_summary">Mở đường dẫn Taobao đã sao chép bằng cách chạm biểu tượng clipboard</string>
 	<string name="input_method_cloud_data_title">Clipboard đám mây</string>
 	<string name="aggregate_title">Luật cho thông báo đã nhóm</string>
+	<string name="ring_to_you_info">Đặt nhạc chuông tùy chỉnh người khác sẽ nghe thấy trước khi bạn nhấc máy</string>
+	<string name="ring_to_you">Nhạc chuông tùy chỉnh</string>
 </resources>

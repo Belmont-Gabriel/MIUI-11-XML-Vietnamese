@@ -1281,4 +1281,8 @@ Vui lòng gửi mã này cho kỹ thuật viên."</string>
 	<string name="miui_fm_description">Nhiều đài phát thanh qua mạng</string>
 	<string name="service_error">Lỗi máy chủ</string>
 	<string name="account_bind_secure_email_title">Thêm email khôi phục</string>
+	<string name="feedback">Phản hồi</string>
+	<string name="pause_play">Tạm dừng phát</string>
+	<string name="feedback_toast">"Kênh phản hồi của Đài Xiaomi là cộng đồng Xiaomi
+Đến với Cộng đồng Xiaomi"</string>
 </resources>

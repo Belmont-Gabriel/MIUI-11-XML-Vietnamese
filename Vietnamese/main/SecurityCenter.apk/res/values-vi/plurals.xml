@@ -390,4 +390,13 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="app_behavior_privacy_manager_off">
 		<item quantity="other">%1$d ứng dụng không bật thông báo hành vi nhạy cảm</item>
 	</plurals>
+	<plurals name="app_behavior_notification_camera_more">
+		<item quantity="other">%1$s và %2$d ứng dụng khác đang sử dụng máy ảnh</item>
+	</plurals>
+	<plurals name="app_behavior_notification_location_more">
+		<item quantity="other">%1$s và %2$d ứng dụng khác đang truy cập vị trí của bạn</item>
+	</plurals>
+	<plurals name="app_behavior_notification_audio_more">
+		<item quantity="other">%1$s và %2$d ứng dụng khác đang ghi âm</item>
+	</plurals>
 </resources>
