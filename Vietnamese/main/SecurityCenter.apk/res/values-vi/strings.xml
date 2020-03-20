@@ -3423,7 +3423,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_perm_change_tip_deny">\"%1s\" chuyển sang Từ chối</string>
 	<string name="app_behavior_warning_location_title">%1s định vị trong nền</string>
 	<string name="app_behavior_calllog_bg">%1s cố gắng lấy thông tin cuộc gọi trong nền</string>
-	<string name="app_behavior_header_time">Ngày dd tháng MM</string>
+	<string name="app_behavior_header_time">dd MMMM</string>
 	<string name="app_behavior_notification_title_single_group">\"%1s\" thực hiện nhiều thao tác nhạy cảm</string>
 	<string name="app_behavior_calllog">%1s cố gắng lấy thông tin nhật ký cuộc gọi</string>
 	<string name="app_behavior_notification_title_calllog_write">\"%1s\" lấy thông tin liên hệ trong nền</string>
