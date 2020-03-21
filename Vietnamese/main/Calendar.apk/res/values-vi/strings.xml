@@ -528,7 +528,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="credit_detail_amount_label">Chi tiết</string>
     <string name="credit_event_delete_successfully">Xóa thanh toán thẻ tín dụng thành công</string>
     <string name="credit_event_title">Hóa đơn thẻ tín dụng</string>
-    <string name="date_pattern_mm_dd">Ngày d tháng M</string>
+    <string name="date_pattern_mm_dd">d M</string>
     <string name="event_lunar_month">Tháng</string>
     <string name="horoscope_card_comprehensive">Tử vi toàn diện:</string>
     <string name="horoscope_card_financial">Tài chính:</string>
@@ -707,7 +707,7 @@ Kiểm tra cài đặt mạng và thử lại."</string>
     <string name="limit_card_set_reminder">Đặt lời nhắc</string>
     <string name="limit_city_label">Chọn thành phố</string>
     <string name="limit_no_city">Không có dữ liệu thành phố</string>
-    <string name="limit_notification_date_format">Ngày d tháng M (EE)</string>
+    <string name="limit_notification_date_format">d M (EE)</string>
     <string name="limit_notification_title">Xe của bạn bị giới hạn hôm nay</string>
     <string name="limit_reminder_switch_label">Nhắc nhở giới hạn</string>
     <string name="limit_reminder_time_label">Nhắc nhở thời gian</string>

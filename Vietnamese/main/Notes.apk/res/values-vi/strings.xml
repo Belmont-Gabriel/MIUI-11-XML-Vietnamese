@@ -398,7 +398,7 @@ Cho phép Ghi chú ghi âm."</string>
 	<string name="repeat_mode_set_item_year_detail">Hàng năm (%s)</string>
 	<string name="notification_content_add_todo_from_other_app">Bạn đã thêm tác vụ mới. Chạm để xem.</string>
 	<string name="data_empty_note">Chưa có ghi chú nào ở đây</string>
-	<string name="repeat_mode_set_item_month_detail_day">Ngày d</string>
+	<string name="repeat_mode_set_item_month_detail_day">d</string>
 	<string name="repeat_mode_set_item_month">Hàng tháng (%s)</string>
 	<string name="data_empty_todo">Chưa có nhiệm vụ nào ở đây</string>
 	<string name="repeat_mode_set_item_month_detail">Hàng tháng %s</string>

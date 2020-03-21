@@ -705,4 +705,5 @@ Chứng chỉ bộ nhớ có thể không bật</string>
 Chất lượng phát"</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_latency">Codec Âm thanh Bluetooth LHDC: Độ trễ</string>
 	<string name="bluetooth_select_a2dp_codec_lhdc_playback_quality">Codec Âm thanh Bluetooth LHDC: Chất lượng phát</string>
+	<string name="volume_boost_text">Tăng âm lượng thành công</string>
 </resources>

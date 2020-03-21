@@ -3442,7 +3442,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_sms_send">%1s cố gắng gửi tin nhắn</string>
 	<string name="app_behavior_storage">%1s cố gắng đọc và ghi ảnh và tệp tin trên thiết bị</string>
 	<string name="app_behavior_phonestate">%1s cố gắng lấy thông tin điện thoại</string>
-	<string name="app_behavior_desc_deny_once">Bị %1$s từ chối</string>
+	<string name="app_behavior_desc_deny_once">Bị từ chối lúc %1$s</string>
 	<string name="app_behavior_notification_title_storage">\"%1s\" sửa đổi dữ liệu lưu trữ trong nền</string>
 	<string name="app_behavior_perm_change_tip_foreground">\"%1s\" thay đổi chỉ cho phép khi sử dụng ứng dụng</string>
 	<string name="app_behavior_clipboard">%1s cố gắng đọc hoặc ghi bộ nhớ tạm</string>
@@ -3454,7 +3454,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_camera">%1s cố gắng chụp ảnh hoặc quay video</string>
 	<string name="app_behavior_notification_title_now_audio">\"%1s\" ghi âm trong nền</string>
 	<string name="app_behavior_autostart">%1s cố gắng tự khởi chạy</string>
-	<string name="app_behavior_desc_allow_once">Được %1$s cho phép</string>
+	<string name="app_behavior_desc_allow_once">Được cho phép lúc %1$s</string>
 	<string name="app_behavior_contacts">%1s cố gắng lấy thông tin liên hệ</string>
 	<string name="app_behavior_location">%1s cố gắng lấy thông tin vị trí</string>
 	<string name="app_behavior_sensor">%1s cố gắng lấy dữ liệu cảm biến</string>
@@ -3470,7 +3470,7 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_sms_read">%1s cố gắng đọc tin nhắn văn bản</string>
 	<string name="app_behavior_about_content_no_link">Để bảo vệ quyền riêng tư của dữ liệu riêng tư của người dùng, hệ thống MIUI sẽ hiển thị hệ thống và khởi động, khởi động, chuyển quyền và hồ sơ nhạy cảm của ứng dụng bên thứ ba dưới dạng bản ghi. Do hệ thống Android, có thể có lỗi trong bản ghi này. Nếu tìm thấy lỗi ghi hệ thống, vui lòng gửi nội dung lỗi cho chúng tôi thông qua "Dịch vụ và phản hồi" để giúp chúng tôi sửa lỗi chính xác của bản ghi.</string>
 	<string name="app_behavior_monitor_tips_if_trust">Tắt thông báo hành vi nhạy cảm nếu bạn tin tưởng úng dụng</string>
-	<string name="app_behavior_door">Hồ sơ hành vi ứng dụng</string>
+	<string name="app_behavior_door">Hành vi ứng dụng</string>
 	<string name="gb_add_game_loading_tips">Chỉ vài giây…</string>
 	<string name="app_behavior_clipboard_bg">%1s cố truy cập hoặc lưu các mục vào bộ nhớ tạm dưới nền</string>
 	<string name="antivirus_monitored_app_empty">"Không tìm thấy ứng dụng thanh toán tương thích"</string>

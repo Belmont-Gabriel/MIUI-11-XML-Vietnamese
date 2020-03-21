@@ -382,10 +382,10 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 		<item quantity="other">%1$d ứng dụng có thông báo hành vi nhạy cảm được bật</item>
 	</plurals>
 	<plurals name="app_behavior_desc_deny">
-		<item quantity="other">Đã từ chối %3$d lần trong %1$s-%2$s</item>
+		<item quantity="other">Đã từ chối %3$d lần trong %1$s - %2$s</item>
 	</plurals>
 	<plurals name="app_behavior_desc_allow">
-		<item quantity="other">Đã cho phép %3$d lần trong %1$s-%2$s</item>
+		<item quantity="other">Đã cho phép %3$d lần trong %1$s - %2$s</item>
 	</plurals>
 	<plurals name="app_behavior_privacy_manager_off">
 		<item quantity="other">%1$d ứng dụng không bật thông báo hành vi nhạy cảm</item>
