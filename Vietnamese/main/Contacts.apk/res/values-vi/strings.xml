@@ -1556,4 +1556,13 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="return_call_incoming">Cuộc gọi đến</string>
 	<string name="return_call">Chạm để quay lại cuộc gọi</string>
 	<string name="return_call_dialing">Đang gọi</string>
+	<string name="miuix_sb_tracking_progress_labe_up_none">Đừng làm vậy</string>
+	<string name="miuix_sb_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sb_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="multi_select">Chọn</string>
+	<string name="miuix_sb_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="miuix_sb_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sb_tracking_progress_labe_refreshed">Làm mới hoàn tất</string>
 </resources>

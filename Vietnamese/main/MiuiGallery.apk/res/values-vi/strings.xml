@@ -2178,4 +2178,6 @@ Chụp nhiều ảnh bạn của bạn hơn!"</string>
 	<string name="drag_view_tip_sub_title">Nhấn và giữ một album để sắp xếp</string>
 	<string name="vlog_clip_cut_fail_min_time">Clip phải dài ít nhất %1$s giây</string>
 	<string name="drag_view_tip_title">Sắp xếp album</string>
+	<string name="downloading_title_file">Đang tải các mục từ Xiaomi Cloud…</string>
+	<string name="vlog_bottom_view_exit">Thoát</string>
 </resources>

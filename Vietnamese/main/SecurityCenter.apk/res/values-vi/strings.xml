@@ -3538,4 +3538,48 @@ Video sẽ được lưu trong Tăng tốc Trò chơi &gt; Khoảnh khắc quan 
 	<string name="app_behavior_settings_category_privacy">Bảo vệ thông tin riêng tư</string>
 	<string name="notify_channel_name_behavior">Hành vi ứng dụng</string>
 	<string name="app_behavior_notification_camera_two">%1s và 1 ứng dụng khác đang sử dụng máy ảnh</string>
+	<string name="warningcenter_mijia_alert_close">Đóng</string>
+	<string name="warningcenter_alert_home">Vị trí</string>
+	<string name="warningcenter_mijia_alert_view_device">Xem thiết bị</string>
+	<string name="permission_action_virtual">Tin nhắn ủy quyền null</string>
+	<string name="warningcenter_mijia_info">Giám sát an ninh ngôi nhà của bạn</string>
+	<string name="warningcenter_mijia_notification_summary">Bạn có thể nhận được cảnh báo tức thì</string>
+	<string name="warningcenter_mijia_open_desc">"Bạn sẽ nhận được cảnh báo trên điện thoại này và các thiết bị chia sẻ khác bất cứ khi nào cảnh báo được phát ra từ thiết bị bạn đã thêm trong Mi Home"</string>
+	<string name="warningcenter_earthquake_info">Cảnh báo động đất</string>
+	<string name="warningcenter_mijia_devices_support">Thiết bị được hỗ trợ</string>
+	<string name="warningcenter_title">Trung tâm Cảnh báo MIUI</string>
+	<string name="permission_upgrade_privacy_title">"Để bảo vệ thông tin cá nhân của bạn
+Ghi âm, danh bạ và quyền hỗ trợ khác được đặt thành “Chỉ cho phép khi sử dụng ứng dụng”
+Khi trạng thái này được đặt, ứng dụng sẽ không thể sử dụng quyền trong nền"</string>
+	<string name="warningcenter_mijia_page_title">Cảnh báo</string>
+	<string name="permission_upgrade_title">Nâng cấp chức năng quản lý giấy phép</string>
+	<string name="warningcenter_mijia_alert_tips_4">Khóa của bạn đã bị hỏng</string>
+	<string name="warningcenter_mijia_alert_tips_3">Phát hiện ngập nước</string>
+	<string name="warningcenter_mijia_alert_tips_2">Phát hiện khói</string>
+	<string name="warningcenter_alert_room">Phòng</string>
+	<string name="warningcenter_mijia_alert_tips_1">Phát hiện nồng độ khí gas cao</string>
+	<string name="app_behavior_desc_virtual_once">Tin nhắn trống được trả trên %1$s</string>
+	<string name="warningcenter_mijia_alert_settings">Thay đổi cài đặt trong Bảo mật &gt; Cảnh báo từ thiết bị nhà thông minh</string>
+	<string name="warningcenter_mijia_open_title">Nhận cảnh báo từ thiết bị thông minh</string>
+	<string name="warningcenter_mijia_devices_4">Khóa thông minh</string>
+	<string name="warningcenter_mijia_devices_3">Cảm biến khí ga</string>
+	<string name="warningcenter_mijia_title">Cảnh báo từ thiết bị nhà thông minh</string>
+	<string name="warningcenter_mijia_devices_2">Cảm biến khói</string>
+	<string name="warningcenter_mijia_devices_1">Cảm biến nước</string>
+	<string name="warningcenter_action_check">Xem</string>
+	<string name="permission_action_tag">Bảo vệ quyền riêng tư</string>
+	<string name="warningcenter_alert_time">Thời gian</string>
+	<string name="permission_action_desc">Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo vệ quyền riêng tư</string>
+	<string name="warningcenter_alert_source">Trung tâm Cảnh báo MIUI | Nguồn dữ liệu: %s</string>
+	<string name="warningcenter_mijia_devices_support_tips">"Ghi chú: Bạn sẽ không thể nhận cảnh báo nếu bạn đăng xuất tài khoản của bạn khỏi Mi Home hoặc gỡ ứng dụng."</string>
+	<string name="permission_upgrade_more">Xem thêm các tính năng bảo vệ quyền riêng tư</string>
+	<string name="permission_upgrade_virtual">"Nếu bạn không muốn cung cấp thông tin thực như danh bạ, nhật ký cuộc gọi, v.v.
+Có thể đặt quyền tương ứng thành “Ủy quyền thông tin trống”
+Cấp quyền cho ứng dụng nhưng trả lại thông tin trống để bảo vệ quyền riêng tư"</string>
+	<string name="permission_upgrade_runtime">"Khi được hỏi
+Định vị và máy ảnh được đặt thành “Cho phép lần này”
+Sau khi được đặt, nếu bạn đóng ứng dụng, các quyền sẽ trở lại thành “Hỏi”"</string>
+	<string name="warningcenter_alert_warning_time">Thời gian nhận: %s</string>
+	<string name="warningcenter_mijia_notification_title">Cảnh báo từ thiết bị nhà thông minh được bật</string>
+	<string name="app_behavior_perm_change_tip_virtual">\"%1s\" thay đổi thành ủy quyền trống</string>
 </resources>

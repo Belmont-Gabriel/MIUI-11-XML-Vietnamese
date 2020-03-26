@@ -399,4 +399,7 @@ Nếu bạn bật dữ liệu di động lại, nhà mạng sẽ tính phí bổ
 	<plurals name="app_behavior_notification_audio_more">
 		<item quantity="other">%1$s và %2$d ứng dụng khác đang ghi âm</item>
 	</plurals>
+	<plurals name="app_behavior_desc_virtual">
+		<item quantity="other">%3$d tin nhắn trống đã được trả trong khoảng %1$s-%2$s</item>
+	</plurals>
 </resources>

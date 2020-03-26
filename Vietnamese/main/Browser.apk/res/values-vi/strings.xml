@@ -2163,4 +2163,10 @@ Chạm vào "%2$s" để bắt đầu tải xuống nội dung này vào lần t
 	<string name="aqi_severe_pollution">Ô nhiễm nặng</string>
 	<string name="aqi_moderately_polluted">Ô nhiễm vừa phải</string>
 	<string name="aqi_light_pollution">Ô nhiễm nhẹ</string>
+	<string name="ad_open_dialog_later">Để sau</string>
+	<string name="ad_open_dialog_subtitle">Đã cài đặt xong. Mở ngay?</string>
+	<string name="dev_pref_title_jump">Chuyển trang</string>
+	<string name="ad_open_dialog_immediately">Mở ngay</string>
+	<string name="pref_search_result_rs_title">Tìm kiếm trang tìm kiếm liên quan</string>
+	<string name="open_xiangkan_view_all">Mở ứng dụng bạn muốn đọc để xem toàn bộ</string>
 </resources>

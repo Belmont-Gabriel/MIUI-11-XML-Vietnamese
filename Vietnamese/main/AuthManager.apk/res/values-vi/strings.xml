@@ -353,4 +353,10 @@ Bạn cần phải cài đặt phiên bản MIUI của nhà phát triển để 
 	<string name="permdesc_location_background">Truy cập vị trí dưới nền</string>
 	<string name="grant_dialog_button_allow_onetime">Cho phép lần này</string>
 	<string name="HIPS_Perm_clipboard_Desc">Truy cập và sửa đổi nội dung clipboard</string>
+	<string name="virtual_reject_notice_title_sms">%1$s đang cố truy cập tin nhắn</string>
+	<string name="virtual_reject_notice_title_calllog">%1$s đang cố truy cập lịch sử cuộc gọi</string>
+	<string name="virtual_reject_notice_title_contacts">%1$s đang cố truy cập liên hệ</string>
+	<string name="virtual_reject_notice_content">Một phản hồi trống đã được gửi tới ứng dụng để bảo vệ thông tin cá nhân của bạn</string>
+	<string name="virtual_reject_notice_title_phonestate">%1$s đang cố truy cập thông tin thiết bị</string>
+	<string name="virtual_reject_notice_title_calendar">%1$s đang cố truy cập lịch</string>
 </resources>

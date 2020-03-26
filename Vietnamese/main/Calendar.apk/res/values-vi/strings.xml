@@ -1068,4 +1068,18 @@ Bạn cũng có thể thêm nhắc nhở để không bỏ lỡ những điều 
 	<string name="class_schedule_on_card_title">Trước %1$d tuần %2$s</string>
 	<string name="class_schedule_card_title">Lịch trình</string>
 	<string name="class_schedule_off_primary">Bắt đầu với lịch trình</string>
+	<string name="miuix_sb_tracking_progress_labe_up_none">Đừng làm điều đó</string>
+	<string name="miuix_sb_tracking_progress_labe_up_refresh">Đang làm mới</string>
+	<string name="miuix_sb_tracking_progress_labe_up_refresh_fail">Thất bại</string>
+	<string name="miuix_sb_tracking_progress_labe_refreshing">Đang làm mới</string>
+	<string name="productivity_move_event_failed">"'Không thể chuyển sự kiện này tới' MMMM dd, yyyy"</string>
+	<string name="miuix_sb_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
+	<string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
+	<string name="miuix_sb_tracking_progress_labe_release_to_refresh">Thả ra để làm mới</string>
+	<string name="productivity_no_event">Không có sự kiện được lên lịch hôm nay</string>
+	<string name="productivity_move_event_hint">Nhấn và giữ vào một sự kiện để di chuyển nó sang ngày khác</string>
+	<string name="productivity_move_event_success">"'Đã chuyển sự kiện này sang' MMMM dd, yyyy"</string>
+	<string name="productivity_add_event">Tạo sự kiện</string>
+	<string name="miuix_sb_tracking_progress_labe_refreshed">Hoàn tất làm mới</string>
+	<string name="productivity_cannot_move_event">"Không thể di chuyển sự kiện này"</string>
 </resources>
