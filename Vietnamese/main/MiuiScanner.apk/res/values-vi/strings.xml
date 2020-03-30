@@ -454,4 +454,18 @@ bạn muốn quét gì với Mi AI"</string>
 	<string name="classes_titlt">Lịch học</string>
 	<string name="classes_edit_dialog_title">Tên lớp</string>
 	<string name="classes_company">Nhập</string>
+	<string name="history">Lịch sử</string>
+	<string name="delete">Xóa</string>
+	<string name="saveDone">Lưu thành công</string>
+	<string name="scanHistory_isOpen">Bắt đầu theo dõi lịch sử những mục đã quét?</string>
+	<string name="scanHistory_close">Tắt</string>
+	<string name="create">Tạo mã QR</string>
+	<string name="choosed_title">Đã chọn</string>
+	<string name="createQRCode_hint">Nhập văn bản</string>
+	<string name="importFailed">"Không thể nhập"</string>
+	<string name="createFail">"Không thể tạo mã QR. Tin nhắn của bạn quá dài."</string>
+	<string name="scanHistory">Lịch sử quét</string>
+	<string name="create_again">Làm mới</string>
+	<string name="scanHistory_open">Bật</string>
+	<string name="createQRCode_save">Lưu</string>
 </resources>

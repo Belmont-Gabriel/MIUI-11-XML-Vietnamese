@@ -9975,4 +9975,7 @@ Sao chép tệp tin sao lưu vào thiết bị của bạn (MIUI-backup-AllBacku
 	<string name="aggregate_title">Luật cho thông báo đã nhóm</string>
 	<string name="ring_to_you_info">Đặt nhạc chuông tùy chỉnh người khác sẽ nghe thấy trước khi bạn nhấc máy</string>
 	<string name="ring_to_you">Nhạc chuông tùy chỉnh</string>
+	<string name="screen_dark_mode_smart_dark_3rd_apps_list">Ứng dụng bên thứ ba</string>
+	<string name="screen_dark_mode_smart_dark_apps_setting_summary">Một vài ứng dụng có thể hiển thị không chính xác trong Chế độ tối. Bạn có thể hạn chế sử dụng Chế độ tối cho các ứng dụng riêng lẻ ở đây.</string>
+	<string name="screen_dark_mode_smart_dark_apps_setting_title">Ứng dụng riêng lẻ</string>
 </resources>

@@ -1470,4 +1470,11 @@ và tăng cường tài liệu"</string>
 	<string name="clone_guide_title2">Ảnh hướng dẫn</string>
 	<string name="clone_guide_tip1">Hãy giữ cho điện thoại cố định và đủ sáng</string>
 	<string name="clone_guide_video_tip4">Hỗ trợ tối đa 2 ảnh đại diện</string>
+	<string name="clone_guide_tip5">Trận chiến</string>
+	<string name="clone_no_person_found">Không xác định được người</string>
+	<string name="clone_do_not_move_phone">Đừng di chuyển điện thoại</string>
+	<string name="clone_mode_start_hint">Vui lòng chạm vào màn hình để bắt đầu chụp</string>
+	<string name="clone_guide_tip7">Tương tác mặt đối mặt</string>
+	<string name="clone_guide_tip6">Bên cạnh nhau</string>
+	<string name="clone_guide_tip8">Nhiều ý tưởng đang chờ bạn khám phá</string>
 </resources>
