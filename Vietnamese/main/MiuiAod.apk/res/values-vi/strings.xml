@@ -140,4 +140,13 @@ d/M"</string>
 	<string name="mtrl_picker_invalid_format_example">Ví dụ: %1$s</string>
 	<string name="mtrl_picker_date_header_unselected">Ngày đã chọn</string>
 	<string name="mtrl_picker_save">Lưu</string>
+	<string name="more_online_theme">Mục trực tuyến</string>
+	<string name="show_lunar_desc">"Đồng hồ kép không hỗ trợ Âm lịch"</string>
+	<string name="btn_know">Đã hiểu</string>
+	<string name="tip_to_open_aod_mode">Màn hình luôn bật đang tắt. Bật ngay?</string>
+	<string name="show_lunar">Hiển thị Âm lịch</string>
+	<string name="open_aod_mode">Bật</string>
+	<string name="scheduled_mode_msg">Chu kỳ kích hoạt: %s</string>
+	<string name="modify_scheduled_time">Thay đổi thời gian</string>
+	<string name="scheduled_mode_dialog_msg">Các mục sẽ được hiển thị trên Màn hình luôn bật của bạn trong chu kỳ: %s.</string>
 </resources>

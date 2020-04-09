@@ -380,4 +380,5 @@ Chạm vào màn hình để thêm thủ công hoặc định vị lại thành 
 	<string name="abc_capital_on">BẬT</string>
 	<string name="abc_search_hint">Tìm kiếm…</string>
 	<string name="abc_searchview_description_clear">Xóa truy vấn</string>
+	<string name="daily_ad_index_item_experience_now">Hãy thử ngay</string>
 </resources>

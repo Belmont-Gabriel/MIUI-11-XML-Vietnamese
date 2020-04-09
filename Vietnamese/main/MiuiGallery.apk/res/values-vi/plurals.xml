@@ -327,4 +327,7 @@
 	<plurals name="picker_origin_need_to_download">
 		<item quantity="other">"%1$d tệp (%2$dMB) chưa được tải xuống. Tải xuống bằng dữ liệu di động?"</item>
 	</plurals>
+	<plurals name="picker_file_will_download">
+		<item quantity="other">Đang tải xuống %d tệp còn lại</item>
+	</plurals>
 </resources>

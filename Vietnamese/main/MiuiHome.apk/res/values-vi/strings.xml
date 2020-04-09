@@ -530,4 +530,20 @@
 	<string name="switch_personal_assistant_google">Khám phá Google</string>
 	<string name="home_switch_personal_assistant">Màn hình -1</string>
 	<string name="switch_personal_assistant_none">Không</string>
+	<string name="diagnosis_level_suggestion">Đề xuất</string>
+	<string name="diagnosis_detail_btn_title">Chi tiết&gt;&gt;</string>
+	<string name="diagnosis_level_warning">Cảnh báo</string>
+	<string name="diagnosis_level_tips">Nhắc nhở</string>
+	<string name="check_result_title">Kết quả kiểm tra-%s</string>
+	<string name="diagnosis_detail_title">Chi tiết kết quả kiểm tra</string>
+	<string name="permlab_uninstall_widget">Gỡ cài đặt tiện ích</string>
+	<string name="permdesc_uninstall_widget">Cho phép ứng dụng xóa tiện ích mà không cần ý kiến người dùng.</string>
+	<string name="diagnosis_level_error">Lỗi</string>
+	<string name="resource_canary_leak_tip">Đã bị rò rỉ!</string>
+	<string name="checked_database_list_title">Kiểm tra danh sách cơ sở dữ liệu</string>
+	<string name="diagnosis_ext_info_title">"Thông tin ngăn xếp liên quan:
+%s"</string>
+	<string name="resource_canary_wait_for_heapdump_message">Đang dump heap snapshot...</string>
+	<string name="search_menu_title">Tìm kiếm</string>
+	<string name="recents_exit_multi_window_mode">Thoát</string>
 </resources>

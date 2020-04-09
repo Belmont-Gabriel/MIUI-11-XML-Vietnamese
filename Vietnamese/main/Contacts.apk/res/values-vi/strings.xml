@@ -1565,4 +1565,5 @@ Chọn một trong các tùy chọn sau:"</string>
 	<string name="miuix_sb_tracking_progress_labe_up_nodata">Không có dữ liệu</string>
 	<string name="miuix_sb_tracking_progress_labe_pull_to_refresh">Kéo xuống để làm mới</string>
 	<string name="miuix_sb_tracking_progress_labe_refreshed">Làm mới hoàn tất</string>
+	<string name="ai_calllog_call_record_menu">Ghi âm cuộc gọi AI</string>
 </resources>
