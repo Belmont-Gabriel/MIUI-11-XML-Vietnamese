@@ -847,4 +847,7 @@ Gửi mã này cho người giám sát."</string>
 	<string name="photoPickerNotFoundText">Không có ảnh khả dụng.</string>
 	<string name="no_phone">Không có số điện thoại liên kết</string>
 	<string name="get_back_pwd">Đang đặt lại mật khẩu</string>
+	<string name="permission_storage_read_tip">Truy cập ảnh được lưu trên thiết bị</string>
+	<string name="subscribe_dlg_desc">Đăng ký để xem trình chiếu</string>
+	<string name="subscribe_dlg_btn_txt">Đăng ký</string>
 </resources>

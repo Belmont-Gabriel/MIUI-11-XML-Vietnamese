@@ -546,4 +546,24 @@
 	<string name="resource_canary_wait_for_heapdump_message">Đang dump heap snapshot...</string>
 	<string name="search_menu_title">Tìm kiếm</string>
 	<string name="recents_exit_multi_window_mode">Thoát</string>
+	<string name="accessibility_recent_task_locked_state">Đã khóa</string>
+	<string name="accessibility_recent_task_unlocked_state">Đã mở khóa</string>
+	<string name="accessibility_recent_task_memory_info">Tổng RAM: %2$s |RAM khả dụng: %1$s. Chạm đúp để xóa.</string>
+	<string name="recents_incompatible_app_message">Ứng dụng này không hỗ trợ Chia màn hình</string>
+	<string name="accessibility_recent_task_exit">Đã đóng Gần đây</string>
+	<string name="slide_to_open_newhome">Vuốt lên để mở Trung tâm Nội dung</string>
+	<string name="accessibility_recent_task_enter">Đã mở</string>
+	<string name="recents_abc_text">Thả ra</string>
+	<string name="small_window_empty">Chọn ứng dụng để thêm từ bên dưới</string>
+	<string name="small_window_edit_content">Thêm tối đa 10 ứng dụng cửa sổ nhỏ thường dùng</string>
+	<string name="load_end">Không còn dữ liệu</string>
+	<string name="recents_smallwindow_text">Thả ra</string>
+	<string name="small_window_button_complete">Hoàn tất</string>
+	<string name="load_failed">Tải không thành công. Chạm để thử lại.</string>
+	<string name="loading">Đang tải...</string>
+	<string name="small_window_title_text">Nhấn vào đây để mở các ứng dụng cửa sổ nhỏ</string>
+	<string name="small_window_select_title">Chọn ứng dụng để thêm từ bên dưới</string>
+	<string name="recents_tv_small_window_text">Ứng dụng cửa sổ nhỏ</string>
+	<string name="small_window_toast">Thêm tối đa 10 ứng dụng</string>
+	<string name="small_window_edit_title">Chỉnh sửa các ứng dụng cửa sổ nhỏ thường dùng</string>
 </resources>

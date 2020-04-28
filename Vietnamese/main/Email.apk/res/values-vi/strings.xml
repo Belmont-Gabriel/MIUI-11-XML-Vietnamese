@@ -1278,4 +1278,8 @@ Chờ đến khi đồng bộ hoàn toàn hoặc xem tin nhắn trên máy tính
 	<string name="certificate_alias_prompt_hit">Vui lòng nhập alias của chứng chỉ</string>
 	<string name="database_exception">Lỗi dữ liệu, vui lòng đăng nhập lại</string>
 	<string name="db_error">Có lỗi xảy ra trong dữ liệu email. Vui lòng đăng nhập lại. Dữ liệu email có thể được khôi phục sau khi đăng nhập.</string>
+	<string name="modify_contact_address">Chỉnh sửa địa chỉ liên hệ</string>
+	<string name="expand_slide">Mở rộng thanh trượt</string>
+	<string name="show_contact_address">Hiển thị địa chỉ liên hệ email</string>
+	<string name="go_to_mail_content">Xem thư</string>
 </resources>
